@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-09-03T14:02:51.911526+00:00",
+  "last_updated": "2026-09-03T15:02:42.558227+00:00",
   "articles": [
+    {
+      "id": "56dfab0db699bb51c6a4e539738e5f90f02db9c81c0baf468a45e90410deb561",
+      "title": "Delivering aid to Nepal flood survivors 'very, very difficult': UN",
+      "url": "https://www.channelnewsasia.com/asia/nepal-floods-delivering-aid-survivors-difficult-un-6360901",
+      "description": "",
+      "published_at": "2026-09-03T14:56:40+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "7ff21923802c76394e29c630a166c1b85b9d39e900cc5063aae21b34a4d08f92",
+      "title": "All Blacks hope to get out of blocks quicker in third South Africa test",
+      "url": "https://www.channelnewsasia.com/sport/all-blacks-hope-get-out-blocks-quicker-in-third-south-africa-test-6360936",
+      "description": "",
+      "published_at": "2026-09-03T14:55:27+00:00",
+      "sources": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "86f6101098ab79a573637c4f7317ce880c342ae5c0ed92fd9f5d9953ab9c582f",
+      "title": "US trade gap in July hits biggest in over a year on AI buildout",
+      "url": "https://www.channelnewsasia.com/world/us-trade-gap-in-july-hits-biggest-in-over-year-ai-buildout-6360896",
+      "description": "",
+      "published_at": "2026-09-03T14:46:39+00:00",
+      "sources": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "1fe7eb901b9120d3edab9566c4c26f524f4acaaf6ebf400587ac238c4d1eecb1",
+      "title": "Hamilton starts his Monza weekend with style and statement",
+      "url": "https://www.channelnewsasia.com/sport/hamilton-starts-his-monza-weekend-style-and-statement-6360911",
+      "description": "",
+      "published_at": "2026-09-03T14:43:39+00:00",
+      "sources": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "1ad641257ac94ee58d03aa190768b32cdeb4ae4cf6650e8810289cce0370a6d3",
+      "title": "Vietnam sentences 11 to death, jails 200 in drug trafficking case",
+      "url": "https://www.channelnewsasia.com/asia/vietnam-death-penalty-drug-trafficking-case-6360821",
+      "description": "The drug-smuggling operation involved flight attendants and other Vietnamese living in France who transported concealed synthetic drugs to Vietnam.",
+      "published_at": "2026-09-03T14:18:00+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b95142b9e9e3cba068bba4c6a80b9211758d7a3fc9e1ac5c041aa64c6da94ffe",
+      "title": "Katie Taylor primed for one last title shot in Dublin swansong",
+      "url": "https://www.channelnewsasia.com/sport/katie-taylor-primed-one-last-title-shot-in-dublin-swansong-6360806",
+      "description": "",
+      "published_at": "2026-09-03T14:11:44+00:00",
+      "sources": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "b73315b6019b67ea1d6d5af8d1596f59d2b260ed05fb2332aab9323f3f9f0444",
+      "title": "Oil prices rise on escalation in Middle East",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-rise-escalation-in-middle-east-6360811",
+      "description": "",
+      "published_at": "2026-09-03T14:08:46+00:00",
+      "sources": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "c1d4d3b4eb9269a02f16f8f204b4ed71f5e6ecf24c94871fb822e4691cde5389",
+      "title": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
+      "url": "https://www.channelnewsasia.com/business/yen-jumps-boj-hike-bets-dollar-slips-waller-comments-6359106",
+      "description": "",
+      "published_at": "2026-09-03T13:59:14+00:00",
+      "sources": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "9a5ab7bc189e450a5148ef9f81896afe18e7969f2764487113cb32627832743d",
       "title": "World Cup stars generate $3.3 billion in transfer fees as spending hits record highs",
@@ -8,7 +97,8 @@
       "description": "",
       "published_at": "2026-09-03T13:58:49+00:00",
       "sources": [
-        "Latest News"
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -50,6 +140,17 @@
       "url": "https://www.channelnewsasia.com/business/nvidia-buy-hugging-face-13-billion-in-big-bet-open-ai-models-6360541",
       "description": "",
       "published_at": "2026-09-03T12:11:52+00:00",
+      "sources": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "850fdf37890229665f0b03ee9706926b838944a3b3398fc9d1105e6752abae80",
+      "title": "Nvidia to buy Hugging Face for US$13 billion in big bet on open AI models",
+      "url": "https://www.channelnewsasia.com/business/nvidia-buy-hugging-face-us13-billion-in-big-bet-open-ai-models-6360541",
+      "description": "",
+      "published_at": "2026-09-03T12:11:00+00:00",
       "sources": [
         "Business",
         "Latest News"
@@ -343,6 +444,16 @@
       "id": "0e075193dc06648bd96917602004e4153de7c088f757630b1050da6bad9175e2",
       "title": "Snowflake results boost software stocks as AI demand drives growth",
       "url": "https://www.channelnewsasia.com/business/snowflake-results-boost-software-stocks-ai-demand-drives-growth-6360111",
+      "description": "",
+      "published_at": "2026-09-03T09:08:45+00:00",
+      "sources": [
+        "Business"
+      ]
+    },
+    {
+      "id": "85f8e3f8eea53e65ae8e93e35630be6275072e427720a574e0f041ddf3aa9437",
+      "title": "Snowflake's AI-powered results send shares soaring, buoy software stocks",
+      "url": "https://www.channelnewsasia.com/business/snowflakes-ai-powered-results-send-shares-soaring-buoy-software-stocks-6360111",
       "description": "",
       "published_at": "2026-09-03T09:08:45+00:00",
       "sources": [
