@@ -2,8 +2,8 @@ name: Fetch CNA News
 
 on:
   schedule:
-    # Every 10 minutes
-    - cron: "*/10 * * * *"
+    # Every hour
+    - cron: "0 * * * *"
 
   # Allows you to manually run it from GitHub
   workflow_dispatch:
