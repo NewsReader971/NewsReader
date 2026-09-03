@@ -1,3 +1,20 @@
+ChatGPT said:
+
+Yes. Your HTML and CSS currently have several mismatched class/ID names, which is why the JS is looking for elements that don't exist.
+
+In particular:
+
+    JS expects #source-filter, but your HTML only has category buttons.
+    JS expects #summary-description, but your HTML doesn't have it.
+    JS expects #update-relative, while your HTML has #last-updated-relative.
+    JS expects #clear-filters, but your HTML has a Refresh button instead.
+    Your CSS variables are missing the -- prefix.
+    CSS uses .container, .filter, .brand-mark, etc., while the HTML uses different names.
+    Your HTML has no actual source <select> even though the JS expects one.
+
+Below are replacement index.html and style.css files designed to work with the JS you posted.
+index.html
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,14 +29,14 @@
 
     <meta
         name="description"
-        content="CNA News RSS Reader"
+        content="CNA News RSS Archive"
     >
 
     <title>CNA News</title>
 
     <link
         rel="stylesheet"
-        href="style.css"
+        href="./style.css"
     >
 
 </head>
@@ -27,9 +44,9 @@
 
 <body>
 
-    <!-- =========================
+    <!-- =========================================
          HEADER
-    ========================== -->
+    ========================================== -->
 
     <header class="site-header">
 
@@ -37,13 +54,15 @@
 
             <div class="brand">
 
-                <div class="brand-icon">
+                <div class="brand-mark">
                     CNA
                 </div>
 
-                <div>
+                <div class="brand-text">
 
-                    <h1>CNA News</h1>
+                    <h1>
+                        CNA News
+                    </h1>
 
                     <p>
                         Channel NewsAsia RSS Archive
@@ -56,7 +75,7 @@
 
             <div class="update-status">
 
-                <div class="status-label">
+                <div class="update-label">
                     DATA LAST UPDATED
                 </div>
 
@@ -68,9 +87,10 @@
                 </div>
 
                 <div
-                    class="status-relative"
-                    id="last-updated-relative"
+                    class="update-relative"
+                    id="update-relative"
                 >
+                    Loading...
                 </div>
 
             </div>
@@ -80,15 +100,16 @@
     </header>
 
 
-    <!-- =========================
-         NAVIGATION
-    ========================== -->
+    <!-- =========================================
+         CATEGORY NAVIGATION
+    ========================================== -->
 
     <nav class="category-nav">
 
         <div class="category-inner">
 
             <button
+                type="button"
                 class="category-button active"
                 data-source="all"
             >
@@ -96,6 +117,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="Latest News"
             >
@@ -103,6 +125,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="Asia"
             >
@@ -110,6 +133,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="Business"
             >
@@ -117,6 +141,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="Singapore"
             >
@@ -124,6 +149,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="World"
             >
@@ -131,6 +157,7 @@
             </button>
 
             <button
+                type="button"
                 class="category-button"
                 data-source="Today"
             >
@@ -142,16 +169,64 @@
     </nav>
 
 
-    <!-- =========================
+    <!-- =========================================
          MAIN
-    ========================== -->
+    ========================================== -->
 
     <main class="main-container">
 
 
-        <!-- Controls -->
+        <!-- =====================================
+             FILTER CONTROLS
+        ====================================== -->
 
         <section class="controls">
+
+
+            <!-- Source -->
+
+            <div class="control">
+
+                <label for="source-filter">
+                    Source
+                </label>
+
+                <select id="source-filter">
+
+                    <option value="all">
+                        All sources
+                    </option>
+
+                    <option value="Latest News">
+                        Latest News
+                    </option>
+
+                    <option value="Asia">
+                        Asia
+                    </option>
+
+                    <option value="Business">
+                        Business
+                    </option>
+
+                    <option value="Singapore">
+                        Singapore
+                    </option>
+
+                    <option value="World">
+                        World
+                    </option>
+
+                    <option value="Today">
+                        Today
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- Date -->
 
             <div class="control">
 
@@ -170,6 +245,8 @@
             </div>
 
 
+            <!-- Search -->
+
             <div class="control search-control">
 
                 <label for="search">
@@ -178,7 +255,10 @@
 
                 <div class="search-wrapper">
 
-                    <span class="search-icon">
+                    <span
+                        class="search-icon"
+                        aria-hidden="true"
+                    >
                         🔍
                     </span>
 
@@ -194,60 +274,68 @@
             </div>
 
 
+            <!-- Clear -->
+
             <button
-                class="refresh-button"
-                id="refresh-button"
                 type="button"
+                class="clear-button"
+                id="clear-filters"
             >
-
-                <span id="refresh-icon">
-                    ↻
-                </span>
-
-                Refresh
-
+                Clear
             </button>
 
         </section>
 
 
-        <!-- =========================
-             NEWS SUMMARY
-        ========================== -->
+        <!-- =====================================
+             SUMMARY
+        ====================================== -->
 
-        <section class="news-summary">
+        <section class="summary-bar">
 
-            <div>
+
+            <div class="summary-left">
 
                 <h2 id="page-title">
                     All News
                 </h2>
 
-                <p id="article-count">
-                    Loading articles...
+                <p class="article-summary">
+
+                    Showing
+
+                    <strong id="article-count">
+                        Loading...
+                    </strong>
+
+                    <span id="summary-description">
+                        articles
+                    </span>
+
                 </p>
 
             </div>
 
 
-            <div class="latest-info">
+            <div class="refresh-info">
 
-                <span>
-                    Latest article
+                <span
+                    class="status-dot"
+                    id="status-dot"
+                ></span>
+
+                <span id="refresh-status">
+                    Connecting...
                 </span>
-
-                <strong id="latest-article">
-                    Loading...
-                </strong>
 
             </div>
 
         </section>
 
 
-        <!-- =========================
+        <!-- =====================================
              NEWS
-        ========================== -->
+        ====================================== -->
 
         <section id="news-container">
 
@@ -264,32 +352,12 @@
         </section>
 
 
-        <!-- =========================
-             LOAD MORE
-        ========================== -->
-
-        <div
-            class="load-more-container"
-            id="load-more-container"
-            hidden
-        >
-
-            <button
-                id="load-more"
-                class="load-more-button"
-            >
-                Load more
-            </button>
-
-        </div>
-
-
     </main>
 
 
-    <!-- =========================
+    <!-- =========================================
          FOOTER
-    ========================== -->
+    ========================================== -->
 
     <footer class="site-footer">
 
@@ -305,7 +373,7 @@
     </footer>
 
 
-    <script src="app.js"></script>
+    <script src="./app.js"></script>
 
 </body>
 
