@@ -373,10 +373,6 @@ input {
     color: var(--text);
 
     font-size: 14px;
-
-    padding:
-        0 12px;
-
 }
 
 
@@ -407,13 +403,6 @@ input:focus {
 .search-wrapper {
 
     width: 100%;
-
-}
-
-
-.search-wrapper input {
-
-    padding-left: 12px;
 
 }
 
