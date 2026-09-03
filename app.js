@@ -1,5 +1,3 @@
-Sure — here it is as a normal code block:
-
 const DATA_URL = "data/news.json";
 
 const REFRESH_INTERVAL = 5 * 60 * 1000;
