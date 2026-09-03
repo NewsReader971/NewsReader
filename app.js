@@ -50,6 +50,279 @@ const categoryButtons =
 
 
 // ============================================
+// SEARCH SETTINGS
+// ============================================
+
+const FUZZY_THRESHOLD = 0.65;
+
+
+// ============================================
+// NORMALIZE SEARCH TEXT
+// ============================================
+
+function normalizeText(text) {
+
+    return String(text || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9\s]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
+}
+
+
+// ============================================
+// LEVENSHTEIN DISTANCE
+// ============================================
+
+function levenshteinDistance(a, b) {
+
+    if (a === b) {
+        return 0;
+    }
+
+
+    if (!a.length) {
+        return b.length;
+    }
+
+
+    if (!b.length) {
+        return a.length;
+    }
+
+
+    const matrix = [];
+
+
+    for (
+        let i = 0;
+        i <= b.length;
+        i++
+    ) {
+
+        matrix[i] = [i];
+
+    }
+
+
+    for (
+        let j = 0;
+        j <= a.length;
+        j++
+    ) {
+
+        matrix[0][j] = j;
+
+    }
+
+
+    for (
+        let i = 1;
+        i <= b.length;
+        i++
+    ) {
+
+        for (
+            let j = 1;
+            j <= a.length;
+            j++
+        ) {
+
+            if (
+                b.charAt(i - 1) ===
+                a.charAt(j - 1)
+            ) {
+
+                matrix[i][j] =
+                    matrix[i - 1][j - 1];
+
+            } else {
+
+                matrix[i][j] =
+                    Math.min(
+
+                        matrix[i - 1][j] + 1,
+
+                        matrix[i][j - 1] + 1,
+
+                        matrix[i - 1][j - 1] + 1
+
+                    );
+
+            }
+
+        }
+
+    }
+
+
+    return matrix[b.length][a.length];
+
+}
+
+
+// ============================================
+// FUZZY WORD MATCH
+// ============================================
+
+function fuzzyWordMatch(
+    searchWord,
+    textWord
+) {
+
+    if (!searchWord || !textWord) {
+        return false;
+    }
+
+
+    // Exact match
+
+    if (
+        textWord.includes(
+            searchWord
+        )
+    ) {
+
+        return true;
+
+    }
+
+
+    // Very short words need stricter matching
+
+    if (
+        searchWord.length <= 2
+    ) {
+
+        return false;
+
+    }
+
+
+    const distance =
+        levenshteinDistance(
+            searchWord,
+            textWord
+        );
+
+
+    const maxLength =
+        Math.max(
+            searchWord.length,
+            textWord.length
+        );
+
+
+    const similarity =
+        1 -
+        (
+            distance /
+            maxLength
+        );
+
+
+    return (
+        similarity >=
+        FUZZY_THRESHOLD
+    );
+
+}
+
+
+// ============================================
+// FUZZY SEARCH
+// ============================================
+
+function fuzzySearch(
+    searchQuery,
+    article
+) {
+
+    const query =
+        normalizeText(
+            searchQuery
+        );
+
+
+    if (!query) {
+        return true;
+    }
+
+
+    const sources =
+        Array.isArray(
+            article.sources
+        )
+            ? article.sources.join(" ")
+            : "";
+
+
+    const searchableText =
+        normalizeText(
+            [
+                article.title || "",
+                article.description || "",
+                sources
+            ].join(" ")
+        );
+
+
+    // Exact phrase match
+
+    if (
+        searchableText.includes(
+            query
+        )
+    ) {
+
+        return true;
+
+    }
+
+
+    const queryWords =
+        query.split(" ")
+            .filter(Boolean);
+
+
+    const textWords =
+        searchableText.split(" ")
+            .filter(Boolean);
+
+
+    if (
+        queryWords.length === 0
+    ) {
+
+        return true;
+
+    }
+
+
+    // Every search word must have
+    // a reasonably close match
+
+    return queryWords.every(
+        searchWord => {
+
+            return textWords.some(
+                textWord =>
+                    fuzzyWordMatch(
+                        searchWord,
+                        textWord
+                    )
+            );
+
+        }
+    );
+
+}
+
+
+// ============================================
 // LOAD NEWS.JSON
 // ============================================
 
@@ -58,8 +331,10 @@ async function loadNews() {
     try {
 
         if (refreshStatus) {
+
             refreshStatus.textContent =
                 "Updating...";
+
         }
 
 
@@ -69,7 +344,8 @@ async function loadNews() {
 
         const response =
             await fetch(
-                DATA_URL + cacheBuster,
+                DATA_URL +
+                cacheBuster,
                 {
                     cache: "no-store"
                 }
@@ -92,31 +368,34 @@ async function loadNews() {
         newsData = {
 
             last_updated:
-                data.last_updated || null,
+                data.last_updated ||
+                null,
 
             articles:
-                Array.isArray(data.articles)
+                Array.isArray(
+                    data.articles
+                )
                     ? data.articles
                     : []
 
         };
 
 
-        // ====================================
-        // SORT NEWEST FIRST
-        // ====================================
+        // Newest first
 
         newsData.articles.sort(
             (a, b) => {
 
                 const dateA =
                     new Date(
-                        a.published_at || 0
+                        a.published_at ||
+                        0
                     );
 
                 const dateB =
                     new Date(
-                        b.published_at || 0
+                        b.published_at ||
+                        0
                     );
 
                 return dateB - dateA;
@@ -124,10 +403,6 @@ async function loadNews() {
             }
         );
 
-
-        // ====================================
-        // UPDATE UI
-        // ====================================
 
         populateDateFilter();
 
@@ -276,7 +551,9 @@ function populateDateFilter() {
 
 
                 option.textContent =
-                    formatDateLabel(date);
+                    formatDateLabel(
+                        date
+                    );
 
 
                 dateFilter.appendChild(
@@ -286,8 +563,6 @@ function populateDateFilter() {
             }
         );
 
-
-    // Restore previous selection
 
     const optionExists =
         Array.from(
@@ -318,7 +593,8 @@ function getSingaporeDate(dateString) {
     return new Intl.DateTimeFormat(
         "en-CA",
         {
-            timeZone: "Asia/Singapore",
+            timeZone:
+                "Asia/Singapore",
 
             year: "numeric",
 
@@ -371,7 +647,9 @@ function updateLastUpdated() {
         !lastUpdated ||
         !updateRelative
     ) {
+
         return;
+
     }
 
 
@@ -394,7 +672,11 @@ function updateLastUpdated() {
         );
 
 
-    if (isNaN(date.getTime())) {
+    if (
+        isNaN(
+            date.getTime()
+        )
+    ) {
 
         lastUpdated.textContent =
             "Unknown";
@@ -442,13 +724,6 @@ function relativeTime(date) {
                 date.getTime()
             ) / 1000
         );
-
-
-    if (seconds < 0) {
-
-        return "just now";
-
-    }
 
 
     if (seconds < 60) {
@@ -531,7 +806,9 @@ function renderArticles() {
         !dateFilter ||
         !searchInput
     ) {
+
         return;
+
     }
 
 
@@ -544,9 +821,7 @@ function renderArticles() {
 
 
     const search =
-        searchInput.value
-            .trim()
-            .toLowerCase();
+        searchInput.value.trim();
 
 
     const filtered =
@@ -554,9 +829,7 @@ function renderArticles() {
             article => {
 
 
-                // ==============================
-                // SOURCE FILTER
-                // ==============================
+                // Source
 
                 if (
                     selectedSource !==
@@ -584,9 +857,7 @@ function renderArticles() {
                 }
 
 
-                // ==============================
-                // DATE FILTER
-                // ==============================
+                // Date
 
                 if (
                     selectedDate !==
@@ -620,38 +891,14 @@ function renderArticles() {
                 }
 
 
-                // ==============================
-                // SEARCH
-                // ==============================
+                // Fuzzy search
 
                 if (search) {
 
-                    const sources =
-                        (
-                            Array.isArray(
-                                article.sources
-                            )
-                                ? article.sources
-                                : []
-                        ).join(" ");
-
-
-                    const searchable = [
-
-                        article.title || "",
-
-                        article.description || "",
-
-                        sources
-
-                    ]
-                        .join(" ")
-                        .toLowerCase();
-
-
                     if (
-                        !searchable.includes(
-                            search
+                        !fuzzySearch(
+                            search,
+                            article
                         )
                     ) {
 
@@ -669,7 +916,7 @@ function renderArticles() {
 
 
     // ========================================
-    // UPDATE ARTICLE COUNT
+    // COUNT
     // ========================================
 
     if (articleCount) {
@@ -691,7 +938,7 @@ function renderArticles() {
 
 
     // ========================================
-    // UPDATE PAGE TITLE
+    // PAGE TITLE
     // ========================================
 
     updatePageTitle(
@@ -703,7 +950,9 @@ function renderArticles() {
     // NO RESULTS
     // ========================================
 
-    if (filtered.length === 0) {
+    if (
+        filtered.length === 0
+    ) {
 
         newsContainer.innerHTML = `
 
@@ -728,7 +977,7 @@ function renderArticles() {
 
 
     // ========================================
-    // RENDER ARTICLES
+    // RENDER
     // ========================================
 
     newsContainer.innerHTML =
@@ -761,18 +1010,10 @@ function updatePageTitle(source) {
     }
 
 
-    if (source === "all") {
-
-        pageTitle.textContent =
-            "All News";
-
-        return;
-
-    }
-
-
     pageTitle.textContent =
-        source;
+        source === "all"
+            ? "All News"
+            : source;
 
 }
 
@@ -831,10 +1072,6 @@ function createArticleCard(article) {
     }
 
 
-    // ========================================
-    // SOURCE BADGES
-    // ========================================
-
     const sourceBadges =
         sources
             .map(
@@ -849,10 +1086,6 @@ function createArticleCard(article) {
             .join("");
 
 
-    // ========================================
-    // TITLE
-    // ========================================
-
     const title =
         escapeHtml(
             article.title ||
@@ -860,20 +1093,12 @@ function createArticleCard(article) {
         );
 
 
-    // ========================================
-    // DESCRIPTION
-    // ========================================
-
     const description =
         escapeHtml(
             article.description ||
             ""
         );
 
-
-    // ========================================
-    // URL
-    // ========================================
 
     const url =
         escapeAttribute(
@@ -885,7 +1110,6 @@ function createArticleCard(article) {
     return `
 
         <article class="news-card">
-
 
             <div class="news-meta">
 
@@ -922,7 +1146,6 @@ function createArticleCard(article) {
                     `
                     : ""
             }
-
 
         </article>
 
@@ -978,7 +1201,7 @@ function escapeHtml(value) {
 
 
 // ============================================
-// ESCAPE URL ATTRIBUTE
+// ESCAPE URL
 // ============================================
 
 function escapeAttribute(value) {
@@ -989,24 +1212,17 @@ function escapeAttribute(value) {
 
 
 // ============================================
-// CONNECTION STATUS
+// STATUS
 // ============================================
 
 function setStatus(success) {
 
     if (refreshStatus) {
 
-        if (success) {
-
-            refreshStatus.textContent =
-                "Live";
-
-        } else {
-
-            refreshStatus.textContent =
-                "Connection error";
-
-        }
+        refreshStatus.textContent =
+            success
+                ? "Live"
+                : "Connection error";
 
     }
 
@@ -1042,12 +1258,9 @@ if (sourceFilter) {
         "change",
         () => {
 
-
             const selectedSource =
                 sourceFilter.value;
 
-
-            // Update top navigation
 
             categoryButtons.forEach(
                 button => {
@@ -1078,11 +1291,7 @@ if (dateFilter) {
 
     dateFilter.addEventListener(
         "change",
-        () => {
-
-            renderArticles();
-
-        }
+        renderArticles
     );
 
 }
@@ -1096,11 +1305,7 @@ if (searchInput) {
 
     searchInput.addEventListener(
         "input",
-        () => {
-
-            renderArticles();
-
-        }
+        renderArticles
     );
 
 }
@@ -1116,9 +1321,6 @@ if (clearFilters) {
         "click",
         () => {
 
-
-            // Reset source
-
             if (sourceFilter) {
 
                 sourceFilter.value =
@@ -1126,8 +1328,6 @@ if (clearFilters) {
 
             }
 
-
-            // Reset date
 
             if (dateFilter) {
 
@@ -1137,8 +1337,6 @@ if (clearFilters) {
             }
 
 
-            // Reset search
-
             if (searchInput) {
 
                 searchInput.value =
@@ -1146,8 +1344,6 @@ if (clearFilters) {
 
             }
 
-
-            // Reset category tabs
 
             categoryButtons.forEach(
                 button => {
@@ -1184,7 +1380,7 @@ if (clearFilters) {
 
 
 // ============================================
-// TOP CATEGORY TABS
+// CATEGORY TABS
 // ============================================
 
 categoryButtons.forEach(
@@ -1194,13 +1390,10 @@ categoryButtons.forEach(
             "click",
             () => {
 
-
                 const selectedSource =
                     button.dataset.source ||
                     "all";
 
-
-                // Update active tab
 
                 categoryButtons.forEach(
                     item => {
@@ -1218,8 +1411,6 @@ categoryButtons.forEach(
                 );
 
 
-                // Update dropdown
-
                 if (sourceFilter) {
 
                     sourceFilter.value =
@@ -1227,8 +1418,6 @@ categoryButtons.forEach(
 
                 }
 
-
-                // Render filtered news
 
                 renderArticles();
 
@@ -1244,11 +1433,7 @@ categoryButtons.forEach(
 // ============================================
 
 setInterval(
-    () => {
-
-        updateLastUpdated();
-
-    },
+    updateLastUpdated,
     60 * 1000
 );
 
@@ -1258,11 +1443,7 @@ setInterval(
 // ============================================
 
 setInterval(
-    () => {
-
-        loadNews();
-
-    },
+    loadNews,
     REFRESH_INTERVAL
 );
 
