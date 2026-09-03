@@ -37,8 +37,11 @@ FEEDS = [
         "name": "Today",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=679471",
     },
+    {
+        "name": "Sports",
+        "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10296",
+    },
 ]
-
 
 # JSON database
 DATA_FILE = Path("data/news.json")
