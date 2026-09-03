@@ -1,4 +1,4 @@
-const DATA_URL = "data/news.json";
+const DATA_URL = "./data/news.json";
 
 const REFRESH_INTERVAL = 5 * 60 * 1000;
 
@@ -8,7 +8,9 @@ let newsData = {
 };
 
 
-// DOM elements
+// ============================================
+// DOM ELEMENTS
+// ============================================
 
 const newsContainer =
     document.getElementById("news-container");
@@ -40,42 +42,92 @@ const clearFilters =
 const refreshStatus =
     document.getElementById("refresh-status");
 
+const statusDot =
+    document.getElementById("status-dot");
 
-// Load news.json
+const categoryButtons =
+    document.querySelectorAll(".category-button");
+
+
+// ============================================
+// LOAD NEWS.JSON
+// ============================================
 
 async function loadNews() {
 
     try {
 
-        const cacheBuster = `?t=${Date.now()}`;
-
-        const response = await fetch(
-            DATA_URL + cacheBuster
-        );
-
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
+        if (refreshStatus) {
+            refreshStatus.textContent =
+                "Updating...";
         }
 
-        const data = await response.json();
+
+        const cacheBuster =
+            `?t=${Date.now()}`;
+
+
+        const response =
+            await fetch(
+                DATA_URL + cacheBuster,
+                {
+                    cache: "no-store"
+                }
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                `HTTP ${response.status}`
+            );
+
+        }
+
+
+        const data =
+            await response.json();
+
 
         newsData = {
-            last_updated: data.last_updated || null,
 
-            articles: Array.isArray(data.articles)
-                ? data.articles
-                : []
+            last_updated:
+                data.last_updated || null,
+
+            articles:
+                Array.isArray(data.articles)
+                    ? data.articles
+                    : []
+
         };
 
 
-        // Sort newest articles first
+        // ====================================
+        // SORT NEWEST FIRST
+        // ====================================
 
         newsData.articles.sort(
-            (a, b) =>
-                new Date(b.published_at) -
-                new Date(a.published_at)
+            (a, b) => {
+
+                const dateA =
+                    new Date(
+                        a.published_at || 0
+                    );
+
+                const dateB =
+                    new Date(
+                        b.published_at || 0
+                    );
+
+                return dateB - dateA;
+
+            }
         );
 
+
+        // ====================================
+        // UPDATE UI
+        // ====================================
 
         populateDateFilter();
 
@@ -85,6 +137,7 @@ async function loadNews() {
 
         setStatus(true);
 
+
     } catch (error) {
 
         console.error(
@@ -92,12 +145,27 @@ async function loadNews() {
             error
         );
 
+
         setStatus(false);
 
-        if (newsData.articles.length === 0) {
+
+        if (refreshStatus) {
+
+            refreshStatus.textContent =
+                "Unable to update";
+
+        }
+
+
+        if (
+            newsData.articles.length === 0 &&
+            newsContainer
+        ) {
 
             newsContainer.innerHTML = `
+
                 <div class="error-box">
+
                     <strong>
                         Unable to load the news
                     </strong>
@@ -106,66 +174,117 @@ async function loadNews() {
                         The news database could not
                         be loaded. Please try again later.
                     </span>
+
                 </div>
+
             `;
 
-            articleCount.textContent =
-                "Unable to load";
 
-            summaryDescription.textContent = "";
+            if (articleCount) {
+
+                articleCount.textContent =
+                    "Unable to load";
+
+            }
+
+
+            if (summaryDescription) {
+
+                summaryDescription.textContent =
+                    "";
+
+            }
+
         }
+
     }
+
 }
 
 
-// Populate date filter
+// ============================================
+// POPULATE DATE FILTER
+// ============================================
 
 function populateDateFilter() {
+
+    if (!dateFilter) {
+        return;
+    }
+
 
     const currentValue =
         dateFilter.value;
 
-    const dates = new Set();
+
+    const dates =
+        new Set();
 
 
-    newsData.articles.forEach(article => {
+    newsData.articles.forEach(
+        article => {
 
-        if (!article.published_at) {
-            return;
+            if (!article.published_at) {
+                return;
+            }
+
+
+            try {
+
+                dates.add(
+                    getSingaporeDate(
+                        article.published_at
+                    )
+                );
+
+            } catch (error) {
+
+                console.warn(
+                    "Invalid article date:",
+                    article.published_at
+                );
+
+            }
+
         }
-
-        dates.add(
-            getSingaporeDate(
-                article.published_at
-            )
-        );
-
-    });
+    );
 
 
     dateFilter.innerHTML = `
+
         <option value="all">
-            All Dates
+            All dates
         </option>
+
     `;
 
 
     Array.from(dates)
         .sort()
         .reverse()
-        .forEach(date => {
+        .forEach(
+            date => {
 
-            const option =
-                document.createElement("option");
+                const option =
+                    document.createElement(
+                        "option"
+                    );
 
-            option.value = date;
 
-            option.textContent =
-                formatDateLabel(date);
+                option.value =
+                    date;
 
-            dateFilter.appendChild(option);
 
-        });
+                option.textContent =
+                    formatDateLabel(date);
+
+
+                dateFilter.appendChild(
+                    option
+                );
+
+            }
+        );
 
 
     // Restore previous selection
@@ -175,7 +294,8 @@ function populateDateFilter() {
             dateFilter.options
         ).some(
             option =>
-                option.value === currentValue
+                option.value ===
+                currentValue
         );
 
 
@@ -185,10 +305,13 @@ function populateDateFilter() {
             currentValue;
 
     }
+
 }
 
 
-// Get Singapore calendar date
+// ============================================
+// GET SINGAPORE DATE
+// ============================================
 
 function getSingaporeDate(dateString) {
 
@@ -206,10 +329,13 @@ function getSingaporeDate(dateString) {
     ).format(
         new Date(dateString)
     );
+
 }
 
 
-// Format date for dropdown
+// ============================================
+// FORMAT DATE LABEL
+// ============================================
 
 function formatDateLabel(dateString) {
 
@@ -231,12 +357,23 @@ function formatDateLabel(dateString) {
             year: "numeric"
         }
     ).format(date);
+
 }
 
 
-// Display last updated time
+// ============================================
+// UPDATE LAST UPDATED
+// ============================================
 
 function updateLastUpdated() {
+
+    if (
+        !lastUpdated ||
+        !updateRelative
+    ) {
+        return;
+    }
+
 
     if (!newsData.last_updated) {
 
@@ -247,6 +384,7 @@ function updateLastUpdated() {
             "";
 
         return;
+
     }
 
 
@@ -256,25 +394,44 @@ function updateLastUpdated() {
         );
 
 
+    if (isNaN(date.getTime())) {
+
+        lastUpdated.textContent =
+            "Unknown";
+
+        updateRelative.textContent =
+            "";
+
+        return;
+
+    }
+
+
     lastUpdated.textContent =
         new Intl.DateTimeFormat(
             "en-SG",
             {
-                timeZone: "Asia/Singapore",
+                timeZone:
+                    "Asia/Singapore",
 
-                dateStyle: "medium",
+                dateStyle:
+                    "medium",
 
-                timeStyle: "short"
+                timeStyle:
+                    "short"
             }
         ).format(date);
 
 
     updateRelative.textContent =
         relativeTime(date);
+
 }
 
 
-// Relative time
+// ============================================
+// RELATIVE TIME
+// ============================================
 
 function relativeTime(date) {
 
@@ -287,8 +444,17 @@ function relativeTime(date) {
         );
 
 
-    if (seconds < 60) {
+    if (seconds < 0) {
+
         return "just now";
+
+    }
+
+
+    if (seconds < 60) {
+
+        return "just now";
+
     }
 
 
@@ -302,7 +468,11 @@ function relativeTime(date) {
 
         return (
             `${minutes} minute` +
-            (minutes === 1 ? "" : "s") +
+            (
+                minutes === 1
+                    ? ""
+                    : "s"
+            ) +
             " ago"
         );
 
@@ -319,7 +489,11 @@ function relativeTime(date) {
 
         return (
             `${hours} hour` +
-            (hours === 1 ? "" : "s") +
+            (
+                hours === 1
+                    ? ""
+                    : "s"
+            ) +
             " ago"
         );
 
@@ -334,21 +508,40 @@ function relativeTime(date) {
 
     return (
         `${days} day` +
-        (days === 1 ? "" : "s") +
+        (
+            days === 1
+                ? ""
+                : "s"
+        ) +
         " ago"
     );
+
 }
 
 
-// Filter and render articles
+// ============================================
+// FILTER AND RENDER ARTICLES
+// ============================================
 
 function renderArticles() {
+
+    if (
+        !newsContainer ||
+        !sourceFilter ||
+        !dateFilter ||
+        !searchInput
+    ) {
+        return;
+    }
+
 
     const selectedSource =
         sourceFilter.value;
 
+
     const selectedDate =
         dateFilter.value;
+
 
     const search =
         searchInput.value
@@ -357,102 +550,163 @@ function renderArticles() {
 
 
     const filtered =
-        newsData.articles.filter(article => {
+        newsData.articles.filter(
+            article => {
 
-            // Source filter
 
-            if (
-                selectedSource !== "all"
-            ) {
-
-                const sources =
-                    article.sources || [];
+                // ==============================
+                // SOURCE FILTER
+                // ==============================
 
                 if (
-                    !sources.includes(
-                        selectedSource
-                    )
+                    selectedSource !==
+                    "all"
                 ) {
-                    return false;
+
+                    const sources =
+                        Array.isArray(
+                            article.sources
+                        )
+                            ? article.sources
+                            : [];
+
+
+                    if (
+                        !sources.includes(
+                            selectedSource
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
                 }
-            }
 
 
-            // Date filter
-
-            if (
-                selectedDate !== "all"
-            ) {
-
-                const articleDate =
-                    getSingaporeDate(
-                        article.published_at
-                    );
+                // ==============================
+                // DATE FILTER
+                // ==============================
 
                 if (
-                    articleDate !==
-                    selectedDate
+                    selectedDate !==
+                    "all"
                 ) {
-                    return false;
+
+                    if (
+                        !article.published_at
+                    ) {
+
+                        return false;
+
+                    }
+
+
+                    const articleDate =
+                        getSingaporeDate(
+                            article.published_at
+                        );
+
+
+                    if (
+                        articleDate !==
+                        selectedDate
+                    ) {
+
+                        return false;
+
+                    }
+
                 }
-            }
 
 
-            // Search
+                // ==============================
+                // SEARCH
+                // ==============================
 
-            if (search) {
+                if (search) {
 
-                const sources =
-                    (
-                        article.sources || []
-                    ).join(" ");
-
-
-                const searchable = [
-
-                    article.title || "",
-
-                    article.description || "",
-
-                    sources
-
-                ]
-                    .join(" ")
-                    .toLowerCase();
+                    const sources =
+                        (
+                            Array.isArray(
+                                article.sources
+                            )
+                                ? article.sources
+                                : []
+                        ).join(" ");
 
 
-                if (
-                    !searchable.includes(search)
-                ) {
-                    return false;
+                    const searchable = [
+
+                        article.title || "",
+
+                        article.description || "",
+
+                        sources
+
+                    ]
+                        .join(" ")
+                        .toLowerCase();
+
+
+                    if (
+                        !searchable.includes(
+                            search
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
                 }
+
+
+                return true;
+
             }
+        );
 
 
-            return true;
+    // ========================================
+    // UPDATE ARTICLE COUNT
+    // ========================================
 
-        });
+    if (articleCount) {
 
+        articleCount.textContent =
+            filtered.length.toLocaleString();
 
-    // Update count
-
-    articleCount.textContent =
-        filtered.length.toLocaleString();
-
-
-    summaryDescription.textContent =
-        filtered.length === 1
-            ? "article"
-            : "articles";
+    }
 
 
-    // No results
+    if (summaryDescription) {
 
-    if (
-        filtered.length === 0
-    ) {
+        summaryDescription.textContent =
+            filtered.length === 1
+                ? "article"
+                : "articles";
+
+    }
+
+
+    // ========================================
+    // UPDATE PAGE TITLE
+    // ========================================
+
+    updatePageTitle(
+        selectedSource
+    );
+
+
+    // ========================================
+    // NO RESULTS
+    // ========================================
+
+    if (filtered.length === 0) {
 
         newsContainer.innerHTML = `
+
             <div class="empty">
 
                 <div class="empty-title">
@@ -465,66 +719,139 @@ function renderArticles() {
                 </div>
 
             </div>
+
         `;
 
         return;
+
     }
 
 
-    // Render articles
+    // ========================================
+    // RENDER ARTICLES
+    // ========================================
 
     newsContainer.innerHTML =
         filtered
             .map(
                 article =>
-                    createArticleCard(article)
+                    createArticleCard(
+                        article
+                    )
             )
             .join("");
+
 }
 
 
-// Create article card
+// ============================================
+// UPDATE PAGE TITLE
+// ============================================
+
+function updatePageTitle(source) {
+
+    const pageTitle =
+        document.getElementById(
+            "page-title"
+        );
+
+
+    if (!pageTitle) {
+        return;
+    }
+
+
+    if (source === "all") {
+
+        pageTitle.textContent =
+            "All News";
+
+        return;
+
+    }
+
+
+    pageTitle.textContent =
+        source;
+
+}
+
+
+// ============================================
+// CREATE ARTICLE CARD
+// ============================================
 
 function createArticleCard(article) {
 
     const sources =
-        Array.isArray(article.sources)
+        Array.isArray(
+            article.sources
+        )
             ? article.sources
             : [];
 
 
-    const published =
-        new Date(
-            article.published_at
-        );
+    let formattedDate =
+        "Unknown date";
 
 
-    const formattedDate =
-        new Intl.DateTimeFormat(
-            "en-SG",
-            {
-                timeZone: "Asia/Singapore",
+    if (article.published_at) {
 
-                dateStyle: "medium",
-
-                timeStyle: "short"
-            }
-        ).format(published);
+        const published =
+            new Date(
+                article.published_at
+            );
 
 
-    // Source badges
+        if (
+            !isNaN(
+                published.getTime()
+            )
+        ) {
+
+            formattedDate =
+                new Intl.DateTimeFormat(
+                    "en-SG",
+                    {
+                        timeZone:
+                            "Asia/Singapore",
+
+                        dateStyle:
+                            "medium",
+
+                        timeStyle:
+                            "short"
+                    }
+                ).format(
+                    published
+                );
+
+        }
+
+    }
+
+
+    // ========================================
+    // SOURCE BADGES
+    // ========================================
 
     const sourceBadges =
         sources
             .map(
                 source => `
+
                     <span class="source-badge">
                         ${escapeHtml(source)}
                     </span>
+
                 `
             )
             .join("");
 
+
+    // ========================================
+    // TITLE
+    // ========================================
 
     const title =
         escapeHtml(
@@ -533,12 +860,20 @@ function createArticleCard(article) {
         );
 
 
+    // ========================================
+    // DESCRIPTION
+    // ========================================
+
     const description =
         escapeHtml(
             article.description ||
             ""
         );
 
+
+    // ========================================
+    // URL
+    // ========================================
 
     const url =
         escapeAttribute(
@@ -548,7 +883,9 @@ function createArticleCard(article) {
 
 
     return `
+
         <article class="news-card">
+
 
             <div class="news-meta">
 
@@ -577,19 +914,26 @@ function createArticleCard(article) {
             ${
                 description
                     ? `
+
                         <p class="news-description">
                             ${description}
                         </p>
+
                     `
                     : ""
             }
 
+
         </article>
+
     `;
+
 }
 
 
-// Escape HTML
+// ============================================
+// ESCAPE HTML
+// ============================================
 
 function escapeHtml(value) {
 
@@ -597,7 +941,9 @@ function escapeHtml(value) {
         value === null ||
         value === undefined
     ) {
+
         return "";
+
     }
 
 
@@ -627,10 +973,13 @@ function escapeHtml(value) {
             "'",
             "&#039;"
         );
+
 }
 
 
-// Escape URL
+// ============================================
+// ESCAPE URL ATTRIBUTE
+// ============================================
 
 function escapeAttribute(value) {
 
@@ -639,69 +988,260 @@ function escapeAttribute(value) {
 }
 
 
-// Update connection status
+// ============================================
+// CONNECTION STATUS
+// ============================================
 
 function setStatus(success) {
 
-    if (success) {
+    if (refreshStatus) {
 
-        refreshStatus.classList.remove(
-            "error"
-        );
+        if (success) {
 
-    } else {
+            refreshStatus.textContent =
+                "Live";
 
-        refreshStatus.classList.add(
-            "error"
-        );
+        } else {
+
+            refreshStatus.textContent =
+                "Connection error";
+
+        }
 
     }
+
+
+    if (statusDot) {
+
+        if (success) {
+
+            statusDot.classList.remove(
+                "error"
+            );
+
+        } else {
+
+            statusDot.classList.add(
+                "error"
+            );
+
+        }
+
+    }
+
 }
 
 
-// Source filter
+// ============================================
+// SOURCE DROPDOWN
+// ============================================
 
-sourceFilter.addEventListener(
-    "change",
-    renderArticles
-);
+if (sourceFilter) {
 
-
-// Date filter
-
-dateFilter.addEventListener(
-    "change",
-    renderArticles
-);
+    sourceFilter.addEventListener(
+        "change",
+        () => {
 
 
-// Search
-
-searchInput.addEventListener(
-    "input",
-    renderArticles
-);
+            const selectedSource =
+                sourceFilter.value;
 
 
-// Clear filters
+            // Update top navigation
 
-clearFilters.addEventListener(
-    "click",
-    () => {
+            categoryButtons.forEach(
+                button => {
 
-        sourceFilter.value = "all";
+                    button.classList.toggle(
+                        "active",
+                        button.dataset.source ===
+                            selectedSource
+                    );
 
-        dateFilter.value = "all";
+                }
+            );
 
-        searchInput.value = "";
 
-        renderArticles();
+            renderArticles();
+
+        }
+    );
+
+}
+
+
+// ============================================
+// DATE FILTER
+// ============================================
+
+if (dateFilter) {
+
+    dateFilter.addEventListener(
+        "change",
+        () => {
+
+            renderArticles();
+
+        }
+    );
+
+}
+
+
+// ============================================
+// SEARCH
+// ============================================
+
+if (searchInput) {
+
+    searchInput.addEventListener(
+        "input",
+        () => {
+
+            renderArticles();
+
+        }
+    );
+
+}
+
+
+// ============================================
+// CLEAR FILTERS
+// ============================================
+
+if (clearFilters) {
+
+    clearFilters.addEventListener(
+        "click",
+        () => {
+
+
+            // Reset source
+
+            if (sourceFilter) {
+
+                sourceFilter.value =
+                    "all";
+
+            }
+
+
+            // Reset date
+
+            if (dateFilter) {
+
+                dateFilter.value =
+                    "all";
+
+            }
+
+
+            // Reset search
+
+            if (searchInput) {
+
+                searchInput.value =
+                    "";
+
+            }
+
+
+            // Reset category tabs
+
+            categoryButtons.forEach(
+                button => {
+
+                    button.classList.remove(
+                        "active"
+                    );
+
+                }
+            );
+
+
+            const allButton =
+                document.querySelector(
+                    '.category-button[data-source="all"]'
+                );
+
+
+            if (allButton) {
+
+                allButton.classList.add(
+                    "active"
+                );
+
+            }
+
+
+            renderArticles();
+
+        }
+    );
+
+}
+
+
+// ============================================
+// TOP CATEGORY TABS
+// ============================================
+
+categoryButtons.forEach(
+    button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+
+                const selectedSource =
+                    button.dataset.source ||
+                    "all";
+
+
+                // Update active tab
+
+                categoryButtons.forEach(
+                    item => {
+
+                        item.classList.remove(
+                            "active"
+                        );
+
+                    }
+                );
+
+
+                button.classList.add(
+                    "active"
+                );
+
+
+                // Update dropdown
+
+                if (sourceFilter) {
+
+                    sourceFilter.value =
+                        selectedSource;
+
+                }
+
+
+                // Render filtered news
+
+                renderArticles();
+
+            }
+        );
 
     }
 );
 
 
-// Update relative time every minute
+// ============================================
+// UPDATE RELATIVE TIME EVERY MINUTE
+// ============================================
 
 setInterval(
     () => {
@@ -713,7 +1253,9 @@ setInterval(
 );
 
 
-// Check for new data every 5 minutes
+// ============================================
+// CHECK FOR NEW DATA EVERY 5 MINUTES
+// ============================================
 
 setInterval(
     () => {
@@ -725,6 +1267,8 @@ setInterval(
 );
 
 
-// Initial load
+// ============================================
+// INITIAL LOAD
+// ============================================
 
 loadNews();
