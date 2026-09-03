@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-09-03T22:02:34.463677+00:00",
+  "last_updated": "2026-09-03T23:02:30.579055+00:00",
   "articles": [
+    {
+      "id": "cb6aa2f1043f5caa48cfed0389b65d69e43e04537614a65e9c29c4083a269e2a",
+      "title": "Brazil's Embraer gets firm order for eight additional E190-E2 jets from Japan's ANA",
+      "url": "https://www.channelnewsasia.com/business/brazils-embraer-gets-firm-order-eight-additional-e190-e2-jets-japans-ana-6361701",
+      "description": "",
+      "published_at": "2026-09-03T22:55:51+00:00",
+      "sources": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a36ec489d3200521c7b8c4b13127449d2c99c97caa1421ebb76d14b13b775e85",
+      "title": "South Korea says US companies to invest $2 billion in chip, energy sectors",
+      "url": "https://www.channelnewsasia.com/business/south-korea-says-us-companies-invest-2-billion-in-chip-energy-sectors-6361691",
+      "description": "",
+      "published_at": "2026-09-03T22:38:53+00:00",
+      "sources": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "94fde3ec1963130e6818ce4940dfe2342ff7fb1b194a064da922daa1dc3840e6",
+      "title": "Influencer boom at US Open tests boundaries of tennis etiquette",
+      "url": "https://www.channelnewsasia.com/sport/influencer-boom-us-open-tests-boundaries-tennis-etiquette-6361651",
+      "description": "",
+      "published_at": "2026-09-03T22:20:40+00:00",
+      "sources": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "92ab9011d6bad8369dabfd60c92cfc7afcfecd68b71381852eb0a688ab410be9",
+      "title": "Ovolo South Yarra: A rock ’n’ roll hotel in the heart of Melbourne",
+      "url": "https://www.channelnewsasia.com/experiences/ovolo-south-yarra-melbourne-hotel-review-6354246",
+      "description": "From John Lennon-inspired suites to lava lamps, vinyl records and bold retro interiors, Ovolo South Yarra brings rock-star swagger to one of Melbourne’s liveliest neighbourhoods.",
+      "published_at": "2026-09-03T22:14:00+00:00",
+      "sources": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "8027d887f1244894cb915091026d60a96afb6a9a9bbf05f5d6eef156279ccaee",
+      "title": "Argentina tweak team as they look to square series with Wallabies",
+      "url": "https://www.channelnewsasia.com/sport/argentina-tweak-team-they-look-square-series-wallabies-6361631",
+      "description": "",
+      "published_at": "2026-09-03T22:05:32+00:00",
+      "sources": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "5d3b4372af69ba64389bfcdb7ac2cfd21b3b3458767de346035e973efeae6148",
+      "title": "'Singapore's perpetual karma is to be relevant': Tommy Koh looks back on 55 years in global diplomacy",
+      "url": "https://www.channelnewsasia.com/singapore/tommy-koh-retire-mfa-asean-6360556",
+      "description": "Retiring after five decades at the Ministry of Foreign Affairs, Tommy Koh reflects on ASEAN's rise, Singapore's foreign policy and the state of the international order.",
+      "published_at": "2026-09-03T22:00:00+00:00",
+      "sources": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "19a72ce8f722f01f97f47f95a37011ccacdd81d58d7951b70e796caeb9774ecf",
+      "title": "Commentary: Will Meta’s US settlement change how Singapore regulates social media?",
+      "url": "https://www.channelnewsasia.com/commentary/meta-us-settlement-social-media-harm-teen-6360056",
+      "description": "A landmark US lawsuit has made clear that if left to their own devices, social media companies are unlikely to take drastic steps to protect young users, says NUS' Carol Soon.",
+      "published_at": "2026-09-03T22:00:00+00:00",
+      "sources": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "edeac93cdc4900786107504e8b05bfac996651be1319eea8e5f8e83be881e6e2",
+      "title": "As AI reaches rural India, health workers are putting it to the test",
+      "url": "https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946",
+      "description": "From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines.",
+      "published_at": "2026-09-03T22:00:00+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4ffdd67bbdf3f408a60a32da6452e502c87cff21ad49f02bc9584e7ffbf50d9f",
+      "title": "Commentary: Canada is testing the limits of saying no to Donald Trump",
+      "url": "https://www.channelnewsasia.com/commentary/us-canada-trade-war-trump-tariffs-carney-midterms-6359886",
+      "description": "Canada is betting that it can turn economic pain into political pressure on the American president ahead of the midterm elections, says Kevin Chen from the S Rajaratnam School of International Studies.",
+      "published_at": "2026-09-03T21:59:00+00:00",
+      "sources": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f672754e7b311884e310dabe1d5dce498ede1bb4562db42b56a5d6a267888219",
+      "title": "Commentary: China’s real robot revolution is not about humanoids",
+      "url": "https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141",
+      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times.",
+      "published_at": "2026-09-03T21:58:00+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "a2b6dacc48f33298dfe480491cec5e03b56fc0e775d362a1a8afaafe4aeab612",
       "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
@@ -63,7 +173,7 @@
       "id": "e5bee246c06d2bc41fafd66746ba901d250d3ff194e8c4f775c7d80e092a89fe",
       "title": "Russia demands 'immediate release' of vessel seized by Norway",
       "url": "https://www.channelnewsasia.com/world/russia-demands-release-vessel-seized-norway-6359756",
-      "description": "A Russian vessel stays stranded in Svalbard after Norway seizes it under a court order tied to Naftogaz’s $4.2 billion Crimea compensation claim.",
+      "description": "A Russian vessel stays stranded in Svalbard after Norway seizes it under a court order tied to Naftogaz’s US$4.2 billion Crimea compensation claim.",
       "published_at": "2026-09-03T20:47:55+00:00",
       "sources": [
         "Latest News",
@@ -126,6 +236,16 @@
       ]
     },
     {
+      "id": "705b62b6f14aa595273f43e4bb649daf8ee51901d6ab5ed4153ee457b059e7df",
+      "title": "BASF sues Apple in US, says iPhones infringe face authentication patents",
+      "url": "https://www.channelnewsasia.com/business/basf-sues-apple-in-us-says-iphones-infringe-face-authentication-patents-6361401",
+      "description": "",
+      "published_at": "2026-09-03T19:27:01+00:00",
+      "sources": [
+        "Business"
+      ]
+    },
+    {
       "id": "eb800acddd1cbe668b3d761ae55a1a63b27fd1d692b23de3d280d85186254170",
       "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
       "url": "https://www.channelnewsasia.com/world/us-payment-europe-ukraine-aid-trump-6361001",
@@ -178,6 +298,16 @@
       "sources": [
         "Asia",
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "ab7b53d4cced45aa66941c77a34b9d55d221ef6990cc9ad6aded437fbdb3932a",
+      "title": "Lebanon receives first detainee of five to be freed by Israel",
+      "url": "https://www.channelnewsasia.com/world/israel-release-five-lebanese-detainees-talks-6360656",
+      "description": "“It was decided to release five Lebanese civilians,” the office of Israeli Prime Minister Benjamin Netanyahu says after interrogations find no terror links.",
+      "published_at": "2026-09-03T18:48:00+00:00",
+      "sources": [
         "World"
       ]
     },
