@@ -30,16 +30,16 @@ FEEDS = [
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416",
     },
     {
+        "name": "Sports",
+        "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10296",
+    },
+    {
         "name": "World",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311",
     },
     {
         "name": "Today",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=679471",
-    },
-    {
-        "name": "Sports",
-        "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10296",
     },
 ]
 
