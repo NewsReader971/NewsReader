@@ -8,6 +8,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
 FEEDS = [
     {
         "name": "Latest News",
@@ -36,41 +40,69 @@ FEEDS = [
 ]
 
 
-DATA_FILE = Path("data/articles.json")
+# JSON database
+DATA_FILE = Path("data/news.json")
+
 
 # Keep articles for 30 days
 RETENTION_DAYS = 30
 
 
+# ============================================================
+# HTML CLEANING
+# ============================================================
+
 def clean_html(text):
     """
-    Remove HTML from RSS descriptions.
+    Convert the RSS description into plain text.
 
-    Your Flask version uses:
-        {{ article.summary | safe }}
+    RSS descriptions can contain HTML such as:
 
-    For the JSON database, we'll store a clean text version instead.
+        <p>This is an article.</p>
+
+    We remove the HTML before storing it.
     """
 
     if not text:
         return ""
 
+    # Decode HTML entities
     text = html.unescape(text)
 
     # Remove HTML tags
-    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(
+        r"<[^>]+>",
+        "",
+        text
+    )
 
     # Normalize whitespace
-    text = re.sub(r"\s+", " ", text)
+    text = re.sub(
+        r"\s+",
+        " ",
+        text
+    )
 
     return text.strip()
 
 
+# ============================================================
+# DATE HANDLING
+# ============================================================
+
 def get_entry_date(entry):
     """
-    Get the publication date from feedparser.
+    Get the publication date from a feedparser entry.
 
-    feedparser provides *_parsed fields as time.struct_time.
+    We check:
+
+        published_parsed
+        updated_parsed
+        created_parsed
+
+    in that order.
+
+    If none exist, we use the current UTC time.
     """
 
     parsed = (
@@ -81,38 +113,42 @@ def get_entry_date(entry):
 
     if parsed:
 
-        dt = datetime(
-            parsed.tm_year,
-            parsed.tm_mon,
-            parsed.tm_mday,
-            parsed.tm_hour,
-            parsed.tm_min,
-            parsed.tm_sec,
-            tzinfo=timezone.utc,
-        )
+        try:
 
-        return dt
+            return datetime(
+                parsed.tm_year,
+                parsed.tm_mon,
+                parsed.tm_mday,
+                parsed.tm_hour,
+                parsed.tm_min,
+                parsed.tm_sec,
+                tzinfo=timezone.utc
+            )
 
-    # If the RSS feed has no usable date,
-    # use the current time.
+        except Exception:
+            pass
+
+    # Fallback
     return datetime.now(timezone.utc)
 
 
+# ============================================================
+# ARTICLE ID
+# ============================================================
+
 def make_article_id(entry):
     """
-    Generate a stable ID.
+    Create a stable ID for an article.
 
-    Prefer:
+    We prefer:
+
+        id
         guid
-
-    Then:
         link
-
-    Then:
         title
 
-    This prevents the same article being added every
-    time GitHub Actions runs.
+    This prevents duplicate articles from being
+    added every time the GitHub Action runs.
     """
 
     value = (
@@ -128,39 +164,64 @@ def make_article_id(entry):
     ).hexdigest()
 
 
+# ============================================================
+# PARSE ONE FEED
+# ============================================================
+
 def parse_feed(feed_info):
 
     print()
-    print("=" * 60)
+    print("=" * 70)
     print(f"Fetching: {feed_info['name']}")
     print(feed_info["url"])
-    print("=" * 60)
+    print("=" * 70)
 
     feed = feedparser.parse(
         feed_info["url"]
     )
 
+
+    # --------------------------------------------------------
+    # Check for errors
+    # --------------------------------------------------------
+
     if feed.bozo and not feed.entries:
 
-        raise Exception(
-            f"RSS feed could not be read: "
-            f"{getattr(feed, 'bozo_exception', 'Unknown error')}"
+        error = getattr(
+            feed,
+            "bozo_exception",
+            "Unknown RSS error"
         )
+
+        raise Exception(
+            f"RSS feed could not be read: {error}"
+        )
+
 
     articles = []
 
+
+    # --------------------------------------------------------
+    # Parse entries
+    # --------------------------------------------------------
+
     for entry in feed.entries:
 
+        # Title
         title = entry.get(
             "title",
             "No title"
         ).strip()
 
+
+        # URL
         link = entry.get(
             "link",
             ""
         ).strip()
 
+
+        # Description
         summary = entry.get(
             "summary",
             entry.get(
@@ -169,42 +230,74 @@ def parse_feed(feed_info):
             )
         )
 
-        summary = clean_html(summary)
+        summary = clean_html(
+            summary
+        )
 
-        published = get_entry_date(entry)
 
-        article_id = make_article_id(entry)
+        # Publication date
+        published = get_entry_date(
+            entry
+        )
+
+
+        # Stable ID
+        article_id = make_article_id(
+            entry
+        )
+
+
+        # Create article
+        article = {
+
+            "id": article_id,
+
+            "title": title,
+
+            "url": link,
+
+            "description": summary,
+
+            "published_at":
+                published.isoformat(),
+
+            "sources": [
+                feed_info["name"]
+            ]
+
+        }
+
 
         articles.append(
-            {
-                "id": article_id,
-
-                "title": title,
-
-                "url": link,
-
-                "description": summary,
-
-                "published_at": published.isoformat(),
-
-                "sources": [
-                    feed_info["name"]
-                ],
-            }
+            article
         )
+
 
     print(
         f"Found {len(articles)} articles"
     )
 
+
     return articles
 
 
-def load_articles():
+# ============================================================
+# LOAD EXISTING DATABASE
+# ============================================================
+
+def load_news():
 
     if not DATA_FILE.exists():
 
-        return []
+        print(
+            "No existing database found."
+        )
+
+        return {
+            "last_updated": None,
+            "articles": []
+        }
+
 
     try:
 
@@ -214,10 +307,41 @@ def load_articles():
             encoding="utf-8"
         ) as file:
 
-            data = json.load(file)
+            data = json.load(
+                file
+            )
 
-            if isinstance(data, list):
-                return data
+
+        # New format
+        if isinstance(data, dict):
+
+            return {
+
+                "last_updated":
+                    data.get(
+                        "last_updated"
+                    ),
+
+                "articles":
+                    data.get(
+                        "articles",
+                        []
+                    )
+
+            }
+
+
+        # Support old format just in case
+        if isinstance(data, list):
+
+            return {
+
+                "last_updated": None,
+
+                "articles": data
+
+            }
+
 
     except Exception as error:
 
@@ -225,14 +349,41 @@ def load_articles():
             f"Could not load database: {error}"
         )
 
-    return []
+
+    return {
+        "last_updated": None,
+        "articles": []
+    }
 
 
-def merge_article(existing, incoming):
+# ============================================================
+# MERGE DUPLICATE ARTICLE
+# ============================================================
 
+def merge_article(
+    existing,
+    incoming
+):
     """
-    If the same article appears in multiple CNA feeds,
-    keep one article but remember all the feeds it appeared in.
+    Merge an article that already exists.
+
+    This is useful because the same CNA article
+    can appear in multiple feeds.
+
+    Example:
+
+        Latest News
+        Singapore
+        Today
+
+    will become one article with:
+
+        sources:
+        [
+            "Latest News",
+            "Singapore",
+            "Today"
+        ]
     """
 
     existing_sources = set(
@@ -242,6 +393,7 @@ def merge_article(existing, incoming):
         )
     )
 
+
     incoming_sources = set(
         incoming.get(
             "sources",
@@ -249,37 +401,94 @@ def merge_article(existing, incoming):
         )
     )
 
+
     existing["sources"] = sorted(
-        existing_sources | incoming_sources
+        existing_sources |
+        incoming_sources
     )
 
-    # If the incoming article has a better description,
+
+    # If incoming description is better,
     # use it.
     if (
-        len(incoming.get("description", ""))
+        len(
+            incoming.get(
+                "description",
+                ""
+            )
+        )
         >
-        len(existing.get("description", ""))
+        len(
+            existing.get(
+                "description",
+                ""
+            )
+        )
     ):
-        existing["description"] = incoming["description"]
 
-    # Make sure we don't lose a URL
+        existing["description"] = (
+            incoming["description"]
+        )
+
+
+    # Make sure URL exists
     if not existing.get("url"):
-        existing["url"] = incoming.get("url", "")
+
+        existing["url"] = (
+            incoming.get(
+                "url",
+                ""
+            )
+        )
+
+
+    # Make sure title exists
+    if not existing.get("title"):
+
+        existing["title"] = (
+            incoming.get(
+                "title",
+                "No title"
+            )
+        )
+
 
     return existing
 
 
-def remove_old_articles(articles):
+# ============================================================
+# REMOVE OLD ARTICLES
+# ============================================================
+
+def remove_old_articles(
+    articles
+):
+    """
+    Delete articles older than RETENTION_DAYS.
+
+    With RETENTION_DAYS = 30:
+
+        Article from 29 days ago -> KEEP
+        Article from 30 days ago -> KEEP
+        Article from 31 days ago -> DELETE
+    """
 
     cutoff = (
         datetime.now(timezone.utc)
         -
-        timedelta(days=RETENTION_DAYS)
+        timedelta(
+            days=RETENTION_DAYS
+        )
     )
 
-    before = len(articles)
+
+    before = len(
+        articles
+    )
+
 
     kept = []
+
 
     for article in articles:
 
@@ -289,23 +498,39 @@ def remove_old_articles(articles):
                 article["published_at"]
             )
 
+
+            # Make sure the date is timezone-aware
+
             if published.tzinfo is None:
 
                 published = published.replace(
                     tzinfo=timezone.utc
                 )
 
+
         except Exception:
 
-            # If an article has a bad date,
-            # don't delete it automatically.
-            kept.append(article)
+            # If the date cannot be understood,
+            # don't delete the article.
+            kept.append(
+                article
+            )
+
             continue
 
-        if published >= cutoff:
-            kept.append(article)
 
-    removed = before - len(kept)
+        if published >= cutoff:
+
+            kept.append(
+                article
+            )
+
+
+    removed = (
+        before -
+        len(kept)
+    )
+
 
     print()
     print(
@@ -313,15 +538,28 @@ def remove_old_articles(articles):
         f"older than {RETENTION_DAYS} days."
     )
 
+
     return kept
 
 
-def save_articles(articles):
+# ============================================================
+# SAVE DATABASE
+# ============================================================
 
+def save_news(
+    articles
+):
+    """
+    Save the database in the format expected
+    by app.js.
+    """
+
+    # Make sure data/ exists
     DATA_FILE.parent.mkdir(
         parents=True,
         exist_ok=True
     )
+
 
     # Newest first
     articles.sort(
@@ -333,6 +571,20 @@ def save_articles(articles):
         reverse=True
     )
 
+
+    data = {
+
+        "last_updated":
+            datetime.now(
+                timezone.utc
+            ).isoformat(),
+
+        "articles":
+            articles
+
+    }
+
+
     with open(
         DATA_FILE,
         "w",
@@ -340,34 +592,96 @@ def save_articles(articles):
     ) as file:
 
         json.dump(
-            articles,
+            data,
             file,
             indent=2,
             ensure_ascii=False
         )
 
 
+    print()
+    print(
+        f"Saved {len(articles)} articles"
+    )
+
+    print(
+        f"Database: {DATA_FILE}"
+    )
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
 def main():
 
     print()
+    print("=" * 70)
     print("CNA RSS NEWS COLLECTOR")
-    print("======================")
+    print("=" * 70)
 
-    existing = load_articles()
+    print()
+
+    print(
+        f"Feeds configured: {len(FEEDS)}"
+    )
+
+    print(
+        f"Retention period: {RETENTION_DAYS} days"
+    )
+
+    print()
+
+
+    # --------------------------------------------------------
+    # Load existing data
+    # --------------------------------------------------------
+
+    existing_data = load_news()
+
+    existing_articles = (
+        existing_data.get(
+            "articles",
+            []
+        )
+    )
+
 
     print(
         f"Existing articles: "
-        f"{len(existing)}"
+        f"{len(existing_articles)}"
     )
 
-    # Use article ID as the key.
-    articles_by_id = {
-        article["id"]: article
-        for article in existing
-    }
+
+    # --------------------------------------------------------
+    # Convert existing articles into dictionary
+    #
+    # This makes duplicate checking very fast.
+    # --------------------------------------------------------
+
+    articles_by_id = {}
+
+
+    for article in existing_articles:
+
+        article_id = article.get(
+            "id"
+        )
+
+        if article_id:
+
+            articles_by_id[
+                article_id
+            ] = article
+
+
+    # --------------------------------------------------------
+    # Fetch all feeds
+    # --------------------------------------------------------
 
     successful_feeds = 0
     failed_feeds = 0
+
 
     for feed_info in FEEDS:
 
@@ -377,50 +691,98 @@ def main():
                 feed_info
             )
 
+
             successful_feeds += 1
+
 
             for article in articles:
 
-                article_id = article["id"]
+                article_id = (
+                    article["id"]
+                )
 
+
+                # Article already exists
                 if article_id in articles_by_id:
 
                     articles_by_id[
                         article_id
                     ] = merge_article(
-                        articles_by_id[article_id],
+                        articles_by_id[
+                            article_id
+                        ],
                         article
                     )
 
+
+                # New article
                 else:
 
                     articles_by_id[
                         article_id
                     ] = article
 
+
         except Exception as error:
 
             failed_feeds += 1
 
+
             print()
             print(
-                f"ERROR: {feed_info['name']}"
+                f"ERROR: "
+                f"{feed_info['name']}"
             )
-            print(error)
 
-    # Remove anything older than 30 days
-    articles = remove_old_articles(
-        list(articles_by_id.values())
+            print(
+                str(error)
+            )
+
+
+    # --------------------------------------------------------
+    # Convert dictionary back into list
+    # --------------------------------------------------------
+
+    articles = list(
+        articles_by_id.values()
     )
 
-    save_articles(
+
+    print()
+    print(
+        f"Articles before cleanup: "
+        f"{len(articles)}"
+    )
+
+
+    # --------------------------------------------------------
+    # Delete articles older than 30 days
+    # --------------------------------------------------------
+
+    articles = remove_old_articles(
         articles
     )
 
+
+    # --------------------------------------------------------
+    # Save
+    # --------------------------------------------------------
+
+    save_news(
+        articles
+    )
+
+
+    # --------------------------------------------------------
+    # Summary
+    # --------------------------------------------------------
+
     print()
-    print("======================")
+    print("=" * 70)
     print("FINISHED")
-    print("======================")
+    print("=" * 70)
+
+    print()
 
     print(
         f"Feeds successful: "
@@ -446,6 +808,10 @@ def main():
 
     print()
 
+
+# ============================================================
+# RUN
+# ============================================================
 
 if __name__ == "__main__":
     main()
