@@ -1,6 +1,39 @@
 {
-  "last_updated": "2026-09-04T11:02:39.073329+00:00",
+  "last_updated": "2026-09-04T12:03:27.640666+00:00",
   "articles": [
+    {
+      "id": "8f57188ca4e87c94c2b4dcfe9739323176040357845f001b6402e7a65e8d413f",
+      "title": "SIAS warns against pyramid-type ‘Nanning scheme’ investment arrangements",
+      "url": "https://www.channelnewsasia.com/singapore/nanning-scheme-investment-scam-pyramid-sias-6362861",
+      "description": "The warning comes after 52 Singaporeans were arrested and detained in China over suspected pyramid scheme activities and related offences.",
+      "published_at": "2026-09-04T12:00:33+00:00",
+      "sources": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "470791e7120a602c0c05617e19ca9410f9f6b1b84bf8ffbff74a132a2bd1faa2",
+      "title": "Man jailed, caned for driving under influence of etomidate while making Kpod deliveries",
+      "url": "https://www.channelnewsasia.com/singapore/driving-kpod-etomidate-crime-accident-6362991",
+      "description": "The 32-year-old man was caught twice driving under the influence of etomidate, including while on bail for the first offence.",
+      "published_at": "2026-09-04T11:32:31+00:00",
+      "sources": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "bddf4d280871638c8e0f2f303a0c3c2ccfb7777f4ef9b22195cd6e6d0ef6d832",
+      "title": "Sri Lanka arrests ex-president's son over Airbus deal",
+      "url": "https://www.channelnewsasia.com/asia/sri-lanka-arrest-ex-president-son-namal-rajapaksa-airbus-deal-6362961",
+      "description": "",
+      "published_at": "2026-09-04T10:58:50+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "0e3ce863cabbc54dcc560bad89c8f9b3b2548591fda886a6ab1b0a5e843ccc8b",
       "title": "FIA appeal court strips Gasly of Monaco podium and reinstates Hadjar",
@@ -8,6 +41,7 @@
       "description": "",
       "published_at": "2026-09-04T10:55:17+00:00",
       "sources": [
+        "Latest News",
         "Sports"
       ]
     },
@@ -534,6 +568,16 @@
       "url": "https://www.channelnewsasia.com/business/shares-inch-higher-ahead-us-jobs-data-after-feds-waller-soothes-bonds-6362001",
       "description": "",
       "published_at": "2026-09-04T02:33:57+00:00",
+      "sources": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0336bce4e3916abed06e0d66b78ec247990a041ed65eda30de9001b968a92f12",
+      "title": "Traders brace for US jobs data after Fed's Waller soothes bond markets",
+      "url": "https://www.channelnewsasia.com/business/traders-brace-us-jobs-data-after-feds-waller-soothes-bond-markets-6362001",
+      "description": "",
+      "published_at": "2026-09-04T02:33:00+00:00",
       "sources": [
         "Business"
       ]
