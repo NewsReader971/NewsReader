@@ -131,9 +131,10 @@ function getSelectedSource() {
 const FUZZY_THRESHOLD = 0.60;
 
 
-/**
- * Normalize text for searching.
- */
+// ============================================
+// NORMALIZE SEARCH TEXT
+// ============================================
+
 function normalizeText(text) {
 
     return String(text || "")
@@ -147,9 +148,10 @@ function normalizeText(text) {
 }
 
 
-/**
- * Levenshtein distance.
- */
+// ============================================
+// LEVENSHTEIN DISTANCE
+// ============================================
+
 function levenshteinDistance(a, b) {
 
     if (a === b) {
@@ -199,8 +201,15 @@ function levenshteinDistance(a, b) {
 
         }
 
-        for (let j = 0; j < currentRow.length; j++) {
-            previousRow[j] = currentRow[j];
+        for (
+            let j = 0;
+            j < currentRow.length;
+            j++
+        ) {
+
+            previousRow[j] =
+                currentRow[j];
+
         }
 
     }
@@ -208,6 +217,11 @@ function levenshteinDistance(a, b) {
     return previousRow[b.length];
 
 }
+
+
+// ============================================
+// WORD SIMILARITY
+// ============================================
 
 function wordSimilarity(a, b) {
 
@@ -219,23 +233,35 @@ function wordSimilarity(a, b) {
         return 1;
     }
 
+
     // Partial match
+
     if (
         a.length >= 3 &&
         b.includes(a)
     ) {
+
         return 0.95;
+
     }
+
 
     if (
         b.length >= 3 &&
         a.includes(b)
     ) {
+
         return 0.90;
+
     }
 
+
     const distance =
-        levenshteinDistance(a, b);
+        levenshteinDistance(
+            a,
+            b
+        );
+
 
     const maxLength =
         Math.max(
@@ -243,34 +269,53 @@ function wordSimilarity(a, b) {
             b.length
         );
 
+
     if (!maxLength) {
         return 0;
     }
 
+
     return 1 - (
-        distance / maxLength
+        distance /
+        maxLength
     );
 
 }
 
-function fuzzySearch(searchQuery, article) {
+
+// ============================================
+// FUZZY SEARCH
+// ============================================
+
+function fuzzySearch(
+    searchQuery,
+    article
+) {
 
     const query =
-        normalizeText(searchQuery);
+        normalizeText(
+            searchQuery
+        );
+
+
+    // Empty search = everything matches
 
     if (!query) {
         return true;
     }
 
 
-    // ----------------------------------------
-    // BUILD SEARCHABLE TEXT
-    // ----------------------------------------
+    // ========================================
+    // SEARCHABLE ARTICLE TEXT
+    // ========================================
 
     const categories =
-        Array.isArray(article.categories)
+        Array.isArray(
+            article.categories
+        )
             ? article.categories.join(" ")
             : "";
+
 
     const searchableText =
         normalizeText(
@@ -283,20 +328,24 @@ function fuzzySearch(searchQuery, article) {
         );
 
 
-    // ----------------------------------------
-    // EXACT PHRASE
-    // ----------------------------------------
+    // ========================================
+    // EXACT PHRASE MATCH
+    // ========================================
 
     if (
-        searchableText.includes(query)
+        searchableText.includes(
+            query
+        )
     ) {
+
         return true;
+
     }
 
 
-    // ----------------------------------------
-    // QUERY WORDS
-    // ----------------------------------------
+    // ========================================
+    // SPLIT SEARCH QUERY
+    // ========================================
 
     const queryWords =
         query
@@ -310,29 +359,39 @@ function fuzzySearch(searchQuery, article) {
             .filter(Boolean);
 
 
-    if (!queryWords.length) {
+    if (
+        queryWords.length === 0
+    ) {
+
         return true;
+
     }
 
 
-    // ----------------------------------------
-    // EVERY QUERY WORD MUST MATCH
-    // ----------------------------------------
+    // ========================================
+    // EVERY SEARCH WORD MUST MATCH
+    // ========================================
 
     return queryWords.every(
         searchWord => {
 
-            // Very short words should use
-            // exact matching only.
-            if (searchWord.length <= 2) {
+
+            // Short words need exact matching
+
+            if (
+                searchWord.length <= 2
+            ) {
 
                 return textWords.some(
                     textWord =>
-                        textWord === searchWord
+                        textWord ===
+                        searchWord
                 );
 
             }
 
+
+            // Fuzzy matching
 
             return textWords.some(
                 textWord => {
@@ -357,7 +416,6 @@ function fuzzySearch(searchQuery, article) {
 }
 
 
-
 // ============================================
 // LOAD NEWS.JSON
 // ============================================
@@ -373,8 +431,10 @@ async function loadNews() {
 
         }
 
+
         const cacheBuster =
             `?t=${Date.now()}`;
+
 
         const response =
             await fetch(
@@ -385,6 +445,7 @@ async function loadNews() {
                 }
             );
 
+
         if (!response.ok) {
 
             throw new Error(
@@ -392,6 +453,7 @@ async function loadNews() {
             );
 
         }
+
 
         const data =
             await response.json();
@@ -433,6 +495,7 @@ async function loadNews() {
 
                 }
 
+
                 if (
                     !Array.isArray(
                         article.categories
@@ -460,11 +523,13 @@ async function loadNews() {
                         0
                     );
 
+
                 const dateB =
                     new Date(
                         b.published_at ||
                         0
                     );
+
 
                 return dateB - dateA;
 
@@ -473,18 +538,24 @@ async function loadNews() {
 
 
         // ========================================
-        // UPDATE FILTERS
+        // UPDATE CATEGORY FILTER
         // ========================================
-
-        populateDateFilter();
 
         const selectedSource =
             getSelectedSource();
+
 
         populateCategoryFilter(
             selectedSource,
             "all"
         );
+
+
+        // ========================================
+        // UPDATE DATE PICKER
+        // ========================================
+
+        setDatePickerLimits();
 
 
         // ========================================
@@ -514,7 +585,9 @@ async function loadNews() {
             error
         );
 
+
         setStatus(false);
+
 
         if (refreshStatus) {
 
@@ -524,9 +597,7 @@ async function loadNews() {
         }
 
 
-        if (
-            newsContainer
-        ) {
+        if (newsContainer) {
 
             newsContainer.innerHTML = `
 
@@ -549,12 +620,14 @@ async function loadNews() {
 
         }
 
+
         if (articleCount) {
 
             articleCount.textContent =
                 "Error";
 
         }
+
 
         if (summaryDescription) {
 
@@ -581,6 +654,7 @@ function populateCategoryFilter(
         return;
     }
 
+
     const categories =
         SOURCE_CATEGORIES[
             selectedSource
@@ -592,25 +666,32 @@ function populateCategoryFilter(
     categoryFilter.innerHTML = "";
 
 
-    // All categories
+    // ========================================
+    // ALL CATEGORIES
+    // ========================================
 
     const allOption =
         document.createElement(
             "option"
         );
 
+
     allOption.value =
         "all";
 
+
     allOption.textContent =
         "All categories";
+
 
     categoryFilter.appendChild(
         allOption
     );
 
 
-    // Source categories
+    // ========================================
+    // SOURCE CATEGORIES
+    // ========================================
 
     categories.forEach(
         category => {
@@ -620,11 +701,14 @@ function populateCategoryFilter(
                     "option"
                 );
 
+
             option.value =
                 category;
 
+
             option.textContent =
                 category;
+
 
             categoryFilter.appendChild(
                 option
@@ -634,7 +718,9 @@ function populateCategoryFilter(
     );
 
 
-    // Restore category if valid
+    // ========================================
+    // RESTORE CATEGORY
+    // ========================================
 
     if (
         categories.includes(
@@ -656,100 +742,31 @@ function populateCategoryFilter(
 
 
 // ============================================
-// POPULATE DATE FILTER
+// DATE PICKER
 // ============================================
 
-function populateDateFilter() {
+function setDatePickerLimits() {
 
     if (!dateFilter) {
         return;
     }
 
-    const currentValue =
-        dateFilter.value;
 
-    const dates =
-        new Set();
+    /*
+     * Use Singapore date so that the date picker
+     * matches the dates used by the article filter.
+     */
 
-    newsData.articles.forEach(
-        article => {
-
-            if (!article.published_at) {
-                return;
-            }
-
-            try {
-
-                dates.add(
-                    getSingaporeDate(
-                        article.published_at
-                    )
-                );
-
-            } catch (error) {
-
-                console.warn(
-                    "Invalid article date:",
-                    article.published_at
-                );
-
-            }
-
-        }
-    );
-
-
-    dateFilter.innerHTML = `
-
-        <option value="all">
-            All dates
-        </option>
-
-    `;
-
-
-    Array.from(dates)
-        .sort()
-        .reverse()
-        .forEach(
-            date => {
-
-                const option =
-                    document.createElement(
-                        "option"
-                    );
-
-                option.value =
-                    date;
-
-                option.textContent =
-                    formatDateLabel(
-                        date
-                    );
-
-                dateFilter.appendChild(
-                    option
-                );
-
-            }
+    const today =
+        getSingaporeDate(
+            new Date().toISOString()
         );
 
 
-    const optionExists =
-        Array.from(
-            dateFilter.options
-        ).some(
-            option =>
-                option.value ===
-                currentValue
-        );
+    // Do not allow future dates
 
-    if (optionExists) {
-
-        dateFilter.value =
-            currentValue;
-
-    }
+    dateFilter.max =
+        today;
 
 }
 
@@ -758,7 +775,9 @@ function populateDateFilter() {
 // GET SINGAPORE DATE
 // ============================================
 
-function getSingaporeDate(dateString) {
+function getSingaporeDate(
+    dateString
+) {
 
     return new Intl.DateTimeFormat(
         "en-CA",
@@ -766,42 +785,18 @@ function getSingaporeDate(dateString) {
             timeZone:
                 "Asia/Singapore",
 
-            year: "numeric",
+            year:
+                "numeric",
 
-            month: "2-digit",
+            month:
+                "2-digit",
 
-            day: "2-digit"
+            day:
+                "2-digit"
         }
     ).format(
         new Date(dateString)
     );
-
-}
-
-
-// ============================================
-// FORMAT DATE LABEL
-// ============================================
-
-function formatDateLabel(dateString) {
-
-    const date =
-        new Date(
-            `${dateString}T00:00:00`
-        );
-
-    return new Intl.DateTimeFormat(
-        "en-SG",
-        {
-            weekday: "short",
-
-            day: "numeric",
-
-            month: "short",
-
-            year: "numeric"
-        }
-    ).format(date);
 
 }
 
@@ -816,10 +811,15 @@ function updateLastUpdated() {
         !lastUpdated ||
         !updateRelative
     ) {
+
         return;
+
     }
 
-    if (!newsData.last_updated) {
+
+    if (
+        !newsData.last_updated
+    ) {
 
         lastUpdated.textContent =
             "Unknown";
@@ -831,10 +831,12 @@ function updateLastUpdated() {
 
     }
 
+
     const date =
         new Date(
             newsData.last_updated
         );
+
 
     if (
         isNaN(
@@ -866,11 +868,15 @@ function updateLastUpdated() {
                 timeStyle:
                     "short"
             }
-        ).format(date);
+        ).format(
+            date
+        );
 
 
     updateRelative.textContent =
-        relativeTime(date);
+        relativeTime(
+            date
+        );
 
 }
 
@@ -889,16 +895,25 @@ function relativeTime(date) {
             ) / 1000
         );
 
-    if (seconds < 60) {
+
+    if (
+        seconds < 60
+    ) {
+
         return "just now";
+
     }
+
 
     const minutes =
         Math.floor(
             seconds / 60
         );
 
-    if (minutes < 60) {
+
+    if (
+        minutes < 60
+    ) {
 
         return (
             `${minutes} minute` +
@@ -912,12 +927,16 @@ function relativeTime(date) {
 
     }
 
+
     const hours =
         Math.floor(
             minutes / 60
         );
 
-    if (hours < 24) {
+
+    if (
+        hours < 24
+    ) {
 
         return (
             `${hours} hour` +
@@ -931,10 +950,12 @@ function relativeTime(date) {
 
     }
 
+
     const days =
         Math.floor(
             hours / 24
         );
+
 
     return (
         `${days} day` +
@@ -977,13 +998,16 @@ function renderArticles() {
     const selectedSource =
         getSelectedSource();
 
+
     const selectedCategory =
         categoryFilter
             ? categoryFilter.value
             : "all";
 
+
     const selectedDate =
         dateFilter.value;
+
 
     const search =
         searchInput.value.trim();
@@ -1018,7 +1042,8 @@ function renderArticles() {
                 // ========================================
 
                 if (
-                    selectedCategory !== "all"
+                    selectedCategory !==
+                    "all"
                 ) {
 
                     const categories =
@@ -1027,6 +1052,7 @@ function renderArticles() {
                         )
                             ? article.categories
                             : [];
+
 
                     if (
                         !categories.includes(
@@ -1045,8 +1071,15 @@ function renderArticles() {
                 // DATE
                 // ========================================
 
+                /*
+                 * dateFilter is now a normal
+                 * <input type="date">.
+                 *
+                 * Empty = all dates.
+                 */
+
                 if (
-                    selectedDate !== "all"
+                    selectedDate
                 ) {
 
                     if (
@@ -1057,10 +1090,12 @@ function renderArticles() {
 
                     }
 
+
                     const articleDate =
                         getSingaporeDate(
                             article.published_at
                         );
+
 
                     if (
                         articleDate !==
@@ -1093,6 +1128,7 @@ function renderArticles() {
 
                 }
 
+
                 return true;
 
             }
@@ -1109,6 +1145,7 @@ function renderArticles() {
             filtered.length.toLocaleString();
 
     }
+
 
     if (summaryDescription) {
 
@@ -1180,16 +1217,20 @@ function renderArticles() {
 // UPDATE PAGE TITLE
 // ============================================
 
-function updatePageTitle(source) {
+function updatePageTitle(
+    source
+) {
 
     const pageTitle =
         document.getElementById(
             "page-title"
         );
 
+
     if (!pageTitle) {
         return;
     }
+
 
     pageTitle.textContent =
         source;
@@ -1201,7 +1242,9 @@ function updatePageTitle(source) {
 // CREATE ARTICLE CARD
 // ============================================
 
-function createArticleCard(article) {
+function createArticleCard(
+    article
+) {
 
     const categories =
         Array.isArray(
@@ -1218,12 +1261,16 @@ function createArticleCard(article) {
     let formattedDate =
         "Unknown date";
 
-    if (article.published_at) {
+
+    if (
+        article.published_at
+    ) {
 
         const published =
             new Date(
                 article.published_at
             );
+
 
         if (
             !isNaN(
@@ -1299,11 +1346,13 @@ function createArticleCard(article) {
             "Untitled article"
         );
 
+
     const description =
         escapeHtml(
             article.description ||
             ""
         );
+
 
     const url =
         escapeAttribute(
@@ -1382,6 +1431,7 @@ function escapeHtml(value) {
 
     }
 
+
     return String(value)
 
         .replaceAll(
@@ -1416,9 +1466,13 @@ function escapeHtml(value) {
 // ESCAPE URL
 // ============================================
 
-function escapeAttribute(value) {
+function escapeAttribute(
+    value
+) {
 
-    return escapeHtml(value);
+    return escapeHtml(
+        value
+    );
 
 }
 
@@ -1427,7 +1481,9 @@ function escapeAttribute(value) {
 // STATUS
 // ============================================
 
-function setStatus(success) {
+function setStatus(
+    success
+) {
 
     if (refreshStatus) {
 
@@ -1437,6 +1493,7 @@ function setStatus(success) {
                 : "Connection error";
 
     }
+
 
     if (statusDot) {
 
@@ -1595,12 +1652,12 @@ if (clearFilters) {
             );
 
 
-            // Reset date
+            // Reset date picker
 
             if (dateFilter) {
 
                 dateFilter.value =
-                    "all";
+                    "";
 
             }
 
