@@ -9,6 +9,59 @@ let newsData = {
 
 
 // ============================================
+// SOURCE / CATEGORY CONFIGURATION
+// ============================================
+
+const SOURCE_CATEGORIES = {
+
+    "CNA": [
+        "Latest News",
+        "Asia",
+        "Business",
+        "Singapore",
+        "Sports",
+        "World",
+        "Today"
+    ],
+
+    "France 24": [
+        "World",
+        "Europe",
+        "France",
+        "Africa",
+        "Middle East",
+        "Americas",
+        "Asia/Pacific"
+    ],
+
+    "BBC": [
+        "World",
+        "UK",
+        "England",
+        "Northern Ireland",
+        "Scotland",
+        "Wales",
+        "Business",
+        "Politics",
+        "Health",
+        "Education & Family",
+        "Science & Environment",
+        "Technology",
+        "Entertainment & Arts"
+    ],
+
+    "SCMP": [
+        "News",
+        "Hong Kong",
+        "China",
+        "Asia",
+        "World"
+    ]
+
+};
+
+
+// ============================================
 // DOM ELEMENTS
 // ============================================
 
@@ -178,8 +231,6 @@ function fuzzyWordMatch(
     }
 
 
-    // Exact match
-
     if (
         textWord.includes(
             searchWord
@@ -190,8 +241,6 @@ function fuzzyWordMatch(
 
     }
 
-
-    // Very short words need stricter matching
 
     if (
         searchWord.length <= 2
@@ -252,11 +301,11 @@ function fuzzySearch(
     }
 
 
-    const sources =
+    const categories =
         Array.isArray(
-            article.sources
+            article.categories
         )
-            ? article.sources.join(" ")
+            ? article.categories.join(" ")
             : "";
 
 
@@ -265,7 +314,8 @@ function fuzzySearch(
             [
                 article.title || "",
                 article.description || "",
-                sources
+                article.source || "",
+                categories
             ].join(" ")
         );
 
@@ -301,9 +351,6 @@ function fuzzySearch(
 
     }
 
-
-    // Every search word must have
-    // a reasonably close match
 
     return queryWords.every(
         searchWord => {
@@ -406,6 +453,8 @@ async function loadNews() {
 
         populateDateFilter();
 
+        updateCategoryFilter();
+
         updateLastUpdated();
 
         renderArticles();
@@ -473,6 +522,157 @@ async function loadNews() {
         }
 
     }
+
+}
+
+
+// ============================================
+// UPDATE CATEGORY DROPDOWN
+// ============================================
+
+function updateCategoryFilter() {
+
+    if (!sourceFilter) {
+        return;
+    }
+
+
+    const selectedSource =
+        sourceFilter.value;
+
+
+    const currentCategory =
+        sourceFilter.dataset.category ||
+        "all";
+
+
+    if (!dateFilter) {
+        return;
+    }
+
+
+    const categories =
+        SOURCE_CATEGORIES[
+            selectedSource
+        ] || [];
+
+
+    const options = [
+
+        {
+            value: "all",
+            label: "All categories"
+        }
+
+    ];
+
+
+    categories.forEach(
+        category => {
+
+            options.push({
+
+                value: category,
+
+                label: category
+
+            });
+
+        }
+    );
+
+
+    const categoryValue =
+        currentCategory;
+
+
+    sourceFilter.dataset.category =
+        "all";
+
+
+    sourceFilter.dispatchEvent(
+        new Event(
+            "category-reset"
+        )
+    );
+
+
+    // The category dropdown is now the
+    // first select in the controls.
+
+}
+
+
+// ============================================
+// SET CATEGORY DROPDOWN
+// ============================================
+
+function populateCategoryFilter(
+    selectedSource,
+    selectedCategory = "all"
+) {
+
+    const categoryFilter =
+        document.getElementById(
+            "category-filter"
+        );
+
+
+    if (!categoryFilter) {
+        return;
+    }
+
+
+    const categories =
+        SOURCE_CATEGORIES[
+            selectedSource
+        ] || [];
+
+
+    categoryFilter.innerHTML = `
+
+        <option value="all">
+            All categories
+        </option>
+
+    `;
+
+
+    categories.forEach(
+        category => {
+
+            const option =
+                document.createElement(
+                    "option"
+                );
+
+
+            option.value =
+                category;
+
+
+            option.textContent =
+                category;
+
+
+            categoryFilter.appendChild(
+                option
+            );
+
+        }
+    );
+
+
+    const exists =
+        categories.includes(
+            selectedCategory
+        );
+
+
+    categoryFilter.value =
+        exists
+            ? selectedCategory
+            : "all";
 
 }
 
@@ -816,6 +1016,18 @@ function renderArticles() {
         sourceFilter.value;
 
 
+    const categoryFilter =
+        document.getElementById(
+            "category-filter"
+        );
+
+
+    const selectedCategory =
+        categoryFilter
+            ? categoryFilter.value
+            : "all";
+
+
     const selectedDate =
         dateFilter.value;
 
@@ -829,24 +1041,40 @@ function renderArticles() {
             article => {
 
 
-                // Source
+                // ========================================
+                // SOURCE
+                // ========================================
 
                 if (
-                    selectedSource !==
+                    article.source !==
+                    selectedSource
+                ) {
+
+                    return false;
+
+                }
+
+
+                // ========================================
+                // CATEGORY
+                // ========================================
+
+                if (
+                    selectedCategory !==
                     "all"
                 ) {
 
-                    const sources =
+                    const categories =
                         Array.isArray(
-                            article.sources
+                            article.categories
                         )
-                            ? article.sources
+                            ? article.categories
                             : [];
 
 
                     if (
-                        !sources.includes(
-                            selectedSource
+                        !categories.includes(
+                            selectedCategory
                         )
                     ) {
 
@@ -857,7 +1085,9 @@ function renderArticles() {
                 }
 
 
-                // Date
+                // ========================================
+                // DATE
+                // ========================================
 
                 if (
                     selectedDate !==
@@ -891,7 +1121,9 @@ function renderArticles() {
                 }
 
 
-                // Fuzzy search
+                // ========================================
+                // FUZZY SEARCH
+                // ========================================
 
                 if (search) {
 
@@ -1011,9 +1243,7 @@ function updatePageTitle(source) {
 
 
     pageTitle.textContent =
-        source === "all"
-            ? "All News"
-            : source;
+        source;
 
 }
 
@@ -1024,11 +1254,11 @@ function updatePageTitle(source) {
 
 function createArticleCard(article) {
 
-    const sources =
+    const categories =
         Array.isArray(
-            article.sources
+            article.categories
         )
-            ? article.sources
+            ? article.categories
             : [];
 
 
@@ -1072,13 +1302,33 @@ function createArticleCard(article) {
     }
 
 
-    const sourceBadges =
-        sources
-            .map(
-                source => `
+    // ========================================
+    // SOURCE BADGE
+    // ========================================
 
-                    <span class="source-badge">
-                        ${escapeHtml(source)}
+    const sourceBadge = `
+
+        <span class="source-badge">
+            ${escapeHtml(
+                article.source ||
+                "Unknown source"
+            )}
+        </span>
+
+    `;
+
+
+    // ========================================
+    // CATEGORY BADGES
+    // ========================================
+
+    const categoryBadges =
+        categories
+            .map(
+                category => `
+
+                    <span class="category-badge">
+                        ${escapeHtml(category)}
                     </span>
 
                 `
@@ -1113,7 +1363,9 @@ function createArticleCard(article) {
 
             <div class="news-meta">
 
-                ${sourceBadges}
+                ${sourceBadge}
+
+                ${categoryBadges}
 
                 <span class="article-time">
                     ${formattedDate}
@@ -1249,6 +1501,60 @@ function setStatus(success) {
 
 
 // ============================================
+// SOURCE TABS
+// ============================================
+
+categoryButtons.forEach(
+    button => {
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                const selectedSource =
+                    button.dataset.source;
+
+
+                categoryButtons.forEach(
+                    item => {
+
+                        item.classList.remove(
+                            "active"
+                        );
+
+                    }
+                );
+
+
+                button.classList.add(
+                    "active"
+                );
+
+
+                if (sourceFilter) {
+
+                    sourceFilter.value =
+                        selectedSource;
+
+                }
+
+
+                populateCategoryFilter(
+                    selectedSource,
+                    "all"
+                );
+
+
+                renderArticles();
+
+            }
+        );
+
+    }
+);
+
+
+// ============================================
 // SOURCE DROPDOWN
 // ============================================
 
@@ -1275,9 +1581,35 @@ if (sourceFilter) {
             );
 
 
+            populateCategoryFilter(
+                selectedSource,
+                "all"
+            );
+
+
             renderArticles();
 
         }
+    );
+
+}
+
+
+// ============================================
+// CATEGORY FILTER
+// ============================================
+
+const categoryFilter =
+    document.getElementById(
+        "category-filter"
+    );
+
+
+if (categoryFilter) {
+
+    categoryFilter.addEventListener(
+        "change",
+        renderArticles
     );
 
 }
@@ -1321,9 +1653,18 @@ if (clearFilters) {
         "click",
         () => {
 
-            if (sourceFilter) {
+            // Keep current source.
+            // Only reset category/date/search.
 
-                sourceFilter.value =
+            const currentSource =
+                sourceFilter
+                    ? sourceFilter.value
+                    : "CNA";
+
+
+            if (categoryFilter) {
+
+                categoryFilter.value =
                     "all";
 
             }
@@ -1345,30 +1686,10 @@ if (clearFilters) {
             }
 
 
-            categoryButtons.forEach(
-                button => {
-
-                    button.classList.remove(
-                        "active"
-                    );
-
-                }
+            populateCategoryFilter(
+                currentSource,
+                "all"
             );
-
-
-            const allButton =
-                document.querySelector(
-                    '.category-button[data-source="all"]'
-                );
-
-
-            if (allButton) {
-
-                allButton.classList.add(
-                    "active"
-                );
-
-            }
 
 
             renderArticles();
@@ -1377,55 +1698,6 @@ if (clearFilters) {
     );
 
 }
-
-
-// ============================================
-// CATEGORY TABS
-// ============================================
-
-categoryButtons.forEach(
-    button => {
-
-        button.addEventListener(
-            "click",
-            () => {
-
-                const selectedSource =
-                    button.dataset.source ||
-                    "all";
-
-
-                categoryButtons.forEach(
-                    item => {
-
-                        item.classList.remove(
-                            "active"
-                        );
-
-                    }
-                );
-
-
-                button.classList.add(
-                    "active"
-                );
-
-
-                if (sourceFilter) {
-
-                    sourceFilter.value =
-                        selectedSource;
-
-                }
-
-
-                renderArticles();
-
-            }
-        );
-
-    }
-);
 
 
 // ============================================
