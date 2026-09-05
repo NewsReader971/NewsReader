@@ -330,7 +330,11 @@ def parse_feed(feed_info):
 
     print()
     print("=" * 70)
-    print(f"Fetching: {feed_info['name']}")
+    print(
+        f"Fetching: "
+        f"{feed_info['source']} - "
+        f"{feed_info['category']}"
+    )
     print(feed_info["url"])
     print("=" * 70)
 
@@ -410,6 +414,14 @@ def parse_feed(feed_info):
 
             "id": article_id,
 
+            "source": [
+                feed_info["source"]
+            ],
+
+            "category": [
+                feed_info["category"]
+            ],
+
             "title": title,
 
             "url": link,
@@ -417,11 +429,7 @@ def parse_feed(feed_info):
             "description": summary,
 
             "published_at":
-                published.isoformat(),
-
-            "sources": [
-                feed_info["name"]
-            ]
+                published.isoformat()
 
         }
 
@@ -525,18 +533,19 @@ def merge_article(
     """
     Merge an article that already exists.
 
-    This is useful because the same CNA article
+    This is useful because the same article
     can appear in multiple feeds.
+
+    Source and category are kept separate.
 
     Example:
 
-        Latest News
-        Singapore
-        Today
+        source:
+        [
+            "CNA"
+        ]
 
-    will become one article with:
-
-        sources:
+        category:
         [
             "Latest News",
             "Singapore",
@@ -544,30 +553,99 @@ def merge_article(
         ]
     """
 
-    existing_sources = set(
-        existing.get(
-            "sources",
-            []
-        )
+    # --------------------------------------------------------
+    # Merge sources
+    # --------------------------------------------------------
+
+    existing_sources = existing.get(
+        "source",
+        []
+    )
+
+    incoming_sources = incoming.get(
+        "source",
+        []
     )
 
 
-    incoming_sources = set(
-        incoming.get(
-            "sources",
-            []
-        )
+    # Support old data where source may
+    # have been stored as a string.
+    if isinstance(
+        existing_sources,
+        str
+    ):
+
+        existing_sources = [
+            existing_sources
+        ]
+
+
+    if isinstance(
+        incoming_sources,
+        str
+    ):
+
+        incoming_sources = [
+            incoming_sources
+        ]
+
+
+    existing["source"] = sorted(
+        set(existing_sources)
+        |
+        set(incoming_sources)
     )
 
 
-    existing["sources"] = sorted(
-        existing_sources |
-        incoming_sources
+    # --------------------------------------------------------
+    # Merge categories
+    # --------------------------------------------------------
+
+    existing_categories = existing.get(
+        "category",
+        []
+    )
+
+    incoming_categories = incoming.get(
+        "category",
+        []
     )
 
 
+    # Support old data where category may
+    # have been stored as a string.
+    if isinstance(
+        existing_categories,
+        str
+    ):
+
+        existing_categories = [
+            existing_categories
+        ]
+
+
+    if isinstance(
+        incoming_categories,
+        str
+    ):
+
+        incoming_categories = [
+            incoming_categories
+        ]
+
+
+    existing["category"] = sorted(
+        set(existing_categories)
+        |
+        set(incoming_categories)
+    )
+
+
+    # --------------------------------------------------------
     # If incoming description is better,
     # use it.
+    # --------------------------------------------------------
+
     if (
         len(
             incoming.get(
@@ -589,7 +667,10 @@ def merge_article(
         )
 
 
+    # --------------------------------------------------------
     # Make sure URL exists
+    # --------------------------------------------------------
+
     if not existing.get("url"):
 
         existing["url"] = (
@@ -600,13 +681,41 @@ def merge_article(
         )
 
 
+    # --------------------------------------------------------
     # Make sure title exists
+    # --------------------------------------------------------
+
     if not existing.get("title"):
 
         existing["title"] = (
             incoming.get(
                 "title",
                 "No title"
+            )
+        )
+
+
+    # --------------------------------------------------------
+    # Make sure source/category exist
+    # for older articles.
+    # --------------------------------------------------------
+
+    if not existing.get("source"):
+
+        existing["source"] = (
+            incoming.get(
+                "source",
+                []
+            )
+        )
+
+
+    if not existing.get("category"):
+
+        existing["category"] = (
+            incoming.get(
+                "category",
+                []
             )
         )
 
@@ -775,7 +884,7 @@ def main():
 
     print()
     print("=" * 70)
-    print("CNA RSS NEWS COLLECTOR")
+    print("NEWS RSS COLLECTOR")
     print("=" * 70)
 
     print()
@@ -889,7 +998,8 @@ def main():
             print()
             print(
                 f"ERROR: "
-                f"{feed_info['name']}"
+                f"{feed_info['source']} - "
+                f"{feed_info['category']}"
             )
 
             print(
