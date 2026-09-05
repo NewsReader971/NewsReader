@@ -149,17 +149,33 @@ function levenshteinDistance(a, b) {
 
     const matrix = [];
 
-    for (let i = 0; i <= b.length; i++) {
+    for (
+        let i = 0;
+        i <= b.length;
+        i++
+    ) {
         matrix[i] = [i];
     }
 
-    for (let j = 0; j <= a.length; j++) {
+    for (
+        let j = 0;
+        j <= a.length;
+        j++
+    ) {
         matrix[0][j] = j;
     }
 
-    for (let i = 1; i <= b.length; i++) {
+    for (
+        let i = 1;
+        i <= b.length;
+        i++
+    ) {
 
-        for (let j = 1; j <= a.length; j++) {
+        for (
+            let j = 1;
+            j <= a.length;
+            j++
+        ) {
 
             if (
                 b.charAt(i - 1) ===
@@ -173,9 +189,13 @@ function levenshteinDistance(a, b) {
 
                 matrix[i][j] =
                     Math.min(
+
                         matrix[i - 1][j] + 1,
+
                         matrix[i][j - 1] + 1,
+
                         matrix[i - 1][j - 1] + 1
+
                     );
 
             }
@@ -203,19 +223,17 @@ function fuzzyWordMatch(
     }
 
     if (
-        textWord.includes(searchWord)
+        textWord.includes(
+            searchWord
+        )
     ) {
-
         return true;
-
     }
 
     if (
         searchWord.length <= 2
     ) {
-
         return false;
-
     }
 
     const distance =
@@ -287,9 +305,7 @@ function fuzzySearch(
             query
         )
     ) {
-
         return true;
-
     }
 
     const queryWords =
@@ -305,9 +321,7 @@ function fuzzySearch(
     if (
         queryWords.length === 0
     ) {
-
         return true;
-
     }
 
     return queryWords.every(
@@ -328,7 +342,190 @@ function fuzzySearch(
 
 
 // ============================================
-// POPULATE CATEGORY FILTER
+// LOAD NEWS.JSON
+// ============================================
+
+async function loadNews() {
+
+    try {
+
+        if (refreshStatus) {
+            refreshStatus.textContent =
+                "Updating...";
+        }
+
+        const cacheBuster =
+            `?t=${Date.now()}`;
+
+        const response =
+            await fetch(
+                DATA_URL +
+                cacheBuster,
+                {
+                    cache: "no-store"
+                }
+            );
+
+        if (!response.ok) {
+
+            throw new Error(
+                `HTTP ${response.status}`
+            );
+
+        }
+
+        const data =
+            await response.json();
+
+        // Keep the same basic data structure
+        // as the original news display.
+
+        newsData = {
+
+            last_updated:
+                data.last_updated ||
+                null,
+
+            articles:
+                Array.isArray(
+                    data.articles
+                )
+                    ? data.articles
+                    : []
+
+        };
+
+        // Make sure every article has
+        // the new source/categories structure.
+
+        newsData.articles.forEach(
+            article => {
+
+                if (
+                    typeof article.source !==
+                    "string"
+                ) {
+
+                    article.source = "";
+
+                }
+
+                if (
+                    !Array.isArray(
+                        article.categories
+                    )
+                ) {
+
+                    article.categories = [];
+
+                }
+
+            }
+        );
+
+        // Newest first
+
+        newsData.articles.sort(
+            (a, b) => {
+
+                const dateA =
+                    new Date(
+                        a.published_at ||
+                        0
+                    );
+
+                const dateB =
+                    new Date(
+                        b.published_at ||
+                        0
+                    );
+
+                return dateB - dateA;
+
+            }
+        );
+
+        populateDateFilter();
+
+        // Populate categories for the
+        // currently selected source.
+
+        if (sourceFilter) {
+
+            populateCategoryFilter(
+                sourceFilter.value,
+                "all"
+            );
+
+        }
+
+        updateLastUpdated();
+
+        renderArticles();
+
+        setStatus(true);
+
+    } catch (error) {
+
+        console.error(
+            "Failed to load news:",
+            error
+        );
+
+        setStatus(false);
+
+        if (refreshStatus) {
+
+            refreshStatus.textContent =
+                "Unable to update";
+
+        }
+
+        if (
+            newsData.articles.length === 0 &&
+            newsContainer
+        ) {
+
+            newsContainer.innerHTML = `
+
+                <div class="error-box">
+
+                    <strong>
+                        Unable to load the news
+                    </strong>
+
+                    <span>
+                        The news database could not
+                        be loaded. Please try again later.
+                    </span>
+
+                </div>
+
+            `;
+
+            if (articleCount) {
+
+                articleCount.textContent =
+                    "Unable to load";
+
+            }
+
+            if (summaryDescription) {
+
+                summaryDescription.textContent =
+                    "";
+
+            }
+
+        }
+
+    }
+
+}
+
+
+// ============================================
+// POPULATE CATEGORY DROPDOWN
 // ============================================
 
 function populateCategoryFilter(
@@ -345,24 +542,28 @@ function populateCategoryFilter(
             selectedSource
         ] || [];
 
-    // Clear existing categories
+    // Clear existing categories.
 
     categoryFilter.innerHTML = "";
 
-    // Add "All categories"
+    // All categories option.
 
     const allOption =
-        document.createElement("option");
+        document.createElement(
+            "option"
+        );
 
     allOption.value = "all";
-    allOption.textContent = "All categories";
+
+    allOption.textContent =
+        "All categories";
 
     categoryFilter.appendChild(
         allOption
     );
 
-    // Add categories belonging to
-    // the selected source only.
+    // Add categories belonging ONLY
+    // to the selected source.
 
     categories.forEach(
         category => {
@@ -385,8 +586,8 @@ function populateCategoryFilter(
         }
     );
 
-    // Only restore the category if
-    // it belongs to this source.
+    // Restore category only if it
+    // actually exists for this source.
 
     if (
         categories.includes(
@@ -451,9 +652,11 @@ function populateDateFilter() {
     );
 
     dateFilter.innerHTML = `
+
         <option value="all">
             All dates
         </option>
+
     `;
 
     Array.from(dates)
@@ -510,9 +713,13 @@ function getSingaporeDate(dateString) {
     return new Intl.DateTimeFormat(
         "en-CA",
         {
-            timeZone: "Asia/Singapore",
+            timeZone:
+                "Asia/Singapore",
+
             year: "numeric",
+
             month: "2-digit",
+
             day: "2-digit"
         }
     ).format(
@@ -537,8 +744,11 @@ function formatDateLabel(dateString) {
         "en-SG",
         {
             weekday: "short",
+
             day: "numeric",
+
             month: "short",
+
             year: "numeric"
         }
     ).format(date);
@@ -556,9 +766,7 @@ function updateLastUpdated() {
         !lastUpdated ||
         !updateRelative
     ) {
-
         return;
-
     }
 
     if (!newsData.last_updated) {
@@ -598,9 +806,14 @@ function updateLastUpdated() {
         new Intl.DateTimeFormat(
             "en-SG",
             {
-                timeZone: "Asia/Singapore",
-                dateStyle: "medium",
-                timeStyle: "short"
+                timeZone:
+                    "Asia/Singapore",
+
+                dateStyle:
+                    "medium",
+
+                timeStyle:
+                    "short"
             }
         ).format(date);
 
@@ -685,173 +898,6 @@ function relativeTime(date) {
 
 
 // ============================================
-// LOAD NEWS.JSON
-// ============================================
-
-async function loadNews() {
-
-    try {
-
-        if (refreshStatus) {
-
-            refreshStatus.textContent =
-                "Updating...";
-
-        }
-
-        const cacheBuster =
-            `?t=${Date.now()}`;
-
-        const response =
-            await fetch(
-                DATA_URL +
-                cacheBuster,
-                {
-                    cache: "no-store"
-                }
-            );
-
-        if (!response.ok) {
-
-            throw new Error(
-                `HTTP ${response.status} while loading ${DATA_URL}`
-            );
-
-        }
-
-        const data =
-            await response.json();
-
-        if (
-            !data ||
-            typeof data !== "object"
-        ) {
-
-            throw new Error(
-                "news.json does not contain a valid JSON object"
-            );
-
-        }
-
-        newsData = {
-
-            last_updated:
-                data.last_updated ||
-                null,
-
-            articles:
-                Array.isArray(
-                    data.articles
-                )
-                    ? data.articles
-                    : []
-
-        };
-
-        // Newest articles first
-
-        newsData.articles.sort(
-            (a, b) => {
-
-                const dateA =
-                    new Date(
-                        a.published_at ||
-                        0
-                    );
-
-                const dateB =
-                    new Date(
-                        b.published_at ||
-                        0
-                    );
-
-                return dateB - dateA;
-
-            }
-        );
-
-        // Get currently selected source
-
-        const selectedSource =
-            sourceFilter
-                ? sourceFilter.value
-                : "CNA";
-
-        // Rebuild category dropdown
-        // for the current source
-
-        populateCategoryFilter(
-            selectedSource,
-            "all"
-        );
-
-        populateDateFilter();
-
-        updateLastUpdated();
-
-        renderArticles();
-
-        setStatus(true);
-
-    } catch (error) {
-
-        console.error(
-            "Failed to load news:",
-            error
-        );
-
-        setStatus(false);
-
-        if (refreshStatus) {
-
-            refreshStatus.textContent =
-                "Unable to update";
-
-        }
-
-        if (newsContainer) {
-
-            newsContainer.innerHTML = `
-
-                <div class="error-box">
-
-                    <strong>
-                        Unable to load the news
-                    </strong>
-
-                    <span>
-                        ${escapeHtml(
-                            error.message ||
-                            "Unknown error"
-                        )}
-                    </span>
-
-                </div>
-
-            `;
-
-        }
-
-        if (articleCount) {
-
-            articleCount.textContent =
-                "0";
-
-        }
-
-        if (summaryDescription) {
-
-            summaryDescription.textContent =
-                "articles";
-
-        }
-
-    }
-
-}
-
-
-// ============================================
 // FILTER AND RENDER ARTICLES
 // ============================================
 
@@ -863,9 +909,7 @@ function renderArticles() {
         !dateFilter ||
         !searchInput
     ) {
-
         return;
-
     }
 
     const selectedSource =
@@ -891,6 +935,7 @@ function renderArticles() {
                 // ========================================
 
                 if (
+                    selectedSource !== "all" &&
                     article.source !==
                     selectedSource
                 ) {
@@ -899,13 +944,13 @@ function renderArticles() {
 
                 }
 
+
                 // ========================================
                 // CATEGORY
                 // ========================================
 
                 if (
-                    selectedCategory !==
-                    "all"
+                    selectedCategory !== "all"
                 ) {
 
                     const categories =
@@ -927,13 +972,13 @@ function renderArticles() {
 
                 }
 
+
                 // ========================================
                 // DATE
                 // ========================================
 
                 if (
-                    selectedDate !==
-                    "all"
+                    selectedDate !== "all"
                 ) {
 
                     if (
@@ -959,6 +1004,7 @@ function renderArticles() {
                     }
 
                 }
+
 
                 // ========================================
                 // SEARCH
@@ -1160,7 +1206,9 @@ function createArticleCard(article) {
                 category => `
 
                     <span class="category-badge">
-                        ${escapeHtml(category)}
+                        ${escapeHtml(
+                            category
+                        )}
                     </span>
 
                 `
@@ -1374,8 +1422,7 @@ categoryButtons.forEach(
 
 
                 // IMPORTANT:
-                // Changing source resets the
-                // category to "All categories".
+                // Changing source resets category.
 
                 populateCategoryFilter(
                     selectedSource,
@@ -1383,7 +1430,7 @@ categoryButtons.forEach(
                 );
 
 
-                // Render articles for new source
+                // Re-render articles
 
                 renderArticles();
 
@@ -1408,7 +1455,7 @@ if (sourceFilter) {
                 sourceFilter.value;
 
 
-            // Keep source tabs synchronized
+            // Update active source tab
 
             categoryButtons.forEach(
                 button => {
@@ -1424,8 +1471,8 @@ if (sourceFilter) {
 
 
             // IMPORTANT:
-            // Changing source resets category
-            // and rebuilds the dropdown.
+            // Rebuild categories based on
+            // the newly selected source.
 
             populateCategoryFilter(
                 selectedSource,
@@ -1433,7 +1480,8 @@ if (sourceFilter) {
             );
 
 
-            // Render new source
+            // Render the articles for
+            // the new source.
 
             renderArticles();
 
@@ -1451,7 +1499,11 @@ if (categoryFilter) {
 
     categoryFilter.addEventListener(
         "change",
-        renderArticles
+        () => {
+
+            renderArticles();
+
+        }
     );
 
 }
@@ -1465,7 +1517,11 @@ if (dateFilter) {
 
     dateFilter.addEventListener(
         "change",
-        renderArticles
+        () => {
+
+            renderArticles();
+
+        }
     );
 
 }
@@ -1479,7 +1535,11 @@ if (searchInput) {
 
     searchInput.addEventListener(
         "input",
-        renderArticles
+        () => {
+
+            renderArticles();
+
+        }
     );
 
 }
@@ -1495,8 +1555,7 @@ if (clearFilters) {
         "click",
         () => {
 
-            // Keep current source.
-            // Reset category/date/search.
+            // Keep the currently selected source.
 
             const currentSource =
                 sourceFilter
@@ -1504,13 +1563,15 @@ if (clearFilters) {
                     : "CNA";
 
 
-            if (categoryFilter) {
+            // Reset category.
 
-                categoryFilter.value =
-                    "all";
+            populateCategoryFilter(
+                currentSource,
+                "all"
+            );
 
-            }
 
+            // Reset date.
 
             if (dateFilter) {
 
@@ -1520,18 +1581,14 @@ if (clearFilters) {
             }
 
 
+            // Reset search.
+
             if (searchInput) {
 
                 searchInput.value =
                     "";
 
             }
-
-
-            populateCategoryFilter(
-                currentSource,
-                "all"
-            );
 
 
             renderArticles();
@@ -1563,16 +1620,7 @@ setInterval(
 
 
 // ============================================
-// INITIALIZE
+// INITIAL LOAD
 // ============================================
-
-if (sourceFilter) {
-
-    populateCategoryFilter(
-        sourceFilter.value,
-        "all"
-    );
-
-}
 
 loadNews();
