@@ -125,16 +125,15 @@ function getSelectedSource() {
 
 
 // ============================================
-// SEARCH SETTINGS
+// SEARCH
 // ============================================
 
-const FUZZY_THRESHOLD = 0.65;
+const FUZZY_THRESHOLD = 0.60;
 
 
-// ============================================
-// NORMALIZE SEARCH TEXT
-// ============================================
-
+/**
+ * Normalize text for searching.
+ */
 function normalizeText(text) {
 
     return String(text || "")
@@ -148,10 +147,9 @@ function normalizeText(text) {
 }
 
 
-// ============================================
-// LEVENSHTEIN DISTANCE
-// ============================================
-
+/**
+ * Levenshtein distance.
+ */
 function levenshteinDistance(a, b) {
 
     if (a === b) {
@@ -166,144 +164,111 @@ function levenshteinDistance(a, b) {
         return a.length;
     }
 
-    const matrix = [];
+    const previousRow =
+        Array.from(
+            { length: b.length + 1 },
+            (_, i) => i
+        );
 
-    for (
-        let i = 0;
-        i <= b.length;
-        i++
-    ) {
-        matrix[i] = [i];
-    }
+    for (let i = 1; i <= a.length; i++) {
 
-    for (
-        let j = 0;
-        j <= a.length;
-        j++
-    ) {
-        matrix[0][j] = j;
-    }
+        const currentRow = [i];
 
-    for (
-        let i = 1;
-        i <= b.length;
-        i++
-    ) {
+        for (let j = 1; j <= b.length; j++) {
 
-        for (
-            let j = 1;
-            j <= a.length;
-            j++
-        ) {
+            const insertCost =
+                currentRow[j - 1] + 1;
 
-            if (
-                b.charAt(i - 1) ===
-                a.charAt(j - 1)
-            ) {
+            const deleteCost =
+                previousRow[j] + 1;
 
-                matrix[i][j] =
-                    matrix[i - 1][j];
+            const replaceCost =
+                previousRow[j - 1] +
+                (
+                    a[i - 1] === b[j - 1]
+                        ? 0
+                        : 1
+                );
 
-            } else {
+            currentRow[j] =
+                Math.min(
+                    insertCost,
+                    deleteCost,
+                    replaceCost
+                );
 
-                matrix[i][j] =
-                    Math.min(
+        }
 
-                        matrix[i - 1][j] + 1,
-
-                        matrix[i][j - 1] + 1,
-
-                        matrix[i - 1][j - 1] + 1
-
-                    );
-
-            }
-
+        for (let j = 0; j < currentRow.length; j++) {
+            previousRow[j] = currentRow[j];
         }
 
     }
 
-    return matrix[b.length][a.length];
+    return previousRow[b.length];
 
 }
 
+function wordSimilarity(a, b) {
 
-// ============================================
-// FUZZY WORD MATCH
-// ============================================
+    if (!a || !b) {
+        return 0;
+    }
 
-function fuzzyWordMatch(
-    searchWord,
-    textWord
-) {
+    if (a === b) {
+        return 1;
+    }
 
-    if (!searchWord || !textWord) {
-        return false;
+    // Partial match
+    if (
+        a.length >= 3 &&
+        b.includes(a)
+    ) {
+        return 0.95;
     }
 
     if (
-        textWord.includes(
-            searchWord
-        )
+        b.length >= 3 &&
+        a.includes(b)
     ) {
-        return true;
-    }
-
-    if (
-        searchWord.length <= 2
-    ) {
-        return false;
+        return 0.90;
     }
 
     const distance =
-        levenshteinDistance(
-            searchWord,
-            textWord
-        );
+        levenshteinDistance(a, b);
 
     const maxLength =
         Math.max(
-            searchWord.length,
-            textWord.length
+            a.length,
+            b.length
         );
 
-    const similarity =
-        1 -
-        (
-            distance /
-            maxLength
-        );
+    if (!maxLength) {
+        return 0;
+    }
 
-    return (
-        similarity >=
-        FUZZY_THRESHOLD
+    return 1 - (
+        distance / maxLength
     );
 
 }
 
-
-// ============================================
-// FUZZY SEARCH
-// ============================================
-
-function fuzzySearch(
-    searchQuery,
-    article
-) {
+function fuzzySearch(searchQuery, article) {
 
     const query =
-        normalizeText(
-            searchQuery
-        );
+        normalizeText(searchQuery);
 
     if (!query) {
         return true;
     }
 
+
+    // ----------------------------------------
+    // BUILD SEARCHABLE TEXT
+    // ----------------------------------------
+
     const categories =
-        Array.isArray(
-            article.categories
-        )
+        Array.isArray(article.categories)
             ? article.categories.join(" ")
             : "";
 
@@ -317,47 +282,80 @@ function fuzzySearch(
             ].join(" ")
         );
 
-    // Exact phrase match
+
+    // ----------------------------------------
+    // EXACT PHRASE
+    // ----------------------------------------
 
     if (
-        searchableText.includes(
-            query
-        )
+        searchableText.includes(query)
     ) {
         return true;
     }
+
+
+    // ----------------------------------------
+    // QUERY WORDS
+    // ----------------------------------------
 
     const queryWords =
         query
-            .split(" ")
+            .split(/\s+/)
             .filter(Boolean);
+
 
     const textWords =
         searchableText
-            .split(" ")
+            .split(/\s+/)
             .filter(Boolean);
 
-    if (
-        queryWords.length === 0
-    ) {
+
+    if (!queryWords.length) {
         return true;
     }
+
+
+    // ----------------------------------------
+    // EVERY QUERY WORD MUST MATCH
+    // ----------------------------------------
 
     return queryWords.every(
         searchWord => {
 
+            // Very short words should use
+            // exact matching only.
+            if (searchWord.length <= 2) {
+
+                return textWords.some(
+                    textWord =>
+                        textWord === searchWord
+                );
+
+            }
+
+
             return textWords.some(
-                textWord =>
-                    fuzzyWordMatch(
-                        searchWord,
-                        textWord
-                    )
+                textWord => {
+
+                    const similarity =
+                        wordSimilarity(
+                            searchWord,
+                            textWord
+                        );
+
+                    return (
+                        similarity >=
+                        FUZZY_THRESHOLD
+                    );
+
+                }
             );
 
         }
     );
 
 }
+
 
 
 // ============================================
