@@ -13,35 +13,190 @@ from pathlib import Path
 # ============================================================
 
 FEEDS = [
+    # ========================================================
+    # CHANNEL NEWSASIA (CNA)
+    # ========================================================
+
     {
-        "name": "Latest News",
+        "source": "CNA",
+        "category": "Latest News",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
     },
     {
-        "name": "Asia",
+        "source": "CNA",
+        "category": "Asia",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511",
     },
     {
-        "name": "Business",
+        "source": "CNA",
+        "category": "Business",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936",
     },
     {
-        "name": "Singapore",
+        "source": "CNA",
+        "category": "Singapore",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416",
     },
     {
-        "name": "Sports",
+        "source": "CNA",
+        "category": "Sports",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10296",
     },
     {
-        "name": "World",
+        "source": "CNA",
+        "category": "World",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311",
     },
     {
-        "name": "Today",
+        "source": "CNA",
+        "category": "Today",
         "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=679471",
     },
+
+
+    # ========================================================
+    # FRANCE 24
+    # ========================================================
+
+    {
+        "source": "France 24",
+        "category": "World",
+        "url": "https://www.france24.com/en/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "Europe",
+        "url": "https://www.france24.com/en/europe/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "France",
+        "url": "https://www.france24.com/en/france/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "Africa",
+        "url": "https://www.france24.com/en/africa/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "Middle East",
+        "url": "https://www.france24.com/en/middle-east/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "Americas",
+        "url": "https://www.france24.com/en/americas/rss",
+    },
+    {
+        "source": "France 24",
+        "category": "Asia/Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/rss",
+    },
+
+
+    # ========================================================
+    # BBC
+    # ========================================================
+
+    {
+        "source": "BBC",
+        "category": "World",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "UK",
+        "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "England",
+        "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Northern Ireland",
+        "url": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Scotland",
+        "url": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Wales",
+        "url": "https://feeds.bbci.co.uk/news/wales/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Business",
+        "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Politics",
+        "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Health",
+        "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Education & Family",
+        "url": "https://feeds.bbci.co.uk/news/education/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Science & Environment",
+        "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Technology",
+        "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    },
+    {
+        "source": "BBC",
+        "category": "Entertainment & Arts",
+        "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    },
+
+
+    # ========================================================
+    # SOUTH CHINA MORNING POST (SCMP)
+    # ========================================================
+
+    {
+        "source": "SCMP",
+        "category": "News",
+        "url": "https://www.scmp.com/rss/91/feed",
+    },
+    {
+        "source": "SCMP",
+        "category": "Hong Kong",
+        "url": "https://www.scmp.com/rss/2/feed",
+    },
+    {
+        "source": "SCMP",
+        "category": "China",
+        "url": "https://www.scmp.com/rss/4/feed",
+    },
+    {
+        "source": "SCMP",
+        "category": "Asia",
+        "url": "https://www.scmp.com/rss/3/feed",
+    },
+    {
+        "source": "SCMP",
+        "category": "World",
+        "url": "https://www.scmp.com/rss/5/feed",
+    },
 ]
+
 
 # JSON database
 DATA_FILE = Path("data/news.json")
