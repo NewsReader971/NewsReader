@@ -83,6 +83,9 @@ const updateRelative =
 const sourceFilter =
     document.getElementById("source-filter");
 
+const categoryFilter =
+    document.getElementById("category-filter");
+
 const dateFilter =
     document.getElementById("date-filter");
 
@@ -136,53 +139,27 @@ function levenshteinDistance(a, b) {
         return 0;
     }
 
-
     if (!a.length) {
         return b.length;
     }
-
 
     if (!b.length) {
         return a.length;
     }
 
-
     const matrix = [];
 
-
-    for (
-        let i = 0;
-        i <= b.length;
-        i++
-    ) {
-
+    for (let i = 0; i <= b.length; i++) {
         matrix[i] = [i];
-
     }
 
-
-    for (
-        let j = 0;
-        j <= a.length;
-        j++
-    ) {
-
+    for (let j = 0; j <= a.length; j++) {
         matrix[0][j] = j;
-
     }
 
+    for (let i = 1; i <= b.length; i++) {
 
-    for (
-        let i = 1;
-        i <= b.length;
-        i++
-    ) {
-
-        for (
-            let j = 1;
-            j <= a.length;
-            j++
-        ) {
+        for (let j = 1; j <= a.length; j++) {
 
             if (
                 b.charAt(i - 1) ===
@@ -190,19 +167,15 @@ function levenshteinDistance(a, b) {
             ) {
 
                 matrix[i][j] =
-                    matrix[i - 1][j - 1];
+                    matrix[i - 1][j];
 
             } else {
 
                 matrix[i][j] =
                     Math.min(
-
                         matrix[i - 1][j] + 1,
-
                         matrix[i][j - 1] + 1,
-
                         matrix[i - 1][j - 1] + 1
-
                     );
 
             }
@@ -210,7 +183,6 @@ function levenshteinDistance(a, b) {
         }
 
     }
-
 
     return matrix[b.length][a.length];
 
@@ -230,17 +202,13 @@ function fuzzyWordMatch(
         return false;
     }
 
-
     if (
-        textWord.includes(
-            searchWord
-        )
+        textWord.includes(searchWord)
     ) {
 
         return true;
 
     }
-
 
     if (
         searchWord.length <= 2
@@ -250,13 +218,11 @@ function fuzzyWordMatch(
 
     }
 
-
     const distance =
         levenshteinDistance(
             searchWord,
             textWord
         );
-
 
     const maxLength =
         Math.max(
@@ -264,14 +230,12 @@ function fuzzyWordMatch(
             textWord.length
         );
 
-
     const similarity =
         1 -
         (
             distance /
             maxLength
         );
-
 
     return (
         similarity >=
@@ -295,11 +259,9 @@ function fuzzySearch(
             searchQuery
         );
 
-
     if (!query) {
         return true;
     }
-
 
     const categories =
         Array.isArray(
@@ -307,7 +269,6 @@ function fuzzySearch(
         )
             ? article.categories.join(" ")
             : "";
-
 
     const searchableText =
         normalizeText(
@@ -318,7 +279,6 @@ function fuzzySearch(
                 categories
             ].join(" ")
         );
-
 
     // Exact phrase match
 
@@ -332,16 +292,15 @@ function fuzzySearch(
 
     }
 
-
     const queryWords =
-        query.split(" ")
+        query
+            .split(" ")
             .filter(Boolean);
-
 
     const textWords =
-        searchableText.split(" ")
+        searchableText
+            .split(" ")
             .filter(Boolean);
-
 
     if (
         queryWords.length === 0
@@ -350,7 +309,6 @@ function fuzzySearch(
         return true;
 
     }
-
 
     return queryWords.every(
         searchWord => {
@@ -370,241 +328,7 @@ function fuzzySearch(
 
 
 // ============================================
-// LOAD NEWS.JSON
-// ============================================
-
-async function loadNews() {
-
-    try {
-
-        if (refreshStatus) {
-
-            refreshStatus.textContent =
-                "Updating...";
-
-        }
-
-
-        const cacheBuster =
-            `?t=${Date.now()}`;
-
-
-        const response =
-            await fetch(
-                DATA_URL +
-                cacheBuster,
-                {
-                    cache: "no-store"
-                }
-            );
-
-
-        if (!response.ok) {
-
-            throw new Error(
-                `HTTP ${response.status}`
-            );
-
-        }
-
-
-        const data =
-            await response.json();
-
-
-        newsData = {
-
-            last_updated:
-                data.last_updated ||
-                null,
-
-            articles:
-                Array.isArray(
-                    data.articles
-                )
-                    ? data.articles
-                    : []
-
-        };
-
-
-        // Newest first
-
-        newsData.articles.sort(
-            (a, b) => {
-
-                const dateA =
-                    new Date(
-                        a.published_at ||
-                        0
-                    );
-
-                const dateB =
-                    new Date(
-                        b.published_at ||
-                        0
-                    );
-
-                return dateB - dateA;
-
-            }
-        );
-
-
-        populateDateFilter();
-
-        updateCategoryFilter();
-
-        updateLastUpdated();
-
-        renderArticles();
-
-        setStatus(true);
-
-
-    } catch (error) {
-
-        console.error(
-            "Failed to load news:",
-            error
-        );
-
-
-        setStatus(false);
-
-
-        if (refreshStatus) {
-
-            refreshStatus.textContent =
-                "Unable to update";
-
-        }
-
-
-        if (
-            newsData.articles.length === 0 &&
-            newsContainer
-        ) {
-
-            newsContainer.innerHTML = `
-
-                <div class="error-box">
-
-                    <strong>
-                        Unable to load the news
-                    </strong>
-
-                    <span>
-                        The news database could not
-                        be loaded. Please try again later.
-                    </span>
-
-                </div>
-
-            `;
-
-
-            if (articleCount) {
-
-                articleCount.textContent =
-                    "Unable to load";
-
-            }
-
-
-            if (summaryDescription) {
-
-                summaryDescription.textContent =
-                    "";
-
-            }
-
-        }
-
-    }
-
-}
-
-
-// ============================================
-// UPDATE CATEGORY DROPDOWN
-// ============================================
-
-function updateCategoryFilter() {
-
-    if (!sourceFilter) {
-        return;
-    }
-
-
-    const selectedSource =
-        sourceFilter.value;
-
-
-    const currentCategory =
-        sourceFilter.dataset.category ||
-        "all";
-
-
-    if (!dateFilter) {
-        return;
-    }
-
-
-    const categories =
-        SOURCE_CATEGORIES[
-            selectedSource
-        ] || [];
-
-
-    const options = [
-
-        {
-            value: "all",
-            label: "All categories"
-        }
-
-    ];
-
-
-    categories.forEach(
-        category => {
-
-            options.push({
-
-                value: category,
-
-                label: category
-
-            });
-
-        }
-    );
-
-
-    const categoryValue =
-        currentCategory;
-
-
-    sourceFilter.dataset.category =
-        "all";
-
-
-    sourceFilter.dispatchEvent(
-        new Event(
-            "category-reset"
-        )
-    );
-
-
-    // The category dropdown is now the
-    // first select in the controls.
-
-}
-
-
-// ============================================
-// SET CATEGORY DROPDOWN
+// POPULATE CATEGORY FILTER
 // ============================================
 
 function populateCategoryFilter(
@@ -612,31 +336,33 @@ function populateCategoryFilter(
     selectedCategory = "all"
 ) {
 
-    const categoryFilter =
-        document.getElementById(
-            "category-filter"
-        );
-
-
     if (!categoryFilter) {
         return;
     }
-
 
     const categories =
         SOURCE_CATEGORIES[
             selectedSource
         ] || [];
 
+    // Clear existing categories
 
-    categoryFilter.innerHTML = `
+    categoryFilter.innerHTML = "";
 
-        <option value="all">
-            All categories
-        </option>
+    // Add "All categories"
 
-    `;
+    const allOption =
+        document.createElement("option");
 
+    allOption.value = "all";
+    allOption.textContent = "All categories";
+
+    categoryFilter.appendChild(
+        allOption
+    );
+
+    // Add categories belonging to
+    // the selected source only.
 
     categories.forEach(
         category => {
@@ -646,14 +372,11 @@ function populateCategoryFilter(
                     "option"
                 );
 
-
             option.value =
                 category;
 
-
             option.textContent =
                 category;
-
 
             categoryFilter.appendChild(
                 option
@@ -662,17 +385,24 @@ function populateCategoryFilter(
         }
     );
 
+    // Only restore the category if
+    // it belongs to this source.
 
-    const exists =
+    if (
         categories.includes(
             selectedCategory
-        );
+        )
+    ) {
 
+        categoryFilter.value =
+            selectedCategory;
 
-    categoryFilter.value =
-        exists
-            ? selectedCategory
-            : "all";
+    } else {
+
+        categoryFilter.value =
+            "all";
+
+    }
 
 }
 
@@ -687,14 +417,11 @@ function populateDateFilter() {
         return;
     }
 
-
     const currentValue =
         dateFilter.value;
 
-
     const dates =
         new Set();
-
 
     newsData.articles.forEach(
         article => {
@@ -702,7 +429,6 @@ function populateDateFilter() {
             if (!article.published_at) {
                 return;
             }
-
 
             try {
 
@@ -724,15 +450,11 @@ function populateDateFilter() {
         }
     );
 
-
     dateFilter.innerHTML = `
-
         <option value="all">
             All dates
         </option>
-
     `;
-
 
     Array.from(dates)
         .sort()
@@ -745,16 +467,13 @@ function populateDateFilter() {
                         "option"
                     );
 
-
                 option.value =
                     date;
-
 
                 option.textContent =
                     formatDateLabel(
                         date
                     );
-
 
                 dateFilter.appendChild(
                     option
@@ -762,7 +481,6 @@ function populateDateFilter() {
 
             }
         );
-
 
     const optionExists =
         Array.from(
@@ -772,7 +490,6 @@ function populateDateFilter() {
                 option.value ===
                 currentValue
         );
-
 
     if (optionExists) {
 
@@ -793,13 +510,9 @@ function getSingaporeDate(dateString) {
     return new Intl.DateTimeFormat(
         "en-CA",
         {
-            timeZone:
-                "Asia/Singapore",
-
+            timeZone: "Asia/Singapore",
             year: "numeric",
-
             month: "2-digit",
-
             day: "2-digit"
         }
     ).format(
@@ -820,16 +533,12 @@ function formatDateLabel(dateString) {
             `${dateString}T00:00:00`
         );
 
-
     return new Intl.DateTimeFormat(
         "en-SG",
         {
             weekday: "short",
-
             day: "numeric",
-
             month: "short",
-
             year: "numeric"
         }
     ).format(date);
@@ -852,7 +561,6 @@ function updateLastUpdated() {
 
     }
 
-
     if (!newsData.last_updated) {
 
         lastUpdated.textContent =
@@ -865,12 +573,10 @@ function updateLastUpdated() {
 
     }
 
-
     const date =
         new Date(
             newsData.last_updated
         );
-
 
     if (
         isNaN(
@@ -888,22 +594,15 @@ function updateLastUpdated() {
 
     }
 
-
     lastUpdated.textContent =
         new Intl.DateTimeFormat(
             "en-SG",
             {
-                timeZone:
-                    "Asia/Singapore",
-
-                dateStyle:
-                    "medium",
-
-                timeStyle:
-                    "short"
+                timeZone: "Asia/Singapore",
+                dateStyle: "medium",
+                timeStyle: "short"
             }
         ).format(date);
-
 
     updateRelative.textContent =
         relativeTime(date);
@@ -925,19 +624,14 @@ function relativeTime(date) {
             ) / 1000
         );
 
-
     if (seconds < 60) {
-
         return "just now";
-
     }
-
 
     const minutes =
         Math.floor(
             seconds / 60
         );
-
 
     if (minutes < 60) {
 
@@ -953,12 +647,10 @@ function relativeTime(date) {
 
     }
 
-
     const hours =
         Math.floor(
             minutes / 60
         );
-
 
     if (hours < 24) {
 
@@ -974,12 +666,10 @@ function relativeTime(date) {
 
     }
 
-
     const days =
         Math.floor(
             hours / 24
         );
-
 
     return (
         `${days} day` +
@@ -990,6 +680,173 @@ function relativeTime(date) {
         ) +
         " ago"
     );
+
+}
+
+
+// ============================================
+// LOAD NEWS.JSON
+// ============================================
+
+async function loadNews() {
+
+    try {
+
+        if (refreshStatus) {
+
+            refreshStatus.textContent =
+                "Updating...";
+
+        }
+
+        const cacheBuster =
+            `?t=${Date.now()}`;
+
+        const response =
+            await fetch(
+                DATA_URL +
+                cacheBuster,
+                {
+                    cache: "no-store"
+                }
+            );
+
+        if (!response.ok) {
+
+            throw new Error(
+                `HTTP ${response.status} while loading ${DATA_URL}`
+            );
+
+        }
+
+        const data =
+            await response.json();
+
+        if (
+            !data ||
+            typeof data !== "object"
+        ) {
+
+            throw new Error(
+                "news.json does not contain a valid JSON object"
+            );
+
+        }
+
+        newsData = {
+
+            last_updated:
+                data.last_updated ||
+                null,
+
+            articles:
+                Array.isArray(
+                    data.articles
+                )
+                    ? data.articles
+                    : []
+
+        };
+
+        // Newest articles first
+
+        newsData.articles.sort(
+            (a, b) => {
+
+                const dateA =
+                    new Date(
+                        a.published_at ||
+                        0
+                    );
+
+                const dateB =
+                    new Date(
+                        b.published_at ||
+                        0
+                    );
+
+                return dateB - dateA;
+
+            }
+        );
+
+        // Get currently selected source
+
+        const selectedSource =
+            sourceFilter
+                ? sourceFilter.value
+                : "CNA";
+
+        // Rebuild category dropdown
+        // for the current source
+
+        populateCategoryFilter(
+            selectedSource,
+            "all"
+        );
+
+        populateDateFilter();
+
+        updateLastUpdated();
+
+        renderArticles();
+
+        setStatus(true);
+
+    } catch (error) {
+
+        console.error(
+            "Failed to load news:",
+            error
+        );
+
+        setStatus(false);
+
+        if (refreshStatus) {
+
+            refreshStatus.textContent =
+                "Unable to update";
+
+        }
+
+        if (newsContainer) {
+
+            newsContainer.innerHTML = `
+
+                <div class="error-box">
+
+                    <strong>
+                        Unable to load the news
+                    </strong>
+
+                    <span>
+                        ${escapeHtml(
+                            error.message ||
+                            "Unknown error"
+                        )}
+                    </span>
+
+                </div>
+
+            `;
+
+        }
+
+        if (articleCount) {
+
+            articleCount.textContent =
+                "0";
+
+        }
+
+        if (summaryDescription) {
+
+            summaryDescription.textContent =
+                "articles";
+
+        }
+
+    }
 
 }
 
@@ -1011,35 +868,23 @@ function renderArticles() {
 
     }
 
-
     const selectedSource =
         sourceFilter.value;
-
-
-    const categoryFilter =
-        document.getElementById(
-            "category-filter"
-        );
-
 
     const selectedCategory =
         categoryFilter
             ? categoryFilter.value
             : "all";
 
-
     const selectedDate =
         dateFilter.value;
-
 
     const search =
         searchInput.value.trim();
 
-
     const filtered =
         newsData.articles.filter(
             article => {
-
 
                 // ========================================
                 // SOURCE
@@ -1053,7 +898,6 @@ function renderArticles() {
                     return false;
 
                 }
-
 
                 // ========================================
                 // CATEGORY
@@ -1071,7 +915,6 @@ function renderArticles() {
                             ? article.categories
                             : [];
 
-
                     if (
                         !categories.includes(
                             selectedCategory
@@ -1083,7 +926,6 @@ function renderArticles() {
                     }
 
                 }
-
 
                 // ========================================
                 // DATE
@@ -1102,12 +944,10 @@ function renderArticles() {
 
                     }
 
-
                     const articleDate =
                         getSingaporeDate(
                             article.published_at
                         );
-
 
                     if (
                         articleDate !==
@@ -1120,9 +960,8 @@ function renderArticles() {
 
                 }
 
-
                 // ========================================
-                // FUZZY SEARCH
+                // SEARCH
                 // ========================================
 
                 if (search) {
@@ -1140,7 +979,6 @@ function renderArticles() {
 
                 }
 
-
                 return true;
 
             }
@@ -1157,7 +995,6 @@ function renderArticles() {
             filtered.length.toLocaleString();
 
     }
-
 
     if (summaryDescription) {
 
@@ -1209,7 +1046,7 @@ function renderArticles() {
 
 
     // ========================================
-    // RENDER
+    // RENDER ARTICLES
     // ========================================
 
     newsContainer.innerHTML =
@@ -1236,11 +1073,9 @@ function updatePageTitle(source) {
             "page-title"
         );
 
-
     if (!pageTitle) {
         return;
     }
-
 
     pageTitle.textContent =
         source;
@@ -1261,10 +1096,8 @@ function createArticleCard(article) {
             ? article.categories
             : [];
 
-
     let formattedDate =
         "Unknown date";
-
 
     if (article.published_at) {
 
@@ -1272,7 +1105,6 @@ function createArticleCard(article) {
             new Date(
                 article.published_at
             );
-
 
         if (
             !isNaN(
@@ -1421,7 +1253,6 @@ function escapeHtml(value) {
 
     }
 
-
     return String(value)
 
         .replaceAll(
@@ -1478,7 +1309,6 @@ function setStatus(success) {
 
     }
 
-
     if (statusDot) {
 
         if (success) {
@@ -1515,6 +1345,8 @@ categoryButtons.forEach(
                     button.dataset.source;
 
 
+                // Update active tab
+
                 categoryButtons.forEach(
                     item => {
 
@@ -1531,6 +1363,8 @@ categoryButtons.forEach(
                 );
 
 
+                // Update source dropdown
+
                 if (sourceFilter) {
 
                     sourceFilter.value =
@@ -1539,11 +1373,17 @@ categoryButtons.forEach(
                 }
 
 
+                // IMPORTANT:
+                // Changing source resets the
+                // category to "All categories".
+
                 populateCategoryFilter(
                     selectedSource,
                     "all"
                 );
 
+
+                // Render articles for new source
 
                 renderArticles();
 
@@ -1568,6 +1408,8 @@ if (sourceFilter) {
                 sourceFilter.value;
 
 
+            // Keep source tabs synchronized
+
             categoryButtons.forEach(
                 button => {
 
@@ -1581,11 +1423,17 @@ if (sourceFilter) {
             );
 
 
+            // IMPORTANT:
+            // Changing source resets category
+            // and rebuilds the dropdown.
+
             populateCategoryFilter(
                 selectedSource,
                 "all"
             );
 
+
+            // Render new source
 
             renderArticles();
 
@@ -1598,12 +1446,6 @@ if (sourceFilter) {
 // ============================================
 // CATEGORY FILTER
 // ============================================
-
-const categoryFilter =
-    document.getElementById(
-        "category-filter"
-    );
-
 
 if (categoryFilter) {
 
@@ -1654,7 +1496,7 @@ if (clearFilters) {
         () => {
 
             // Keep current source.
-            // Only reset category/date/search.
+            // Reset category/date/search.
 
             const currentSource =
                 sourceFilter
@@ -1721,7 +1563,16 @@ setInterval(
 
 
 // ============================================
-// INITIAL LOAD
+// INITIALIZE
 // ============================================
+
+if (sourceFilter) {
+
+    populateCategoryFilter(
+        sourceFilter.value,
+        "all"
+    );
+
+}
 
 loadNews();
