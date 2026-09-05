@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-05T21:02:26.827955+00:00",
+  "last_updated": "2026-09-05T22:02:22.711306+00:00",
   "articles": [
+    {
+      "id": "62e51373b02887220051badeac4a12c4371c601468fb364f96e322c31e6e3abc",
+      "title": "Watch Sportscene highlights of day's Premiership action",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "description": "Steven Thompson and Scott Brown look back at the afternoon's Scottish Premiership matches.",
+      "published_at": "2026-09-05T22:30:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "1ce567ae56e69679181643b6e0ea1f67998522fae01210a10b545c0c47af597c",
+      "title": "Toddler dies following hit-and-run",
+      "url": "https://www.bbc.co.uk/news/articles/c0kl3pe1z2no?at_medium=RSS&at_campaign=rss",
+      "description": "The boy was taken to hospital with serious injuries but was later pronounced dead.",
+      "published_at": "2026-09-05T21:55:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "780fa10843ff27423b01655a014fd79d72f563f9a2c66c7d08c70d1b60070362",
+      "title": "Jigger & Pony’s Indra Kantono is thinking beyond the cocktail bar",
+      "url": "https://www.channelnewsasia.com/people/indra-kantono-co-founder-jigger-pony-singapore-bars-6354531",
+      "description": "The Jigger & Pony co-founder reflects on mentorship, expansion into Jakarta and why the future of Singapore’s cocktail scene may lie beyond drinks alone.",
+      "published_at": "2026-09-05T21:45:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "c19aab2db52b84394d7fb2999695b08456e6292111ea14574d5552b983a764b9",
+      "title": "Fleet-footed Gauff dances into US Open fourth round",
+      "url": "https://www.channelnewsasia.com/sport/fleet-footed-gauff-dances-us-open-fourth-round-6365141",
+      "description": "",
+      "published_at": "2026-09-05T21:40:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "7d4f5244c5d18aca03f95abd5233f0781edcd5d38c5ac49af7938a309aae2a57",
+      "title": "Players find comfort and companionship with canines on tour",
+      "url": "https://www.channelnewsasia.com/sport/players-find-comfort-and-companionship-canines-tour-6365136",
+      "description": "",
+      "published_at": "2026-09-05T21:35:20+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "85dc32c8ddad3be4c5cd7734c9d2a2c49f245b8a2ac28235f6d1627acf9280c2",
+      "title": "Gen Z is turning filial piety into a career path",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+      "description": "Hong Kong has always had a simple answer to what young people should do with their lives: study hard, get a job, work harder, buy a flat and eventually complain about the next generation. That formula is becoming harder to sell. A whole lexicon has grown up around Generation Z’s uneasy relationship with work. In mainland China, there are “full-time children”, young adults who stay home and receive an allowance from their parents in return for doing household chores and running errands....",
+      "published_at": "2026-09-05T21:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "483fdf1559e3b05289c52f9477179f8beb544558fde93b6d5c68c6f9683ef2e6",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "published_at": "2026-09-05T21:29:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f1620fa17a91f35169d5e589f4b9f1f393e474a33749be90ed37adf98f9341b2",
+      "title": "Fans jeer as Lens suffer surprise home defeat to Lorient",
+      "url": "https://www.channelnewsasia.com/sport/fans-jeer-lens-suffer-surprise-home-defeat-lorient-6365126",
+      "description": "",
+      "published_at": "2026-09-05T21:05:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
     {
       "id": "1fc4e9aeaff992fdb86a611933fac6cdd04337fbfaab3cdaaf4e7e2d0d15fab3",
       "title": "Prince William to attend King Harald's funeral in Norway",
@@ -9,7 +101,8 @@
       "published_at": "2026-09-05T21:00:02+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "World"
       ]
     },
     {
@@ -222,6 +315,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "355f2acebbe22248821b5118083fcfd8175879af416619daba9f5098e869c77f",
+      "title": "Who will carry Rangers' goal threat after 'significant' Shankland injury?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3640rrp1o?at_medium=RSS&at_campaign=rss",
+      "description": "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
+      "published_at": "2026-09-05T18:49:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -1743,6 +1847,17 @@
       ]
     },
     {
+      "id": "c11f1d0bd0b52351e1fef251323cded17f1307ec06379e3570c590c0dc62f47c",
+      "title": "Boy, 12, who died in crash was 'talented young footballer'",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7294kd7lo?at_medium=RSS&at_campaign=rss",
+      "description": "The crash that killed the child happened when a train collided with a car near Ballyhaunis.",
+      "published_at": "2026-09-05T09:37:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "2cd95e3a4ac266fcdee003ad6a694f9df950f617734735debc75d1575b7b1f0b",
       "title": "14 fall ill after dining at Eaton HK hotel restaurant",
       "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366480/14-fall-ill-after-dining-eaton-hk-hotel-restaurant?utm_source=rss_feed",
@@ -1842,7 +1957,8 @@
       "published_at": "2026-09-05T09:12:48+00:00",
       "source": "BBC",
       "categories": [
-        "Science & Environment"
+        "Science & Environment",
+        "World"
       ]
     },
     {
@@ -4498,6 +4614,17 @@
     },
     {
       "id": "eea2f63d3ea57d461725a0d2392c08e815179e1d13e1ecf1acf897182d6b0c81",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "published_at": "2026-09-04T16:49:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c1417c1441781877a5087cae20980ded4b5d20e96ca0d2a2a51ad6375368f64d",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
