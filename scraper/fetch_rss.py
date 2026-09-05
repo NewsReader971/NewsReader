@@ -13,6 +13,7 @@ from pathlib import Path
 # ============================================================
 
 FEEDS = [
+
     # ========================================================
     # CHANNEL NEWSASIA (CNA)
     # ========================================================
@@ -211,30 +212,18 @@ RETENTION_DAYS = 30
 # ============================================================
 
 def clean_html(text):
-    """
-    Convert the RSS description into plain text.
-
-    RSS descriptions can contain HTML such as:
-
-        <p>This is an article.</p>
-
-    We remove the HTML before storing it.
-    """
 
     if not text:
         return ""
 
-    # Decode HTML entities
     text = html.unescape(text)
 
-    # Remove HTML tags
     text = re.sub(
         r"<[^>]+>",
         "",
         text
     )
 
-    # Normalize whitespace
     text = re.sub(
         r"\s+",
         " ",
@@ -249,19 +238,6 @@ def clean_html(text):
 # ============================================================
 
 def get_entry_date(entry):
-    """
-    Get the publication date from a feedparser entry.
-
-    We check:
-
-        published_parsed
-        updated_parsed
-        created_parsed
-
-    in that order.
-
-    If none exist, we use the current UTC time.
-    """
 
     parsed = (
         entry.get("published_parsed")
@@ -286,7 +262,6 @@ def get_entry_date(entry):
         except Exception:
             pass
 
-    # Fallback
     return datetime.now(timezone.utc)
 
 
@@ -295,19 +270,6 @@ def get_entry_date(entry):
 # ============================================================
 
 def make_article_id(entry):
-    """
-    Create a stable ID for an article.
-
-    We prefer:
-
-        id
-        guid
-        link
-        title
-
-    This prevents duplicate articles from being
-    added every time the GitHub Action runs.
-    """
 
     value = (
         entry.get("id")
@@ -369,21 +331,18 @@ def parse_feed(feed_info):
 
     for entry in feed.entries:
 
-        # Title
         title = entry.get(
             "title",
             "No title"
         ).strip()
 
 
-        # URL
         link = entry.get(
             "link",
             ""
         ).strip()
 
 
-        # Description
         summary = entry.get(
             "summary",
             entry.get(
@@ -392,35 +351,25 @@ def parse_feed(feed_info):
             )
         )
 
+
         summary = clean_html(
             summary
         )
 
 
-        # Publication date
         published = get_entry_date(
             entry
         )
 
 
-        # Stable ID
         article_id = make_article_id(
             entry
         )
 
 
-        # Create article
         article = {
 
             "id": article_id,
-
-            "source": [
-                feed_info["source"]
-            ],
-
-            "category": [
-                feed_info["category"]
-            ],
 
             "title": title,
 
@@ -429,7 +378,14 @@ def parse_feed(feed_info):
             "description": summary,
 
             "published_at":
-                published.isoformat()
+                published.isoformat(),
+
+            "source":
+                feed_info["source"],
+
+            "categories": [
+                feed_info["category"]
+            ]
 
         }
 
@@ -478,8 +434,63 @@ def load_news():
             )
 
 
-        # New format
         if isinstance(data, dict):
+
+            articles = data.get(
+                "articles",
+                []
+            )
+
+
+            # ------------------------------------------------
+            # Migrate old article format
+            # ------------------------------------------------
+
+            for article in articles:
+
+                # Old format used "sources"
+                if "sources" in article:
+
+                    old_sources = article.get(
+                        "sources",
+                        []
+                    )
+
+
+                    # If source is missing,
+                    # try to determine it.
+                    if not article.get("source"):
+
+                        if len(old_sources) == 1:
+
+                            article["source"] = (
+                                old_sources[0]
+                            )
+
+
+                    # Old sources may actually have
+                    # contained categories.
+                    if not article.get("categories"):
+
+                        article["categories"] = (
+                            old_sources
+                        )
+
+
+                    article.pop(
+                        "sources",
+                        None
+                    )
+
+
+                # Make sure categories exists
+                if not isinstance(
+                    article.get("categories"),
+                    list
+                ):
+
+                    article["categories"] = []
+
 
             return {
 
@@ -489,15 +500,12 @@ def load_news():
                     ),
 
                 "articles":
-                    data.get(
-                        "articles",
-                        []
-                    )
+                    articles
 
             }
 
 
-        # Support old format just in case
+        # Support old list format
         if isinstance(data, list):
 
             return {
@@ -530,121 +538,48 @@ def merge_article(
     existing,
     incoming
 ):
-    """
-    Merge an article that already exists.
-
-    This is useful because the same article
-    can appear in multiple feeds.
-
-    Source and category are kept separate.
-
-    Example:
-
-        source:
-        [
-            "CNA"
-        ]
-
-        category:
-        [
-            "Latest News",
-            "Singapore",
-            "Today"
-        ]
-    """
 
     # --------------------------------------------------------
-    # Merge sources
+    # SOURCE
     # --------------------------------------------------------
 
-    existing_sources = existing.get(
-        "source",
-        []
-    )
+    if not existing.get("source"):
 
-    incoming_sources = incoming.get(
-        "source",
-        []
-    )
-
-
-    # Support old data where source may
-    # have been stored as a string.
-    if isinstance(
-        existing_sources,
-        str
-    ):
-
-        existing_sources = [
-            existing_sources
-        ]
-
-
-    if isinstance(
-        incoming_sources,
-        str
-    ):
-
-        incoming_sources = [
-            incoming_sources
-        ]
-
-
-    existing["source"] = sorted(
-        set(existing_sources)
-        |
-        set(incoming_sources)
-    )
+        existing["source"] = (
+            incoming.get(
+                "source",
+                ""
+            )
+        )
 
 
     # --------------------------------------------------------
-    # Merge categories
+    # CATEGORIES
+    #
+    # Same article can appear in multiple
+    # category feeds.
     # --------------------------------------------------------
 
-    existing_categories = existing.get(
-        "category",
-        []
-    )
-
-    incoming_categories = incoming.get(
-        "category",
-        []
-    )
-
-
-    # Support old data where category may
-    # have been stored as a string.
-    if isinstance(
-        existing_categories,
-        str
-    ):
-
-        existing_categories = [
-            existing_categories
-        ]
-
-
-    if isinstance(
-        incoming_categories,
-        str
-    ):
-
-        incoming_categories = [
-            incoming_categories
-        ]
-
-
-    existing["category"] = sorted(
-        set(existing_categories)
-        |
-        set(incoming_categories)
+    existing_categories = set(
+        existing.get(
+            "categories",
+            []
+        )
     )
 
 
-    # --------------------------------------------------------
-    # If incoming description is better,
-    # use it.
-    # --------------------------------------------------------
+    incoming_categories = set(
+        incoming.get(
+            "categories",
+            []
+        )
+    )
+
+
+    existing["categories"] = sorted(
+        existing_categories |
+        incoming_categories
+    )
 
     if (
         len(
@@ -696,26 +631,14 @@ def merge_article(
 
 
     # --------------------------------------------------------
-    # Make sure source/category exist
-    # for older articles.
+    # Make sure published date exists
     # --------------------------------------------------------
 
-    if not existing.get("source"):
+    if not existing.get("published_at"):
 
-        existing["source"] = (
+        existing["published_at"] = (
             incoming.get(
-                "source",
-                []
-            )
-        )
-
-
-    if not existing.get("category"):
-
-        existing["category"] = (
-            incoming.get(
-                "category",
-                []
+                "published_at"
             )
         )
 
@@ -730,15 +653,6 @@ def merge_article(
 def remove_old_articles(
     articles
 ):
-    """
-    Delete articles older than RETENTION_DAYS.
-
-    With RETENTION_DAYS = 30:
-
-        Article from 29 days ago -> KEEP
-        Article from 30 days ago -> KEEP
-        Article from 31 days ago -> DELETE
-    """
 
     cutoff = (
         datetime.now(timezone.utc)
@@ -766,8 +680,6 @@ def remove_old_articles(
             )
 
 
-            # Make sure the date is timezone-aware
-
             if published.tzinfo is None:
 
                 published = published.replace(
@@ -777,8 +689,6 @@ def remove_old_articles(
 
         except Exception:
 
-            # If the date cannot be understood,
-            # don't delete the article.
             kept.append(
                 article
             )
@@ -816,19 +726,13 @@ def remove_old_articles(
 def save_news(
     articles
 ):
-    """
-    Save the database in the format expected
-    by app.js.
-    """
 
-    # Make sure data/ exists
     DATA_FILE.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
 
-    # Newest first
     articles.sort(
         key=lambda article:
             article.get(
@@ -884,7 +788,7 @@ def main():
 
     print()
     print("=" * 70)
-    print("NEWS RSS COLLECTOR")
+    print("RSS NEWS COLLECTOR")
     print("=" * 70)
 
     print()
@@ -922,8 +826,6 @@ def main():
 
     # --------------------------------------------------------
     # Convert existing articles into dictionary
-    #
-    # This makes duplicate checking very fast.
     # --------------------------------------------------------
 
     articles_by_id = {}
@@ -969,7 +871,6 @@ def main():
                 )
 
 
-                # Article already exists
                 if article_id in articles_by_id:
 
                     articles_by_id[
@@ -982,7 +883,6 @@ def main():
                     )
 
 
-                # New article
                 else:
 
                     articles_by_id[
@@ -1024,7 +924,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # Delete articles older than 30 days
+    # Delete old articles
     # --------------------------------------------------------
 
     articles = remove_old_articles(
