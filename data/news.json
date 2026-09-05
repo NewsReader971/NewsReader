@@ -1,6 +1,17 @@
 {
-  "last_updated": "2026-09-05T01:02:16.534471+00:00",
+  "last_updated": "2026-09-05T02:02:38.057573+00:00",
   "articles": [
+    {
+      "id": "c3580405e9a8e1f3f20bc5c49ea2a5bbbaeaa9d4d72d9cee80b2404a3478c58a",
+      "title": "Wildfires spread near Indonesia's new capital, prompting calls for action",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-borneo-nusantara-forest-fires-haze-6362876",
+      "description": "The biggest of the fires in Nusantara was at a forest park at Bukit Suharto - or Suharto Hill - where around 300 hectares have burned.",
+      "published_at": "2026-09-05T01:32:21+00:00",
+      "sources": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "d7a57f154bf732c3725b503386be5233062a90a4db27893be1c4c2346325c3f0",
       "title": "Is motion sickness preventable? What works and what doesn't",
@@ -28,6 +39,17 @@
       "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-three-regions-6362856",
       "description": "Air quality in parts of Singapore on Saturday (Sep 5) started the day in the unhealthy range, with the 24-hour Pollutant Standards Index (PSI) at 120 in the central region at 6am",
       "published_at": "2026-09-04T22:54:38+00:00",
+      "sources": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "71462d275b4c7aa71d33fb683a272d0ff192747cb83433dec675ea938fff0697",
+      "title": "Haze in Singapore: Air quality at unhealthy range in central region",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-range-psi-sep-5-6362856",
+      "description": "Air quality in three regions of Singapore started the day in the unhealthy range on Saturday (Sep 5), before improving later in the morning.",
+      "published_at": "2026-09-04T22:54:00+00:00",
       "sources": [
         "Latest News",
         "Singapore"
@@ -471,6 +493,17 @@
       "sources": [
         "Asia",
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "625af539ffb1de84de9cea385b8c9488e3fd32c46779cca0c8ad36d42a0273f7",
+      "title": "China's Xi seeks to bring large CEO delegation on US visit, sources say",
+      "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-us-visit-ceo-delegation-business-6362951",
+      "description": "Chinese President Xi Jinping is preparing a large business delegation to accompany him on his visit to Washington, two sources said, an unusual move given US scepticism towards Chinese investment and Beijing's strained ties with private enterprise.",
+      "published_at": "2026-09-04T15:28:00+00:00",
+      "sources": [
+        "Asia",
         "World"
       ]
     },
