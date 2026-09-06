@@ -1,6 +1,99 @@
 {
-  "last_updated": "2026-09-06T09:02:46.314166+00:00",
+  "last_updated": "2026-09-06T10:02:57.345065+00:00",
   "articles": [
+    {
+      "id": "3669e3094e7f996c57f1763c2ccfc1003ec703d0849e4ac308bd16c1040a64a3",
+      "title": "Chinese food vendor sparks ‘camera bullying’ debate after vloggers portray her as ‘evil granny’",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366515/chinese-food-vendor-sparks-camera-bullying-debate-after-vloggers-portray-her-evil-granny?utm_source=rss_feed",
+      "description": "A 92-year-old snack vendor from southwestern China has sparked a debate over online exploitation after vloggers deliberately provoked her to produce sensational videos presenting her as an “evil granny.” This case mirrors a similar “camera bullying” incident last November, where tourists filmed an elderly woman from the Yi ethnic group in traditional clothing on a train, despite her apparent discomfort. “Camera bullying” refers to the act of filming individuals without their consent to garner...",
+      "published_at": "2026-09-06T10:00:16+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "2eb1887d4296a4cb389ced640c079460e4a6919223e34e9d1c0656360d0dd0fb",
+      "title": "Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs",
+      "url": "https://www.channelnewsasia.com/singapore/travel-chaos-changi-airport-soekarno-hatta-volcano-6365516",
+      "description": "Conflicting airline notices meant some travellers turned up at Changi Airport to find out that their flights were grounded, while passengers in Indonesia found themselves turned away after clearing immigration.",
+      "published_at": "2026-09-06T09:59:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "366bf0a8421d26f4e6451431f45bdc598e06e5b1dde2a981275cb9f665945c7f",
+      "title": "Police slow to respond to Dover protest, says council boss",
+      "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+      "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+      "published_at": "2026-09-06T09:53:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "f734c08784dca1259a9440227a6a7a614093dcac3ed1ff39f5c4b14e57e179ea",
+      "title": "US aircraft carrier departs Thailand after port call",
+      "url": "https://www.channelnewsasia.com/asia/us-thailand-navy-port-call-aircraft-carrier-depart-6365541",
+      "description": "",
+      "published_at": "2026-09-06T09:41:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "ab093960ecaa0a489425d68a966665fd7bd4a14588a31df7a5dfe42da17695e4",
+      "title": "Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong",
+      "url": "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-racist-comments-shanmugam-nepal-tibet-sia-6365481",
+      "description": "\"We can and should have robust debates. But we should never use seemingly legitimate arguments as a cover to fuel prejudice against any community or hostility towards foreigners,\" says Prime Minister Lawrence Wong.",
+      "published_at": "2026-09-06T09:14:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "f88d90cba5a40f4d55e85a931c075b83e7c6afce3dc0bab3d5f667dfd041d4b4",
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+      "url": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+      "description": "Iran said Sunday it struck an unmanned U.S. vessel trying to enter the Strait of Hormuz, the latest salvo in a new flare-up of fighting between the two countries.",
+      "published_at": "2026-09-06T09:04:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "b45a274c443bd12bc9a106862d4469c683479f90b2c7432965530b3b0ec1a6ff",
+      "title": "Nepal floods: Search operations enter 12th day",
+      "url": "https://www.france24.com/en/video/20260906-nepal-floods-search-operations-enter-12th-day",
+      "description": "Nepali rescuers faced challenging conditions on Sunday as search operations following catastrophic floods entered their 12th day, buoyed by the extraordinary rescue of four survivors. The disaster has also affected infrastructure and roads. Our correspondent Shahzaib Wahlah tells us more.",
+      "published_at": "2026-09-06T09:03:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "4b84550f990432165aabcab55f4ee07b6c2bd93a6fb3021669356c5cb8b5ae06",
+      "title": "Police use tougher driving laws to seize speeding Lamborghini",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqrv3r0j5o?at_medium=RSS&at_campaign=rss",
+      "description": "Police are told it was being driven at about 80mph in a 30mph zone.",
+      "published_at": "2026-09-06T09:01:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "50d0064b7584de62ccc892b0f44eb782580b4a350d1b5428a9cb7b34009966d2",
       "title": "Study that argued China’s solar policy hurt birds may have miscounted 2 billion egrets",
@@ -11,6 +104,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "101777c8ff96d785e0adb839048be00714f9febb13c23279ebc6ed865ddb3459",
+      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
+      "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+      "description": "German voters headed to the polls Sunday for a crucial regional election in the ex-communist east where the far-right, anti-immigration and Moscow-friendly AfD is expected to win easily.",
+      "published_at": "2026-09-06T08:59:26+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -35,6 +139,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "6ce4300af7e1fd9c6936dfc842f8edc6b2b5236b33b2cc56c757c5a960c6ebdb",
+      "title": "Bodies of missing fishermen recovered from Channel",
+      "url": "https://www.bbc.co.uk/news/articles/ce872m2r7n3o?at_medium=RSS&at_campaign=rss",
+      "description": "Their boat sank off the coast of Plymouth after reporting problems with its fishing gear.",
+      "published_at": "2026-09-06T08:39:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -309,6 +424,28 @@
       ]
     },
     {
+      "id": "26b2bf2356ea4a7626cd2cb2e9d5223981ba6fff66edaa9e87e1054208b77ffc",
+      "title": "Social media inspiring new generation of bookworms",
+      "url": "https://www.bbc.co.uk/news/articles/ced7y169ll9o?at_medium=RSS&at_campaign=rss",
+      "description": "Whether it is viral novels or emerging subgenres, BookTok is influencing people's reading habits.",
+      "published_at": "2026-09-06T06:24:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4792cb032b765a89ec6bae81dec78ae22d1d0656c8cbefc361ac13fbb50eae52",
+      "title": "Taylor's 'dream ending to a dream career'",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
+      "description": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
+      "published_at": "2026-09-06T06:24:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "1d97f2d98e00b0016e94cb16cd6885cb86794e7f362c0d1774316e1f493f09cf",
       "title": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin",
       "url": "https://www.france24.com/en/a-bad-sign-us-envoys-head-to-kyiv-after-three-hour-talks-with-putin",
@@ -345,6 +482,17 @@
     },
     {
       "id": "521ff2a773d1fab249a104be139957d0b0c6b4d93da4a21ebcc3831ed602449a",
+      "title": "How to embrace your inner Middle-earth for UK's first hobbits festival",
+      "url": "https://www.bbc.co.uk/news/articles/c8enl8x23z4o?at_medium=RSS&at_campaign=rss",
+      "description": "Hundreds of people are choosing their costumes ahead of the UK's first Hobbit festival.",
+      "published_at": "2026-09-06T06:14:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "13d763d797dde8476faddbe9abfc4b7d03f560535831a23d99db1c2fc0b230f8",
       "title": "How to embrace your inner Middle-earth for UK's first hobbits festival",
       "url": "https://www.bbc.co.uk/news/articles/c8enl8x23z4o?at_medium=RSS&at_campaign=rss",
       "description": "Hundreds of people are choosing their costumes ahead of the UK's first Hobbit festival.",
@@ -434,6 +582,17 @@
     },
     {
       "id": "0932bb705ef7327a933f05d596aa183c90c951f1be3782c55633c958ca971f41",
+      "title": "'It was too hot for ice cream' the mixed summer for tourist trade",
+      "url": "https://www.bbc.co.uk/news/articles/crk3nr8dpmjo?at_medium=RSS&at_campaign=rss",
+      "description": "Figures from the UK and Channel Islands say the summer has been the hottest on record.",
+      "published_at": "2026-09-06T06:05:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "ccaf2fcc98da8631d0d0c402c8fb53173d8d3157f05853b46b23941ffe5b9dce",
       "title": "'It was too hot for ice cream' the mixed summer for tourist trade",
       "url": "https://www.bbc.co.uk/news/articles/crk3nr8dpmjo?at_medium=RSS&at_campaign=rss",
       "description": "Figures from the UK and Channel Islands say the summer has been the hottest on record.",
@@ -662,7 +821,7 @@
       "id": "7533157db3b2726493a244430fb7e9f7cccbfd3bb2dc3bea0f876362b2da94e5",
       "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
       "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions.",
+      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "published_at": "2026-09-06T05:12:44+00:00",
       "source": "BBC",
       "categories": [
@@ -2077,6 +2236,7 @@
       "published_at": "2026-09-05T16:35:51+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
