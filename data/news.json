@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-09-06T21:02:29.177791+00:00",
+  "last_updated": "2026-09-06T22:02:29.161764+00:00",
   "articles": [
+    {
+      "id": "55972752161cd2881857093be7fcf5daab9073566afe8cba1fa454bd9204430a",
+      "title": "BBC News presenter reveals she has blood cancer",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+      "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+      "published_at": "2026-09-06T22:00:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "6e4ea662bed498c6c4894e72828ea7b79556050f8a3fc7cfd0e0d95cc98c7d79",
+      "title": "Economist Lan Xiaohuan on the balancing act needed to boost China’s consumption",
+      "url": "https://www.scmp.com/economy/global-economy/article/3366326/economist-lan-xiaohuan-balancing-act-needed-boost-chinas-consumption?utm_source=rss_feed",
+      "description": "Lan Xiaohuan is a professor of economics at China Europe International Business School. His book, How China Works: An Introduction to China’s State-led Economic Development, has sold millions of copies in China and has been translated into multiple languages. Here, he discusses the economic realities behind China’s record trade surplus, the case for a stronger social safety net, and how public data infrastructure shapes the artificial intelligence race with the United States. This interview...",
+      "published_at": "2026-09-06T22:00:09+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "b6e2f9383e4b87e9fc1ca7c6c0c9c5ccafa4adedddfae05fe958af2bfe359005",
+      "title": "Amazon cargo plane crashes at Miami airport, killing at least five",
+      "url": "https://www.france24.com/en/americas/20260906-amazon-cargo-plane-crashes-miami-airport-killing-at-least-five",
+      "description": "At least five people were killed and five injured after an Amazon cargo plane overshot the runway at Miami International Airport on Sunday and crashed into several vehicles, officials said. Miami Sheriff Rosie Cordero-Stutz said there was “no apparent threat to public safety” following the crash.",
+      "published_at": "2026-09-06T21:59:16+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "01b0ecd0866dd357a173e6bd42bac3569b26f16330c8baef63c01aa79b7d4a33",
+      "title": "Jamaican minister to file slavery reparations petition to King Charles during UK visit",
+      "url": "https://www.scmp.com/news/world/europe/article/3366569/jamaican-minister-file-slavery-reparations-petition-king-charles-during-uk-visit?utm_source=rss_feed",
+      "description": "A Jamaican government delegation visiting Britain is set to file a petition addressed to King Charles on Monday, raising the question of slavery reparations, Kingston’s culture ministry said. Culture Minister Olivia Grange will lead the delegation “to advance Jamaica’s push for reparations for the African ancestors who suffered under hundreds of years of enslavement”, the ministry said in a statement. The petition asks the king, who is Jamaica’s head of state, to refer three questions on the...",
+      "published_at": "2026-09-06T21:49:55+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "1c7dbda4709234b4961f8b8a49a6f268c3b63f2b0a3b83d8c4908cb6aba18c07",
+      "title": "Interesting mooncakes to try in Singapore for Mid-Autumn Festival 2026",
+      "url": "https://www.channelnewsasia.com/experiences/singapore-mooncakes-2026-6356531",
+      "description": "From tea-infused and snow skin mooncakes to traditional Teochew favourites, custard-filled creations and elaborate gift sets, here are some of the standout options available in Singapore this Mid-Autumn Festival.",
+      "published_at": "2026-09-06T21:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "e0be40aa3371bd85ab257419dab8323e7a8a2d748e16f142962a182275ecd264",
+      "title": "Heading to America to bridge the gap in US-China relations",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3366098/heading-america-bridge-gap-us-china-relations?utm_source=rss_feed",
+      "description": "Before boarding my flight to Boston late last month, I spent the better part of three days doing something I never imagined I would do in more than 30 years of covering China: scrubbing my phone. Old emails, screenshots, WeChat threads that might be read the wrong way, anything that could be misconstrued in an airport interview room – all deleted, just in case. I was not being paranoid. I was following advice now routinely passed among Chinese travellers to the United States: carry a clean...",
+      "published_at": "2026-09-06T21:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "5dd96d9335fb622664a1db7ff1cf96b4fb4f31388298047fdecd126d7ac9eb52",
+      "title": "Gatti rescues point for Juventus in 1-1 draw with AC Milan",
+      "url": "https://www.channelnewsasia.com/sport/gatti-rescues-point-juventus-in-1-1-draw-ac-milan-6366041",
+      "description": "",
+      "published_at": "2026-09-06T21:15:21+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
     {
       "id": "d2f7556014e00f9424ad71c69bffa990c5907f58df452a5d2e2a3ab9677cff15",
       "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -28,6 +112,18 @@
       "id": "51ffee60a23db5d0c8cd106b58f18316bb284b79b81f25065ef8c23c71a2db68",
       "title": "Alcaraz outguns Paul to reach US Open quarter-finals",
       "url": "https://www.channelnewsasia.com/sport/alcaraz-outguns-paul-reach-us-open-quarter-finals-6366021",
+      "description": "",
+      "published_at": "2026-09-06T20:46:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "37dc15f4ebe31a6552858c1727fbae5e98e2fb8c186f6226c45acd75d681d252",
+      "title": "Outstanding Alcaraz outguns Paul to reach US Open quarter-finals",
+      "url": "https://www.channelnewsasia.com/sport/outstanding-alcaraz-outguns-paul-reach-us-open-quarter-finals-6366021",
       "description": "",
       "published_at": "2026-09-06T20:46:38+00:00",
       "source": "CNA",
