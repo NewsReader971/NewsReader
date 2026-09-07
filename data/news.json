@@ -1,6 +1,283 @@
 {
-  "last_updated": "2026-09-07T11:02:39.388962+00:00",
+  "last_updated": "2026-09-07T12:03:16.075815+00:00",
   "articles": [
+    {
+      "id": "bf43e98db51f4c6f9de7637724a2bc7a81c411a4619e0ad3af843169fee22a8c",
+      "title": "Murder arrests over baby girl's death in woodland",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+      "description": "Police say they have arrested two men and two women as part of their investigation.",
+      "published_at": "2026-09-07T11:59:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "83797808ce1010e1b4c7e091795e56d2802fd9fa18f4de90b4fe4a897484fc52",
+      "title": "Murder arrests over baby girl's death in woodland",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+      "description": "Police say they have arrested two men and two women as part of their investigation.",
+      "published_at": "2026-09-07T11:59:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "efcb6457bdafd05e9742a1ebe00234aa3f4760b38a21961b47cb20a7e33f9c62",
+      "title": "Taiwan sets up US-backed cyber unit to hunt hidden military threats",
+      "url": "https://www.scmp.com/news/china/military/article/3366658/taiwan-sets-us-backed-cyber-unit-hunt-hidden-military-threats?utm_source=rss_feed",
+      "description": "Taiwan’s military plans to step up its cyber defences against mainland China with a new threat-hunting team and foreign expertise as it deepens cooperation with the US. The Information, Communications and Electronic Force Command has earmarked NT$95.93 million (US$3.03 million) in its proposed 2027 budget to establish the team and bring foreign experts and instructors to Taiwan for advanced training. According to the budget plan, which still needs legislative approval, the programme would focus...",
+      "published_at": "2026-09-07T11:55:46+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "659ecb1e06ae9b29ba49c1ec1610be3cc90fc0dad78ac2990105a62c0e594b45",
+      "title": "Mourinho not feeling pressure to win Champions League in second Real Madrid spell",
+      "url": "https://www.channelnewsasia.com/sport/mourinho-not-feeling-pressure-win-champions-league-in-second-real-madrid-spell-6367426",
+      "description": "",
+      "published_at": "2026-09-07T11:54:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "56803e6ab70c2af230c3821bbeaacccd0bd3e6379c0c720e93e3002a4751300b",
+      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+      "description": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous learning” mindset. Speaking at the Hong Kong Jockey Club’s PBC (Philanthropy for Better Cities) Forum 2026 on Monday, the city’s Secretary for Labour and Welfare Chris Sun Yuk-han said that higher education alone was no longer enough to ensure career success in...",
+      "published_at": "2026-09-07T11:53:19+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "c0035c121c59d02bd4a5f25ff58c9f69b83813aeb72dc58eab771bb17c24f66c",
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+      "published_at": "2026-09-07T11:50:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1228c0b148a7d6468e11a1895ba043ebc8f89d3f70e2093fcd9f2cc9a33a7444",
+      "title": "University of Hong Kong suspends professor over past sexual misconduct in Canada",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366656/university-hong-kong-suspends-professor-over-past-sexual-misconduct-canada?utm_source=rss_feed",
+      "description": "A professor at Hong Kong’s oldest medical school has been suspended from clinical work and face-to-face teaching after the university discovered he was temporarily disqualified from practising in Canada following past sexual harassment allegations. The University of Hong Kong (HKU) confirmed on Monday that Peter Tanuseputro, a clinical professor in the department of family medicine and primary care, was asked to work from home after the university became aware of a professional misconduct ruling...",
+      "published_at": "2026-09-07T11:45:43+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "ff1e48c5dfbfbcbfb0fd936a980a451f4eaf6402df0fd679ca7e21d101b73d24",
+      "title": "Germany urges UN’s top court to dismiss Gaza genocide case",
+      "url": "https://www.scmp.com/news/world/europe/article/3366662/germany-urges-uns-top-court-dismiss-gaza-genocide-case?utm_source=rss_feed",
+      "description": "Germany on Monday urged the United Nations’ top court to throw out a case against it by Nicaragua, which has accused Berlin of “facilitating genocide” in Gaza with its support of Israel. Julia Monar, representing Germany at the International Court of Justice (ICJ), said judges lacked the jurisdiction to rule on the case and dismissed Nicaragua’s accusations as “inaccurate and distorted”. Nicaragua has dragged Germany before the ICJ in The Hague, arguing that its backing of Israel, notably in...",
+      "published_at": "2026-09-07T11:35:39+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "315ffa4ded7ef087b602b9fd1fa198c541d81d1c72cb8a85828d30cd709a11d0",
+      "title": "Israel strikes Lebanon, accuses Hezbollah of truce violations",
+      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-strikes-truce-violations-6367371",
+      "description": "The strikes overnight killed 11 people in a south Lebanon village, including two infants, Lebanon's official National News Agency (NNA) said, a day after separate raids left seven dead.",
+      "published_at": "2026-09-07T11:35:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "c3802ddc139f839507c7623ee0a42786a325a27988d45c5247eb8f46274b346d",
+      "title": "Hong Kong customs seizes 200 crickets, 13kg of cockroaches at border checkpoint",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366660/hong-kong-customs-seizes-200-crickets-13kg-cockroaches-border-checkpoint?utm_source=rss_feed",
+      "description": "Hong Kong customs officers have intercepted two travellers in separate cases at the Lo Wu border checkpoint for allegedly importing live insects commonly used as reptile feed. On Saturday, officers stopped a 71-year-old local man at the arrival hall and seized 200 crickets from his baggage, valued at about HK$2,000 (US$255). The following day, officers intercepted a 66-year-old local woman at the same checkpoint carrying 13kg (28.6 lbs) of dubia roaches, worth about HK$3,900, in her...",
+      "published_at": "2026-09-07T11:32:31+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "ad71ef8865071fcaa9c1e471e0279ca3251240106fa0a0fbfa6d1ec0c32aab26",
+      "title": "Cyclists take starring role on Scottish Borders stage",
+      "url": "https://www.bbc.co.uk/news/articles/cdx055nepqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Tour of Britain and the Tour O The Borders take place in southern Scotland on the same day.",
+      "published_at": "2026-09-07T11:31:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "fcdcadad9927e52ff6c44f29285d1155f4580a51739686a7fab874a0e90719bc",
+      "title": "Cyclists take starring role on Scottish Borders stage",
+      "url": "https://www.bbc.co.uk/news/articles/cdx055nepqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Tour of Britain and the Tour O The Borders take place in southern Scotland on the same day.",
+      "published_at": "2026-09-07T11:31:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "65ba6abe2f659044efca0983a7b9e175c75ebfb9f18f8cba1967d6e3b9f58e0e",
+      "title": "Oil prices hold near six-week highs on US-Iran attacks",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-hold-near-six-week-highs-us-iran-attacks-6366156",
+      "description": "",
+      "published_at": "2026-09-07T11:31:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cb4b902c09a7f5d381323b16effd14b25f1544af1fb45eaca0b8ac03de8cb4a8",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "published_at": "2026-09-07T11:30:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "a13fcda31b80831183319a3afde73c20b879e05aab5a6f4982f24790013204c7",
+      "title": "Why Tencent is swapping Bilibili equity for debt, and what AI has to do with it",
+      "url": "https://www.scmp.com/tech/big-tech/article/3366657/why-tencent-swapping-bilibili-equity-debt-and-what-ai-has-do-it?utm_source=rss_feed",
+      "description": "Tencent Holdings’ pivot from a core shareholder to a major creditor in Bilibili offers a clear window into how China’s Big Tech players are rebalancing portfolio risk while funding expensive artificial intelligence initiatives. The shift, executed through Bilibili’s proposed US$700 million convertible bond package announced on Friday, allows Tencent to lock in capital flexibility without severing ties with one of China’s largest online video platforms, according to analysts. Here is a look at...",
+      "published_at": "2026-09-07T11:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "d0157b7a1b08ce543a584279322e5d4477c536d74646ace08cb7fcca90872075",
+      "title": "Study to reveal more about Guernsey's wild ferrets",
+      "url": "https://www.bbc.co.uk/news/articles/c770vv8r888o?at_medium=RSS&at_campaign=rss",
+      "description": "A conservation group has been spending a year studying wild ferrets after securing government funds.",
+      "published_at": "2026-09-07T11:29:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "eecb9be5ae857001f96578840251e4291a5bed6b402fbaf8bd2b887adb3a15e2",
+      "title": "How anti-migrant boat protests were organised and who is behind them",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
+      "description": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+      "published_at": "2026-09-07T11:27:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "aeda085cc08bcc917889eb1641a982060fae8d78824a00c6aa7ea3368c9f99c9",
+      "title": "China hits critical Japanese chipmaking chemical with steep anti-dumping measures",
+      "url": "https://www.scmp.com/economy/china-economy/article/3366661/china-hits-critical-japanese-chipmaking-chemical-steep-anti-dumping-measures?utm_source=rss_feed",
+      "description": "China will impose provisional anti-dumping duties of up to 99.2 per cent on Japanese dichlorosilane, a critical chemical used in chipmaking, after an eight-month investigation found that dumped imports had harmed local manufacturers. The Ministry of Commerce announced the preliminary ruling on Monday, saying importers of dichlorosilane originating from Japan would be required to pay corresponding cash deposits from Tuesday. Shipments from Denal Silane, a manufacturer of semiconductor speciality...",
+      "published_at": "2026-09-07T11:27:28+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "228fd67fb6561d9dbcac74e0f02f9908decb377b284363fef31fcff20badf5e4",
+      "title": "Jaguar Land Rover to cut 4,000 jobs as European car sector hits skids",
+      "url": "https://www.channelnewsasia.com/business/jaguar-land-rover-cut-4000-jobs-european-car-sector-hits-skids-6367356",
+      "description": "",
+      "published_at": "2026-09-07T11:23:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "786122552a52c62db23a5c3c5bd5f63c73b37555454e4df6cc125e7fb92b0577",
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "published_at": "2026-09-07T11:18:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d527d8d790f127409a2b43b34e4714818df40fca27c996c7c8d2f61e309c709f",
+      "title": "Man who murdered Orkney waiter to have conviction reviewed",
+      "url": "https://www.bbc.co.uk/news/articles/czxzeee5lqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Ross was found guilty of shooting Shamsuddin Mahmood in an Orkney restaurant in 1994.",
+      "published_at": "2026-09-07T11:14:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "d1bcbf5976f3c5fa3dcf5ccf77c3e7ec892e27e6e939eaa743a3d90051e8d245",
+      "title": "Man who murdered Orkney waiter to have conviction reviewed",
+      "url": "https://www.bbc.co.uk/news/articles/czxzeee5lqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Ross was found guilty of shooting Shamsuddin Mahmood in an Orkney restaurant in 1994.",
+      "published_at": "2026-09-07T11:14:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "674166f0dd35491a2f27757154e4d9cc56ea5a230d59e46a11777c65bcdd14d5",
+      "title": "Man who murdered Orkney waiter to have conviction reviewed",
+      "url": "https://www.bbc.co.uk/news/articles/czxzeee5lqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Ross was found guilty of shooting Shamsuddin Mahmood in an Orkney restaurant in 1994.",
+      "published_at": "2026-09-07T11:14:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0e970fa60b1faec128b9d65d7227a9f1569c9939ba89e9fbdcf612c19360499a",
+      "title": "Air quality to remain in moderate to low unhealthy range on Tuesday: NEA",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-moderate-unhealthy-psi-advisory-nea-sep-8-6366266",
+      "description": "NEA said that moderate to dense smoke plumes from fires in southern and central Sumatra, as well as West Kalimantan, continued to drift towards Singapore.",
+      "published_at": "2026-09-07T11:12:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
     {
       "id": "7524ed5d0d3a7f3f49417ed70bf10baaa80e8d217ad238a7f9cef23fe1625aa6",
       "title": "Hong Kong landlords accuse banks of deepening shop slump with reluctance to lend",
@@ -66,7 +343,8 @@
       "published_at": "2026-09-07T10:54:03+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -78,6 +356,28 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "9acd7bbc7bbf21b4e23967b6d55bb386a566e99e3835f8c185b83e9465956f07",
+      "title": "Murder plot gang jailed over botched shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c0j3z06n1lgo?at_medium=RSS&at_campaign=rss",
+      "description": "Mohammed Khan, Nicholas Buckley, Alyxander Fraser and Adam Bhayat all receive life sentences.",
+      "published_at": "2026-09-07T10:45:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "ebbd19bfa4cc92f0f9da216437b2e89c08f9a9f16c62c4886136c6cbd1740339",
+      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "published_at": "2026-09-07T10:45:28+00:00",
+      "source": "BBC",
+      "categories": [
         "World"
       ]
     },
@@ -141,6 +441,17 @@
       ]
     },
     {
+      "id": "d3ce776637f847655e8b5f0824ae0dd1381ecb20fd2cf1b4b71ddd84cc45c29d",
+      "title": "Dolly Parton-inspired lorry aims to bring smiles",
+      "url": "https://www.bbc.co.uk/news/articles/czdzye1jz8vo?at_medium=RSS&at_campaign=rss",
+      "description": "A council selects \"Dolly Carton\" as the name of one of its recycling trucks.",
+      "published_at": "2026-09-07T10:22:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "b337b542546ba3799ec175beeccbd320bcbe364b8547e46b7ae679146dc74b0a",
       "title": "Lebanon president calls for US help after deadly Israeli strikes",
       "url": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
@@ -160,6 +471,17 @@
       "source": "SCMP",
       "categories": [
         "News"
+      ]
+    },
+    {
+      "id": "4d1a624a7c3009f41a6737b3e620d4f2646d28d2bd3f31dda274266b72727215",
+      "title": "Dog bite victim died of wound complications",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zggz7888o?at_medium=RSS&at_campaign=rss",
+      "description": "Lee Ellis is charged with manslaughter after James Judge was attacked by a dog in Wakefield.",
+      "published_at": "2026-09-07T10:16:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -306,6 +628,7 @@
       "published_at": "2026-09-07T09:49:02+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -330,6 +653,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "6af2b100c22f9c082ab933ea03897016ef0e819c72c7db39263ef6efc896aa39",
+      "title": "Arrest after ram-raid attempt at jewellery shop",
+      "url": "https://www.bbc.co.uk/news/videos/c07lddzl4e1o?at_medium=RSS&at_campaign=rss",
+      "description": "A man, 38, is arrested on suspicion of aggravated burglary after the raid on a Bradford shop.",
+      "published_at": "2026-09-07T09:43:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -400,6 +734,17 @@
       ]
     },
     {
+      "id": "2aa9a3c250ae8cea472ba265d886a8dcd613e5fcb4ddcb4b8e4afaf70514cbc5",
+      "title": "Grave exhumed in probe into 2022 death",
+      "url": "https://www.bbc.co.uk/news/articles/c780e371e90o?at_medium=RSS&at_campaign=rss",
+      "description": "A man has been arrested on suspicion of murder as part of a police investigation.",
+      "published_at": "2026-09-07T09:40:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "e8a2ae7035913f17d09f1d557ec181bcc39fa4d69de5d72a7f6bbe6cea844549",
       "title": "Jaguar Land Rover to cut 4,000 jobs",
       "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
@@ -429,6 +774,17 @@
       "description": "German startup Isar Aerospace becomes the first company to achieve a successful private orbital space launch. But first: Germany's far-right AfD party scores a big electoral victory, pushed along in part by the country's structural economic crisis and its fiscal policies.",
       "published_at": "2026-09-07T09:32:58+00:00",
       "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c997f710455c9d124adeb7ae77b2aef205e7ed6c82b3fc82dbf48f6c6a7ed4fb",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+      "published_at": "2026-09-07T09:31:26+00:00",
+      "source": "BBC",
       "categories": [
         "World"
       ]
@@ -1438,6 +1794,17 @@
       ]
     },
     {
+      "id": "5ce6e3df8ea82708184fc73bcfca1d0904cd66045de8947d8bbed274a905cbd4",
+      "title": "The church service held on a fairground ride",
+      "url": "https://www.bbc.co.uk/news/articles/cm274gkd922o?at_medium=RSS&at_campaign=rss",
+      "description": "St Giles' Fair originated in 1625 and each year a special blessing is given the night before.",
+      "published_at": "2026-09-07T05:14:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "b41f261b056bb713dc4b1c1f6432153a8c6707c8e096b32e72c967b38d9c8858",
       "title": "Hot summer helps group clear 'buckets' of lake litter",
       "url": "https://www.bbc.co.uk/news/articles/c3eqvy3777lo?at_medium=RSS&at_campaign=rss",
@@ -1549,6 +1916,17 @@
     },
     {
       "id": "04de67c141af4eb5d425559a5c1a80d188ae9aa8fa933e077b800a3768d7124f",
+      "title": "'I turned my pain into purpose to become a beauty queen'",
+      "url": "https://www.bbc.co.uk/news/articles/cy74z2y22p7o?at_medium=RSS&at_campaign=rss",
+      "description": "Charlotte Levy, the reigning Miss Northampton, wants to help other young women leaving care.",
+      "published_at": "2026-09-07T04:58:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5bd655943d9dccf976e0c0c682fcd72d43d892817c1cd3758b03e660057c2213",
       "title": "'I turned my pain into purpose to become a beauty queen'",
       "url": "https://www.bbc.co.uk/news/articles/cy74z2y22p7o?at_medium=RSS&at_campaign=rss",
       "description": "Charlotte Levy, the reigning Miss Northampton, wants to help other young women leaving care.",
@@ -2458,7 +2836,7 @@
       "id": "70cfb73b9de9e8203b9014028850f8defd221a7ef3de8ba6b813f52e18368c19",
       "title": "NI secretary to hold Stormont talks over budget deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c8d31dgnev7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is Sir Chris Bryant's first visit to Stormont as Northern Ireland secretary of state.",
+      "description": "The parties were speaking after the executive met Sir Chris Bryant, who arrived on Monday for talks to resolve Stormont's budget deadlock.",
       "published_at": "2026-09-06T23:00:34+00:00",
       "source": "BBC",
       "categories": [
@@ -2469,7 +2847,7 @@
       "id": "101211480ddac4a0f0dc537cac00caecc362e09d7722613afc38ec2ba1054b33",
       "title": "NI secretary to hold Stormont talks over budget deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c8d31dgnev7o?at_medium=RSS&at_campaign=rss",
-      "description": "It is Sir Chris Bryant's first visit to Stormont as Northern Ireland secretary of state.",
+      "description": "The parties were speaking after the executive met Sir Chris Bryant, who arrived on Monday for talks to resolve Stormont's budget deadlock.",
       "published_at": "2026-09-06T23:00:34+00:00",
       "source": "BBC",
       "categories": [
@@ -3636,6 +4014,17 @@
       ]
     },
     {
+      "id": "6819f1c5f5e26c523b85be12801f8a855151dfa769feddeeb08663fa91ba4d36",
+      "title": "McColgan wins London Big Half after five months out",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+      "description": "Britain's Eilish McColgan returns to competitive action after five months out with a broken toe to win the London Big Half for a fourth time.",
+      "published_at": "2026-09-06T14:33:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "eba5b7603bf00f55029cfb784c5f6960da9e884c6b406d5dfdcc0530fbc11c07",
       "title": "Under-fire FIFA boss Infantino to seek re-election despite calls to resign",
       "url": "https://www.france24.com/en/sport/20260906-under-fire-fifa-boss-infantino-to-seek-re-election-despite-calls-to-resign",
@@ -4746,6 +5135,17 @@
     },
     {
       "id": "d6ef9e58e23432deed157285e7ac3b74de0cab20805de38040a975e6b12b8835",
+      "title": "Huge wallpaper artwork on display in Aberdeen's art deco swimming pool",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxd4pp35jo?at_medium=RSS&at_campaign=rss",
+      "description": "The work by London-based artist Tod Hanson was painted in pieces in his small studio, before being assembled with tape on the pool floor.",
+      "published_at": "2026-09-06T08:10:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f8768edbdf7b3d3e25c4fcd0f78b2ae926827eb64cdbd6a263c307e0a0c0ad88",
       "title": "Huge wallpaper artwork on display in Aberdeen's art deco swimming pool",
       "url": "https://www.bbc.co.uk/news/articles/c1wxd4pp35jo?at_medium=RSS&at_campaign=rss",
       "description": "The work by London-based artist Tod Hanson was painted in pieces in his small studio, before being assembled with tape on the pool floor.",
