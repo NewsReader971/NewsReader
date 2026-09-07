@@ -1,6 +1,322 @@
 {
-  "last_updated": "2026-09-07T05:02:43.308005+00:00",
+  "last_updated": "2026-09-07T06:03:43.396066+00:00",
   "articles": [
+    {
+      "id": "304add6c25fb0a9842f9e1618575533d2464d3273865317c48ca2d37cbc4714f",
+      "title": "Pioneering fossil hunter recognised with blue plaque",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o?at_medium=RSS&at_campaign=rss",
+      "description": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
+      "published_at": "2026-09-07T06:01:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "7c93ee83f2881a8399697da3a855dbbccd4cb512d55e5af606e2fc7050083f83",
+      "title": "Scotland's papers: 'Warnings' to Swinney over public sector reforms",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6pgy6rgvo?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-09-07T06:00:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9ca2cb71e7b3571a18bb9f0d1e24bad19e7037f914ae0e9e57580033a9e05101",
+      "title": "More Chinese pet owners choose TCM for chronic pet illnesses using herbs, bee stings, acupuncture",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366583/more-chinese-pet-owners-choose-tcm-chronic-pet-illnesses-using-herbs-bee-stings-acupuncture?utm_source=rss_feed",
+      "description": "An increasing number of Chinese pet owners are turning to traditional Chinese medicine (TCM) to address chronic diseases and provide hospice care for their senior pets. On one social media platform, the hashtag #petTCM has amassed over five million views, reflecting a growing willingness among people to share their experiences with TCM treatments for their pets. A pet owner from Beijing took his dog, Iron Man, a seven-year-old mix of a border collie and golden retriever suffering from severe...",
+      "published_at": "2026-09-07T06:00:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "a024a07d146edb071087e58656088b4c5fd9db2e70c16b09280f32528adcd409",
+      "title": "Iranians recount horrors of suspected US missile attack on first day of war",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366603/iranians-recount-horrors-suspected-us-missile-attack-first-day-war?utm_source=rss_feed",
+      "description": "Thirteen-year-old Mohammad Reza Barfar remembers the free kick more clearly than almost anything else on February 28 when the US-led attack on Iran began. The football-loving schoolboy went to a local field after classes for a match between his village and another team. He scored from a free kick and his brother captured the goal on video. Hours later, Mohammad Reza was lying wounded amid smoke and debris after a series of explosions struck Lamerd, an industrial city in Iran’s southern Fars...",
+      "published_at": "2026-09-07T05:57:59+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "34cf43f909acdcf19ff1e7e9800dfab408561bbcd0806876326697a913147901",
+      "title": "Watch: Anti-migrant protesters block roads in Portsmouth",
+      "url": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
+      "description": "The government condemned \"the intimidating and thuggish behaviour\" of the demonstrators.",
+      "published_at": "2026-09-07T05:57:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "d9add051a5c37e347be8bd09b91e10aeb3e767dcd6c72b24ce83926d205173b1",
+      "title": "2 Hong Kong travel agencies, guide stripped of licences over ‘coerced shopping’",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3366602/2-hong-kong-travel-agencies-guide-stripped-licences-over-coerced-shopping?utm_source=rss_feed",
+      "description": "Hong Kong’s tourism watchdog has revoked the licences of two travel agencies and a guide after finding they failed to protect members of mainland Chinese tour groups from being subjected to “coerced shopping”. The Travel Industry Authority said on Monday that the licences of Go Go Ming Travel Services, Grandee Travel Company and guide Sun Kwun-ying had been revoked with immediate effect. “The authority adopts a zero-tolerance approach towards coerced shopping and any conduct that damages the...",
+      "published_at": "2026-09-07T05:57:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "042e5cee052d0b59eb36c757e03bfd83567d1a71012a518fc3b8cfa11b052a73",
+      "title": "Beyond STEM: Why Singapore tertiary institutions are putting more emphasis on arts and social sciences",
+      "url": "https://www.channelnewsasia.com/singapore/beyond-stem-singapore-tertiary-emphasis-arts-social-sciences-6362811",
+      "description": "As AI takes on more technical and routine tasks, educators are placing greater emphasis on creativity, critical thinking, communication, empathy and real-world problem solving.",
+      "published_at": "2026-09-07T05:52:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "2d22f099593ece11482b134054b0b84de0952ac8d4dcc1d53c2da50868da9cf5",
+      "title": "Australia flyhalf Gordon breaks leg, to miss up to two months, report says",
+      "url": "https://www.channelnewsasia.com/sport/australia-flyhalf-gordon-breaks-leg-miss-up-two-months-report-says-6366701",
+      "description": "",
+      "published_at": "2026-09-07T05:52:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "00c1b6cf3ed16514f357c24b5a325c869b23c778bc5f8c545fb99b671e01e3d4",
+      "title": "Cost of living on many minds ahead of Manx election",
+      "url": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents, businesses and charities are focused on the economy ahead of the general election.",
+      "published_at": "2026-09-07T05:46:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "886b8f9a5a86c41777a52d9d8c17bc07429cbc1932d311587a7e288b1874d21f",
+      "title": "Woman found dead in submerged car in Japan amid record rainfall",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3366600/woman-found-dead-submerged-car-japan-amid-record-rainfall?utm_source=rss_feed",
+      "description": "Heavy rainfall hit eastern Japan and elsewhere on Monday, with the weather agency urging maximum vigilance against landslides on Niijima and Oshima islands, south of Tokyo, and a woman dying in Iwaki in the northeast after her car became submerged. The Japan Meteorological Agency issued a special landslide warning for Niijima after more than 480mm (19 inches) of rain fell there over 24 hours, the largest amount since local records began. Heavy rain also hit eastern Japan including Tokyo from the...",
+      "published_at": "2026-09-07T05:45:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "685d4ae42e1de537addc8d616a653828c96c5c05800223d341173bd3250e36df",
+      "title": "Audi to appeal Tsunoda's Italian GP 10th place",
+      "url": "https://www.channelnewsasia.com/sport/audi-appeal-tsunodas-italian-gp-10th-place-6366686",
+      "description": "",
+      "published_at": "2026-09-07T05:42:29+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "c21ecc5f95f3c09c04adcf62dde93de01f6dcb1b2018a606278f3489d482e350",
+      "title": "Troubles bill 'must be improved further' says human rights report",
+      "url": "https://www.bbc.co.uk/news/articles/c0klxmm5p2go?at_medium=RSS&at_campaign=rss",
+      "description": "The committee said it was a “significant improvement” on previous legislation, but \"must be improved further”.",
+      "published_at": "2026-09-07T05:39:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "d40950f7c1b022e2a5a8b607b0858ae100d28558611c7e1c49fa5d24e2debf31",
+      "title": "St Columb's Hall bought with £3.75m of lottery funding",
+      "url": "https://www.bbc.co.uk/news/articles/c70l5gw725go?at_medium=RSS&at_campaign=rss",
+      "description": "Work will begin on the redevelopment of the 138-year-old hall early in 2027.",
+      "published_at": "2026-09-07T05:31:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1f92117b1154a22a07dbce3050cc8f1b079189d839d4fe8b62e981b7765b0993",
+      "title": "PM Wong, Chan Chun Sing to deliver ministerial statements on government's response to political office holders' salary review",
+      "url": "https://www.channelnewsasia.com/singapore/salary-review-political-office-holders-minister-pay-parliament-6366351",
+      "description": "The ministerial statements will be debated on Thursday (Sep 10).",
+      "published_at": "2026-09-07T05:21:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "96a5fb6fc731da7fbd008dab4121b51a84ddeb58e1d69a974e4f18b1f7695923",
+      "title": "The therapy dogs bringing a calming presence to children",
+      "url": "https://www.bbc.co.uk/news/articles/cddjv6ey663o?at_medium=RSS&at_campaign=rss",
+      "description": "Support dogs can help calm autistic people, monitor blood sugar and help with mobility.",
+      "published_at": "2026-09-07T05:18:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "9178398feff7b85f5b77555320769217baadb71a6f5c139c9ed99121e617850e",
+      "title": "Swinney's £2 cap on bus fares kicks in - but some call it 'half a solution'",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zydnl8x7o?at_medium=RSS&at_campaign=rss",
+      "description": "The SNP policy was announced last week and from Monday, fares are capped to £2 in the west.",
+      "published_at": "2026-09-07T05:18:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "d3ea14ca1cfc97c00d407ad58da90556c4400a2d42d6fb84089c87dcd9f31157",
+      "title": "Swinney's £2 cap on bus fares kicks in - but some call it 'half a solution'",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zydnl8x7o?at_medium=RSS&at_campaign=rss",
+      "description": "The SNP policy was announced last week and from Monday, fares are capped to £2 in the west.",
+      "published_at": "2026-09-07T05:18:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "5e824e11e5bcd1d933e67ffdeae6b6013bd846711f137703bef8e85566868d2c",
+      "title": "Ligue 1: Paris FC and Sinayoko beat Marseille and climb to 2nd",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260907-ligue-1-paris-fc-and-sinayoko-beat-marseille-and-climb-to-2nd",
+      "description": "Paris FC beat Olympique de Marseille 3–2 at the Vélodrome thanks to a hat-trick from Lassine Sinayoko. Paris FC sit second but OM remain stuck in 10th place in the table.",
+      "published_at": "2026-09-07T05:18:21+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "86e5810dc1d0df241c257a76e3339670b714ac69780d47261fa01e908ee0c0a7",
+      "title": "Brechu moch daear rhag TB: 'Bylchau sylweddol' o ran tystiolaeth",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg0ewnpyr4o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae grŵp o ymchwilwyr yn dadlau bod \"bylchau sylweddol\" yn y wybodaeth a'r dystiolaeth wrth frechu moch daear yng Nghymru.",
+      "published_at": "2026-09-07T05:17:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "82b795373c382e86f5e355abfe7103736ed1d337405b4637573e4dc5f4b42251",
+      "title": "Malaysia lifts emergency declaration in Sarawak district as fire haze eases, though air quality still poor",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-sarawak-serian-haze-emergency-lifted-6366581",
+      "description": "Malaysian King Sultan Ibrahim Sultan Iskandar gave his consent to end the state of emergency in Serian based on advice from Prime Minister Anwar Ibrahim and Sarawak Premier Abang Johari Openg.",
+      "published_at": "2026-09-07T05:15:25+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b41f261b056bb713dc4b1c1f6432153a8c6707c8e096b32e72c967b38d9c8858",
+      "title": "Hot summer helps group clear 'buckets' of lake litter",
+      "url": "https://www.bbc.co.uk/news/articles/c3eqvy3777lo?at_medium=RSS&at_campaign=rss",
+      "description": "The hot summer has meant lakes and rivers across the country have been running low.",
+      "published_at": "2026-09-07T05:13:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "d9b69ab83025d3b40c3d95c962ac913eb6b8346813428de704d653b8601f88cd",
+      "title": "Turtle doves released in bid to stop extinction",
+      "url": "https://www.bbc.co.uk/news/articles/c207nvzywkgo?at_medium=RSS&at_campaign=rss",
+      "description": "Conservationists release more than two dozen turtle doves in the South Downs National Park.",
+      "published_at": "2026-09-07T05:12:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "facb2d277082bab6c57c6ec1b74cc56aca33ecb17500c0d229ae1054e21ddc26",
+      "title": "Powerlifter wins golds despite endometriosis pain",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx7299901o?at_medium=RSS&at_campaign=rss",
+      "description": "Lhamo Weston says it's important to be open about competing with endometriosis",
+      "published_at": "2026-09-07T05:11:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "ff84b0a759c249efb03309b5169caba11536fdc0d94a4e7a9c9d2d1a3a6bb56d",
+      "title": "Cais dadleuol am dai newydd yn Chwilog i gael ei drafod eto",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v4ny8rymzo?at_medium=RSS&at_campaign=rss",
+      "description": "Cynghorwyr yn trafod cais cynllunio ar gyfer 20 o dai fforddiadwy yn Chwilog, fisoedd ar ôl gwrthod cais gwreiddiol am 25.",
+      "published_at": "2026-09-07T05:10:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "047bbc2f7d14cba5ad74ef2e3084a2fd8228f488d0accff9fa0438ddddab21d2",
+      "title": "'Dyw colli fy ngwallt drwy cemo ddim yn diffinio fi - mae'n dangos bo' fi'n gryf'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c0re58w0l55o?at_medium=RSS&at_campaign=rss",
+      "description": "Pan gollodd Rhiannon Thomas ei gwallt yn ystod cemotherapi wythnosau'n unig ar ôl cael mastectomi fe gollodd hi ei hyder hefyd, meddai.",
+      "published_at": "2026-09-07T05:02:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "728db665d0d445e5ecd2cc828fd15bea5ea284f7428f9b2a027a666489e22fc7",
+      "title": "Should schools get to dictate our children's hair?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z4qrzdg7o?at_medium=RSS&at_campaign=rss",
+      "description": "The founder of one academy trust wants 'outdated' policies to be scrapped.",
+      "published_at": "2026-09-07T05:00:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "14cc5cea3dff36aecce85f080a107903b14ac5bd8bacf1657424b0533dd6ef34",
+      "title": "Widow says cafe trips with strangers are a lifesaver",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6r4x8no?at_medium=RSS&at_campaign=rss",
+      "description": "The social enterprise encourages people to chat to strangers at the weekly meetings.",
+      "published_at": "2026-09-07T04:59:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "04de67c141af4eb5d425559a5c1a80d188ae9aa8fa933e077b800a3768d7124f",
+      "title": "'I turned my pain into purpose to become a beauty queen'",
+      "url": "https://www.bbc.co.uk/news/articles/cy74z2y22p7o?at_medium=RSS&at_campaign=rss",
+      "description": "Charlotte Levy, the reigning Miss Northampton, wants to help other young women leaving care.",
+      "published_at": "2026-09-07T04:58:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "b7689fd84ee2752fdae24930a3b941d1d9b8c6dacf38b3b849ac1b73d4ac3f6a",
       "title": "Singapore’s Wong warns racist remarks over Nepal,  Air India risk ‘pulling us apart’",
@@ -22,6 +338,17 @@
       "source": "BBC",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "b925a54a1a10372fee552a904731a47175760aea5e51a8fa67c0ff3da08208bf",
+      "title": "How long could you manage on £3 of food a day?",
+      "url": "https://www.bbc.co.uk/news/articles/c07lz5d5z34o?at_medium=RSS&at_campaign=rss",
+      "description": "It wants people to experience what it is like for people facing food insecurity.",
+      "published_at": "2026-09-07T04:57:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -212,6 +539,17 @@
       ]
     },
     {
+      "id": "69c2b7e200e23411c8124d12e84211c44894b6daae6654c0f83f51574bfaa6ef",
+      "title": "Australians will be able to switch off social media algorithms under planned legislation",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "published_at": "2026-09-07T03:40:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "6fec8217ea441ff348739b07e5b6f747e6e117c9238b583396eb756c6438d302",
       "title": "NFL-49ers coach Shanahan feels like he is in the future before landmark Australia game",
       "url": "https://www.channelnewsasia.com/sport/nfl-49ers-coach-shanahan-feels-he-in-future-landmark-australia-game-6366476",
@@ -277,6 +615,18 @@
       "url": "https://www.channelnewsasia.com/singapore/tampines-fatal-chain-collision-driver-sentenced-6365736",
       "description": "Both the prosecution and defence are seeking a lifetime driving ban for Muhammad Syafie Ismail.",
       "published_at": "2026-09-07T02:45:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "1ba896b63c1caa5f7235bebee7647d07d40bd419c384e88018a735ff47578384",
+      "title": "Prosecution seeks up to 13.5 years' jail for driver in Tampines collision that killed 2",
+      "url": "https://www.channelnewsasia.com/singapore/tampines-fatal-chain-collision-prosecution-seeks-jail-6365736",
+      "description": "Both the prosecution and defence are seeking a lifetime driving ban for Muhammad Syafie Ismail.",
+      "published_at": "2026-09-07T02:45:00+00:00",
       "source": "CNA",
       "categories": [
         "Latest News",
@@ -410,6 +760,18 @@
       ]
     },
     {
+      "id": "54ebfbb59205b201882503ebd34d45424d0024963d3d40c5d1cd603144b6e8c9",
+      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+      "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+      "published_at": "2026-09-07T01:31:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "Scotland"
+      ]
+    },
+    {
       "id": "203a3d472f6f42c3fe87357a7e1ea37bb51de1d90d5a977c72a444c86dd3d981",
       "title": "Shelton stops Tsitsipas, sets up Alcaraz showdown at US Open",
       "url": "https://www.channelnewsasia.com/sport/shelton-stops-tsitsipas-sets-up-alcaraz-showdown-us-open-6366276",
@@ -453,6 +815,7 @@
       "published_at": "2026-09-07T01:23:04+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -493,6 +856,18 @@
     },
     {
       "id": "d0d7d033a694030f8355ab07ae3fc2cd0fc58c95bfed1c64f7b2bdacb4f6e90b",
+      "title": "Drug rape killer should never have been freed, says victim",
+      "url": "https://www.bbc.co.uk/news/articles/c74el40wpw9o?at_medium=RSS&at_campaign=rss",
+      "description": "One of Richard Scatchard's victims says his killing of Kelly Faiers in 2023 could have been avoided.",
+      "published_at": "2026-09-07T01:11:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "9d567a96fffd5516885d42435f181c1b1ec3d7e2decd436330f0fd2586420077",
       "title": "Drug rape killer should never have been freed, says victim",
       "url": "https://www.bbc.co.uk/news/articles/c74el40wpw9o?at_medium=RSS&at_campaign=rss",
       "description": "One of Richard Scatchard's victims says his killing of Kelly Faiers in 2023 could have been avoided.",
@@ -845,6 +1220,7 @@
       "published_at": "2026-09-06T22:00:36+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "Health",
         "UK"
       ]
@@ -1247,6 +1623,7 @@
       "published_at": "2026-09-06T19:15:36+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -1565,7 +1942,7 @@
       "id": "0c7fd6667dbf007b2645b038e0b62d384f28b625a57f8290524a1dbf6c3e8326",
       "title": "Dozens feared trapped in collapsed building in Delhi",
       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "description": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
       "published_at": "2026-09-06T16:54:34+00:00",
       "source": "BBC",
       "categories": [
@@ -1617,6 +1994,17 @@
       "categories": [
         "Politics",
         "UK"
+      ]
+    },
+    {
+      "id": "6f4ce4ed420d32b9e190b1e60dc99e67ba3767278221b3344aa6358698bf90f2",
+      "title": "Police officer headbutted and left with 'significant facial injury'",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvzvjye3lo?at_medium=RSS&at_campaign=rss",
+      "description": "Officers were responding to a disturbance at a flat on Saturday.",
+      "published_at": "2026-09-06T16:23:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -1677,6 +2065,17 @@
     },
     {
       "id": "22bd1d1072ea03a0b796c4705ee5144f8785042aba0f3c60b51fd6244d7ed35d",
+      "title": "Warning issued after dead eels found in brook",
+      "url": "https://www.bbc.co.uk/news/articles/cr508ydjm63o?at_medium=RSS&at_campaign=rss",
+      "description": "Volunteers are asking dog walkers to stay away from Brislington Brook.",
+      "published_at": "2026-09-06T16:04:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "7eba0935122463726c4bc08259eca40778576e50ab0c0d3061d59af744337a6b",
       "title": "Warning issued after dead eels found in brook",
       "url": "https://www.bbc.co.uk/news/articles/cr508ydjm63o?at_medium=RSS&at_campaign=rss",
       "description": "Volunteers are asking dog walkers to stay away from Brislington Brook.",
@@ -2040,6 +2439,17 @@
     },
     {
       "id": "803f3be7a2a2445a35cb378a551895473b74fdc4f6e83a3ee8a6ffa0e41856ee",
+      "title": "Residents 'fearful' for their homes amid fireworks trouble",
+      "url": "https://www.bbc.co.uk/news/articles/cnvl10dyz72o?at_medium=RSS&at_campaign=rss",
+      "description": "People in the area said a group of about 30 youths were throwing the fireworks on Saturday night.",
+      "published_at": "2026-09-06T13:55:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1f3d41971fc30e36a47ab295cf0a4ad61a2b1a7fd880f919308ac9982495f25c",
       "title": "Residents 'fearful' for their homes amid fireworks trouble",
       "url": "https://www.bbc.co.uk/news/articles/cnvl10dyz72o?at_medium=RSS&at_campaign=rss",
       "description": "People in the area said a group of about 30 youths were throwing the fireworks on Saturday night.",
@@ -2504,6 +2914,7 @@
       "published_at": "2026-09-06T11:30:14+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -3586,6 +3997,17 @@
       ]
     },
     {
+      "id": "eccbfd18c3c4d8164c16633f10b3473e1c380ca7a283c71bec912aef19fe7295",
+      "title": "Parents 'frustrated and anxious' about school placement offers",
+      "url": "https://www.bbc.co.uk/news/articles/c74kn8v83pgo?at_medium=RSS&at_campaign=rss",
+      "description": "What can parents of children with special educational needs do when demand for school places outstrips capacity?",
+      "published_at": "2026-09-06T06:00:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "cea84cc93ec2c37d62825fbf0ec321864a714fd619eae93b552e6a504250b665",
       "title": "Chinese military university urged to revise AI course to ‘educate for war’",
       "url": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
@@ -4343,6 +4765,17 @@
       "categories": [
         "Business",
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "0370a6efb7fc270f882c95e4574996d863b089b7de470a9a557ad7e1e5403a22",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "published_at": "2026-09-05T23:20:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -8001,6 +8434,7 @@
       "published_at": "2026-09-05T01:53:45+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "UK"
       ]
     },
@@ -8136,6 +8570,7 @@
       "published_at": "2026-09-05T00:44:24+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "UK"
       ]
     },
