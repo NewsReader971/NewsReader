@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-09-07T19:02:27.007313+00:00",
+  "last_updated": "2026-09-07T20:02:47.766585+00:00",
   "articles": [
+    {
+      "id": "7d0a06abe034423748b266e3492dccdcc9a48a9f296d90a49a238ead0cdcd70b",
+      "title": "New Panama Canal chief considers more cuts in transits due to El Nino",
+      "url": "https://www.scmp.com/news/world/americas/article/3366692/new-panama-canal-chief-considers-more-cuts-transits-due-el-nino?utm_source=rss_feed",
+      "description": "The number of ships sailing through the Panama Canal could be cut further due to drought caused by the El Nino weather pattern, the new administrator of the waterway told Agence France-Presse on Monday. Panama has declared a nationwide emergency over El Nino, a phenomenon developing over the Pacific Ocean that is affecting worldwide weather patterns and pushing up global temperatures. This year’s El Nino is expected to be the strongest since record-keeping began four decades ago. Panama’s...",
+      "published_at": "2026-09-07T19:43:10+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0fe6cb20c47e27dc09e985f81c2af3f2046d8e929ee5c5d34be46c4d85617f74",
+      "title": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
+      "description": "Not enough to win outright but enough to shake Germany and Europe to their core: the far-right Alterniv für Deutschland trouncing the ruling conservatives in the impoverished former East German region of Saxony-Anhalt. We’ll ask about the consequences of voting for an anti-immigrant, pro-Russian party that wants schools to teach less about the ills of Hitler and more the glory of Bismarck.",
+      "published_at": "2026-09-07T19:38:44+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe"
+      ]
+    },
+    {
+      "id": "d238b504360d88682a10b533920d0b47bf6292dc92fd535255d97613c4bf8056",
+      "title": "Father 'couldn't comprehend' fatal crash ID mix-up",
+      "url": "https://www.bbc.co.uk/news/articles/cdx05e7kjp8o?at_medium=RSS&at_campaign=rss",
+      "description": "Joshua Johnson's family were mistakenly told that their son, who had died in a car crash, had survived.",
+      "published_at": "2026-09-07T19:12:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "e37fb9e1dbf099fd4a0136c8f7905fc8da65b6e80c8542b53adce4ac67972742",
+      "title": "Gaps in evidence on vaccinating badgers against TB, researchers say",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzz1mjpvo?at_medium=RSS&at_campaign=rss",
+      "description": "Researchers want increased monitoring of the vaccination's impact on the disease and a review of the evidence.",
+      "published_at": "2026-09-07T19:11:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "Wales"
+      ]
+    },
     {
       "id": "1571f118ba19a24e7498c8b8679a09ce158b02a8eaf77f2cb6316331e27c0406",
       "title": "Alleged killers of Australian, US surfers go on trial in Mexico",
@@ -80,7 +126,8 @@
       "published_at": "2026-09-07T18:27:21+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -601,7 +648,8 @@
       "published_at": "2026-09-07T15:41:52+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -708,6 +756,17 @@
     },
     {
       "id": "2bbc1fa360bb9ff5fa7936c0e07b31afe6b84318f08ff9003c3dae467e971597",
+      "title": "Man, 102, with dementia died after being pushed in pub, inquest told",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6p08v54jo?at_medium=RSS&at_campaign=rss",
+      "description": "Phillip Ormerod was taken to hospital in critical condition and later died.",
+      "published_at": "2026-09-07T15:18:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "4dda641cf32d4133f0b6250df71547394c8b04eb0547e74dfec03b2ace1cf802",
       "title": "Man, 102, with dementia died after being pushed in pub, inquest told",
       "url": "https://www.bbc.co.uk/news/articles/c8r6p08v54jo?at_medium=RSS&at_campaign=rss",
       "description": "Phillip Ormerod was taken to hospital in critical condition and later died.",
@@ -828,6 +887,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss",
       "description": "The former footballer, who is accused of an assault at a golf club, has been refused bail.",
       "published_at": "2026-09-07T14:43:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5364fbe2d998e5bc5f3383a56e2a3bd46f289a9a9eaf13987b6ca32132b97165",
+      "title": "Man arrested on suspicion of murder after two people found dead at house",
+      "url": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of a man and a woman have been discovered at a house in Blackburn and a man has been arrested.",
+      "published_at": "2026-09-07T14:41:21+00:00",
       "source": "BBC",
       "categories": [
         "England"
@@ -1042,7 +1112,7 @@
       "id": "382d8fb59cb8847f2a13fe2ef28eb4b2abbf13e0fd5faa9effa17119dbbda360",
       "title": "Police defend response to Port of Dover protest",
       "url": "https://www.bbc.co.uk/news/articles/cgk53rvydx5o?at_medium=RSS&at_campaign=rss",
-      "description": "An MP has questioned why Kent Police did not know beforehand about the protest on Saturday.",
+      "description": "The Kent force is inviting those behind Saturday's protest at the Port of Dover to get in touch.",
       "published_at": "2026-09-07T13:33:43+00:00",
       "source": "BBC",
       "categories": [
@@ -2922,7 +2992,7 @@
       "id": "89a5f970ceb5e124907bf46c6ca71d0fa60b231bcf31f06147ca107acf75ed2f",
       "title": "Thousands of mourners gather in Belgrade for war criminal Mladic's funeral",
       "url": "https://www.france24.com/en/europe/20260907-thousands-of-mourners-gather-in-belgrade-for-war-criminal-mladic-s-funeral",
-      "description": "Thousands of mourners on Monday gathered at a church in Belgrade to view the body of Ratko Mladic, who died in The Hague, Netherlands, on August 27 while serving a life sentence for genocide, war crimes and crimes against humanity. The European Union has heavily criticised the event, and Marta Kos, the bloc's enlargement commissioner, cancelled an upcoming visit to Serbia in protest.",
+      "description": "Thousands of mourners on Monday gathered at a church in Belgrade for the funeral of Ratko Mladic, who died in The Hague, Netherlands, on August 27 while serving a life sentence for genocide, war crimes and crimes against humanity. The European Union heavily criticised the decision to hold a public funeral service with Marta Kos, the bloc's enlargement commissioner, having cancelled an upcoming visit to Serbia in protest.",
       "published_at": "2026-09-07T08:08:41+00:00",
       "source": "France 24",
       "categories": [
@@ -3367,7 +3437,8 @@
       "published_at": "2026-09-07T06:01:33+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
