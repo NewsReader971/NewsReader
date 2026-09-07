@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-09-07T00:04:12.676212+00:00",
+  "last_updated": "2026-09-07T01:03:02.093082+00:00",
   "articles": [
+    {
+      "id": "afd0006ea2af19af0d44670bba03492e680c0ea8b669f8bbcd8c21f85432ff66",
+      "title": "Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?",
+      "url": "https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed",
+      "description": "Hong Kong’s top financial regulators have urged local banks to make greater use of the city’s growing pool of offshore yuan liquidity, while also flagging the need to prepare for a coming wave of autonomous AI systems used in the financial sector. Speaking at the Hong Kong Association of Banks (HKAB) Distinguished Speaker Luncheon, Eddie Yue Wai-man, chief executive of the Hong Kong Monetary Authority (HKMA), called on lenders to leverage their international networks to expand the Chinese...",
+      "published_at": "2026-09-07T01:00:09+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "886db3e21f5da9df906443ed552ea1330396c9ac6d03bd5a6f31b41458d11058",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "published_at": "2026-09-07T00:57:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "World"
+      ]
+    },
+    {
+      "id": "d424fdcef262fabe313e0cd34806487f370cc1e0ea60534a6a658e6f6c209429",
+      "title": "Australia retain Labuschagne for test series in South Africa",
+      "url": "https://www.channelnewsasia.com/sport/australia-retain-labuschagne-test-series-in-south-africa-6366186",
+      "description": "",
+      "published_at": "2026-09-07T00:44:04+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "904f39181df1f228aefa62a218e2df56a5028f4cb9bc13770d6c58b88bdbfc42",
+      "title": "US envoys bring ‘more effective’ Ukraine peace proposals to Kyiv, official says",
+      "url": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv",
+      "description": "US envoys brought new, “more effective” proposals to Kyiv aimed at ending the war with Russia, a senior Ukrainian presidential official said on Sunday. President Volodymyr Zelensky and US envoys Steve Witkoff and Jared Kushner described talks positively but announced no breakthrough, as Zelensky warned fighting could continue into winter.",
+      "published_at": "2026-09-07T00:31:28+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "07defea4d8a1ab47e3cf4d7a23e9aa486605ac3cb168642e80363a851c84129b",
+      "title": "European chamber chief in Hong Kong heads to Brussels to ‘reset city’s image’",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366552/european-chamber-chief-hong-kong-heads-brussels-reset-citys-image?utm_source=rss_feed",
+      "description": "The head of the European Chamber of Commerce in Hong Kong (EuroCham) aims to “reset” perceptions about the financial hub during the organisation’s first-ever “door-knock” mission to Brussels, emphasising that the city remains “significantly, fundamentally” distinct from its mainland Chinese counterparts. With Hong Kong set to unveil its first five-year plan on September 16 – the same day the mission begins – chairman Johannes Hack told the South China Morning Post that the city lacked a clear...",
+      "published_at": "2026-09-07T00:30:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "febb58707749a076ec55edbb4b1a03875362e08d7dc5449bfd6f5f314fdb82ef",
+      "title": "Japan's August foreign reserves post largest-ever drop after record intervention",
+      "url": "https://www.channelnewsasia.com/business/japans-august-foreign-reserves-post-largest-ever-drop-after-record-intervention-6366166",
+      "description": "",
+      "published_at": "2026-09-07T00:28:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "62e00772110ef2eac9990b42dbe38017007f34227e20abb88d0f367650f566ba",
+      "title": "EU to boost Greenland investment amid Trump annexation claims",
+      "url": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation",
+      "description": "European Commission President Ursula von der Leyen is expected to announce increased EU investment in Greenland on Monday, including in critical minerals, satellite communications and renewable energy. Her two-day visit signals support for Greenland and Denmark amid US President Donald Trump’s push for American control of the Arctic territory.",
+      "published_at": "2026-09-07T00:27:21+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "8e818aff73d3c506330889652ada0fee0d79027a83abe9d2476ec8bd0a737d6a",
+      "title": "The Papers: 'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
+      "url": "https://www.bbc.co.uk/news/articles/cdr73jpmpn1o?at_medium=RSS&at_campaign=rss",
+      "description": "A warning from defence officials and a skydiving miracle lead Monday's front pages.",
+      "published_at": "2026-09-07T00:05:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "e8299ad78b0b4e62f65006dc08336c94aa699e45dcf5fc6193cc78d55d15f6c5",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "published_at": "2026-09-07T00:01:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "1f51d8f11ccc72b7e4380883fa38604fe362d6fc657b8aa03293d5bcf8ecc7d3",
       "title": "China marks major tunnel milestone for Central Asia railway bypassing Russia",
@@ -79,7 +184,8 @@
       "published_at": "2026-09-06T23:16:05+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -2311,6 +2417,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "691e9aa1993fc852bb91c17757c2afb11574918b02cf6005f0d22de655892e7e",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "published_at": "2026-09-06T08:05:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -11219,6 +11336,7 @@
       "published_at": "2026-09-04T05:59:10+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Scotland",
         "UK"
       ]
@@ -17031,17 +17149,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/m00300gz?at_medium=RSS&at_campaign=rss",
       "description": "Plus, how much do people really change their habits for a free coffee?",
       "published_at": "2026-08-11T09:00:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "60e7c63f0822b8a3ecfb0019fed654a165b5458656f422d0df38a5ce95474a3c",
-      "title": "I went for a full body MOT and the results came as a shock",
-      "url": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-      "description": "The private body scan industry is booming, but is it doing more harm than good?",
-      "published_at": "2026-08-08T00:49:48+00:00",
       "source": "BBC",
       "categories": [
         "Health"
