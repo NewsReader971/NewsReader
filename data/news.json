@@ -1,6 +1,327 @@
 {
-  "last_updated": "2026-09-07T12:03:16.075815+00:00",
+  "last_updated": "2026-09-07T13:03:38.193546+00:00",
   "articles": [
+    {
+      "id": "91606f7e0271afce74d93759a8996080e17f40a570afa4e69584637ee5094c22",
+      "title": "Plans for major overhaul of councils halted",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkj09dy4o?at_medium=RSS&at_campaign=rss",
+      "description": "Proposals to merge smaller councils to form larger authorities have been paused or withdrawn in a number of areas.",
+      "published_at": "2026-09-07T13:01:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "2e9fdebcb88c47e543cc38c0e918fd4c32b69eb1dda2f453c3bcf56e462d7f43",
+      "title": "China vows deeper cooperation with Qatar in energy, AI and Middle East de-escalation",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366671/china-vows-deeper-cooperation-qatar-energy-ai-and-middle-east-de-escalation?utm_source=rss_feed",
+      "description": "Chinese Premier Li Qiang pledged to deepen cooperation with Qatar in energy, investment, AI and diplomatic efforts to de-escalate Middle East tensions. Li delivered the remarks during a meeting on Monday in Beijing with Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani, who is on an official two-day visit to China aimed at bolstering bilateral ties. His visit came as Beijing and Doha sought to navigate an increasingly volatile regional security environment and...",
+      "published_at": "2026-09-07T13:00:26+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "a65928851be4f5527178c5781705785b5fa86fb16eafc84259e902d1b441741a",
+      "title": "China and Russia launch first sea ice survey aboard Xuelong 2 as Arctic tensions swell",
+      "url": "https://www.scmp.com/news/china/science/article/3366665/china-and-russia-launch-first-sea-ice-survey-aboard-xuelong-2-arctic-tensions-swell?utm_source=rss_feed",
+      "description": "China and Russia have conducted their first joint on-site sea ice survey in the Arctic Ocean aboard the Xuelong 2 research icebreaker, as tensions continue to rise over economic opportunities in the rapidly warming northern region. Two researchers from Russia’s Arctic and Antarctic Research Institute boarded Xuelong 2 as part of China’s 16th Arctic Ocean Expedition, according to a September 5 report by CCTV. According to Lin Long, captain of the Xuelong 2 sea ice team, this joint observation has...",
+      "published_at": "2026-09-07T13:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "2b0772b90197176c8e81d671f662a36d5b99737d2ba2d8adf47b06903a31fb49",
+      "title": "China jails former senior finance official for bribery",
+      "url": "https://www.channelnewsasia.com/east-asia/china-bribery-jail-former-finance-official-6367581",
+      "description": "",
+      "published_at": "2026-09-07T12:57:21+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e78f1773e0e4c07af3dc91287b7dee3d11d3176fc6ab44b892240263e70878ca",
+      "title": "Ystyried hollti ysgol uwchradd Gymraeg yn ddwy yn sgil pryderon ariannol",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj8z25yvvo?at_medium=RSS&at_campaign=rss",
+      "description": "Fe allai pryder am sefyllfa ariannol ysgol uwchradd Gymraeg yn Sir Caerffili arwain at sefydlu ail ysgol uwchradd yno.",
+      "published_at": "2026-09-07T12:53:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "3241cd0f4b78b6ca39e5b9ccc7188ef4dcd81b82868251a9af3dd160e9de8c34",
+      "title": "'I have chronic cancer but I'm not going to die': BBC presenter Maryam Moshiri",
+      "url": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
+      "description": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
+      "published_at": "2026-09-07T12:51:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9d833958564006d5f80d22f4daa65372693d2edc0b1cc5b0d0bceb3008e623e1",
+      "title": "'I have chronic cancer but I'm not going to die': BBC presenter Maryam Moshiri",
+      "url": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
+      "description": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
+      "published_at": "2026-09-07T12:51:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "68766a858b909b00a73348e1573bb0e180a8b443c23cb02b369d0d52068c9700",
+      "title": "Russia, North Korea open first road bridge across border",
+      "url": "https://www.channelnewsasia.com/world/russia-north-korea-first-road-bridge-6367571",
+      "description": "Russia and North Korea have heavily boosted military and economic ties since Moscow launched its Ukraine offensive.",
+      "published_at": "2026-09-07T12:51:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "6062f099f5af104eb450cc4c10317c1879784122affd1a9c55d929f2b54ea094",
+      "title": "Major towns set for 20mph speed limits under new roads programme",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko?at_medium=RSS&at_campaign=rss",
+      "description": "Ayr, Troon and Prestwick have been identified for a future phase of the Ayrshire Roads Alliance (ARA) programme",
+      "published_at": "2026-09-07T12:47:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "dab5a8faf5119a8b5dfefebda05bd5d32eb7965396639b3cbaf557051142701c",
+      "title": "Police told us it was safe to race, says Israel team coach",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzqq1py26o?at_medium=RSS&at_campaign=rss",
+      "description": "Four Israeli triathletes were withdrawn from the Derry race after organisers raised concerns about their participation.",
+      "published_at": "2026-09-07T12:44:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "3d36d751578c2019f7a71325cfbf6f0c8d5b0ece14422edcb03b072bd7c297f9",
+      "title": "Beating Cardiff 'massive' for Yzzy Taylor's Swans",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn45l7v7dz5o?at_medium=RSS&at_campaign=rss",
+      "description": "Swansea City boss Yzzy Taylor was delighted as her side opened the Adran Premier season by ending a seven-game losing streak against rivals Cardiff.",
+      "published_at": "2026-09-07T12:43:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "43805207b3ab51cf2c3e457002933c73000a9ac0444ac40f7f4d5323904c1a8b",
+      "title": "Three injured in multi-vehicle crash near Edinburgh Airport",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo?at_medium=RSS&at_campaign=rss",
+      "description": "Police say the multi-vehicle collision happened between the Newbridge and Gogar roundabouts.",
+      "published_at": "2026-09-07T12:42:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "fbd2a5a18ef51bd9a2c7037f73664409937dcc3ec293b3ca037145a9501d25cb",
+      "title": "Three injured in multi-vehicle crash near Edinburgh Airport",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo?at_medium=RSS&at_campaign=rss",
+      "description": "Police say the multi-vehicle collision happened between the Newbridge and Gogar roundabouts.",
+      "published_at": "2026-09-07T12:42:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "92bd53177b62b958b2f0a5f1e4c30a76515a7986d9ef4b648572b8a0f425f463",
+      "title": "'We’re all in crisis': Populist far-right 'trend' sweeping across Europe",
+      "url": "https://www.france24.com/en/video/20260907-we-re-all-in-crisis-populist-far-right-trend-sweeping-across-europe-1",
+      "description": "Annette Young is pleased to welcome our international affairs editor, Philip Turle, and Sylvie Bermann, France's first female ambassador to three member countries of the United Nations Security Council: China, the United Kingdom and Russia. The AfD’s breakthrough in Saxony-Anhalt should be understood, according to Sylvie Bermann, as part of a wider transformation of European politics rather than as an isolated German electoral shock. Brexit and Donald Trump’s victories helped normalise political positions previously regarded as outside the governing mainstream, while successive economic and geopolitical crises have weakened confidence in established parties.",
+      "published_at": "2026-09-07T12:41:06+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "8332675ce430458916331cd28ea9166295a779e11a481fe9f069bb7d92cfb5a1",
+      "title": "Man arrested on suspicion of murder after two people found dead at house",
+      "url": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of a man and a woman have been discovered at a house in Blackburn and a man has been arrested.",
+      "published_at": "2026-09-07T12:32:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "6726dc177a5762a6d2d50208334a7b6c4630f35fffeaeaa27bb7985775462fa7",
+      "title": "Man arrested on suspicion of murder after two people found dead at house",
+      "url": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of a man and a woman have been discovered at a house in Blackburn and a man has been arrested.",
+      "published_at": "2026-09-07T12:32:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0eeea543d1a4f62ad26ccf2eaab344bbf449368ebdb056b6b01780662c8d4897",
+      "title": "China warns against ‘third party’ interference after reports of US pressure on Mexico",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366663/china-warns-against-third-party-interference-after-reports-us-pressure-mexico?utm_source=rss_feed",
+      "description": "Relations between China and Mexico should not be influenced by outside powers, Foreign Minister Wang Yi said on Monday, following reports that the United States was pressuring its neighbour over its ties to Beijing. “China-Mexico relations are not directed at any third party, nor should they be influenced by any third party,” Wang told his Mexican counterpart Roberto Velasco Alvarez. He added that China supported Mexico in maintaining its independence, safeguarding its sovereignty and security...",
+      "published_at": "2026-09-07T12:30:14+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "26550e1b30c7d387462717d9c737322e5572c4c1fe01938909ea18c2d856e650",
+      "title": "AI titans’ ‘circular deals’ are starting to look like ‘daisy chains’",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3366149/ai-titans-circular-deals-are-starting-look-daisy-chains?utm_source=rss_feed",
+      "description": "The “circular deals” among AI titans increasingly resemble the “daisy chains” of the 1980s savings-and-loan crisis. Forty years ago, interconnected transactions obscured the dangers, multiplied systemic risks and helped inflate asset values before roughly a third of US thrift banks failed. Today’s financial engineering – an incestuous ecosystem of interlocking multi-year commitments to provide financing, buy semiconductors, secure gigawatts of power and lease data centres – could meet a similar...",
+      "published_at": "2026-09-07T12:30:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "2c5d3942aa714f141605b6b5e16d0df78191c372ed76f040cd962d9a7d78c67d",
+      "title": "Driverless taxi services are rolling out fast across the world",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260907-driverless-taxi-services-are-rolling-out-fast-across-the-world",
+      "description": "From Austin to London, the current robotaxi boom is raising hard questions about safety and jobs. We take a closer look in this edition of Tech 24.",
+      "published_at": "2026-09-07T12:29:33+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba0475b44bdaf73bf8c31b06b3df0b93bd2ca1725e4f4b0fa191ad81b2e82e37",
+      "title": "Police probe cause of fire at Glasgow affordable homes tenement",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkddkdl47o?at_medium=RSS&at_campaign=rss",
+      "description": "The building in Stonyhurst Street, Possilpark - which was derelict for 20 years - had received £3m to be renovated as affordable homes.",
+      "published_at": "2026-09-07T12:24:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "3419b194f89015c88f46d4709883abe5d321abebb510424dc6ee1cbc9c5cf8dc",
+      "title": "Who could form a coalition with Germany's AfD after election victory?",
+      "url": "https://www.france24.com/en/video/20260907-who-could-form-a-coalition-with-germany-s-afd-after-election-victory",
+      "description": "Germany's far-right AfD won a landslide victory in a key regional election Sunday in the ex-communist east, a result seen as a stinging rebuke for Chancellor Friedrich Merz, but looked set to miss out on an absolute majority to govern alone. The big question now is who, if anyone, will be willing to form a coalition with the party, says France 24's correspondent Nick Holdsworth.",
+      "published_at": "2026-09-07T12:23:19+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "90c8269b5428160c1fbf71a8e58cad9915e5cc70bcda91b51b2e709ead60f764",
+      "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+      "published_at": "2026-09-07T12:22:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "6391c7f921c282b0bb80323d1076b8c4f8ab974b3a2df25beacb9e9f15a2f9d4",
+      "title": "ArianeGroup studies increase in European space launches",
+      "url": "https://www.channelnewsasia.com/business/arianegroup-studies-increase-in-european-space-launches-6367506",
+      "description": "",
+      "published_at": "2026-09-07T12:18:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "dfea554dfc5fbb1bf8dba901909268c306a12e85bdeb5669a884aa4a6567c451",
+      "title": "AI replacing certain tasks, but not entire jobs: Ong Ye Kung",
+      "url": "https://www.channelnewsasia.com/singapore/ai-job-market-nus-ministerial-forum-ong-ye-kung-6366591",
+      "description": "The health minister was speaking about the job market to students and academic staff members at the annual Kent Ridge Ministerial Forum.",
+      "published_at": "2026-09-07T12:14:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b345c1b3012ef7e23997d19f72934cae6dc7740361e1ce0d188ebb555ee258df",
+      "title": "Teen gets reformative training for trafficking Kpods, kicking 84-year-old woman",
+      "url": "https://www.channelnewsasia.com/singapore/teen-reformative-training-kpods-trafficking-money-laundering-6367281",
+      "description": "The teenager also worked as a runner for a money laundering group, withdrawing S$19,000 from six UOB bank accounts.",
+      "published_at": "2026-09-07T12:13:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "53bb166edb6dfffd582144a709249a6d9e11b136ad3d8b05034c3c0e23248256",
+      "title": "Public asked to have their say on proposed new renewable energy company",
+      "url": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
+      "description": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills.",
+      "published_at": "2026-09-07T12:09:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "Wales"
+      ]
+    },
+    {
+      "id": "7042ec95a20d70e0ad0e9ac0f810af7131f953a7617b71848b945345bc3b889f",
+      "title": "Public asked to have their say on proposed new renewable energy company",
+      "url": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
+      "description": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills.",
+      "published_at": "2026-09-07T12:09:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "bf43f36cd63263243b9e14afc787357d6fe5a4829086635e05a492bf73bf9e68",
+      "title": "China's top court posts guidelines on deepfakes, AI disputes",
+      "url": "https://www.channelnewsasia.com/east-asia/china-ai-guidelines-deepfakes-voice-cloning-6367451",
+      "description": "\"People cannot use AI to create or distribute recognisable digital replicas of others without their consent, including cloned faces and voices\", state news agency Xinhua reported.",
+      "published_at": "2026-09-07T12:08:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "bf43e98db51f4c6f9de7637724a2bc7a81c411a4619e0ad3af843169fee22a8c",
       "title": "Murder arrests over baby girl's death in woodland",
@@ -22,6 +343,30 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "cd4e69b662fa9d75bc16a2fe38b438a3350508feac55793ed4495f0b5de95456",
+      "title": "Bavuma to captain South Africa ODI squad against Australia",
+      "url": "https://www.channelnewsasia.com/sport/bavuma-captain-south-africa-odi-squad-against-australia-6367461",
+      "description": "",
+      "published_at": "2026-09-07T11:57:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "cc6085a7e6b087df62c141d1782f7fb5cd4527a8242c7cf0d1b70aad1fdefd1f",
+      "title": "French wine yields drop to new historic low after searing summer heat",
+      "url": "https://www.france24.com/en/france/20260907-scorching-summer-pushes-french-wine-harvest-to-new-historic-low",
+      "description": "French wine production is expected to suffer its worst harvest in some 70 years with the agriculture ministry on Monday forecasting a 6 percent drop in output after a summer of scorching temperatures, heatwaves and drought. France last week announced more than €1 billion in emergency support for farmers.",
+      "published_at": "2026-09-07T11:57:17+00:00",
+      "source": "France 24",
+      "categories": [
+        "France",
+        "World"
       ]
     },
     {
@@ -385,7 +730,7 @@
       "id": "d74530db5879929c9c934885bf7cd38632221a59249c46ecab18db54c230d5b4",
       "title": "Cathay Pacific, Google scale up AI tests to reduce aviation’s climate impact",
       "url": "https://www.scmp.com/news/hong-kong/transport/article/3366654/cathay-pacific-google-scale-ai-tests-reduce-aviations-climate-impact?utm_source=rss_feed",
-      "description": "Hong Kong flag carrier Cathay Pacific and Google are expanding AI-powered flight trials designed to steer aircraft away from contrail-forming zones in the Asia-Pacific region, using the data to inform broader sustainability decisions. Condensation trails, or contrails, form when aircraft fly through cold, humid patches of air, trapping atmospheric heat and accounting for roughly one-third of aviation’s total climate impact, according to Kemal Armada, product manager for climate and AI at Google...",
+      "description": "Hong Kong flag carrier Cathay Pacific Airways and Google are expanding AI-powered flight trials designed to steer aircraft away from contrail-forming zones in the Asia-Pacific region, using the data to inform broader sustainability decisions. Condensation trails, or contrails, formed when aircraft flew through cold, humid patches of air, trapping atmospheric heat and accounting for roughly one-third of aviation’s climate impact, Kemal Armada, product manager for climate and AI at Google, said on...",
       "published_at": "2026-09-07T10:45:25+00:00",
       "source": "SCMP",
       "categories": [
@@ -735,6 +1080,17 @@
     },
     {
       "id": "2aa9a3c250ae8cea472ba265d886a8dcd613e5fcb4ddcb4b8e4afaf70514cbc5",
+      "title": "Grave exhumed in probe into 2022 death",
+      "url": "https://www.bbc.co.uk/news/articles/c780e371e90o?at_medium=RSS&at_campaign=rss",
+      "description": "A man has been arrested on suspicion of murder as part of a police investigation.",
+      "published_at": "2026-09-07T09:40:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "699ed81558456758f0c8079cc8810eb74fb0dd0513944c3248f2b86c58ba5c9d",
       "title": "Grave exhumed in probe into 2022 death",
       "url": "https://www.bbc.co.uk/news/articles/c780e371e90o?at_medium=RSS&at_campaign=rss",
       "description": "A man has been arrested on suspicion of murder as part of a police investigation.",
@@ -1265,6 +1621,17 @@
       ]
     },
     {
+      "id": "40f730e9ee7053bd7d1f091ffdababda11dad947bf5182b1a508e3388097339e",
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "published_at": "2026-09-07T07:03:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "02941db243ef4620ad3c06cfcf0aee8a53c7edaeb072f61c5a297a7b73a95938",
       "title": "Nepal marks national mourning day after deadly flood",
       "url": "https://www.channelnewsasia.com/asia/nepal-flood-national-mourning-day-6366741",
@@ -1510,6 +1877,17 @@
       ]
     },
     {
+      "id": "618265c98106693cd8d2a4ecb470d6286bfc13f7ddc1f28b7325cd79a69167f7",
+      "title": "Scotland's papers: 'Warnings' to Swinney over public sector reforms",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6pgy6rgvo?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-09-07T06:00:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "9ca2cb71e7b3571a18bb9f0d1e24bad19e7037f914ae0e9e57580033a9e05101",
       "title": "More Chinese pet owners choose TCM for chronic pet illnesses using herbs, bee stings, acupuncture",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366583/more-chinese-pet-owners-choose-tcm-chronic-pet-illnesses-using-herbs-bee-stings-acupuncture?utm_source=rss_feed",
@@ -1695,7 +2073,7 @@
       "id": "3d3dd405464a270cd3c0d4813654a48bc2a4b3e0185a5c64e527ca4c4710c70a",
       "title": "Schools to close early again for A66 crash funeral",
       "url": "https://www.bbc.co.uk/news/articles/cjdvxpn7p41o?at_medium=RSS&at_campaign=rss",
-      "description": "Theo Rae was one of seven people killed when a car going the wrong-way down the A66 crashed.",
+      "description": "Theo Rae is one of seven killed when a car going the wrong way crashed with a Cleveland Police car.",
       "published_at": "2026-09-07T05:27:14+00:00",
       "source": "BBC",
       "categories": [
@@ -7231,6 +7609,17 @@
       ]
     },
     {
+      "id": "8b15421023bbe6e3c5b4480bafe14712a0631b8864a26b422d7edac57fd2061f",
+      "title": "King and Queen join Highland games fans at Braemar Gathering",
+      "url": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
+      "description": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
+      "published_at": "2026-09-05T18:04:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "027b3ddda14b7f31350a517e8576e671159e911d7b8a4936c0c8cf5fcc533494",
       "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
@@ -8450,6 +8839,17 @@
       ]
     },
     {
+      "id": "1e54d728b79328894d93ca70704e2eee852d5df9574393490dd1ce4b14173406",
+      "title": "Richard Hammond to 'find a way' to share mansion with bats after renovation plans paused",
+      "url": "https://www.bbc.co.uk/news/articles/cj4j5zn5n75o?at_medium=RSS&at_campaign=rss",
+      "description": "Rare bats found at the Georgian mansion have delayed his plans to build a padel court and luxury car garage.",
+      "published_at": "2026-09-05T11:47:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "ff0906ebf2f475eb92ea1bdb6173a6fba54b8f87f2f2e7ebe61c492aab11be47",
       "title": "Pogacar ends 2026 season early after Vuelta crash",
       "url": "https://www.channelnewsasia.com/sport/pogacar-ends-2026-season-early-after-vuelta-crash-6364646",
@@ -8689,6 +9089,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "44aeed499669ba1e0948be0450d1b56d53d2c1d9ba46aa0469e1eca1e6645c30",
+      "title": "Consumer Fight Back",
+      "url": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
+      "description": "Rejected for PIP? Most tribunal appeals succeed. We ask why.",
+      "published_at": "2026-09-05T10:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -9750,6 +10161,17 @@
       "source": "BBC",
       "categories": [
         "Northern Ireland"
+      ]
+    },
+    {
+      "id": "3aa941432f5f36dba745950332394ee49b2440d1c5fec0e34d95612661042980",
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+      "published_at": "2026-09-05T05:52:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
