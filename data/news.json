@@ -1,6 +1,581 @@
 {
-  "last_updated": "2026-09-08T05:02:39.054123+00:00",
+  "last_updated": "2026-09-08T06:03:34.684981+00:00",
   "articles": [
+    {
+      "id": "39791fd89b636e5219ce09f2de83a84ba9a8d9fa04f3e4bd97ccc587ae822911",
+      "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+      "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push?utm_source=rss_feed",
+      "description": "China plans to deploy artificial intelligence computing clusters containing 100,000 accelerator cards and sharply expand the country’s intelligent computing capacity over the next five years, as Beijing steps up investment in the infrastructure underpinning its AI ambitions. The Ministry of Industry and Information Technology (MIIT), in a five-year industry plan released on Monday, set a target of 9,800 eflops of intelligent computing capacity by 2030, and called for 3.8 trillion yuan (US$532...",
+      "published_at": "2026-09-08T06:00:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "6b8f0082e7b9ae4ac5dbdf1ee77bcb2fb8714816a90dae8585b7d5e439fa7ba3",
+      "title": "Chinese grandma who struggles with Mandarin sings in 6 foreign languages",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3366718/chinese-grandma-who-struggles-mandarin-sings-6-foreign-languages?utm_source=rss_feed",
+      "description": "A 62-year-old woman from southern China, who cannot speak standard Mandarin or recognise the English alphabet, has gone viral on social media for singing over 100 songs in six different languages. Li Deru, known online as @Auntie Ru, boasts 800,000 followers and has garnered millions of likes across both domestic and international social media platforms. In addition to English, Li performs songs in Korean, Japanese, Thai, Hindi, and Italian. In her videos, Li, always elegantly dressed,...",
+      "published_at": "2026-09-08T06:00:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "7393cfe62309fbbeca531fa37db183262cea40503f39b331728f8aa705f72cc5",
+      "title": "Houthi attacks on Saudi Arabia wound dozens as coalition vows response",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366732/houthi-attacks-saudi-arabia-wound-dozens-coalition-vows-response?utm_source=rss_feed",
+      "description": "More than 70 people were wounded in a wave of Houthi attacks Tuesday on Saudi Arabia, authorities said, a major escalation in the renewed conflict between an important US ally and the Iranian-backed rebels in Yemen. The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country’s civil war. Fighting has raged on fronts including Yemen’s west coast, with government forces saying they have made...",
+      "published_at": "2026-09-08T05:52:50+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "05c66a6e174248235e934966b939b2bd33c21fc56fa3c5eed31ad9d483410bf8",
+      "title": "Analysis:Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
+      "url": "https://www.channelnewsasia.com/business/analysiswhy-boj-will-bet-small-rate-hikes-now-avoid-bigger-shock-later-6368941",
+      "description": "",
+      "published_at": "2026-09-08T05:47:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d6dc14598e08b3c8269924629ffcf44c8df00cc2a4d80e29bfda014ced9668ab",
+      "title": "Anglo-Saxon treasure blocked from leaving UK",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zln98l05o?at_medium=RSS&at_campaign=rss",
+      "description": "The item, which was due to be sold to an overseas buyer, is described as \"exceptionally rare\".",
+      "published_at": "2026-09-08T05:43:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "efd9f7970f22bae71d869de5bcf5b30d69dfa926ff5096931b4580d4710d5bfa",
+      "title": "Scotland's papers: Old Firm policing cost soars and care home warning",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x37nnxpgo?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-09-08T05:43:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7efa0cd52a19144eb1c863a34010f209b5397e7596e2bed2aa8e731ad7759e44",
+      "title": "Law proposed to require online sellers of active mobility devices to display warning notices",
+      "url": "https://www.channelnewsasia.com/singapore/online-sellers-active-mobility-devices-warnings-parliament-proposed-law-6368781",
+      "description": "The Bill will also introduce key measures to further strengthen controls against deregistered vehicles.",
+      "published_at": "2026-09-08T05:43:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "9afe54f2a5545087e3375c4de3fff5183e9ded450af654327a5edea4f072a70a",
+      "title": "Fils pulls out of France's Davis Cup tie against Canada",
+      "url": "https://www.channelnewsasia.com/sport/fils-pulls-out-frances-davis-cup-tie-against-canada-6368921",
+      "description": "",
+      "published_at": "2026-09-08T05:42:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "302015ddfb0cf68a22803e1f5fd91b5c6387d678afe612ab98f58b33e5066d1a",
+      "title": "No Scotland, no festa - Italian town celebrates Caledonian connections",
+      "url": "https://www.bbc.co.uk/news/articles/cge4qxdl4x0o?at_medium=RSS&at_campaign=rss",
+      "description": "The town of Barga in Tuscany welcomes thousands of visitors for its three-day Scottish festival.",
+      "published_at": "2026-09-08T05:39:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0cb91afa4d792b7df354efe1d4c0dac723737aec560f62cc455e689b62ad5ba2",
+      "title": "No Scotland, no festa - Italian town celebrates Caledonian connections",
+      "url": "https://www.bbc.co.uk/news/articles/cge4qxdl4x0o?at_medium=RSS&at_campaign=rss",
+      "description": "The town of Barga in Tuscany welcomes thousands of visitors for its three-day Scottish festival.",
+      "published_at": "2026-09-08T05:39:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "84302cceb648de39e207aafd575804d7e983d0fa79dad58c7fc52bdc2d925552",
+      "title": "Beijing recommends 16 Hong Kong civil servants to UN roles, highest number to date",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3366729/beijing-recommends-16-hong-kong-civil-servants-un-roles-highest-number-date?utm_source=rss_feed",
+      "description": "Beijing has recommended the largest-ever cohort of civil servants from Hong Kong to take on roles in United Nations agencies this year, expecting the deployments to broaden their global perspective and strengthen the city’s position as a bridge between China and the international community. The batch of 16 officers sent under the UN Junior Professional Officer (JPO) scheme came from 13 grades and departments, including customs, police and the city’s anti-corruption agency. The number surpassed...",
+      "published_at": "2026-09-08T05:38:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "dbedf7a9805da4881a86dbf030cb89866d966050179866c4ba8bc20ffa218ebe",
+      "title": "Century-old asylum stories revealed in photographs",
+      "url": "https://www.bbc.co.uk/news/articles/cvgympkdpd3o?at_medium=RSS&at_campaign=rss",
+      "description": "The \"evocative\" images offer an insight in the lives of patients at a Bristol psychiatric hospital.",
+      "published_at": "2026-09-08T05:37:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "79ad514a79329c939064cba2021b997902f58df57e0131da44224364f83cbc38",
+      "title": "Eljamel: Public evidence hearings begin into rogue surgeon",
+      "url": "https://www.bbc.co.uk/news/articles/cz9zkkq835wo?at_medium=RSS&at_campaign=rss",
+      "description": "Sam Eljamel was a consultant neurosurgeon at Ninewells Hospital from 1995 until his suspension in 2013.",
+      "published_at": "2026-09-08T05:35:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "267c5d84ba943251fc74ba195afe7aedcb9305450162370a1d51a6460ea7bcd8",
+      "title": "Eljamel: Public evidence hearings begin into rogue surgeon",
+      "url": "https://www.bbc.co.uk/news/articles/cz9zkkq835wo?at_medium=RSS&at_campaign=rss",
+      "description": "Sam Eljamel was a consultant neurosurgeon at Ninewells Hospital from 1995 until his suspension in 2013.",
+      "published_at": "2026-09-08T05:35:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "8f04b22b26cf95b2feb49235976fcd85d0d2ca74107334220592d069862e8da6",
+      "title": "Shetland spaceport project secures  £30m of UK government investment",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "description": "The funding will be used to build two more launchpads.",
+      "published_at": "2026-09-08T05:31:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "5713516a79f52bb959ff2fdb8fda95b5ca29273f878c2e4ee8ebc8a8167db4fa",
+      "title": "Shetland spaceport project secures  £30m of UK government investment",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "description": "The funding will be used to build two more launchpads.",
+      "published_at": "2026-09-08T05:31:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ae19af2f9fed6f98b0507587b50dc4aacb29a44ceb6f49bdeee9ae3b1ffcf52a",
+      "title": "Shetland spaceport project secures  £30m of UK government investment",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "description": "The funding will be used to build two more launchpads.",
+      "published_at": "2026-09-08T05:31:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "54294209e20006cb831dfab069a01e4c4e84c186abb96f43d1388d0b992df075",
+      "title": "MP allowances to rise from S$13,750 to S$18,500 monthly",
+      "url": "https://www.channelnewsasia.com/singapore/mp-allowance-18500-minister-salary-singapore-6368801",
+      "description": "The government will also study “delinking” allowances for community-related roles, such as MPs and mayors, from political salary benchmarks.",
+      "published_at": "2026-09-08T05:30:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b035f02da85129ea3620ef6671177c145e44c49ca4afe935f9febfc1b937b154",
+      "title": "Singapore's political salary framework must stay updated while preserving the ethos of service: Chan Chun Sing",
+      "url": "https://www.channelnewsasia.com/singapore/political-ministerial-salary-chan-chun-sing-review-service-6368746",
+      "description": "Mr Chan said Singapore is not trying to match private sector salaries, but cannot pretend that such opportunity costs do not exist.",
+      "published_at": "2026-09-08T05:29:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b31fdfa684547a4063c48770cd808e2200413baa78b9ffb616f0fc5a0bc762be",
+      "title": "Rubbish dump alley now hosts bingo nights",
+      "url": "https://www.bbc.co.uk/news/articles/c790qv0p535o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents on a Grimsby estate have created an urban oasis in a space once notorious for fly-tipping.",
+      "published_at": "2026-09-08T05:25:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "ce560b6e9893525db8b2d924cb959316789d3c0668f2ccb1bc29f22a2d754c88",
+      "title": "Proposed licensing regimes to beef up security, sustainability of Singapore's data centres and cloud services",
+      "url": "https://www.channelnewsasia.com/singapore/bill-security-sustainability-data-centres-cloud-services-parliament-6367201",
+      "description": "The Bill will give businesses, organisations, and citizens assurance that the infrastructure they depend on is secure and resilient, said MDDI.",
+      "published_at": "2026-09-08T05:25:40+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "59ac7434239436085adaa7e74ce53b6816256b4d272c40c1e96601065ca101f2",
+      "title": "Minister defends Singapore Airlines’ Air India stake amid scrutiny, racist rants",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366727/minister-defends-singapore-airlines-air-india-stake-amid-scrutiny-racist-rants?utm_source=rss_feed",
+      "description": "Singapore’s transport minister on Tuesday defended Singapore Airlines’ investment in Air India, saying the city state’s flag carrier must grow overseas because there is a limit to how many people will fly to or from Singapore. Responding ‌to a question in parliament, Minister Jeffrey Siow said the flag carrier was a listed company that funded investments from its own balance sheet and it had not sought further capital from shareholders. The airline is majority owned by Singapore state investor...",
+      "published_at": "2026-09-08T05:25:02+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "b8bfb6733399e4f2c20c9b1b70faaf3d7c4801365015617ebc1ac2aad3acc9e9",
+      "title": "🔴 Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+      "description": "",
+      "published_at": "2026-09-08T05:25:00+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "21766707f69abebff2c56a4ac83cefd0d5c90560e2fcc2e0927debc961fe1b8f",
+      "title": "'No-one believed a boy like me could succeed at gymnastics'",
+      "url": "https://www.bbc.co.uk/news/articles/cly5mm4pr6do?at_medium=RSS&at_campaign=rss",
+      "description": "Uzair Chowdhury celebrates European medals alongside other teen stars at Huntingdon Gymnastics Club.",
+      "published_at": "2026-09-08T05:24:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c29af9fa6d00916d17ce4e18281bdf763db906a3a2e396e90131eaa96358623e",
+      "title": "Call for review of Reform UK's council flag policy",
+      "url": "https://www.bbc.co.uk/news/articles/cr7d9m7n0d4o?at_medium=RSS&at_campaign=rss",
+      "description": "The move in Kirklees echoes policies brought in at other Reform-led authorities in West Yorkshire.",
+      "published_at": "2026-09-08T05:23:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d8c3af314378ac6fae966ee97cc6e17fc30380453983dd64faba06df47b72867",
+      "title": "Workplace fatalities rose in first half of 2026; MOM reviews tougher safety measures",
+      "url": "https://www.channelnewsasia.com/singapore/workplace-safety-deaths-injuries-platform-workers-road-accidents-mom-6368391",
+      "description": "Platform workers made up four of the 21 workplace fatalities from January to June.",
+      "published_at": "2026-09-08T05:23:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "0bf21c69ff7904c70dccae7a890938559f5f53f2eac9be13032d60fa199abec7",
+      "title": "What does takeover by sportswear firm mean for traditional shoemaker?",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl3l0v3g4o?at_medium=RSS&at_campaign=rss",
+      "description": "Grenson, which has been making shoes for 160 years, is entering a new era under Castore's ownership.",
+      "published_at": "2026-09-08T05:22:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "9823bbadf2490ee65d097a2da448363000e1b9f9fe09f0cfb9eadbf3f68e595a",
+      "title": "Before Champions League, Kylian Mbappé campaigns for Ballon d'Or",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260908-before-champions-league-kylian-mbapp%C3%A9-campaigns-for-ballon-d-or",
+      "description": "As the Champions League resumes, Real Madrid are hosting Inter Milan. Speaking at a press conference, Kylian Mbappé believes he has every chance of winning the Ballon d’Or.",
+      "published_at": "2026-09-08T05:22:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "034675efe53ad304028e055a91ce9ac06deeec8b6f076115af56cb81180a9bfb",
+      "title": "Cynnydd yn nhymheredd y môr 'yn peryglu cynefinoedd a morwellt'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgqd7n7nw17o?at_medium=RSS&at_campaign=rss",
+      "description": "Gallai cynefinoedd ar hyd arfordiroedd Cymru a phrosiectau morwellt fod mewn perygl o gael eu difrodi oherwydd cynnydd sylweddol yn nhymheredd y môr, yn ôl ymchwilwyr.",
+      "published_at": "2026-09-08T05:21:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "4747b391bbb7affdb73eee8a6ce19fdc9a286bfc4add008b50dbb37646eb3b89",
+      "title": "Mum 'lost trust' in surgeon review hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zwqzyl3wo?at_medium=RSS&at_campaign=rss",
+      "description": "One parent says the number of patients involved in a review is \"ridiculous\".",
+      "published_at": "2026-09-08T05:19:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "9c0bb607c3133eeb25c872817196fc2cd962e1816c91d3127e67d0a602fee42f",
+      "title": "Playing festivals but still rehearsing in a garage",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zydyy2x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The band are in their early 20s but have played major festivals and even dates in Japan.",
+      "published_at": "2026-09-08T05:17:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "aed0956adea1fe56854cc016314859c215df614c682c271f230cbdcdd1748728",
+      "title": "Cyhuddo Reform o geisio dechrau ffrae am hil dros godi baner Pacistan",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq142948o?at_medium=RSS&at_campaign=rss",
+      "description": "Reform UK yn cael eu cyhuddo o geisio dechrau ffrae am hil wedi i un o'u haelodau seneddol ymosod ar Gyngor Caerdydd am godi baner Pacistan dros gastell y brifddinas.",
+      "published_at": "2026-09-08T05:17:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "0221cb586ee3116329b24005ab30ae3790a6e45f5c6df994c384ac7e36011c99",
+      "title": "Girl starts school after rare disorder transplant",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36rjz7m3o?at_medium=RSS&at_campaign=rss",
+      "description": "Autumn, four, from North Yorkshire, spent six months in hospital being treated for a rare condition.",
+      "published_at": "2026-09-08T05:16:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "92948182787239ff77b84e11995911bb8c8c12a9a4ccc7990d5c79b1fa06bd1a",
+      "title": "Historian hopes Bayeux Tapestry will boost interest",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkj4lgvyo?at_medium=RSS&at_campaign=rss",
+      "description": "Associate professor Natasha Hodgson says the famous work remains \"incredibly well preserved\".",
+      "published_at": "2026-09-08T05:16:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1d7b50e4b0fbeee043dd8e9d77cc552483ee3b7259e3e06848846f9c0a7bad94",
+      "title": "Man pleads guilty to driving at speeds of up to 221kmh during group joyride",
+      "url": "https://www.channelnewsasia.com/singapore/man-speed-221kmh-group-joyride-6368706",
+      "description": "The prosecutor said the most egregious instance of speeding was when Jared-Kane Goh entered a lane at 89kmh to 109kmh in a 50kmh zone.",
+      "published_at": "2026-09-08T05:16:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "67e3eb3b9ecdb31c2d69017b29e24cffb211e9232d3e889414ee2e2650f6e9f1",
+      "title": "We'll crumble when inquiry ends, says victim's mum",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkvvd5xezo?at_medium=RSS&at_campaign=rss",
+      "description": "A public inquiry examining Valdo Calocane's killings is set to hear closing submissions this week.",
+      "published_at": "2026-09-08T05:14:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "85c55f5756dfd2b47b739b4126456441f12fc9c46a840847b2b23051724833d4",
+      "title": "We'll crumble when inquiry ends, says victim's mum",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkvvd5xezo?at_medium=RSS&at_campaign=rss",
+      "description": "A public inquiry examining Valdo Calocane's killings is set to hear closing submissions this week.",
+      "published_at": "2026-09-08T05:14:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1a30cf79200b494a1cedabf95c0eb264647ab55d1e03e09125a229f614ce827a",
+      "title": "Unchipped cat crisis 'out of control' in resort",
+      "url": "https://www.bbc.co.uk/news/articles/c8e34rl65w6o?at_medium=RSS&at_campaign=rss",
+      "description": "Joan Lamb says the microchip law is not being enforced, leading to a huge number of strays in Blackpool.",
+      "published_at": "2026-09-08T05:13:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "301668452e8c0be5342c82078140a5e483dde785af01467b06e3a62f2a4245f9",
+      "title": "'I've had no hot water or heating for most of my pregnancy'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents living in flats in Croydon are in limbo having have been without gas since March.",
+      "published_at": "2026-09-08T05:13:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b2fbfa10ef72a8455a6a5ae9eea850404235eedde00c5333ef48a7be5c122c8a",
+      "title": "How plans to merge councils cost millions",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4dne7y9no?at_medium=RSS&at_campaign=rss",
+      "description": "The government has paused and is reviewing plans to merge councils – now leaders count the costs.",
+      "published_at": "2026-09-08T05:13:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c418e936d06cf17af2e7ae7e9c8cf9571803bb84920e31bb7b2b900b15f7caaa",
+      "title": "Student stabbing highlights campus safety push",
+      "url": "https://www.bbc.co.uk/news/articles/cd947j244qdo?at_medium=RSS&at_campaign=rss",
+      "description": "Card entry for all buildings and blunt-point knives are ongoing safety measures at a city campus.",
+      "published_at": "2026-09-08T05:12:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4fd7ea9bbf4c2ea74f1ad22c6ada580c261301f3170fe46de55b093730ee5c49",
+      "title": "Organiser fined US$72,500 over Chinese comedy star’s on-stage rewrite of revolutionary song",
+      "url": "https://www.channelnewsasia.com/east-asia/china-guo-degang-comedian-performance-organiser-fined-6368726",
+      "description": "Guo Degang “distorted and altered” the song Playing My Beloved Pipa, resulting in a “serious adverse social impact”, Wuhan authorities say.",
+      "published_at": "2026-09-08T05:11:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f46cb32fc55f6a11e8274e0651a24c7d692fc2166b0cc2780215c40d0e48a100",
+      "title": "World-first surgery for baby's rare skull condition",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxp8r9wnwo?at_medium=RSS&at_campaign=rss",
+      "description": "Rory, who is now one, had new \"super elastic\" springs inserted to reshape his skull.",
+      "published_at": "2026-09-08T05:09:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "ff88af2ce248d55dd218ccd29a802bdb437b22631449ed08ce08b19551887774",
+      "title": "Talkback at 40: From the Troubles to peace to aliens and Donald Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw7e78jqyo?at_medium=RSS&at_campaign=rss",
+      "description": "Radio Ulster's longest-running phone-in programme is celebrating an important milestone - its 40th birthday.",
+      "published_at": "2026-09-08T05:08:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "e9aa9a44f1c239fc88c9f259e573e15e34bcb94b8cfb6b3c1f44ad70cb9eb039",
+      "title": "Why our changing weather could be bad for seahorses",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegqlxjyyo?at_medium=RSS&at_campaign=rss",
+      "description": "With increasing winter storms predicted vital habitat for seahorses could be under threat",
+      "published_at": "2026-09-08T05:06:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "60f3f9c4f7ce6e681a5dd740011a40e5649d2aaef24512d19d06503f602cb813",
+      "title": "Dizzee Rascal spotted at community folk festival",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o?at_medium=RSS&at_campaign=rss",
+      "description": "Music lovers at the popular BunkFest weekend in Wallingford saw the chart-topping rapper in town.",
+      "published_at": "2026-09-08T05:04:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "3a23ac5a48826cf4054f5fe9fa5f88d5d8d62adf23cb432082d7884106f4a164",
+      "title": "Saith awr heb weld babi ar ôl toriad cesaraidd wedi 'trawmateiddio' mam",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo?at_medium=RSS&at_campaign=rss",
+      "description": "Ni chafodd Ceri Roberts weld ei merch am oriau ar ôl ei genedigaeth, profiad sydd wedi ei \"thrawmateiddio\".",
+      "published_at": "2026-09-08T05:03:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "97bbfe81642323ef6338a7872583aea064214e188fa5d0136d584f97a0313152",
+      "title": "Singapore ministers set for pay rise with entry-level pay up to US$1.4 million",
+      "url": "https://www.scmp.com/week-asia/politics/article/3366723/singapore-ministers-set-pay-rise-us14-million-entry-benchmark?utm_source=rss_feed",
+      "description": "Singapore’s ministers will receive progressive salary increases, Prime Minister Lawrence Wong has announced. The entry-level ministerial salary benchmark will rise to S$1.8 million (US$1.4 million) from S$1.1 million, while the prime minister’s pay benchmark will increase to S$3.6 million from S$2.2 million, in line with recommendations made by an independent committee. Wong said during a ministerial statement in parliament on Tuesday that he would donate the increase in his salary to “suitable...",
+      "published_at": "2026-09-08T05:03:54+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "00ba1ffec51b657b19da24b3eef6090748b5a74bfe3396398e4ea9842f4f2644",
+      "title": "French AI company Mistral hits $24 billion valuation in funding round",
+      "url": "https://www.channelnewsasia.com/business/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round-6368836",
+      "description": "",
+      "published_at": "2026-09-08T05:01:55+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "243f97d7cce3bd3bb7d7918ff7d4789e0aec1b1a492f4d7544b665d9af1769ba",
+      "title": "Death of pony in 'blind panic' sparks dog warning",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36ep9pyeo?at_medium=RSS&at_campaign=rss",
+      "description": "Five-year-old mare Bessie broke a leg after apparently being chased by a loose dog, her owner says.",
+      "published_at": "2026-09-08T05:00:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "bc156bc47b99a5749b70657175cfc7985acf37ed4738ffff2bf338e842bccef3",
+      "title": "Family caught up in anti-migrant protest 'felt unsafe'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy8r27019o?at_medium=RSS&at_campaign=rss",
+      "description": "Toby Merritt-Smith found himself stuck on his yacht as the marina in Portsmouth went into lockdown.",
+      "published_at": "2026-09-08T05:00:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "72b6ba7f198611c356dfcdda45ee8ba5313a2d168617064cab97adf70f670c64",
       "title": "From BYD cars to DJI drones, Guangdong showcases tech prowess ahead of Apec summit",
@@ -10,6 +585,17 @@
       "source": "SCMP",
       "categories": [
         "News"
+      ]
+    },
+    {
+      "id": "25a4cfac800261b51cfb6067c7c32f6622aec83db8f74a32f0e56ed003e8c57b",
+      "title": "Terminally ill woman urging council tax exemption",
+      "url": "https://www.bbc.co.uk/news/articles/cg59zmngrdgo?at_medium=RSS&at_campaign=rss",
+      "description": "A Carlisle woman with terminal cancer campaigns for council tax relief for end-of-life patients.",
+      "published_at": "2026-09-08T04:58:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -24,6 +610,17 @@
       ]
     },
     {
+      "id": "02ec4482d138ec5777b6346d9d838410ce94a079531fb6c582307c7e646e249c",
+      "title": "'JLR job cuts a cause for uncertainty and worry'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts say they worry it could limit the company's ability to innovate in the future.",
+      "published_at": "2026-09-08T04:57:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "01af0a01f1d75c5d1e5cc62c8ef80311a80625c1907eee707eea8914c0d54296",
       "title": "New mums 'left to get on with it' as C-section numbers hit record high",
       "url": "https://www.bbc.co.uk/news/articles/clylwxgknyxo?at_medium=RSS&at_campaign=rss",
@@ -32,6 +629,17 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "bcff19561e69f04b50703da469b2f4c2d7f21b009086a28870c18c0456d5ccd2",
+      "title": "New mums 'left to get on with it' as C-section numbers hit record high",
+      "url": "https://www.bbc.co.uk/news/articles/clylwxgknyxo?at_medium=RSS&at_campaign=rss",
+      "description": "Mothers have described being left to recover from caesarean sections with \"no support\".",
+      "published_at": "2026-09-08T04:57:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -46,6 +654,17 @@
       ]
     },
     {
+      "id": "6bcab8b63948f2dec9b3bb9467fcadb1c425512dd6dfb1ac195298e6c5b2b677",
+      "title": "Giant pumpkin grower hopes to beat previous record",
+      "url": "https://www.bbc.co.uk/news/articles/c05r6ey6yqjo?at_medium=RSS&at_campaign=rss",
+      "description": "Mr Hulme battled a dry summer to prepare his giant vegetable for the Malvern Autumn Show this month.",
+      "published_at": "2026-09-08T04:56:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "17b80d37ff0a7dea5c798e3a371d86555b1db03158ae3e19f9673b0bf7e6348d",
       "title": "Wildlife and access boost planned for city park",
       "url": "https://www.bbc.co.uk/news/articles/cd947jkqvk9o?at_medium=RSS&at_campaign=rss",
@@ -54,6 +673,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "8c0b376da3136bdf8b05fc2fcfa615849b08d9db84f9371671ccdd5519d1f9da",
+      "title": "Coventry City back on MOTD after a 25-year hiatus",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m14xk8z2o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC CWR's Lorna Bailey goes behind the scenes at Match of the Day.",
+      "published_at": "2026-09-08T04:56:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -185,6 +815,18 @@
       ]
     },
     {
+      "id": "ca29d6d3569842122b82775488c7fe837532bd627b5e2d06c54f2ddce8e4a349",
+      "title": "Canada's counter-tariffs take effect on several US goods as trade war reignites",
+      "url": "https://www.france24.com/en/americas/20260908-canada-s-counter-tariffs-take-effect-on-several-us-goods-as-trade-war-reignites",
+      "description": "Canada's counter-tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the two countries heated up. Ottawa's pushback comes weeks after US President Donald Trump imposed 50-percent tariffs on a similar value of Canadian products, over what Washington deemed as \"discriminatory treatment\" against US alcohol, automobile and dairy industries.",
+      "published_at": "2026-09-08T04:03:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
       "id": "a3f4f68b48a4cab2c174e368aae967713ae6b778c3df870c6183908804dc219e",
       "title": "Hong Kong a boon to Kazakhstan’s advanced manufacturing ambitions, ties to Europe: expert",
       "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366710/hong-kong-boon-kazakhstans-advanced-manufacturing-ambitions-ties-europe-expert?utm_source=rss_feed",
@@ -276,7 +918,8 @@
       "published_at": "2026-09-08T03:49:39+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "UK"
       ]
     },
     {
@@ -417,7 +1060,7 @@
       "id": "c18df075e464c673e2567d4573ca6909ebe21eb21572e07ce8675b766346dda7",
       "title": "Live: Russia resumes strikes on Kyiv after three-day halt",
       "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
-      "description": "Russia resumed strikes on Kyiv after the expiration of a three-day halt in attacks for a visit to the Ukrainian capital by US envoys, Ukraine's emergency service said late Monday. Russian President Vladimir Putin ordered the three-day halt in Moscow's strikes on Kyiv as US President Donald Trump's envoys Steve Witkoff and Jared Kushner visited the Russian and Ukrainian capitals at the weekend. Follow our liveblog for the latest updates.",
+      "description": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. Kyiv's city military administration said at least two people were killed and seven wounded. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s envoys Steve Witkoff and Jared Kushner, who were holding talks aimed at ending the war. Follow our liveblog for the latest updates.",
       "published_at": "2026-09-08T02:00:01+00:00",
       "source": "France 24",
       "categories": [
@@ -445,6 +1088,7 @@
       "published_at": "2026-09-08T01:50:55+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK",
         "World"
       ]
@@ -1112,7 +1756,7 @@
       "id": "f0977f33bc05147b5ba02c9d25d6d4dbf895bfb1ea597458471e4055ac748866",
       "title": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
       "url": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
-      "description": "Israel launched a wave of airstrikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
+      "description": "Israel launched a wave of air strikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
       "published_at": "2026-09-07T21:32:03+00:00",
       "source": "France 24",
       "categories": [
@@ -1145,6 +1789,17 @@
     },
     {
       "id": "e285830ec6645277dfb6d093c7e1d355555c35d0b5ff80df4ead57b59b2d7b05",
+      "title": "Charity buys Third Eye centre and CCA archive",
+      "url": "https://www.bbc.co.uk/news/articles/crern0gd3njo?at_medium=RSS&at_campaign=rss",
+      "description": "Exhibition records, photographs, films, posters, flyers and artists' letters chart the story of two organisations that were central to Glasgow's art scene.",
+      "published_at": "2026-09-07T21:23:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "dfabeaa4a9e7bb389a2b094ce3439b919cfac1aa24c7d0c1757b209b18868b0c",
       "title": "Charity buys Third Eye centre and CCA archive",
       "url": "https://www.bbc.co.uk/news/articles/crern0gd3njo?at_medium=RSS&at_campaign=rss",
       "description": "Exhibition records, photographs, films, posters, flyers and artists' letters chart the story of two organisations that were central to Glasgow's art scene.",
@@ -1474,6 +2129,7 @@
       "source": "BBC",
       "categories": [
         "England",
+        "Politics",
         "UK"
       ]
     },
@@ -1498,6 +2154,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "9431f065f4462f8bd4fa5aa63fc960e127ac46e1ff3edb2b05e9f4f47e9138ad",
+      "title": "Police probe deliberate tenement fire amid asylum seeker 'disinformation'",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkddkdl47o?at_medium=RSS&at_campaign=rss",
+      "description": "The building in Stonyhurst Street, Possilpark - which has been derelict for 20 years - had received £3m to be renovated as affordable homes.",
+      "published_at": "2026-09-07T18:13:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -2782,6 +3449,17 @@
       ]
     },
     {
+      "id": "f06c7aed807c75628cf9450b62e9bf951009983ae78832900ea5087e84da6291",
+      "title": "Man abducted, assaulted and thrown from moving car",
+      "url": "https://www.bbc.co.uk/news/articles/c62e577kpkwo?at_medium=RSS&at_campaign=rss",
+      "description": "The man, aged in his 30s, was found lying on the Culvacullion Road in Gortin, County Tyrone on Sunday",
+      "published_at": "2026-09-07T13:11:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "6b17a83599a8031f957e2c29b885226c08ad5f161104763708fd9f8c86621d30",
       "title": "REPLAY: 'Shocked' Merz speaks after far-right election victory",
       "url": "https://www.france24.com/en/video/20260907-replay-shocked-merz-speaks-after-far-right-election-victory",
@@ -3033,7 +3711,7 @@
       "id": "fbd2a5a18ef51bd9a2c7037f73664409937dcc3ec293b3ca037145a9501d25cb",
       "title": "Three injured in multi-vehicle crash near Edinburgh Airport",
       "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo?at_medium=RSS&at_campaign=rss",
-      "description": "Police say the multi-vehicle collision happened between the Newbridge and Gogar roundabouts.",
+      "description": "A Police dog unit and helicopter are involved in the search for three people who left the scene of the crash on foot.",
       "published_at": "2026-09-07T12:42:29+00:00",
       "source": "BBC",
       "categories": [
@@ -3470,6 +4148,17 @@
     },
     {
       "id": "38c312941e347e70fcad40a90e6b94ee2b3bd56f54ef5d6d0e5b80a7fcbfce12",
+      "title": "Cyclists take starring role on Scottish Borders stage",
+      "url": "https://www.bbc.co.uk/news/articles/cdx055nepqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Tour of Britain and the Tour O The Borders take place in southern Scotland on the same day.",
+      "published_at": "2026-09-07T11:31:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "12f2725a24892275c5fa71f73a5e7405789b41e548322fab799ebefc0d1f18f8",
       "title": "Cyclists take starring role on Scottish Borders stage",
       "url": "https://www.bbc.co.uk/news/articles/cdx055nepqpo?at_medium=RSS&at_campaign=rss",
       "description": "The Tour of Britain and the Tour O The Borders take place in southern Scotland on the same day.",
@@ -4754,6 +5443,17 @@
       "source": "CNA",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "96804d950e33ffc0a8a919fd10db3d221fbd4a37011c197e715a31a074afe33c",
+      "title": "Protesters block roads in Portsmouth after 140 migrants arrive in boat",
+      "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+      "description": "The government condemns \"thuggish behaviour\" in the second major anti-migrant protest of the weekend.",
+      "published_at": "2026-09-07T07:14:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -6067,6 +6767,17 @@
     },
     {
       "id": "dbe98319a45abfed7e941eb03ad2c8bd8f418323a3201410a902119f74dbe0cd",
+      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+      "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+      "published_at": "2026-09-07T01:31:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "972e5dd7bee362d775974ae0028aeb6572a359c2d8b1a74bb370c4ac19ef7fb6",
       "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
       "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
       "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
