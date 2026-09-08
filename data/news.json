@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-09-08T02:02:49.883983+00:00",
+  "last_updated": "2026-09-08T03:03:02.807775+00:00",
   "articles": [
+    {
+      "id": "2dea95fb18e39ecbbf54f30b3904c07b91ccfec35a73f003d5aabf4706b8f927",
+      "title": "Elijah Pies opens Joo Chiat flagship with souffle pies, ‘pizza pies’ and treats for dogs",
+      "url": "https://www.channelnewsasia.com/dining/elijah-pies-joo-chiat-outlet-new-6367286",
+      "description": "Twelve years after starting as a home business, the Instagram-famous pie brand has taken over a heritage shophouse for its biggest cafe yet.",
+      "published_at": "2026-09-08T02:41:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b08e6fd2cc6c755bd7df684e62da4f3da67d676ceaebee73bf458843e4e68a07",
+      "title": "Trump threatens sales in US of Canadian aircraft maker Bombardier",
+      "url": "https://www.channelnewsasia.com/world/trump-threatens-sales-in-us-canadian-aircraft-maker-bombardier-6368411",
+      "description": "",
+      "published_at": "2026-09-08T02:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "167775066e478899c2d6f5057e7be787ad8d9840cfb762342d4652634e762d98",
+      "title": "Hong Kong emerges as leading Asian study destination for Kazakhstani students",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366700/hong-kong-emerges-leading-asian-study-destination-kazakhstani-students?utm_source=rss_feed",
+      "description": "Kazakhstan has recorded the largest student population and fastest enrolment growth at Hong Kong’s public universities among Central Asian countries in recent years, according to official data, while students from the country said the city was the most preferred regional higher education destination in Asia among their peers. Among local institutions, City University (CityU) enrolled the largest share of Kazakhstani students. Its council chairman told the South China Morning Post that students...",
+      "published_at": "2026-09-08T02:30:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "4f13589ebefd26aa31e861f17e55349caf127cc7d04d28e88db5f16ff537345c",
+      "title": "Japan, US remain aligned on FX policy to foster stable markets, Katayama says",
+      "url": "https://www.channelnewsasia.com/business/japan-us-remain-aligned-fx-policy-foster-stable-markets-katayama-says-6368421",
+      "description": "",
+      "published_at": "2026-09-08T02:26:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "556f8d475b283a06900163e6bd0b19dd31296bf1ad40dcf5b6ae633f1570eff7",
+      "title": "Trump threatens to ban Canadian Bombardier jets from US market",
+      "url": "https://www.france24.com/en/americas/20260908-trump-ban-canadian-bombardier-jets-us-market",
+      "description": "US President Donald Trump threatened on Monday to block sales of Canadian planemaker Bombardier in the United States unless it builds aircraft in the country, escalating trade tensions on the eve of Canadian retaliatory tariffs. Trump accused Canada of “unjust and unfair” trade practices but did not explain how a ban would work.",
+      "published_at": "2026-09-08T02:24:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "3605d8cd8ad212a3711590df5323b2f1c94a788a139fcd7f9ce3eb22668ebafc",
+      "title": "‘We need to stop using the sky as an open sewer’: Former US Vice-President Al Gore on unprecedented climate danger",
+      "url": "https://www.channelnewsasia.com/world/al-gore-climate-change-clean-energy-weather-trump-china-6367416",
+      "description": "Speaking to CNA in Singapore, the climate advocate warned of rising temperatures, melting ice and increasingly erratic weather, saying predictions he highlighted 20 years ago in the documentary An Inconvenient Truth had proved “exactly accurate”.",
+      "published_at": "2026-09-08T02:14:30+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "c18df075e464c673e2567d4573ca6909ebe21eb21572e07ce8675b766346dda7",
       "title": "Live: Russia resumes strikes on Kyiv after three-day halt",
@@ -9,7 +83,8 @@
       "published_at": "2026-09-08T02:00:01+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
       ]
     },
     {
@@ -22,6 +97,17 @@
       "categories": [
         "Asia",
         "News"
+      ]
+    },
+    {
+      "id": "7bdda45524942aae8ef9507a650a9f141b65110102dba06fd6282dd1ab08baeb",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "description": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+      "published_at": "2026-09-08T01:50:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -121,6 +207,17 @@
       ]
     },
     {
+      "id": "81a654f2be23e4b7e8683f9fd11b77ee70ed5edb7d1781296b28ade32cfda679",
+      "title": "Drought and hosepipe bans remain despite wettest week since early February",
+      "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+      "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
+      "published_at": "2026-09-08T01:05:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "de1f73c0b224adf6f69f596294a6eb7ff8e1b2722208389b3203268116ffe671",
       "title": "Chinese woman sues son for US$54,000 in childcare fees after 15 years, sparking debate",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366701/chinese-woman-sues-son-us54000-childcare-fees-after-15-years-sparking-debate?utm_source=rss_feed",
@@ -129,6 +226,17 @@
       "source": "SCMP",
       "categories": [
         "News"
+      ]
+    },
+    {
+      "id": "400d350184faa70824681bc6946d5b0abd3d64aba941ebeefccc7fd8fea8a37a",
+      "title": "Prince George set for first day at Eton College",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+      "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+      "published_at": "2026-09-08T01:00:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -177,6 +285,28 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "1fd645664401b0b157ba8448b18401898592501f0a9688eb0429694c1111ce00",
+      "title": "Police forces failing investigation basics, says inspectorate report",
+      "url": "https://www.bbc.co.uk/news/articles/c05r61jzp0po?at_medium=RSS&at_campaign=rss",
+      "description": "His Majesty's Chief Inspector of Constabulary said too many victims are not receiving the quality of service they should expect.",
+      "published_at": "2026-09-08T00:21:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "a6d89e322b4e9e7cf1d74b2cc9224ccd5da3d2f737328edbd334530e8703893d",
+      "title": "The Papers: 'Port in a storm' and 'Megxit means Megxit'",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z4e8d1wo?at_medium=RSS&at_campaign=rss",
+      "description": "Immigration protests, Harry and Meghan, and UK-Israel relations dominate the front pages on Tuesday.",
+      "published_at": "2026-09-08T00:17:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -918,7 +1048,7 @@
       "id": "1571f118ba19a24e7498c8b8679a09ce158b02a8eaf77f2cb6316331e27c0406",
       "title": "Alleged killers of Australian, US surfers go on trial in Mexico",
       "url": "https://www.scmp.com/news/world/americas/article/3366691/alleged-killers-australian-us-surfers-go-trial-mexico?utm_source=rss_feed",
-      "description": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial on Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their...",
+      "description": "The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies...",
       "published_at": "2026-09-07T18:56:05+00:00",
       "source": "SCMP",
       "categories": [
@@ -1007,6 +1137,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "33143fc8d6fccade5af75363fd19be9b2f1be8dc49ae4cdfccc3b42e5e80fe2d",
+      "title": "King makes clear Harry and Meghan remain non-working royals",
+      "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "published_at": "2026-09-07T18:23:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1128,6 +1269,17 @@
     },
     {
       "id": "9af8254878cfda8cbd85b66a650885bfab1dcc306db21d1961d79f207f03620f",
+      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
+      "published_at": "2026-09-07T17:40:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b571b45304fab3f5a0ecc081e95cd2c97591bce8b2d1acb8519b19589cee6db3",
       "title": "Ecclestone stopped by police for taking shotgun into Portugal",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
       "description": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
@@ -1395,6 +1547,17 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "3a0988a4a5a06b05bc0b98987011e24f99558714ac68a709df3c4517b3b0f1ad",
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "published_at": "2026-09-07T16:05:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1869,7 +2032,8 @@
       "published_at": "2026-09-07T14:41:21+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
