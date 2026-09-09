@@ -1,6 +1,110 @@
 {
-  "last_updated": "2026-09-09T18:03:34.190756+00:00",
+  "last_updated": "2026-09-09T19:02:42.476103+00:00",
   "articles": [
+    {
+      "id": "f9246ff83336d2fc78687e3d57b3851559acc7fdf5853eec2b3333934d147b2f",
+      "title": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo?at_medium=RSS&at_campaign=rss",
+      "description": "Mae dyfodol darlledu yn Gymraeg “mewn perygl” yn ôl prif weithredwr S4C gyda’u hadnoddau dan straen.",
+      "published_at": "2026-09-09T18:45:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5d8eddb451e20c827606cb9f4a8dee33bfcce3811b640ec1b8bc589bcd79a2fd",
+      "title": "Apple unveils its first folding iPhone",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "published_at": "2026-09-09T18:39:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "c84f3f2618d794f47bad73f3870db13684ecdf207af18e48d66219a3a540e0e4",
+      "title": "Whose space is it? Europe scrambles as US rules satellite race",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race",
+      "description": "With the digital age comes the scramble for minerals below us and the scramble to master the heavens above us. Donald Trump wants a thousand rocket launches a year and with SpaceX’s reusable modules leading the way, the United States towers over the competition. It’s why for instance Ukraine’s president has to beg Elon Musk to use his Starlink low orbit satellite system to take out the Russian cruise missile launchers.",
+      "published_at": "2026-09-09T18:35:30+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f13a2a4589ba50bcb18aab26e8426eb0d7e0b8c3dda64f06536bc17d1914c4b2",
+      "title": "Princess Anne reunited with childhood riding teacher",
+      "url": "https://www.bbc.co.uk/news/articles/c790l4wp52no?at_medium=RSS&at_campaign=rss",
+      "description": "Barbara Rosen, 94, cared for Princess Anne's childhood ponies at Windsor Castle in the 1950s.",
+      "published_at": "2026-09-09T18:35:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "f29a27c69362562cc8529467970e942a7a6e2dc8eaa7c45f4c7d8598a9dba772",
+      "title": "Iran strikes ships, expands no-go zone outside Hormuz strait",
+      "url": "https://www.france24.com/en/iran-strikes-ships-expands-no-go-zone-outside-hormuz-strait",
+      "description": "Iran said it attacked more than a dozen vessels trying to pass through the Strait of Hormuz on Wednesday, as it announced an expansion of a no-go zone outside the strategic waterway it has blockaded for months. The fresh attacks and fighting with the United States have sent oil prices above $100 per barrel again as Tehran chokes off the strait and Washington presses a counter-blockade of Iranian ports. FRANCE 24's Reza Sayah reports from Tehran.",
+      "published_at": "2026-09-09T18:30:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "df2707cca652233791981195db8c41b4383686edc15e2f7e40b3936a370c26c2",
+      "title": "Rybakina beats qualifier Zheng to reach US Open semis and secure no. 1 spot",
+      "url": "https://www.channelnewsasia.com/sport/rybakina-beats-qualifier-zheng-reach-us-open-semis-and-secure-no-1-spot-6373801",
+      "description": "",
+      "published_at": "2026-09-09T18:25:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "76373c98a482cec51b337b576c34f9fcb696cb400be695340790c5519c0ee364",
+      "title": "UN nuclear watchdog board reports Iran to Security Council for first time in 20 years",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366971/un-nuclear-watchdog-board-reports-iran-security-council-first-time-20-years?utm_source=rss_feed",
+      "description": "The UN atomic watchdog’s board on Wednesday reported Iran to the UN Security Council for the first time in 20 years, citing it for failure to cooperate in a long-running investigation into uranium traces detected by inspectors at undeclared sites. Western officials suspect that the traces could provide evidence that Iran had a secret nuclear weapons programme until 2003. Iran says that it is not pursuing nuclear weapons and that its programme is entirely peaceful. Reporting Iran to the Security...",
+      "published_at": "2026-09-09T18:09:59+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "73c004962f0aee5c41f059e86cef215a2f0c5ba1cb09958dbb3f44c01b2ef535",
+      "title": "Tongue routs Pakistan as England dominate third test",
+      "url": "https://www.channelnewsasia.com/sport/tongue-routs-pakistan-england-dominate-third-test-6373771",
+      "description": "",
+      "published_at": "2026-09-09T18:07:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ffb9bbebf59eccdbd6053d62363b4c4caceaee75c6eb3c71d3708707621b3acd",
+      "title": "BBC Wales faces 'managed decline' without more cash, MPs told",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0vxprdpvo?at_medium=RSS&at_campaign=rss",
+      "description": "MPs were told that without licence fee changes the BBC could not keep making content it currently does.",
+      "published_at": "2026-09-09T18:06:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
     {
       "id": "3fb3a61f55164ba901e0b43a631aab8ad2722f7fa568633a73a9c94d48425349",
       "title": "Man charged with assisting Russian intelligence service",
@@ -22,6 +126,28 @@
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "6e94ff7ef4fe94d3a6c810f039de99558829c39493c0ec08b16082abfc3c8449",
+      "title": "England demolish Pakistan to take charge of Test",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cj06yv2n8mno?at_medium=RSS&at_campaign=rss",
+      "description": "England again demolish the dismal Pakistan batting to move on course for a 3-0 clean sweep on the opening day of the third Test at Edgbaston.",
+      "published_at": "2026-09-09T17:42:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b16c86487b2abade81ed214fcadfb544a8b0a42ef60e72b97934aaefc203afb7",
+      "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
+      "url": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+      "description": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
+      "published_at": "2026-09-09T17:33:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -219,6 +345,17 @@
       ]
     },
     {
+      "id": "e74b9d4e676c0eacb7a07d1eec047f693f115b211d7351b0daef8fc5f78e4d3c",
+      "title": "Lifeboats helped anti-migrant protesters, RNLI says",
+      "url": "https://www.bbc.co.uk/news/articles/c33k6lmlr0lo?at_medium=RSS&at_campaign=rss",
+      "description": "RNLI chief executive Peter Sparkes said many protesters were in or near the water in Portsmouth.",
+      "published_at": "2026-09-09T16:11:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "6cd9252db7ba603cc36777d1b364a06c1e7bdb5908ce988ae7d29ee3c9844c6d",
       "title": "NHS boss tells Eljamel inquiry: 'I won't resign over destroyed logbooks'",
       "url": "https://www.bbc.co.uk/news/articles/c4gvl9z4wy2o?at_medium=RSS&at_campaign=rss",
@@ -288,6 +425,17 @@
     },
     {
       "id": "6d7fb11f0488ae6a5a8b9deff9356d4a7eaa37772804e387757bd0cbbdffcfea",
+      "title": "'This Is Anfield' sign fetches £115k at auction",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
+      "description": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+      "published_at": "2026-09-09T16:00:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "632c3322420e409ecb47c77776b268c8f0408b1e1a0d7aaf9e869136b45196bb",
       "title": "'This Is Anfield' sign fetches £115k at auction",
       "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
       "description": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
@@ -735,6 +883,17 @@
       ]
     },
     {
+      "id": "372dee2d1ddf19cb81126316dcd39a23bae8c61074ca4664cc798b8d0d9ea744",
+      "title": "Illegal customised bike 'capable of 28mph' seized",
+      "url": "https://www.bbc.co.uk/news/articles/c2l87gq89n2o?at_medium=RSS&at_campaign=rss",
+      "description": "A scooter motor had been attached to the bike and was held on by tape.",
+      "published_at": "2026-09-09T14:19:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "18721537be7516f51dc132192eb95b479cd2fa670ffdfa63a0e81331aeabbfd2",
       "title": "Woman's rape lies sentence 'unduly lenient'",
       "url": "https://www.bbc.co.uk/news/articles/c4g5j23571go?at_medium=RSS&at_campaign=rss",
@@ -794,6 +953,17 @@
     },
     {
       "id": "c4ad28708983e7cd47527a9fa33cd8f4d46d733a956608e600a06addcdd8ccce",
+      "title": "Silence of the Lambs moth found in school compost",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvgq085zyo?at_medium=RSS&at_campaign=rss",
+      "description": "The giant African death's-head hawkmoth has a distinctive skull-like marking.",
+      "published_at": "2026-09-09T14:04:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1be84651aaf29e2cde8671ffbcabd0ba22e2a5f5727ca23b33ad1a777172198b",
       "title": "Silence of the Lambs moth found in school compost",
       "url": "https://www.bbc.co.uk/news/articles/cqxvgq085zyo?at_medium=RSS&at_campaign=rss",
       "description": "The giant African death's-head hawkmoth has a distinctive skull-like marking.",
@@ -2149,6 +2319,17 @@
       ]
     },
     {
+      "id": "462015e75023a0e6357da0f743d00857d45a5f438a71edf3e51feda32baf24a4",
+      "title": "Apple debuts passport-shaped foldable phone, called Duo",
+      "url": "https://www.channelnewsasia.com/business/apple-debuts-passport-shaped-foldable-phone-called-duo-6372726",
+      "description": "A foldable iPhone-style device marks Apple’s biggest flagship shift in years, as the new Duo opens from passport size into a wide screen.",
+      "published_at": "2026-09-09T10:02:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "106e977e6ec431996d5559eb574137d9332e6e8bc78e52336ad0a716518001cc",
       "title": "Cow gives birth to triplets defying 100,000 to one odds",
       "url": "https://www.bbc.co.uk/news/articles/c2l87dvp9yzo?at_medium=RSS&at_campaign=rss",
@@ -2394,6 +2575,17 @@
     {
       "id": "fcd7c1a08fab6b1e150d9b2b81c775856375b5e4864c32e577de947b08df3441",
       "title": "Body found in search for missing teen on holiday",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjp90rdw3o?at_medium=RSS&at_campaign=rss",
+      "description": "The 15-year-old, from the Yorkshire area, was at Marloes Sands beach in Pembrokeshire.",
+      "published_at": "2026-09-09T09:22:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "02e39e270adc1f7509e1fd42750c9f134b5c436e269dbbaeb0410f80b89e3cba",
+      "title": "Body found in search for missing boy, 15, on holiday",
       "url": "https://www.bbc.co.uk/news/articles/c5yjp90rdw3o?at_medium=RSS&at_campaign=rss",
       "description": "The 15-year-old, from the Yorkshire area, was at Marloes Sands beach in Pembrokeshire.",
       "published_at": "2026-09-09T09:22:58+00:00",
@@ -4818,6 +5010,17 @@
       "categories": [
         "Business",
         "UK"
+      ]
+    },
+    {
+      "id": "80c539af8a99f68126dcc34c98322c27efd81e01843f5c60c251396497b2b53f",
+      "title": "I'm 27 and I've already written my will - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+      "published_at": "2026-09-08T23:04:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
