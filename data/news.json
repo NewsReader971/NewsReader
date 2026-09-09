@@ -1,6 +1,261 @@
 {
-  "last_updated": "2026-09-09T19:02:42.476103+00:00",
+  "last_updated": "2026-09-09T20:02:37.110842+00:00",
   "articles": [
+    {
+      "id": "1590d61e9b8afe145894983ce910d392bf2edffd53d76aa615f82840706e9c60",
+      "title": "BBC drops Drag Race UK after eight series",
+      "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+      "description": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
+      "published_at": "2026-09-09T19:56:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "8d9615a49cd423abfca1917d458bb589d5391254c1f795bbed10b524f3522b4e",
+      "title": "'Passengers or pilots?' Europe looks to challenge US dominance in space sector with €10 billion plan",
+      "url": "https://www.france24.com/en/europe/20260909-passengers-or-pilots-europe-looks-to-challenge-us-dominance-in-space-sector-with-%E2%82%AC10-billion-plan",
+      "description": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambitions in a global market dominated by the United States.",
+      "published_at": "2026-09-09T19:56:05+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "fa73baaaee628ef952687145ed8bf288216e1098f2e51adf4b2cfb55568a3cef",
+      "title": "Exclusive-TPG explores $5 billion sale of healthcare software company Lyric, sources say",
+      "url": "https://www.channelnewsasia.com/business/exclusive-tpg-explores-5-billion-sale-healthcare-software-company-lyric-sources-say-6373941",
+      "description": "",
+      "published_at": "2026-09-09T19:52:16+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6ebb8c05390024493864942356d978ddb41babcb4a7057e9cffb4438082c8e7a",
+      "title": "Norway to bid final farewell to King Harald V with funeral attended by royalty and dignitaries",
+      "url": "https://www.channelnewsasia.com/world/norway-bid-final-farewell-king-harald-v-funeral-attended-royalty-and-dignitaries-6371966",
+      "description": "",
+      "published_at": "2026-09-09T19:49:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "3ecb97e002ccd9ebc782d4ebc79e23ab3952a74b01ebe4c51d9ca18bebc020fa",
+      "title": "Trump says Iran war will end right after US midterm elections",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366972/trump-says-iran-war-will-end-right-after-us-midterm-elections?utm_source=rss_feed",
+      "description": "President ⁠Donald Trump on Wednesday ⁠predicted that the war with Iran will end “immediately after” the US midterm elections in November because Tehran was trying to influence the vote but would not ‌be able to hold out more in the face of US economic pressure. “I think war is going to end immediately after the election because they can’t hold out any longer. They’re desperate to try and affect the election,” he told ⁠reporters before departing for the Republican National Convention in...",
+      "published_at": "2026-09-09T19:48:42+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "2efa6d1138351f24253a159d24ae52de71c835bd75cdcfc691f8299473fd6c15",
+      "title": "MLS spends record $370 million on transfers in 2026",
+      "url": "https://www.channelnewsasia.com/sport/mls-spends-record-370-million-transfers-in-2026-6373936",
+      "description": "",
+      "published_at": "2026-09-09T19:45:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "7c9038aa0f30232ed2b198178a5cd525a44a56dadd031dd0f8e8f633ad6dc347",
+      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+      "url": "https://www.bbc.co.uk/news/videos/c23xpyj57g5o?at_medium=RSS&at_campaign=rss",
+      "description": "A study found people who had their drinks \"very hot\" had around a three times higher risk of the cancer than \"warm\" tea or coffee drinkers.",
+      "published_at": "2026-09-09T19:43:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "65fc5f666755934cedd19921cbdecaff44885a3824035fce99c0a981f11b8a11",
+      "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
+      "url": "https://www.channelnewsasia.com/business/anthropic-reports-fourth-cybersecurity-incident-early-version-claude-6373916",
+      "description": "",
+      "published_at": "2026-09-09T19:40:11+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e047de7ceb4399f496b4601d0e9cc91e3d780359faae7a52ac49720f9bef72c8",
+      "title": "Houthi offensive on Bab al-Mandeb may bring 'tremendous leverage', analyst explains",
+      "url": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
+      "description": "The Saudi-led coalition in Yemen on Wednesday said the Iran-backed Houthis had launched fresh attacks on the kingdom's south, after the rebels launched an offensive seeking to control the Bab al-Mandab Strait. Speaking with FRANCE 24's Mark Owen, Adam Baron, Fellow at the New America Foundation, says that \"if you have both groups able to disrupt maritime shipping both in the Red Sea and the Gulf, this would be a tremendous exercise of leverage to put pressure for a resolution\".",
+      "published_at": "2026-09-09T19:35:36+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "4111e845b8e04413e82a92f09f76c37375336a2afdbf8a87821dc4d9f46b60c6",
+      "title": "Rybakina claims top ranking with win over Zheng, Gauff eyes US Open semis",
+      "url": "https://www.channelnewsasia.com/sport/rybakina-claims-top-ranking-win-over-zheng-gauff-eyes-us-open-semis-6373901",
+      "description": "",
+      "published_at": "2026-09-09T19:32:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "b767b5b7d84cf46acbda7fb0f9262b4220eba98154b6a3cc45c89303de8ebdfc",
+      "title": "Scottish clubs face tougher Europa League route",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
+      "description": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "published_at": "2026-09-09T19:30:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "a0dd496e3d3ccd7bd17044a51dbf3f44d8002a3e6e2413851ddd3f42a85faef9",
+      "title": "Man charged after woman taken to hospital following dog attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw3zndg89o?at_medium=RSS&at_campaign=rss",
+      "description": "Police were called to reports of a woman and a dog being attacked by another dog in Donald Dewar Court, Aberdeen.",
+      "published_at": "2026-09-09T19:23:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "e4a0d7224a753441dafc4e33d7a59dfb84e6cec1d37fa147aba9b2f0c5657a16",
+      "title": "Man charged after woman taken to hospital following dog attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw3zndg89o?at_medium=RSS&at_campaign=rss",
+      "description": "Police were called to reports of a woman and a dog being attacked by another dog in Donald Dewar Court, Aberdeen.",
+      "published_at": "2026-09-09T19:23:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "e182c6448e29ec8a727de2d6f209121c47bca2fa21bd762ea2c339290094672e",
+      "title": "Experts divided on results of Wales' international school tests",
+      "url": "https://www.bbc.co.uk/news/articles/c86x0dd3ngjo?at_medium=RSS&at_campaign=rss",
+      "description": "Wales' international test results were deemed catastrophic by some, but others are not so sure.",
+      "published_at": "2026-09-09T19:19:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "0bea220662c92df9e7e9d87d45d118674370496e30717750cb083f51b482e652",
+      "title": "'Alarm bells ringing': US summer heat shatters record",
+      "url": "https://www.channelnewsasia.com/world/alarm-bells-ringing-us-summer-heat-shatters-record-6373856",
+      "description": "",
+      "published_at": "2026-09-09T19:17:20+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "68519194bc0f0a04aba0fa234e76bd7b214f2cb2d9d83a3feb3971536eba9540",
+      "title": "'An injustice' or 'righting a wrong': British Jews debate sanctions move",
+      "url": "https://www.bbc.co.uk/news/articles/c9dw048lp9zo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK's decision to sanction trade with illegal settlements has prompted a range of opinion among the British Jewish community.",
+      "published_at": "2026-09-09T19:12:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "a1334049cabee31d0287e647960e94d7115ffa072eddb6af68abb3260ac588db",
+      "title": "Failures 'contributed to' death of Sir Richard Branson's wife",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7k9n7exyo?at_medium=RSS&at_campaign=rss",
+      "description": "Lady Joan Branson died after suffering a cardiac arrest at the private Lister Hospital in Chelsea last year.",
+      "published_at": "2026-09-09T19:09:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "160b7ed3b798916745f494c7a45b0cbb35060276cb22b708d0f9bc1ebca623df",
+      "title": "EU gives Spain 115 mn euros aid over Ceuta crisis",
+      "url": "https://www.france24.com/en/eu-gives-spain-115-mn-euros-aid-over-ceuta-crisis",
+      "description": "The EU on Wednesday said it was granting Spain 115 million euros ($130 million) in emergency aid to help bolster border security and assist returns after the massive migrant rush into the north African exclave. More than 70,000 migrants crossed into Spanish territory from Morocco on July 30 and 31 in an unprecedented rush that left scores dead, most by drowning as they tried to swim around a breakwater. FRANCE 24's Sarah Morris reports from Madrid.",
+      "published_at": "2026-09-09T19:06:34+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "ed055f8e71634ec282421e98764c9a21ade4bf8f65aabff9518dad7567235766",
+      "title": "Republicans put Trump center stage in US midterms gamble",
+      "url": "https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble",
+      "description": "US Republicans open an extraordinary midterm convention in Dallas on Wednesday betting that putting Donald Trump at the center of their campaign can rescue a party facing grim election forecasts -- despite the president's deeply negative approval ratings. FRANCE 24's Monte Francis explains.",
+      "published_at": "2026-09-09T19:04:35+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "3d1988bdf89200b4c383aecb47ff6e2607e47d94cbc2e3ded98d3069b7c2ad0c",
+      "title": "NFL-Cowboys most valuable team for 20th year in a row, Forbes list shows",
+      "url": "https://www.channelnewsasia.com/sport/nfl-cowboys-most-valuable-team-20th-year-in-row-forbes-list-shows-6373886",
+      "description": "",
+      "published_at": "2026-09-09T19:03:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "e79a883b08c2dc7a686ff9bbb87156c9561e9336697fecb70750c49996be4e7b",
+      "title": "Barcelona thrash Feyenoord in Champions League as Demirovic hits Stuttgart hat-trick",
+      "url": "https://www.channelnewsasia.com/sport/barcelona-thrash-feyenoord-in-champions-league-demirovic-hits-stuttgart-hat-trick-6373891",
+      "description": "",
+      "published_at": "2026-09-09T19:00:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "498684b7e6933017854cc20998e2fff479c9bb87077c75550e59c73464a4da53",
+      "title": "Mexicans charged after meth lab found at remote farm",
+      "url": "https://www.bbc.co.uk/news/articles/crm941dp9l8o?at_medium=RSS&at_campaign=rss",
+      "description": "A lab producing the class A drug methamphetamine was discovered on remote farmland near Furnace End.",
+      "published_at": "2026-09-09T18:59:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "f9246ff83336d2fc78687e3d57b3851559acc7fdf5853eec2b3333934d147b2f",
       "title": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
@@ -468,6 +723,17 @@
       ]
     },
     {
+      "id": "1cde56c67e66d7043e82850f1999bde010f3fc6abe5055128dcb24b58e93560e",
+      "title": "'I was stuck on a plane for six hours - then the flight was cancelled'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2mkvy4lv6o?at_medium=RSS&at_campaign=rss",
+      "description": "Katie Haines, 20, says passengers on her flight had to wait six hours with no updates, food or water.",
+      "published_at": "2026-09-09T15:58:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "37ae2f8f50d184a364bb5706fe3944e37ca1d931fac2c7abb6299ccd1cf79601",
       "title": "Lamborghini driver guilty in M62 crash death case",
       "url": "https://www.bbc.co.uk/news/articles/c1j4nell5ewo?at_medium=RSS&at_campaign=rss",
@@ -570,6 +836,17 @@
     },
     {
       "id": "c193f39d6583f115bee12464e82d6a0c0c63e437c35b353d06282896b8cb6ca5",
+      "title": "Victims' anger after 'house of horrors' foster carer released",
+      "url": "https://www.bbc.co.uk/news/articles/cdx50gne2pno?at_medium=RSS&at_campaign=rss",
+      "description": "Barbara Daniel and her husband Douglas were found guilty in January of abusing six foster children between 1986 and 1991.",
+      "published_at": "2026-09-09T15:31:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0de8efa584c6cd69f3393ac2841f8f1137c9162452d9917dd72a76a8ddfcc425",
       "title": "Victims' anger after 'house of horrors' foster carer released",
       "url": "https://www.bbc.co.uk/news/articles/cdx50gne2pno?at_medium=RSS&at_campaign=rss",
       "description": "Barbara Daniel and her husband Douglas were found guilty in January of abusing six foster children between 1986 and 1991.",
@@ -1276,6 +1553,17 @@
       ]
     },
     {
+      "id": "0bbcd4f8e146758e6d67dfc61c0cd64dab0ebe0f308e2db1dc98bdde2e315558",
+      "title": "No further action against man arrested after woman, 21, found dead at boatyard",
+      "url": "https://www.bbc.co.uk/news/articles/c780zxwy8p8o?at_medium=RSS&at_campaign=rss",
+      "description": "Corinna Baker's body was found by police in November last year.",
+      "published_at": "2026-09-09T13:13:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "366468ef9cd6d94ec7144fdfaa56aaafaf15cdce0751b8f990f7f6e4675560d2",
       "title": "Farmer, 87, suffered 'unsurvivable' injuries after being struck by cow",
       "url": "https://www.bbc.co.uk/news/articles/cdj42npk27wo?at_medium=RSS&at_campaign=rss",
@@ -1288,6 +1576,17 @@
     },
     {
       "id": "1525584de37c59baa5c9618f7c2765e2921209c7be3babeec5ee61df72f4ea87",
+      "title": "Farmer, 87, suffered 'unsurvivable' injuries after being struck by cow",
+      "url": "https://www.bbc.co.uk/news/articles/cdj42npk27wo?at_medium=RSS&at_campaign=rss",
+      "description": "David Ewan was taken to hospital after the incident in Stonehaven, Aberdeenshire, but could not be saved.",
+      "published_at": "2026-09-09T13:09:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "d9291204f5688aae34669a5e56501a5dc03d62916d1b2c83961d1afd0a97fcb6",
       "title": "Farmer, 87, suffered 'unsurvivable' injuries after being struck by cow",
       "url": "https://www.bbc.co.uk/news/articles/cdj42npk27wo?at_medium=RSS&at_campaign=rss",
       "description": "David Ewan was taken to hospital after the incident in Stonehaven, Aberdeenshire, but could not be saved.",
@@ -2406,6 +2705,7 @@
       "published_at": "2026-09-09T09:58:48+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "World"
       ]
     },
