@@ -1,6 +1,133 @@
 {
-  "last_updated": "2026-09-10T17:03:05.954782+00:00",
+  "last_updated": "2026-09-10T18:03:26.425603+00:00",
   "articles": [
+    {
+      "id": "5dd3fa05381c5ccdda0f80349a5b90a1d8c6540f59dce15ff09291e71d59a4fe",
+      "title": "Chinese scientists boost hydrogen fuel cell power fourfold with new design",
+      "url": "https://www.scmp.com/news/china/science/article/3367077/chinese-scientists-boost-hydrogen-fuel-cell-power-fourfold-new-design?utm_source=rss_feed",
+      "description": "Chinese scientists have developed a way to generate a fourfold increase in power output of hydrogen fuel cells, an advance that could broaden their use from road vehicles to space missions. Hydrogen is widely viewed as a promising clean energy source for a low-carbon future. Fuel cells convert the chemical energy in hydrogen directly into electricity, producing water as their only exhaust. In a study published in the peer-reviewed journal Science on Thursday, researchers at the Beijing Institute...",
+      "published_at": "2026-09-10T18:00:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "6995ee5d2bb524302dd930ec62cead8c8e9500db6bccd1edfcdc7702c00a9b8b",
+      "title": "Disabled people 'failed most' in airport chaos, says teen left queuing for hours",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkqp5n02do?at_medium=RSS&at_campaign=rss",
+      "description": "Josephine Rogers says the assistance she needs was not available amid air traffic control issues.",
+      "published_at": "2026-09-10T17:58:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "570648d803f52e0c5df8f6c75ba0865634785cf0e2026e887914885fd0bacacd",
+      "title": "French govt warns right-wing TV channel about using expelled pro-Putin pundit",
+      "url": "https://www.france24.com/en/france/20260910-french-govt-warns-right-wing-tv-channel-about-using-expelled-pro-putin-pundit",
+      "description": "France's government on Thursday condemned the return of expelled Russian commentator Xenia Federova to conservative TV channel, CNews, for alleged Kremlin ties. Federova was formally expelled from France in August over claims she was a Kremlin agent and accusations that she spread Kremlin propaganda on French television and radio.",
+      "published_at": "2026-09-10T17:52:40+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "40c75189f1b49440089e2f542a23627d5757b5d3ce2c848a33267b9c4a0a8e1a",
+      "title": "OpenAI launches ChatGPT for financial services industry",
+      "url": "https://www.channelnewsasia.com/business/openai-launches-chatgpt-financial-services-industry-6376941",
+      "description": "",
+      "published_at": "2026-09-10T17:32:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5b6fcc9c4037ef8c8d19af9c37d3b07ffdef8e566d761f5a3c5c32fe9fe23047",
+      "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+      "url": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+      "description": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
+      "published_at": "2026-09-10T17:29:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "60104f295987670458b30b8930aee8a27f20b7559f96bf763c6e5a8096dd29fc",
+      "title": "France's Epstein probe identifies 'potential recruiters'",
+      "url": "https://www.channelnewsasia.com/world/frances-epstein-probe-identifies-potential-recruiters-6376886",
+      "description": "The Epstein network is \"a labyrinthine network\", Paris prosecutor Laure Beccuau says, as French investigators trace leads from New York to Saint-Tropez and Cannes.",
+      "published_at": "2026-09-10T17:28:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "8658e24aa165f0f17edb66b46b5d3a8f09528bbdc46950c5fa2d6b335d386ba6",
+      "title": "Woad set for Korda showdown on Solheim Cup debut",
+      "url": "https://www.channelnewsasia.com/sport/woad-set-korda-showdown-solheim-cup-debut-6376926",
+      "description": "",
+      "published_at": "2026-09-10T17:27:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "994d57c41227daf0b327d829c84f4df9a592d5602cc3af87a08333539874c603",
+      "title": "Madring gives F1 a blind date with 'Monumental' mayhem",
+      "url": "https://www.channelnewsasia.com/sport/madring-gives-f1-blind-date-monumental-mayhem-6376916",
+      "description": "",
+      "published_at": "2026-09-10T17:15:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ba03b3a0d8ec1233b4d6b7b0ec516c33eba90f41dc8f1413e075f76641a00300",
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+      "published_at": "2026-09-10T17:13:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d057332061b2b47a88bcb254a9241bc8a4046f4c24a7f37ee8df00c9183cb7b2",
+      "title": "Jamaican sprint star Bolt marvels at prize money on eve of inaugural Ultimate Championship",
+      "url": "https://www.channelnewsasia.com/sport/jamaican-sprint-star-bolt-marvels-prize-money-eve-inaugural-ultimate-championship-6376891",
+      "description": "",
+      "published_at": "2026-09-10T17:10:35+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "93015fc0da6bf4c17f78e4c3976b1e605067b6a29b6a99e0363513762b53c90a",
+      "title": "Ex-Tory campaign chief pleads guilty over election bet",
+      "url": "https://www.bbc.co.uk/news/articles/cde0rk4r5jjo?at_medium=RSS&at_campaign=rss",
+      "description": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 election would be held.",
+      "published_at": "2026-09-10T17:03:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
     {
       "id": "17c60d28b5dcc97533a0f447335fd983d322505334adc4d1d1c926acab251642",
       "title": "Dawson critical after heavy Glamorgan defeat",
@@ -20,7 +147,8 @@
       "published_at": "2026-09-10T16:57:12+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -47,6 +175,17 @@
       ]
     },
     {
+      "id": "46b069c5acefdd307566e443501fa53f7787b74050642cd7aa32028b97178c89",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "published_at": "2026-09-10T16:48:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "eb16a4915fa8177198765e82c7db3faba673e3aa0910316ff17ec5492aab3a7f",
       "title": "Leclerc and Hamilton clear the air but no written rules of engagement",
       "url": "https://www.channelnewsasia.com/sport/leclerc-and-hamilton-clear-air-no-written-rules-engagement-6376856",
@@ -67,6 +206,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "ab7f6dfd65b64b95629641521b6a7a29f19fd962e4c53e8190049e744e62ed0e",
+      "title": "England's push for two-day win halted by weather",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
+      "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
+      "published_at": "2026-09-10T16:44:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -263,7 +413,7 @@
       "id": "b98968390f2e27fdd07a9d2e6bb45c74e9dcd886b4cb413e5da25bf33b6ff5f6",
       "title": "Four in hospital after Bromley stabbing",
       "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-      "description": "Paramedics attended alongside London Air Ambulance crews at 14:19 BST on Thursday.",
+      "description": "Seven people are arrested after a fight that an eyewitness says broke out near a KFC restaurant.",
       "published_at": "2026-09-10T15:56:15+00:00",
       "source": "BBC",
       "categories": [
@@ -364,6 +514,18 @@
       "id": "de42958302ff3593991b03ff675513d90952fcd1c7e3d25a439fec4bd2b8a40a",
       "title": "2030 French Alps organisers confirm departure of Grospiron as president",
       "url": "https://www.channelnewsasia.com/sport/2030-french-alps-organisers-confirm-departure-grospiron-president-6376721",
+      "description": "",
+      "published_at": "2026-09-10T15:42:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0f170060fe438551f73349f45b0f9df2c9b5c7014690e70adaad9343f047e3dc",
+      "title": "French Alps 2030 organisers confirm departure of Grospiron as president",
+      "url": "https://www.channelnewsasia.com/sport/french-alps-2030-organisers-confirm-departure-grospiron-president-6376721",
       "description": "",
       "published_at": "2026-09-10T15:42:42+00:00",
       "source": "CNA",
@@ -6097,6 +6259,17 @@
     },
     {
       "id": "ffb9bbebf59eccdbd6053d62363b4c4caceaee75c6eb3c71d3708707621b3acd",
+      "title": "BBC Wales faces 'managed decline' without more cash, MPs told",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0vxprdpvo?at_medium=RSS&at_campaign=rss",
+      "description": "MPs were told that without licence fee changes the BBC could not keep making content it currently does.",
+      "published_at": "2026-09-09T18:06:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "f2b77137617b0e2b8b8309b9d32e60ec388a40f4b3ae834d5a0cbfc8a7bc16d3",
       "title": "BBC Wales faces 'managed decline' without more cash, MPs told",
       "url": "https://www.bbc.co.uk/news/articles/cpq0vxprdpvo?at_medium=RSS&at_campaign=rss",
       "description": "MPs were told that without licence fee changes the BBC could not keep making content it currently does.",
