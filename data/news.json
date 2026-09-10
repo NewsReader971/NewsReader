@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-09-10T18:03:26.425603+00:00",
+  "last_updated": "2026-09-10T19:02:18.244496+00:00",
   "articles": [
+    {
+      "id": "061383806f9337a3c907280142990d5bf78c58657f3d1f8f0a78741b392803d4",
+      "title": "Ceidwadwyr a Reform yn galw am ddiswyddo prif weithredwr Betsi Cadwaladr",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk631yrnpo?at_medium=RSS&at_campaign=rss",
+      "description": "Does gan brif weithredwr bwrdd iechyd y gogledd \"ddim y gallu\" i fynd i'r afael â'r methiannau yn ysbytai'r gogledd, medd arweinydd y Ceidwadwyr Cymreig.",
+      "published_at": "2026-09-10T19:00:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "eb93d4944a0df93b48ee512d8938499e6a723f853066b37f1e7697cf20e7a9e2",
+      "title": "Iran raises fuel prices for heavy users",
+      "url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
+      "description": "The rise of the price of fuel is an issue for both the United States and Iran in this conflict. US president Donald Trump has conceded that prices will not fall before the midterm elections where the US voters could hold him to account. Meanwhile in Iran where many communities have been bombed since February 28th, there's now the added problem of incresing fuel prices. FRANCE 24's Ali al Basha sent this report.",
+      "published_at": "2026-09-10T18:48:25+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East"
+      ]
+    },
+    {
+      "id": "8bc43ad0f5c701454377e6e2f97aef9c750168e325ddbebe8f96395075a5c707",
+      "title": "Switzerland publishes 200-page dossier on Nazi doctor Mengele, known as ‘Angel of Death’",
+      "url": "https://www.scmp.com/news/world/europe/article/3367107/switzerland-publishes-200-page-dossier-nazi-doctor-mengele-known-angel-death?utm_source=rss_feed",
+      "description": "The Swiss federal intelligence service on Thursday published a 200-page dossier on the notorious Nazi war criminal Josef Mengele, the German doctor known as the “Angel of Death” for conducting horrific medical experiments on prisoners at Auschwitz. During World War II, Mengele served at the Auschwitz extermination camp in Nazi-occupied Poland, where about 1.1 million people were killed, around 1 million of them Jews. He became infamous for carrying out brutal medical experiments on inmates,...",
+      "published_at": "2026-09-10T18:37:29+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "1be3b8e0a71edc2830158f04e60cf1954e32fd7ac3b5de8f7d932d5c5cb1fa76",
+      "title": "How can sport help mental health?",
+      "url": "https://www.bbc.co.uk/sport/videos/c4gdw2gn027o?at_medium=RSS&at_campaign=rss",
+      "description": "At the launch of On Your Side, a mental health toolkit created by the Prince of Wales and the Royal Foundation, BBC Sport's Nesta McGregor asks sporting stars, 'how has sport helped your mental health?'",
+      "published_at": "2026-09-10T18:36:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "8cb3d2dc76666da85fecca3c0886cfdc737b43c7bd7e450b678cd1e070334958",
+      "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+      "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+      "description": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
+      "published_at": "2026-09-10T18:27:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "4954da7260ad5029df7145b94ac709bc65e92dd399c8d29953d28370e71d7eee",
+      "title": "Father of A66 teen charged with assault at son's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/czxzw458q8zo?at_medium=RSS&at_campaign=rss",
+      "description": "Police charged Gye Worthy with assault at the funeral for his son who was killed in the A66 crash.",
+      "published_at": "2026-09-10T18:22:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b4f7fc0f3d2a0283c19967350e407344d51c68e812dbb34d62b77cfbd3d832f6",
+      "title": "9/11 then and now: Do September 2001 attacks still shape our world?",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260910-9-11-then-and-now-do-september-2001-attacks-still-shape-our-world",
+      "description": "Once in a generation, sometimes once in a lifetime, a singular event blindsides the entire planet. 25 years on, does the memory of the Nine-Eleven attacks against New York's Twin Towers, the Pentagon and in Pennsylvania fade into history or is it still as raw and vivid as on that sunny September morning?",
+      "published_at": "2026-09-10T18:17:34+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "16b5da5c1779aa3a5e463c3df76e67097d050059ba58298f2d7b0138f75c07ed",
+      "title": "Health minister apologises to patients over neurology failings",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzd6g93zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Health Minister Robbie Butler said meeting the families and loved ones of some of Michael Watt's deceased patients had been an \"unrivalled privilege\".",
+      "published_at": "2026-09-10T18:11:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9ff50b84d5cf4a45b6590b4681077b8c617f31d615fe0aa3472679cf6bcc91f6",
+      "title": "Health minister apologises to patients over neurology failings",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzd6g93zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Health Minister Robbie Butler said meeting the families and loved ones of some of Michael Watt's deceased patients had been an \"unrivalled privilege\".",
+      "published_at": "2026-09-10T18:11:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "ef590b87a0e09899fe29754ff1d1ae9158c36d90cdb4ea8c628884ebb47424ef",
+      "title": "Canada unveils US$254 million air defence package for Ukraine",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3367106/canada-unveils-us254-million-air-defence-package-ukraine?utm_source=rss_feed",
+      "description": "Canada ⁠has agreed to a C$350 million (US$254 million) aid package for Kyiv to acquire air defence interceptors, Prime Minister Mark Carney said on Thursday, after meeting Ukrainian President Volodymyr Zelensky. Kyiv is ‌running critically low on US-made Patriot interceptors capable of stopping Russia’s ballistic missiles at a time when Moscow is stepping up its attacks. “As Russia escalates its barbaric aerial warfare indiscriminately targeting civilian populations, Ukraine’s air defences are...",
+      "published_at": "2026-09-10T18:05:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "be90b90ee69c22153811190700357e61f43d46587772dcd1cea2245cd972f4f6",
+      "title": "Antonelli putting championship to the back of his mind after best day of his life",
+      "url": "https://www.channelnewsasia.com/sport/antonelli-putting-championship-back-his-mind-after-best-day-his-life-6376981",
+      "description": "",
+      "published_at": "2026-09-10T18:00:40+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
     {
       "id": "5dd3fa05381c5ccdda0f80349a5b90a1d8c6540f59dce15ff09291e71d59a4fe",
       "title": "Chinese scientists boost hydrogen fuel cell power fourfold with new design",
@@ -33,6 +158,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "85f914034f101efe2e29fe810977759ce56b30f6b55320d8dab181cf59d25ddf",
+      "title": "Councillor expelled for far-right party membership",
+      "url": "https://www.bbc.co.uk/news/articles/cd792dzenzlo?at_medium=RSS&at_campaign=rss",
+      "description": "Reform suspends Councillor Daniel Astley after claiming he is a victim of \"gotcha\" journalism.",
+      "published_at": "2026-09-10T17:46:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -1702,6 +1838,17 @@
       ]
     },
     {
+      "id": "ad6263d580f4439173380e67a71da066ba42b74d2fe04dc18628e99d536cfacf",
+      "title": "Police call handler leaked info to cocaine gang",
+      "url": "https://www.bbc.co.uk/news/articles/c7v41ee1lgro?at_medium=RSS&at_campaign=rss",
+      "description": "He was caught when suspicious colleagues gave him a false tip which he frantically tried to pass on.",
+      "published_at": "2026-09-10T12:17:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "4af8d9d100d51d20a65057c69f868d627dd5dcc39be765f72eb250d5aa988b5c",
       "title": "At least 20 killed in cargo vessel fire at China shipyard",
       "url": "https://www.channelnewsasia.com/east-asia/china-20-killed-fire-cargo-vessel-shipyard-6375881",
@@ -2820,6 +2967,17 @@
       ]
     },
     {
+      "id": "22d2866f4e0432ac82849889d564eb3e2156eeca304671bdee1804bf30b7b53e",
+      "title": "More prisoners, more violence: Inside Maghaberry's assault surge",
+      "url": "https://www.bbc.co.uk/news/articles/czrzgld5ldxo?at_medium=RSS&at_campaign=rss",
+      "description": "The number of recorded assaults at Maghaberry Prison has more than doubled in four years.",
+      "published_at": "2026-09-10T09:51:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "c6fe956b21420da898e17a97b99aa809d9fae443edeb16855cb54ad8f016e1b9",
       "title": "US midterms: Trump promises $5,000 payout if Republicans win",
       "url": "https://www.france24.com/en/video/20260910-us-midterms-trump-promises-5-000-payout-if-republicans-win",
@@ -3869,6 +4027,17 @@
       ]
     },
     {
+      "id": "c99325fa5ac4e0e40deff9a4673018ebddfa3e82fcb98ba0132cc60a65373c02",
+      "title": "'He's massive!': Meet Hugo, the world's tallest horse",
+      "url": "https://www.bbc.co.uk/news/articles/clyl6ekpw2ko?at_medium=RSS&at_campaign=rss",
+      "description": "Hugo the shire horse enters the record books as the world's tallest living horse.",
+      "published_at": "2026-09-10T05:21:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "fe225c0c142c6b0df115b5527be0f5dbac52e56b03064e665ca47aa08dbd2415",
       "title": "Stormont emails reveal paramilitaries 'toxic' role in flags decisions",
       "url": "https://www.bbc.co.uk/news/articles/c20l7g5dpgvo?at_medium=RSS&at_campaign=rss",
@@ -4176,10 +4345,11 @@
       "id": "46e5d27ed493527bb607f67fb12e272040ad35a3b13874145b5138bce5cd74ff",
       "title": "Funeral for second officer killed in A66 crash to be held",
       "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-      "description": "PC Tom Clough's family say they are grateful for the public's support.",
+      "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
       "published_at": "2026-09-10T04:30:00+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
