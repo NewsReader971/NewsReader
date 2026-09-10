@@ -1,6 +1,75 @@
 {
-  "last_updated": "2026-09-10T00:03:49.468840+00:00",
+  "last_updated": "2026-09-10T01:03:24.926334+00:00",
   "articles": [
+    {
+      "id": "a127f715f6820a0a78fea521174292917c390fc9573cab99f1b8ade585020fb4",
+      "title": "Over 65% of cars sold in China are now EVs as Iran war drives electric shift",
+      "url": "https://www.scmp.com/business/china-business/article/3366961/over-65-cars-sold-china-are-now-evs-iran-war-drives-electric-shift?utm_source=rss_feed",
+      "description": "China’s electric vehicle (EV) adoption rate has hit an all-time high, as the Iran war drives motorists to shift away from petrol cars despite a sluggish automotive market. A record 65.2 per cent of the 1.54 million cars sold in mainland China last month were either pure electric or plug-in hybrid vehicles, data from the China Passenger Car Association (CPCA) showed. The figure broke the previous record of 65.1 per cent set a month earlier. “Consumers are convinced of EVs’ advantages now that...",
+      "published_at": "2026-09-10T01:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "ef2efe50584a3042abb685001dd6f1c6d51ea7e088355ca334bdd46d4280cebd",
+      "title": "UK needs new laws for AI in healthcare, says watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+      "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+      "published_at": "2026-09-10T00:48:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health",
+        "Technology"
+      ]
+    },
+    {
+      "id": "924cf3293e45a1477b3b2143fe6468c7bda1c02d3b88f8b6c9cdae35b4955ca1",
+      "title": "Softer focus on national security in Hong Kong’s 5-year plan? Why it won’t happen",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3366967/softer-focus-national-security-hong-kongs-5-year-plan-why-it-wont-happen?utm_source=rss_feed",
+      "description": "In the first of our series of previews on the five-year plan and policy address, to be announced on September 16, Natalie Wong and Matthew Cheng look at the key political issues and the city leader’s hopes for a second term. When Hong Kong’s leader John Lee Ka-chiu steps up to the Legislative Council podium next Wednesday, he will break from decades of political tradition. Lee’s coming policy address will summarise his four years in office while setting out what is expected to be his most...",
+      "published_at": "2026-09-10T00:30:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "468beedd53f0eee804d401f3334465616d4ea0d102bbe2c939656550ef8551bf",
+      "title": "Philippine ferry fire kills 5, 87 missing",
+      "url": "https://www.channelnewsasia.com/asia/philippine-ferry-kills-missing-palawan-6374296",
+      "description": "",
+      "published_at": "2026-09-10T00:13:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1bb336da753f007607e27178a910e2b10db207b19b81b28112fb03fd266c7995",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "published_at": "2026-09-10T00:06:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e90fb4a98e99d75e392456544d3ddc22c0b63952d6ad4966271b31afb9756b42",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "description": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "published_at": "2026-09-10T00:06:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
     {
       "id": "7fb6c35c87f3b6e30876f077ae664b63963764db8ef37940020757393ba7ce99",
       "title": "Migraines and acne among five more conditions pharmacists can treat",
@@ -10,6 +79,18 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "a9af70b64a68adc7cb076e9382bcf69c9631523fe575dc31d0599120cbec4050",
+      "title": "Gauff celebrates breakthrough success of Black Americans at US Open",
+      "url": "https://www.channelnewsasia.com/sport/gauff-celebrates-breakthrough-success-black-americans-us-open-6374291",
+      "description": "",
+      "published_at": "2026-09-10T00:00:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -114,6 +195,17 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "82d2d63a8e850c5c24d5091b33b33dfa593813eaced2b85c068f3e3dbcc5afb5",
+      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "published_at": "2026-09-09T23:17:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -2731,6 +2823,17 @@
       "categories": [
         "Latest News",
         "Singapore"
+      ]
+    },
+    {
+      "id": "99235d7cb6c1e81b672aabc7c5f3000b7146c2ce1cc8ab8712820269a83a6b7e",
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+      "published_at": "2026-09-09T12:20:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -6257,6 +6360,17 @@
       "categories": [
         "Business",
         "Technology"
+      ]
+    },
+    {
+      "id": "b886d847f35359f3667ebe1754a483284e041d58adf607450debd64643423d51",
+      "title": "Should promotion depend on how workers use AI?",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "description": "More companies are tying career progression to AI use: is that fair?",
+      "published_at": "2026-09-08T23:05:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
