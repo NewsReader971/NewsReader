@@ -1,11 +1,330 @@
 {
-  "last_updated": "2026-09-10T15:02:37.702587+00:00",
+  "last_updated": "2026-09-10T16:02:48.114114+00:00",
   "articles": [
+    {
+      "id": "8e72c1dd18c10affff4343a4d1d54cb9382ce6c005a95ab1b6b83ddbe864f5e2",
+      "title": "Edinburgh council to 'prioritise' southern tram extension",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwe73egg6o?at_medium=RSS&at_campaign=rss",
+      "description": "Councillors voted in favour of pursuing plans to extend the tram network from the city centre to the Royal Infirmary.",
+      "published_at": "2026-09-10T15:57:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4065059dd1184bb3fef2c30c75469dff2d29b68a2241fc826604da41f79d42f3",
+      "title": "Edinburgh council to 'prioritise' southern tram extension",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwe73egg6o?at_medium=RSS&at_campaign=rss",
+      "description": "Councillors voted in favour of pursuing plans to extend the tram network from the city centre to the Royal Infirmary.",
+      "published_at": "2026-09-10T15:57:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "902cf8f492250687d7b80b31c1aa6d7088f37016151bc9f0c2a518ee00c352bf",
+      "title": "August hottest month ever recorded globally as huge El Nino emerges",
+      "url": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
+      "description": "Europe's climate monitor said Thursday that August was the hottest month ever recorded around the world and warned of worse to come, as an unprecedented El Nino pattern grows stronger. Global temperatures over land and sea soared to all-time highs in August and capped an extreme summer of heatwaves and wildfires that ranked the hottest on record for western Europe and the contiguous United States.",
+      "published_at": "2026-09-10T15:57:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1b5c5ed65199fdf0b9ec58ce853b7433f25cd7f0e07cdb3ade152b57d7a4705c",
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "published_at": "2026-09-10T15:56:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "b98968390f2e27fdd07a9d2e6bb45c74e9dcd886b4cb413e5da25bf33b6ff5f6",
+      "title": "Four in hospital after Bromley stabbing",
+      "url": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Paramedics attended alongside London Air Ambulance crews at 14:19 BST on Thursday.",
+      "published_at": "2026-09-10T15:56:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "9f11c7967ab52c7ee0005eac1d0407f5b6f25b957518319273f08bc923f8c8f9",
+      "title": "Zelensky's plane 'almost hit' by drone en route to Oslo, Norway PM says",
+      "url": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
+      "description": "Ukraine and Moldova on Wednesday played down claims from Norway's prime minister that a plane carrying President Volodymyr Zelensky was almost hit by a drone as it flew to Oslo. Jonas Gahr Store told Norwegian public broadcaster NRK that Zelensky's plane was \"almost hit by a drone when it was taking off from Moldova\". But a source in the Ukrainian presidency described the claim that Zelensky was at risk as \"exaggerated\".",
+      "published_at": "2026-09-10T15:55:25+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e806664543b00910d069b0a54b70959ff36f77c74378e527934976aaa9441ea0",
+      "title": "Woman who filmed her teenage son rioting during Belfast street disorder sentenced",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwn427y04o?at_medium=RSS&at_campaign=rss",
+      "description": "A mother-of-six who recorded her teenage son rioting in the Broadway area of Belfast avoided an immediate prison sentence on Thursday.",
+      "published_at": "2026-09-10T15:54:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "460169042b9f8fa7723f1ad57bfe85826acb00f5bfa40ee159022917fb7bf63f",
+      "title": "Infantino's FIFA re-election bid faces setback as France withdraws support",
+      "url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
+      "description": "The French Football Federation withdrew its support for Gianni Infantino’s bid for another term as FIFA president on Thursday after his controversial plan to sell stakes in the World Cup. The FFF said the executive committee decision was unanimous.",
+      "published_at": "2026-09-10T15:52:05+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "a4ab953e3ecd4b4975e194f9640a80522c24bb26872525b164a454c0554948ee",
+      "title": "One person in hospital after serious crash closes A947 near Fyvie",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjz73xwjdo?at_medium=RSS&at_campaign=rss",
+      "description": "The emergency services - including an air ambulance - were sent to the scene, north of Fyvie.",
+      "published_at": "2026-09-10T15:49:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f6ad7735039df40ad2c85f3c382783b2418e51e2249e70e4db8b8f8d0faa6c42",
+      "title": "AI chip startup Positron's valuation skyrockets in latest funding round",
+      "url": "https://www.channelnewsasia.com/business/ai-chip-startup-positrons-valuation-skyrockets-in-latest-funding-round-6376731",
+      "description": "",
+      "published_at": "2026-09-10T15:47:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "3a4f60baadc484e6ed65831086d85d9d99e111d4b9e322a398934510a069712f",
+      "title": "9/11: Drones light up NYC ahead of 25th anniversary",
+      "url": "https://www.france24.com/en/video/20260910-9-11-drones-light-up-nyc-ahead-of-25th-anniversary",
+      "description": "A drone light show illuminated the New York City skyline Wednesday night during a test for the 'Tribute in Light' installation that will mark the 25th anniversary of the September 11 attacks. A total of 2,977 drones will take part in the display, one for each life lost on September 11, 2001.",
+      "published_at": "2026-09-10T15:46:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "cadc5a7e3576d4a11c54ba96efc7493a75c807f57691153aba36b772b6c9ef8a",
+      "title": "Sandra Hüller: from European cinema to working with Tom Cruise and Ryan Gosling",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
+      "description": "Sandra Hüller has conquered European cinema – now Hollywood is calling. The German actress, who earned an Oscar nomination for 'Anatomy of a Fall' and a Silver Bear for 'Rose', stars alongside Ryan Gosling in 'Project Hail Mary', and Tom Cruise in Alejandro González Iñárritu’s highly anticipated 'Digger'.",
+      "published_at": "2026-09-10T15:43:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "de42958302ff3593991b03ff675513d90952fcd1c7e3d25a439fec4bd2b8a40a",
+      "title": "2030 French Alps organisers confirm departure of Grospiron as president",
+      "url": "https://www.channelnewsasia.com/sport/2030-french-alps-organisers-confirm-departure-grospiron-president-6376721",
+      "description": "",
+      "published_at": "2026-09-10T15:42:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "22cf078b548954b821d2db555c3c5777eca0955c1ea535bc37eb76ca3ad7460b",
+      "title": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design",
+      "url": "https://www.channelnewsasia.com/business/portuguese-group-d3-sues-meta-tiktok-and-youtube-over-addictive-design-6376716",
+      "description": "",
+      "published_at": "2026-09-10T15:42:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "34488f2f01f5a0bcc668d5c549cc08fe0d0aee8342d8bc425c398ff3b54c188b",
+      "title": "When a Dragon gives you a helping hand",
+      "url": "https://www.bbc.co.uk/news/videos/c9qrnj5081jo?at_medium=RSS&at_campaign=rss",
+      "description": "When a Dragon gives you a helping hand",
+      "published_at": "2026-09-10T15:40:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d24a3f1260e1eea332239bd7a9825552b2fffabfc32c2fe79600048f7a813a79",
+      "title": "Somerset skittle Leics to maintain title hopes",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gk6y6e0x6o?at_medium=RSS&at_campaign=rss",
+      "description": "Somerset remain in pole position for a first ever County Championship title after beating Leicestershire by 377 runs.",
+      "published_at": "2026-09-10T15:33:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "34a585f037dfb46737ac417b77e1ba3e8efdf6d8a754dcab20755269dba15212",
+      "title": "US existing home sales hit weakest pace in over a year",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367103/us-existing-home-sales-hit-weakest-pace-over-year?utm_source=rss_feed",
+      "description": "Sales of previously owned homes in the United States slowed last month to their weakest pace in more than a year, as would-be buyers waited for relief on mortgage rates before purchasing. Contract closings slipped 2 per cent to an annualised rate of 3.98 million in August, data released on Thursday by the National Association of Realtors showed. Last month marked one of only two times since the autumn of 2024 that sales have dipped below 4 million. The disappointing figures reflect a housing...",
+      "published_at": "2026-09-10T15:30:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "6a121be7319bd45660477e40bbd6b2c18aef53ad042ddb39faf46dc59f1e6a8e",
+      "title": "International Space Summit: Europe plays catch-up with US and China",
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260910-international-space-summit-europe-plays-catch-up-with-us-and-china",
+      "description": "The space sector is booming. The global industry expected to reach a value of €2 trillion mark by 2040. But behind this spectacular growth lies major geopolitical challenges, particularly for Europe. In this edition, FRANCE 24’s Charles Pellegrin speaks to Kai-Uwe Schrogl at the International Space Summit in Paris. Schrogl, a political affairs adviser to the European Space Agency, answers questions about the future of the great beyond and Europe’s place in the new space race.",
+      "published_at": "2026-09-10T15:28:11+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "3b658e88b495f9fcfe7e3abdaa03d2b7b064561b3753315a40ffe3d3422fd6ce",
+      "title": "Exclusive-Infantino can rely on enough votes to survive, opponents rethink strategy, sources say",
+      "url": "https://www.channelnewsasia.com/sport/exclusive-infantino-can-rely-enough-votes-survive-opponents-rethink-strategy-sources-say-6376686",
+      "description": "",
+      "published_at": "2026-09-10T15:27:34+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "f6dc3c5d4f4d905b11eb57d7f650fe6407e3ede30aadaa32ab82551f6768eac3",
+      "title": "Russia tricks 'vulnerable' foreigners to fight in Ukraine war, Amnesty reports",
+      "url": "https://www.france24.com/en/europe/20260910-russia-tricks-vulnerable-foreigners-to-fight-in-ukraine-war-amnesty-reports",
+      "description": "Foreign nationals are being tricked into fighting for the Russian army against Ukraine through fake job offers, an Amnesty International report said Thursday, citing interviews with prisoners of war. The average targeted recruit is under 40, living in a poorer country and lured by the \"promise of a job\", Amnesty's secretary-general said.",
+      "published_at": "2026-09-10T15:20:51+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "09b25e5dfa37a0a5db90fc3d1b9cfe6e301c9386063df853387d7a23fb9a521a",
+      "title": "JD.com's Ceconomy concessions face criticism from rivals, sources say",
+      "url": "https://www.channelnewsasia.com/business/jdcoms-ceconomy-concessions-face-criticism-rivals-sources-say-6376661",
+      "description": "",
+      "published_at": "2026-09-10T15:11:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "9e3aa9a14eb899d2c0fcde7ee3ef690d45fe3aa87662f802d2ebfba31361d8d6",
+      "title": "Former classmates reunite as primary school turns 100",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjz8jx10o?at_medium=RSS&at_campaign=rss",
+      "description": "The school, which gave shelter to the community during the devastating Belfast Blitz in World War Two, was officially opened in July 1926.",
+      "published_at": "2026-09-10T15:11:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "7c689cdd5960ae1a6864122951f676b0bd4d1937445e95ca489e1d890f374fa1",
+      "title": "Starlink rival Eutelsat plans OneWeb expansion after €1 billion satellite order",
+      "url": "https://www.channelnewsasia.com/business/starlink-rival-eutelsat-plans-oneweb-expansion-after-eu1-billion-satellite-order-6376646",
+      "description": "",
+      "published_at": "2026-09-10T15:07:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "52391e6fc555961e71cc47b6e78b89e42d42a4a0103ba726928171ce166cd5c7",
+      "title": "Finland risks strained power supply after Google AI deal, opposition warns",
+      "url": "https://www.channelnewsasia.com/business/finland-risks-strained-power-supply-after-google-ai-deal-opposition-warns-6376651",
+      "description": "",
+      "published_at": "2026-09-10T15:06:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4907b902a9dee3d4b3ce5765fcb4018fa68bfd8a12b302d14e5c15ce88ca34cd",
+      "title": "Wrexham defender Cleworth set for two months out",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14d7jpn72po?at_medium=RSS&at_campaign=rss",
+      "description": "Wrexham suffer blow with defender Max Cleworth ruled out for two months of the Championship after a hamstring injury.",
+      "published_at": "2026-09-10T15:06:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5fc28c4ba003dbc4cc2d417b161fb046396c8004bc7e63c5ef617abafa67d3d9",
+      "title": "Hearts 'have to be above emotions' as big favourites",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24jr1z69mjo?at_medium=RSS&at_campaign=rss",
+      "description": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
+      "published_at": "2026-09-10T15:05:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
     {
       "id": "5023f918db3d434c5fb3ad3e0844621becbfc31e155d6ff525ad5cb566c18c54",
       "title": "Grand Theft Auto workers join protest as unfair dismissal tribunal begins",
       "url": "https://www.bbc.co.uk/news/articles/cqxvzwnerq0o?at_medium=RSS&at_campaign=rss",
       "description": "The 23 claimants were dismissed by Rockstar Games last year for what Rockstar Games called 'gross misconduct'.",
+      "published_at": "2026-09-10T15:01:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "2617a2c34beadebabe864ba71b6ae1d006277a775071bb77b10ab2c05f8e72e7",
+      "title": "Grand Theft Auto workers join protest as unfair dismissal tribunal begins",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvzwnerq0o?at_medium=RSS&at_campaign=rss",
+      "description": "The 23 claimants were sacked by Rockstar Games last year for what it called \"gross misconduct\".",
+      "published_at": "2026-09-10T15:01:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "82871701c0f24a49a41c7f924240ecba8aac615345861479c084ff3240c71863",
+      "title": "Grand Theft Auto workers join protest as unfair dismissal tribunal begins",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvzwnerq0o?at_medium=RSS&at_campaign=rss",
+      "description": "The 23 claimants were sacked by Rockstar Games last year for what it called \"gross misconduct\".",
       "published_at": "2026-09-10T15:01:02+00:00",
       "source": "BBC",
       "categories": [
@@ -20,7 +339,8 @@
       "published_at": "2026-09-10T15:00:14+00:00",
       "source": "BBC",
       "categories": [
-        "Science & Environment"
+        "Science & Environment",
+        "Wales"
       ]
     },
     {
@@ -53,7 +373,19 @@
       "published_at": "2026-09-10T14:59:04+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Singapore"
+      ]
+    },
+    {
+      "id": "4f9b481db48245a38da338e1fd3289489ba43968d7e77acaec38a7918aaec9a4",
+      "title": "Celine Loves Paris — But Do Other Artists?",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260910-c%C3%A9line-dion-loves-paris-but-do-other-artists",
+      "description": "Paris may be ‘Céline City’ at the moment with the frenzy over Céline Dion’s comeback concerts, but what about other international musicians? Do they tour as much in France as elsewhere in Europe? In this edition, we look at why Dion chose Paris and why France may be behind when it comes to mega-venues.",
+      "published_at": "2026-09-10T14:58:52+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -129,6 +461,18 @@
       "title": "Huawei racketeering trial turns to alleged trade secret theft from Japan’s Fujitsu",
       "url": "https://www.scmp.com/news/us/article/3367100/huawei-racketeering-trial-turns-alleged-trade-secret-theft-japans-fujitsu?utm_source=rss_feed",
       "description": "A key witness is expected to testify on Chinese tech giant Huawei Technologies’ alleged theft of trade secrets from Japanese rival Fujitsu on Thursday as the company’s landmark criminal trial in Brooklyn, New York, enters its second day of testimony. It comes after a US government lawyer told federal jurors on the opening day that Huawei engaged in criminal activities to achieve “growth at any cost”, while a lawyer for the company said that the employee who photographed Fujitsu networking...",
+      "published_at": "2026-09-10T14:32:24+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "b6d958152dcfe0cfa8275096fc264ae21ece8b72894732b9674c85ebe7d53804",
+      "title": "Huawei racketeering trial enters second day of testimony",
+      "url": "https://www.scmp.com/news/us/article/3367100/huawei-racketeering-trial-turns-alleged-trade-secret-theft?utm_source=rss_feed",
+      "description": "Key witnesses are expected to testify in Chinese tech giant Huawei Technologies’ landmark criminal case on Thursday in Brooklyn, New York, as it enters its second day of testimony. It comes after a US government lawyer told federal jurors on the opening day that Huawei engaged in criminal activities to achieve “growth at any cost”, while a lawyer for the company said that Huawei employees deemed to have broken company policies were punished for their actions. Brian Heberlig, of US law firm...",
       "published_at": "2026-09-10T14:32:24+00:00",
       "source": "SCMP",
       "categories": [
@@ -413,6 +757,17 @@
       ]
     },
     {
+      "id": "79abb5f8e912ddbaa4eddfea666749db23a92034ed7050de654edc61c2e763ba",
+      "title": "Why are MPs voting on assisted dying again?",
+      "url": "https://www.bbc.co.uk/news/articles/cd94jp2711lo?at_medium=RSS&at_campaign=rss",
+      "description": "A Labour MP has brought forward an identical bill to the previous attempt, saying she wants peers to \"finish the job\".",
+      "published_at": "2026-09-10T13:39:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "89df5ecde70e83fc952a62fa26a2e7919cdefd5f789669c024acb10852cc31ca",
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
       "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
@@ -502,6 +857,17 @@
       ]
     },
     {
+      "id": "3887548740b11199aedfd167e5bf9718d235aa4be6fe05ba4a38189488e242e6",
+      "title": "Man arrested over 'sophisticated' operation to grow 300 cannabis plants",
+      "url": "https://www.bbc.co.uk/news/articles/c980dy85gg7o?at_medium=RSS&at_campaign=rss",
+      "description": "PSNI Insp Connolly described the cultivation operation as \"sophisticated and well organised\".",
+      "published_at": "2026-09-10T13:25:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "1564d831548502f899568b8886d1c10c9101ad11004ece9519cdca238a4df807",
       "title": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
       "url": "https://www.channelnewsasia.com/business/chip-startup-d-matrix-use-nvidia-chip-linking-tech-in-ai-servers-6376391",
@@ -532,7 +898,8 @@
       "published_at": "2026-09-10T13:19:28+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "Northern Ireland"
       ]
     },
     {
@@ -583,6 +950,17 @@
     },
     {
       "id": "5ec5bd6d7537bebd9c40b7418dfcf3614b46e6bf56a7e0d910bab6efe19a2dee",
+      "title": "Young Spider-Man fan with rare condition finally gets to meet his hero",
+      "url": "https://www.bbc.co.uk/news/articles/crer57nwlw4o?at_medium=RSS&at_campaign=rss",
+      "description": "Having already met Tom Holland's stunt double, nine-year-old Noah Connell finally got to meet the man himself at a special event in London.",
+      "published_at": "2026-09-10T13:11:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "cd0b245c526870103d053a72934b5672e4baefabd45841306289c66e31319b0d",
       "title": "Young Spider-Man fan with rare condition finally gets to meet his hero",
       "url": "https://www.bbc.co.uk/news/articles/crer57nwlw4o?at_medium=RSS&at_campaign=rss",
       "description": "Having already met Tom Holland's stunt double, nine-year-old Noah Connell finally got to meet the man himself at a special event in London.",
@@ -724,6 +1102,17 @@
     },
     {
       "id": "6d4685cbb83537714eeabb72c7cc4b398443a7f94d2d31532225abc822999949",
+      "title": "School closure plan 'premature', says board of governors",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3z4ly08zo?at_medium=RSS&at_campaign=rss",
+      "description": "St Columba's Primary School in the County Londonderry village of Newbuildings is earmarked for closure in August 2027.",
+      "published_at": "2026-09-10T12:35:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "f01aad18b049559b1a0a8cb91f179012e2cc392f8b2525e374620b4cc9eed498",
       "title": "School closure plan 'premature', says board of governors",
       "url": "https://www.bbc.co.uk/news/articles/c0e3z4ly08zo?at_medium=RSS&at_campaign=rss",
       "description": "St Columba's Primary School in the County Londonderry village of Newbuildings is earmarked for closure in August 2027.",
@@ -1522,7 +1911,7 @@
       "id": "b903aafdb2cf68b1411b810b5585bbdc8bc7793b627a9d179e612cb5819f0a3a",
       "title": "Yemen’s Houthis seize port city Mocha, closing in on control of Bab el-Mandeb Strait",
       "url": "https://www.scmp.com/news/world/middle-east/article/3367067/yemens-houthis-seize-port-city-mocha-closing-control-bab-el-mandeb-strait?utm_source=rss_feed",
-      "description": "Iran-aligned Houthi militants seized control of Yemen’s port city of Mocha on Thursday, military sources said, posing a further threat to global energy supplies hours after US President Donald Trump said he expected the war to end after midterm elections. Four Yemeni government military sources said the Houthis had gained further leverage over the Bab el-Mandeb Strait, the southern outlet of the Red Sea and one of the world’s most important shipping routes, and were launching attacks on the...",
+      "description": "Yemen’s Iran-aligned Houthi militants have ⁠reached the Red Sea islands of Hanish after capturing the coastal city of Mocha, two Yemeni government sources said, in a dramatic strategic shift that could threaten the Bab el-Mandeb Strait, one of the world’s most important shipping routes. Fighting between the Houthis and Saudi-backed government forces has intensified in recent days, with the militant group shifting its focus to control over Yemen’s long coastline instead of just the north, putting...",
       "published_at": "2026-09-10T10:30:26+00:00",
       "source": "SCMP",
       "categories": [
@@ -2254,6 +2643,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "31df8e6ab6d11d8927b4ffce3a024fdb474010ab6f4635a1c6b68dd436da36c9",
+      "title": "Stormont emails reveal paramilitaries 'toxic' role in flags decisions",
+      "url": "https://www.bbc.co.uk/news/articles/c20l7g5dpgvo?at_medium=RSS&at_campaign=rss",
+      "description": "The flag stayed up for several months after contractors said support was needed from \"community representatives with the authority to order the removal\".",
+      "published_at": "2026-09-10T08:00:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -3090,6 +3490,17 @@
       ]
     },
     {
+      "id": "f6a3b261ef3ef1bbf26e7f79743afdc994a6505db621e82ee3a14a7ea9577b2c",
+      "title": "'Tenant left my property in a shocking state'",
+      "url": "https://www.bbc.co.uk/news/articles/czezy8nel86o?at_medium=RSS&at_campaign=rss",
+      "description": "Victoria Mountain says she was in tears when she first saw the state her home had been left in.",
+      "published_at": "2026-09-10T04:59:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "b2d5b8aaa8c9040650c67d2f1e7a90ef2fb7b25cb39b9c7f078d6482e815202b",
       "title": "Dychwelyd llyfr i Lyfrgell Llanrwst ar ôl dros ganrif yn 'sioc hyfryd'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o?at_medium=RSS&at_campaign=rss",
@@ -3208,7 +3619,7 @@
       "id": "9b780d8b8660de0b6438bcce20f0322ae56960a9e68bd8e54b674e505e84ce02",
       "title": "Funeral for second officer killed in A66 crash to be held",
       "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
-      "description": "PC Tom Clough's family say they are grateful for the public's support.",
+      "description": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
       "published_at": "2026-09-10T04:30:00+00:00",
       "source": "BBC",
       "categories": [
@@ -3519,6 +3930,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "0cf3c2481fd25cb43f61d930469de7320b496f973a0644be9bd7eb2ce0323cbb",
+      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
+      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
+      "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+      "published_at": "2026-09-10T02:05:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -4645,6 +5067,17 @@
       ]
     },
     {
+      "id": "3380a91f81de628c39af525b0959b22c8867576dfe60e53785fd629d56128fbe",
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+      "published_at": "2026-09-09T20:59:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "7764c2bf5dba8aca547cc830ff884fd7924c598a16b867bdd1a0e7190426cb53",
       "title": "Trump claims firefighters carried him to safety ‘right after’ 9/11, but his account is disputed",
       "url": "https://www.france24.com/en/trump-claims-firefighters-carried-him-to-safety-right-after-9-11-but-his-account-is-disputed-1",
@@ -5012,6 +5445,17 @@
       ]
     },
     {
+      "id": "e1c5b9f192c38d50c718c3f60c52b83f9692354dc8fb4b9ece5c1f8f4b465d97",
+      "title": "What Wales' international school test results tell us",
+      "url": "https://www.bbc.co.uk/news/articles/c86x0dd3ngjo?at_medium=RSS&at_campaign=rss",
+      "description": "Wales' international test results were deemed catastrophic by some, but others are not so sure.",
+      "published_at": "2026-09-09T19:19:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "0bea220662c92df9e7e9d87d45d118674370496e30717750cb083f51b482e652",
       "title": "'Alarm bells ringing': US summer heat shatters record",
       "url": "https://www.channelnewsasia.com/world/alarm-bells-ringing-us-summer-heat-shatters-record-6373856",
@@ -5239,6 +5683,7 @@
       "published_at": "2026-09-09T18:21:16+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Northern Ireland",
         "UK"
       ]
@@ -41300,17 +41745,6 @@
       "source": "BBC",
       "categories": [
         "Technology"
-      ]
-    },
-    {
-      "id": "bee36026da035d1326658b118414c67a2d06ce19cb6e5d2a119bac4025064948",
-      "title": "Burnham faces unpopularity test over prisons dilemma",
-      "url": "https://www.bbc.co.uk/news/articles/cn5n3pdlykdo?at_medium=RSS&at_campaign=rss",
-      "description": "The early release conundrum has given the new PM his first taste of tricky political decision-making.",
-      "published_at": "2026-08-11T15:50:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
