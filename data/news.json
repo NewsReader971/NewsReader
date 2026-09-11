@@ -1,6 +1,119 @@
 {
-  "last_updated": "2026-09-11T18:02:56.909021+00:00",
+  "last_updated": "2026-09-11T19:02:14.477801+00:00",
   "articles": [
+    {
+      "id": "fb8a526ff1d6533931c92df53f4c1eaed485227040c82290453a0ffd356fbe6b",
+      "title": "Engine fault behind Royal Navy helicopter death",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvxvz42vyo?at_medium=RSS&at_campaign=rss",
+      "description": "An investigation examined the causes of Lt Rhodri Leyshon's death during a helicopter exercise.",
+      "published_at": "2026-09-11T18:50:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "fb0e0545302ee04fd6b8a2587591ef2e92d4d861cf8a7f84392954e90af53cb5",
+      "title": "Can we slowdown AI, and 9/11, who has the right to remember?",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260911-can-we-slowdown-ai-and-9-11-who-has-the-right-to-remember",
+      "description": "In a week that marks 25 years since 9/11, Americans paused to pay tribute. Six bells tolled to signify six fatal moments in New York, at the Pentagon and in Pennsylvania, with a seventh bell rung this year to commemorate those who later died from 9/11-related illnesses.",
+      "published_at": "2026-09-11T18:43:53+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas"
+      ]
+    },
+    {
+      "id": "121a063b3e3255410ab4c33ae5bafa4c6b09dd1e445b7067814ad9578011c538",
+      "title": "Spotlight",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260911-spotlight",
+      "description": "The New York Times reporter Carol Rosenberg is widely regarded as one of the foremost American journalists, if not the foremost, on the U.S. detention camp at Guantanamo Bay in Cuba, where several alleged suspects in the 9/11 attacks are still being held, including the alleged “architect” of the attacks, alongside three other suspected plotters.",
+      "published_at": "2026-09-11T18:42:54+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas"
+      ]
+    },
+    {
+      "id": "b018e47828c1a5f148899288912a9e8c12c539119325947e0fc85845d5b6358a",
+      "title": "'That's why we fight': Trump links 9/11 to Iran conflict",
+      "url": "https://www.channelnewsasia.com/world/trump-sept11-iran-6379381",
+      "description": "President Trump linked the fight against Al-Qaeda launched by his Republican predecessor George W. Bush to the US-Israeli war on Iran which is now in its seventh month.",
+      "published_at": "2026-09-11T18:42:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b69daa89daddfb9c34bc5e7a3a13d57d9a0f2c9c0c1de69f5f6f0df6345c8b98",
+      "title": "Siniakova and Townsend complete team career Grand Slam at US Open",
+      "url": "https://www.channelnewsasia.com/sport/siniakova-and-townsend-complete-team-career-grand-slam-us-open-6379391",
+      "description": "",
+      "published_at": "2026-09-11T18:42:27+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0f28e3ee9046abcfae8b2701c4ebfdb1cac138d0c3183a088abc6599fb9fde80",
+      "title": "'Bring it on' - Cardiff businesses react to Fury vs Joshua rumours",
+      "url": "https://www.bbc.co.uk/news/articles/cm27zjp2g98o?at_medium=RSS&at_campaign=rss",
+      "description": "As rumours of the fight grow, so too does the excitement among the city’s bars and restaurants.",
+      "published_at": "2026-09-11T18:26:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "2ce913335be8f7f2bb9e489c364a69ebcaf8a9236d778e6290096cf0a31c4cf0",
+      "title": "England need 130 after thrilling Razaullah hitting",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq5xjpqd5lno?at_medium=RSS&at_campaign=rss",
+      "description": "England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston.",
+      "published_at": "2026-09-11T18:23:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "00fdd790899a7d60b9c238785f0205988c9b3aa41937ea3618d1d5a54b46a3c0",
+      "title": "Child neglect arrests after baby dies",
+      "url": "https://www.bbc.co.uk/news/articles/c783n218dx2o?at_medium=RSS&at_campaign=rss",
+      "description": "Police are investigating after being called to reports of a one-year-old girl in cardiac arrest.",
+      "published_at": "2026-09-11T18:20:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d7850845933cd07d3469ff62e7cc03ccae8bcb93b759fb7033dc87a8a1c965b4",
+      "title": "US declares end of largest recorded cyclosporiasis outbreak",
+      "url": "https://www.channelnewsasia.com/world/us-cyclosporiasis-outbreak-end-6379081",
+      "description": "The outbreak, which federal investigators linked to lettuce from central Mexico prompted one of the largest food recalls in recent years.",
+      "published_at": "2026-09-11T18:18:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "a094943f9ba58cee0d7609aa6de150f4a115901bd7e9c80330328fbcc1fea61c",
+      "title": "Electric motorbike rider jailed after crashing into police officer while fleeing arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cn746pjvpkmo?at_medium=RSS&at_campaign=rss",
+      "description": "Jake Fernandez is sentenced to 21 months in jail following a crash with a police officer.",
+      "published_at": "2026-09-11T18:02:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
     {
       "id": "ccb53c578337aa37772478589c50d6e918fa0cde2cc77f93a0752499e3e1cb50",
       "title": "Lollipops containing €500k of cocaine seized at airport",
@@ -31,7 +144,8 @@
       "published_at": "2026-09-11T17:45:14+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "UK"
       ]
     },
     {
@@ -43,6 +157,17 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "4b051766ecc5dd312bdc0489ff66141a11e37c68f94ccf52e6dd51011cc07b30",
+      "title": "Girls given legal right to wear trousers in schools in Northern Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/czxzw9117k5o?at_medium=RSS&at_campaign=rss",
+      "description": "Guidelines stipulate that school uniform policies for the 2027/28 school year onwards must include the option for girls to wear trousers.",
+      "published_at": "2026-09-11T17:20:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -147,6 +272,17 @@
       ]
     },
     {
+      "id": "1eedaaf4c145bdfaa4c83656b958684740185836f6efb02824098b5fd18c43ab",
+      "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+      "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+      "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+      "published_at": "2026-09-11T16:49:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "078936a3355c1e28698caa827e73c783a465e35117a6622525c16bc4a76be0bd",
       "title": "Bids encouraged to keep famed artwork in the UK",
       "url": "https://www.bbc.co.uk/news/articles/cr50q0l9r1do?at_medium=RSS&at_campaign=rss",
@@ -167,6 +303,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "faf9bc086d9c80848e4731c50ce0284a201744e7799e68c67f642c63e57f4c84",
+      "title": "Police to crack down on face coverings at protests",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
+      "description": "Hampshire and Isle of Wight Constabulary says it will use powers under the Crime and Policing Act.",
+      "published_at": "2026-09-11T16:31:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -621,6 +768,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "59191952abfe4f459d4b94db9b9fecb6023974319549e23cdb63659be5c44e0b",
+      "title": "Man admits murder of woman missing for 28 years",
+      "url": "https://www.bbc.co.uk/news/articles/cddvmn9z6emo?at_medium=RSS&at_campaign=rss",
+      "description": "Trevor Dunkley told police he disposed of Patricia Lashley's body months after killing her in 1998, a court hears.",
+      "published_at": "2026-09-11T15:04:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1555,6 +1713,17 @@
     },
     {
       "id": "083f7925a6e42222634f8c2dd3c413c2c034701698e1a8c6d1c6570025fe91b3",
+      "title": "Strathclyde University professor sacked over sexual harassment allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cr50qpz74v5o?at_medium=RSS&at_campaign=rss",
+      "description": "The university said Dr Ibrahim Khadra had been removed from his post after an investigation.",
+      "published_at": "2026-09-11T12:41:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "32ebbeb9d3b53ed3bc8ba0c5a2662e7759f066ec06e869b31357de28d11e63bf",
       "title": "Strathclyde University professor sacked over sexual harassment allegations",
       "url": "https://www.bbc.co.uk/news/articles/cr50qpz74v5o?at_medium=RSS&at_campaign=rss",
       "description": "The university said Dr Ibrahim Khadra had been removed from his post after an investigation.",
@@ -4127,7 +4296,8 @@
       "source": "BBC",
       "categories": [
         "Science & Environment",
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
@@ -8854,7 +9024,8 @@
       "published_at": "2026-09-10T11:56:07+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
