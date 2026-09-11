@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-09-11T22:02:34.007822+00:00",
+  "last_updated": "2026-09-11T23:02:04.161194+00:00",
   "articles": [
+    {
+      "id": "b22bc562b5e6b033eb75fcb3d5af098f4982e35c23a4c920e9dde8bdf4006f41",
+      "title": "Williams beats Welsh rival Davies to reach semis",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cp8dynly163o?at_medium=RSS&at_campaign=rss",
+      "description": "Shaun Murphy snatches a thrilling final-frame victory over Judd Trump to reach the semi-finals of the English Open.",
+      "published_at": "2026-09-11T22:55:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "3f1d2fae74938c0d5c8accb5ecf97001008cd1aed4bc6cdc0bf4752e2af4a0f4",
+      "title": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports",
+      "url": "https://www.channelnewsasia.com/business/openai-agents-attacked-software-service-rubygems-hugging-face-incident-wsj-reports-6379731",
+      "description": "",
+      "published_at": "2026-09-11T22:41:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4ca8f5b912e475d326f3813c97263ea72e8ab5b05c8becba682ad7ab19fe714d",
+      "title": "Wrexham must 'find way back' after West Ham rout",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+      "description": "Wrexham were outclassed by a West Ham side who were in rampant form at London Stadium.",
+      "published_at": "2026-09-11T22:40:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5b2beea7a54a02a3fad04c38e384832441e2e0f3b397cecac3ab50f0b12649b7",
+      "title": "Zverev downs Khachanov to reach US Open final, closes in second major",
+      "url": "https://www.channelnewsasia.com/sport/zverev-downs-khachanov-reach-us-open-final-closes-in-second-major-6379721",
+      "description": "",
+      "published_at": "2026-09-11T22:37:04+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "2deade90a957320c09ee299b91b6ea9fd7f7ff5a4c967debbb95893311e366cd",
+      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+      "url": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
+      "description": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions. But members also underscored the importance of the coming AI dialogue between Washington and Beijing. “We were told you guys are a really scary commission, and you do hawkish anti-China things, and they’re afraid if they meet with you, they might be put on the...",
+      "published_at": "2026-09-11T22:36:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "0fed331ebf1b6fc6f866480336bc6f541063490ae0334c43584e0fe0b7db158b",
+      "title": "I can still win Ballon d'Or despite barren season, says Mbappe",
+      "url": "https://www.channelnewsasia.com/sport/i-can-still-win-ballon-dor-despite-barren-season-says-mbappe-6379711",
+      "description": "",
+      "published_at": "2026-09-11T22:33:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ecebc343c1a26717eafa56dffdab8dadc8cf1514922e507b1699f865087cb401",
+      "title": "Yemen's Houthis take over strait vital to global shipping",
+      "url": "https://www.channelnewsasia.com/world/yemen-houthis-red-sea-shipping-iran-war-6379706",
+      "description": "The Houthis' seizure of Yemen's entire Red Sea coast and three strategic islands will likely deepen the Middle East war's impact on international commerce.",
+      "published_at": "2026-09-11T22:33:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b0dfa6ab37de9ddeff47292e5291812d223bb14da6bec5a0089f35c413aec90e",
+      "title": "Singapore pianist Wang Congyu left school at 16, had no stable home in Paris and became a Steinway Artist",
+      "url": "https://www.channelnewsasia.com/people/singapore-pianist-wang-congyu-steinway-artist-6366306",
+      "description": "Today, the Clementi-raised musician performs internationally, directs music festivals and helps young pianists gain the guidance and orchestral experience he never had.",
+      "published_at": "2026-09-11T22:23:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "c37ab37b7edf03ab83acf6d834232b264f48cb7c99102431a46cb45117eeac91",
+      "title": "Fire crews tackle blaze at former private school",
+      "url": "https://www.bbc.co.uk/news/articles/c99d30n8828o?at_medium=RSS&at_campaign=rss",
+      "description": "Six fire engines and specialist resources were sent to the former Fernhill School in Rutherglen.",
+      "published_at": "2026-09-11T22:04:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
     {
       "id": "70048b2ac81bcc9d3127c6578987507d7c9e1a969a125222c8caf0618296ae2c",
       "title": "AI fight shadows final preparations for Xi Jinping’s White House visit",
@@ -21,7 +126,8 @@
       "published_at": "2026-09-11T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "World"
       ]
     },
     {
@@ -1590,6 +1696,17 @@
     },
     {
       "id": "3637850c382e82ab536e743b5f4bfbdd2ddedbd36a9555438d5df79b1f778349",
+      "title": "Celtic given 'timely' police reminder before derby",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
+      "published_at": "2026-09-11T14:16:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f330d7c67f80fc3e941b31d15975fbf6c4331134099a60b24010404d9388ab12",
       "title": "Celtic given 'timely' police reminder before derby",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
       "description": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
