@@ -1,6 +1,79 @@
 {
-  "last_updated": "2026-09-12T11:02:28.095867+00:00",
+  "last_updated": "2026-09-12T12:02:48.711361+00:00",
   "articles": [
+    {
+      "id": "2c012b1e5aa0f9493415276cf0d12435aaddd3a8e88990d852edcb33c245d227",
+      "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+      "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+      "description": "Cryptocurrency investor Christopher Harborne says he has matched a donation from Ben Delo announced late on Friday.",
+      "published_at": "2026-09-12T12:00:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "013f206a80c1d3106d592d7280665eacb4bbb5e87a57439c71fd7f89ca4f854d",
+      "title": "US-China decoupling could benefit other countries, China trade war game suggests",
+      "url": "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests?utm_source=rss_feed",
+      "description": "Chinese researchers have modelled a war game scenario suggesting that a complete economic decoupling between the US and China could, unexpectedly, yield dividends for most other nations. Using a quantitative trade model – a data-based economic framework that estimates how changes in trade affect economies – two researchers based in southern China’s Guangdong province found that if the world’s two largest economies were to sever trade relations entirely, a number of other countries, including...",
+      "published_at": "2026-09-12T12:00:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "893334daaa1c71bbab13bf47d6fc0106ca171ff79376f2087bef096b8953572f",
+      "title": "French police probe if sabotage derailed train and injured 44",
+      "url": "https://www.scmp.com/news/world/europe/article/3367310/french-police-probe-if-sabotage-derailed-train-and-injured-44?utm_source=rss_feed",
+      "description": "Investigators suspect that a train derailment in northwest France which injured 44, one gravely, was the result of sabotage, a police source said on Saturday. A fragment of rail was found on the track, with the possibility of a malicious act being treated as the main line of inquiry as a result, the source said. Carrying 186 passengers, the train was running between the Normandy cities of Rouen and Caen when it derailed around 7.45pm local time on Friday close to Renault’s factory in the town of...",
+      "published_at": "2026-09-12T11:48:47+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "914d17698fcfa4dd6e2d28a8a8887fa83399de8c44d4a9b3c16dccd6aa7d3eef",
+      "title": "DR Congo's World Cup exploits encourage more players to join their cause",
+      "url": "https://www.channelnewsasia.com/sport/dr-congos-world-cup-exploits-encourage-more-players-join-their-cause-6380231",
+      "description": "",
+      "published_at": "2026-09-12T11:38:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "4c7a4ac7d2ebadad3d01a1da35f0b8d6c2a0a9d2814a6ce96bfa8513b7503f9e",
+      "title": "Hamilton crashes in final Spanish GP practice",
+      "url": "https://www.channelnewsasia.com/sport/hamilton-crashes-in-final-spanish-gp-practice-6380236",
+      "description": "",
+      "published_at": "2026-09-12T11:33:59+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "17bc05c01e7ae5d00acbd0576e10db8e3e07d910b7a6102b719e64a51db13341",
+      "title": "BRICS agrees to joint declaration in test of unity despite Mideast tensions",
+      "url": "https://www.channelnewsasia.com/asia/brics-india-china-russia-summit-test-unity-6380141",
+      "description": "",
+      "published_at": "2026-09-12T11:28:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "c940fc7877549b0f8193001d3376ba00b7641cba912f9fef1f536d2c9a88874c",
       "title": "A year after lawmakers veto equality bill, LGBTQ Hongkongers still hope for change",
@@ -11,6 +84,39 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "06256c697457f1c9bc172136aacc4b633939a24e4d5fac415b9f22b9c5c75398",
+      "title": "Man in court following anti-migrant protests",
+      "url": "https://www.bbc.co.uk/news/articles/clym4nng4e9o?at_medium=RSS&at_campaign=rss",
+      "description": "Del Leon Somerville, 42, is accused of throwing a bottle and kicking out at a police officer.",
+      "published_at": "2026-09-12T10:56:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b7d30021d811eb357f279e175c96c01e85bf573d01b6ad02cbb78937c392be99",
+      "title": "Man in court following anti-migrant protests",
+      "url": "https://www.bbc.co.uk/news/articles/clym4nng4e9o?at_medium=RSS&at_campaign=rss",
+      "description": "Del Leon Somerville, 42, is accused of throwing a bottle and kicking out at a police officer.",
+      "published_at": "2026-09-12T10:56:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "16ac656e27a7f29262c64a1a058ddeeebf3dc31bd98b8a857d28686368e64b65",
+      "title": "Man in court following anti-migrant protests",
+      "url": "https://www.bbc.co.uk/news/articles/clym4nng4e9o?at_medium=RSS&at_campaign=rss",
+      "description": "Del Leon Somerville, 42, is accused of throwing a bottle and kicking out at a police officer.",
+      "published_at": "2026-09-12T10:56:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -475,7 +581,7 @@
       "id": "c0776780d99ff761a2e9028b2e230f6f43c78e346fd0c2ebba0f2ad1c1a21ca7",
       "title": "No ‘red line’ for approving assemblies but security threats remain: police chief",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367291/no-red-line-approving-assemblies-security-threats-remain-police-chief?utm_source=rss_feed",
-      "description": "There is no “red line” set for approving public assemblies, Hong Kong’s police chief has said, while warning that national security risks persist despite the landmark conviction and imprisonment of organisers behind the city’s annual Tiananmen Square vigil for inciting subversion. The government on Saturday also strongly condemned Western countries, anti-China media, overseas organisations and politicians for launching “malicious attacks” over the trial of the disbanded Hong Kong Alliance in...",
+      "description": "There is no “red line” for approving public assemblies, Hong Kong’s police chief has said, while warning that national security risks persist despite the landmark conviction and imprisonment of organisers behind the city’s annual Tiananmen Square vigil for inciting subversion. The government on Saturday also strongly condemned Western countries, anti-China media, overseas organisations and politicians for launching “malicious attacks” over the trial of the disbanded Hong Kong Alliance in Support...",
       "published_at": "2026-09-12T07:55:26+00:00",
       "source": "SCMP",
       "categories": [
@@ -487,7 +593,7 @@
       "id": "710ad4d6a2b86a7f5be50fb0ba9ec95aeddf42b2c63c395b2a144edcd84e49f9",
       "title": "Trump lands in Ireland for golf tournament, PM talks",
       "url": "https://www.france24.com/en/live-news/20260912-trump-lands-in-ireland-for-golf-tournament-pm-talks",
-      "description": "US President Donald Trump landed in Ireland on Saturday for talks with Ireland's leaders and a major tournament at his oceanfront golf club in Doonbeg. The weekend visit is just the latest example of how the US leader blends his official duties with his personal interests.",
+      "description": "US President Donald Trump on Saturday said a unified Ireland would be “fantastic\" during a weekend visit to a major tournament at his Irish golf course. The two-day trip to Ireland is the latest example of how the US leader blends his official duties with his personal interests.",
       "published_at": "2026-09-12T07:51:20+00:00",
       "source": "France 24",
       "categories": [
@@ -1232,7 +1338,7 @@
       "id": "e96cf3905bc08eebd27cc7bd7dd0e023c5a90b875b0b96a932122d8dc20e96c3",
       "title": "Ireland deploys snipers and 4,000 police for Trump visit",
       "url": "https://www.scmp.com/news/world/europe/article/3367273/ireland-deploys-snipers-and-4000-police-trump-visit?utm_source=rss_feed",
-      "description": "US President Donald Trump lands in Ireland under tight security on Saturday for two days of diplomacy and golf, on a trip that again blurs the lines between his presidency and personal business interests. At least 4,000 police and other personnel, including snipers, have been mobilised for the visit, in what has been dubbed one of the biggest security operations ever mounted in Ireland. Trump spoke briefly to reporters on the tarmac ahead of his flight to Dublin saying “we’re having a lot of...",
+      "description": "US President Donald Trump said on Saturday he would “love to see” a united Ireland, wading into a politically sensitive subject as he embarked on a two-day Irish visit that blurs the lines between his presidency and personal business interests. After meeting Ireland’s Prime Minister Micheal Martin in Dublin, Trump said reunification of the Republic of Ireland and Northern Ireland – split for over a century – would be “a fantastic thing”. “The way I look at it, it’s going to happen eventually. It...",
       "published_at": "2026-09-12T02:47:04+00:00",
       "source": "SCMP",
       "categories": [
