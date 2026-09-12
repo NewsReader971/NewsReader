@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-09-12T02:02:50.427307+00:00",
+  "last_updated": "2026-09-12T03:02:27.307025+00:00",
   "articles": [
+    {
+      "id": "4831715ca34ebf6494c6ca92fe8896f8cbceffd6aa8d94e0fc6556c96fac787e",
+      "title": "What is AGI? How China’s AI firms are catching up as OpenAI Astra sparks debate",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
+      "description": "Nvidia CEO Jensen Huang’s declaration that artificial general intelligence (AGI) has arrived following the release of OpenAI’s latest model, Astra, has ignited debate over whether AI’s holy grail is now reality. As China races to close the gap with the US, leading Chinese AI companies are declaring their ambitions to pursue AGI, even as Beijing appears to maintain a cautious stance towards the concept. Here is a primer on what AGI means, where top Chinese AI developers stand, and how Chinese...",
+      "published_at": "2026-09-12T03:00:09+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "e96cf3905bc08eebd27cc7bd7dd0e023c5a90b875b0b96a932122d8dc20e96c3",
+      "title": "Ireland deploys snipers and 4,000 police for Trump visit",
+      "url": "https://www.scmp.com/news/world/europe/article/3367273/ireland-deploys-snipers-and-4000-police-trump-visit?utm_source=rss_feed",
+      "description": "US President Donald Trump lands in Ireland under tight security on Saturday for two days of diplomacy and golf, on a trip that again blurs the lines between his presidency and personal business interests. At least 4,000 police and other personnel, including snipers, have been mobilised for the visit, in what has been dubbed one of the biggest security operations ever mounted in Ireland. Trump spoke briefly to reporters on the tarmac ahead of his flight to Dublin saying “we’re having a lot of...",
+      "published_at": "2026-09-12T02:47:04+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "ebc070cdcc4a1e06365ed02af2534f6f80bc7ca7ca5d04fec4f773ccf81e5047",
+      "title": "Xi Jinping heads to India for BRICS summit overshadowed by war",
+      "url": "https://www.channelnewsasia.com/asia/brics-china-xi-jinping-india-modi-war-6379866",
+      "description": "Conflicts in the Middle East and Ukraine, along with global trade turbulence and energy security, are expected to dominate the two-day meeting of the 11-nation bloc.",
+      "published_at": "2026-09-12T02:20:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "bd905a266b78097d13a5870498d0a2da85a2dcdbd31caad748ebcbd7283c4b4c",
       "title": "US declares end to lettuce parasite outbreak that killed 2",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3367272/us-declares-end-lettuce-parasite-outbreak-killed-2?utm_source=rss_feed",
-      "description": "US health authorities on Friday declared the ⁠nation’s largest recorded cyclosporiasis outbreak ⁠over, after contaminated iceberg lettuce sickened thousands, though ⁠the FDA said it was still probing how the parasite entered the food supply. The outbreak, which federal investigators linked to lettuce from central Mexico sourced by Taylor Farms, prompted one of the largest food recalls in recent years and renewed scrutiny of food-safety controls for imported produce. It also rattled consumer...",
+      "description": "US health authorities on Friday declared the ⁠nation’s largest recorded cyclosporiasis outbreak ⁠over, after contaminated iceberg lettuce sickened thousands, though ⁠the Food and Drug Administration (FDA) said it was still investigating how the parasite entered the food supply. The outbreak, which federal investigators linked to lettuce from central Mexico sourced by Taylor Farms, prompted one of the largest food recalls in recent years and renewed scrutiny of food-safety controls for imported...",
       "published_at": "2026-09-12T02:02:16+00:00",
       "source": "SCMP",
       "categories": [
@@ -290,6 +325,18 @@
       ]
     },
     {
+      "id": "3d1ca248047f343f2fbe8d828f89873b702e20d13ea0122811d2b87259514ecd",
+      "title": "Nvidia in talks to invest in Anthropic’s mega IPO: Sources",
+      "url": "https://www.channelnewsasia.com/business/nvidia-invest-anthropic-ipo-ai-6379756",
+      "description": "Nvidia is considering investing up to US$10 billion in Anthropic's IPO, one source said.",
+      "published_at": "2026-09-11T23:03:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "2b1877c6f9428999d2cfe0ae951fbfc2402649a6428615862d22e27e44c23e80",
       "title": "President Trump to arrive in Ireland for two-day visit",
       "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
@@ -534,7 +581,7 @@
       "id": "66c1f03f2ce93df99257604e28076e0c2ac2730bf5c3d97fb73dbf2f85a020ad",
       "title": "North Korea fires several ballistic missiles toward sea",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-ballistic-missiles-east-sea-6379606",
-      "description": "",
+      "description": "The short-range ballistic missiles were fired towards the sea off North Korea's east coast and flew about 250km, said South Korea.",
       "published_at": "2026-09-11T21:46:00+00:00",
       "source": "CNA",
       "categories": [
