@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-09-13T19:02:17.478069+00:00",
+  "last_updated": "2026-09-13T20:02:50.148159+00:00",
   "articles": [
+    {
+      "id": "d85e8ba92af36ecaa1ffdd076e2bcd39faa3857471e900e89bbcf33cc92d14a3",
+      "title": "Jefferson-Wooden, Bednarek pocket $300,000 after sprint doubles in Budapest",
+      "url": "https://www.channelnewsasia.com/sport/jefferson-wooden-bednarek-pocket-300000-after-sprint-doubles-in-budapest-6381736",
+      "description": "",
+      "published_at": "2026-09-13T19:41:45+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "1a860a20614629d531fb8b3f6a993a85ba801afca493fb12af1ed06e1def7310",
+      "title": "Trump downplays need to check AI development, says he is unwilling to cede edge to China",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china?utm_source=rss_feed",
+      "description": "US President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America’s edge over China in a global competition and that winning would help address the risks from the advancing technology. While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to “negative...",
+      "published_at": "2026-09-13T19:27:47+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "40eff6ad5e863af70f1411cad829a05a37950eb651735200a9c328d4d9bffdec",
+      "title": "Sweden Election Aftermath: A hard night for the hard right?",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-sweden-election-aftermath-a-hard-night-for-the-hard-right",
+      "description": "Immediate France 24 analysis as polls close, and exit polls indicate how the country has voted in the 2026 election. France 24 Gavin Lee has been speaking to Scandinavia Correspondent Trine Villeman",
+      "published_at": "2026-09-13T19:04:09+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
     {
       "id": "0b8891315ed380e177e69bad4cfb83ca4f6df8512d371a09051bea60161cde09",
       "title": "Six months without bin collections prompts council tax refund call",
@@ -44,7 +81,8 @@
       "published_at": "2026-09-13T18:46:14+00:00",
       "source": "France 24",
       "categories": [
-        "Middle East"
+        "Middle East",
+        "World"
       ]
     },
     {
@@ -69,6 +107,40 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "6d8b16b047566396f2b6fbf02a8340359b6248116c1124e82e02bbd2a5f66fd5",
+      "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+      "url": "https://www.channelnewsasia.com/sport/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles-6381701",
+      "description": "",
+      "published_at": "2026-09-13T18:42:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "52a0c45f6da9a7787e5fea28444cc03add5e57b4994a900b2dcd67c12ea4ec08",
+      "title": "Mass trespass staged in PM's constituency",
+      "url": "https://www.bbc.co.uk/news/articles/crerxg9qln0o?at_medium=RSS&at_campaign=rss",
+      "description": "Protestors walked on to a private estate in Wigan as part of their calls for the right to roam.",
+      "published_at": "2026-09-13T18:36:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "cc467310f1e06f96652363d3447adca222c5e90459ecc1b3f4c91845be98f40d",
+      "title": "'Superb' Kerr storms to 1500m win",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/c7803dl1eq0o?at_medium=RSS&at_campaign=rss",
+      "description": "Great Britain's Josh Kerr powers ahead on the final corner to win the men's 1500m, becoming the event's Ultimate Champion in Budapest.",
+      "published_at": "2026-09-13T18:36:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -132,6 +204,28 @@
       ]
     },
     {
+      "id": "c69be0c730bbfc1fd463c273421f32aec2c8b769c519e43f9c7b78fd2e410bab",
+      "title": "Onion eating contest revived at medieval festival",
+      "url": "https://www.bbc.co.uk/news/articles/cj0618q35yzo?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands were at the Forest of Dean to spectate and compete in the eye-watering competition.",
+      "published_at": "2026-09-13T18:16:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0a0a44bde9af2eb17c27d642e5e0c363aa7ac5f14a11f0a65212bee7d07f50dd",
+      "title": "Distraught residents 'helpless' over mill fire",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mv8zmyp0o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents have been evacuated after a huge fire breaks out at Dalton Mill in Keighley.",
+      "published_at": "2026-09-13T18:13:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "1fc1dbd7b1c5e3ebf8ef17c031f4ce2c4b7732d51587abb33baf442308261774",
       "title": "Kane winner hands Bayern laborious 2-1 win at promoted  Elversberg",
       "url": "https://www.channelnewsasia.com/sport/kane-winner-hands-bayern-laborious-2-1-win-promoted-elversberg-6381666",
@@ -147,11 +241,12 @@
       "id": "2cd5ea7d381b55e57b849eeaf62d3826e7b3e4ffa4db0762f4f012aaec93c76a",
       "title": "Poland, Ukraine slam Russian strikes near border as 'escalation'",
       "url": "https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation",
-      "description": "",
+      "description": "Ukraine and Poland on Sunday condemned Russian strikes close to the Polish border as an \"escalation\" in the war, after drones struck a Warsaw-bound train. Ukraine's rail operator said former British PM Boris Johnson and ex-US CIA director David Petraeus were at a border train station nearby around the time the train was hit.",
       "published_at": "2026-09-13T17:59:11+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
       ]
     },
     {
@@ -170,6 +265,18 @@
       "id": "b7687f68427a1c52372bee857e1f93fafb53f9d305f5f7f2c40ae811af0c7d79",
       "title": "Mas wins Vuelta a Espana for maiden Grand Tour victory",
       "url": "https://www.channelnewsasia.com/sport/mas-wins-vuelta-espana-maiden-grand-tour-victory-6381641",
+      "description": "",
+      "published_at": "2026-09-13T17:51:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "44e27cef1d49f5fe54410b8e6ae622393a5e0b85c9a025eaeaac495064e9a048",
+      "title": "Mas ends long wait for Grand Tour glory with home Vuelta win",
+      "url": "https://www.channelnewsasia.com/sport/mas-ends-long-wait-grand-tour-glory-home-vuelta-win-6381641",
       "description": "",
       "published_at": "2026-09-13T17:51:44+00:00",
       "source": "CNA",
@@ -301,7 +408,8 @@
       "published_at": "2026-09-13T17:10:59+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -312,7 +420,8 @@
       "published_at": "2026-09-13T17:09:53+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -334,7 +443,8 @@
       "published_at": "2026-09-13T16:51:35+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -418,7 +528,8 @@
       "published_at": "2026-09-13T16:18:01+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -497,7 +608,8 @@
       "published_at": "2026-09-13T15:42:38+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -678,6 +790,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cr50ee415g6o?at_medium=RSS&at_campaign=rss",
       "description": "Police were called to Harestanes Road at about 11:50 on Saturday where a 35-year-old man was pronounced dead.",
       "published_at": "2026-09-13T14:55:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "e3db7b7b3db7f6623e4f05fd37c6c647af7c528675b06a9aec651c856a2b5d6a",
+      "title": "Andy Burnham among Great North Run finishers",
+      "url": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+      "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+      "published_at": "2026-09-13T14:54:40+00:00",
       "source": "BBC",
       "categories": [
         "UK"
@@ -1375,6 +1498,17 @@
       ]
     },
     {
+      "id": "71d0e2f622dc4e814919358b19322b218fe089ac171aabfaaad7fa92f1731cc5",
+      "title": "Baby death suspects released on bail",
+      "url": "https://www.bbc.co.uk/news/articles/c89j1zvzj2zo?at_medium=RSS&at_campaign=rss",
+      "description": "The woman, 19, and man aged 21, were detained on Friday after the girl's death in Atherstone.",
+      "published_at": "2026-09-13T10:00:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "995755fdcb5d1fee7baecef8f0209cea21ce444328731de799c31e736789fd2a",
       "title": "China Porsche owner covers car with 90 missing-child flyers, successfully reuniting a family",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367348/china-porsche-owner-covers-car-90-missing-child-flyers-successfully-reuniting-family?utm_source=rss_feed",
@@ -1452,7 +1586,8 @@
       "published_at": "2026-09-13T09:31:32+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -2331,7 +2466,7 @@
       "id": "59e069e8621796dad86ffe305b6e4842a5970617597b9f35d5be954e536bedbc",
       "title": "Donald Trump continues two-day visit of Ireland",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "description": "The US president will spend the day watching the Irish Open after saying he would love to see a united Ireland.",
+      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "published_at": "2026-09-13T05:16:35+00:00",
       "source": "BBC",
       "categories": [
@@ -2342,7 +2477,7 @@
       "id": "8668fb3edf00032b63892ebf6437aeb510764d7ad5d624db167aeeeb6ef6928b",
       "title": "Donald Trump continues two-day visit of Ireland",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "description": "The US president will spend the day watching the Irish Open after saying he would love to see a united Ireland.",
+      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "published_at": "2026-09-13T05:16:35+00:00",
       "source": "BBC",
       "categories": [
