@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-13T22:02:42.840278+00:00",
+  "last_updated": "2026-09-13T23:02:22.240579+00:00",
   "articles": [
+    {
+      "id": "b3c18ba395819298b65dc0473c377340f5b8948762df50c6ac5f57df3c500f35",
+      "title": "Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO",
+      "url": "https://www.scmp.com/business/article/3367351/hong-kong-aims-scale-its-tech-ecosystem-and-nurture-more-unicorns-hkstp-ceo?utm_source=rss_feed",
+      "description": "Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city’s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetite for the local tech scene compared with a decade ago – a trend that Terry Wong Ping-sau, CEO of the Hong Kong Science and Technology Parks Corporation (HKSTP), said was a positive sign for the city’s...",
+      "published_at": "2026-09-13T23:00:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "539f025ec7048f40728fa3131dcb592970d96b74896c725e0d96e37e107aab5e",
+      "title": "North Korea says it conducted 'firepower attack drill'",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-says-it-conducted-firepower-attack-drill-6381906",
+      "description": "",
+      "published_at": "2026-09-13T22:52:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0a94d4ed9a48c07cacd617c7ffba439c1f4218736c46127c7ef75b41f87a2c7c",
+      "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+      "url": "https://www.channelnewsasia.com/world/trump-us-lowest-interest-rate-federal-reserve-meeting-6381521",
+      "description": "",
+      "published_at": "2026-09-13T22:41:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f62935d8521e22a70a6e0b487ecf7d2099da6131a00b7cefdd94e8c1236727c5",
+      "title": "Zverev beats Shelton to win US Open 2026 and second Grand Slam title",
+      "url": "https://www.france24.com/en/sport/20260913-alexander-zverev-ben-shelton-us-open-final-tennis",
+      "description": "Alexander Zverev beat American Ben Shelton 6-3, 7-6 (7/2), 5-7, 6-2 on Sunday to win the US Open and claim his second Grand Slam title. The German, who lost the 2020 final, denied Shelton the chance to become the first American man to win a major since 2003.",
+      "published_at": "2026-09-13T22:39:33+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "3393f68c647035ef5f67f54e45d19762eeff8374d85c02a3f0fe87bdf1ed2eff",
+      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-jump-more-3-after-new-strikes-saudi-strait-hormuz-6381966",
+      "description": "",
+      "published_at": "2026-09-13T22:22:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "25f0a1c37a3773d8411adf0c393c4228e749b3b896e40b4f216a5184e21786f6",
+      "title": "Williams beaten by Carter in English Open final",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cly50jq45yeo?at_medium=RSS&at_campaign=rss",
+      "description": "England's Ali Carter wins the English Open in style with a 9-6 victory over Mark Williams in front of his home support in Brentwood.",
+      "published_at": "2026-09-13T22:07:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "8895482152def4c7a9f34e2c192acacb0295084ace12751202befc34565cf545",
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "description": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "published_at": "2026-09-13T22:07:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "de0f99ece793e68277311b8cc168385d1f16fb0cbe1823cb1e06d11ec7286b60",
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "description": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "published_at": "2026-09-13T22:07:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
     {
       "id": "4ec8ef90e1adf25275a457eb241b7214e6c06d2fa433498e160cbda1b76701f8",
       "title": "Veteran investor Fang Fenglei on why the China ‘investibility’ debate is no debate at all",
@@ -20,7 +112,8 @@
       "published_at": "2026-09-13T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -31,7 +124,8 @@
       "published_at": "2026-09-13T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -54,6 +148,19 @@
       "source": "CNA",
       "categories": [
         "Latest News"
+      ]
+    },
+    {
+      "id": "4cd6635dc842e201097df801c009353a7209b46dceede2508b97b044eba2706a",
+      "title": "Zverev holds off Shelton to win US Open title",
+      "url": "https://www.channelnewsasia.com/sport/zverev-holds-shelton-win-us-open-title-6381936",
+      "description": "",
+      "published_at": "2026-09-13T21:55:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports",
+        "World"
       ]
     },
     {
@@ -89,6 +196,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "5916151249891a8285f5c4f9144f059585ed6568107731062c2c7c676fa81fff",
+      "title": "Patrols to start in Essex locations visited by asylum seekers",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xyjdw1wmo?at_medium=RSS&at_campaign=rss",
+      "description": "A Reform UK-led council says it is part of a three-month trial to \"deter anti-social behaviour\".",
+      "published_at": "2026-09-13T21:32:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -157,7 +275,7 @@
       "id": "e4a086d13f62989d2e5a7a6d325f75d67d93f707986ece8d8815040b0aeb54d1",
       "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal",
       "url": "https://www.channelnewsasia.com/world/trump-says-us-could-stay-in-iran-and-keep-oil-venezuela-deal-6381856",
-      "description": "",
+      "description": "Trump reiterated that he expected the Iran war to end this year, possibly just after the US midterm elections in November.",
       "published_at": "2026-09-13T21:21:00+00:00",
       "source": "CNA",
       "categories": [
@@ -230,6 +348,7 @@
       "published_at": "2026-09-13T21:01:16+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "Politics",
         "UK",
         "Wales"
@@ -244,6 +363,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "faa855cb52986ff7e042d52e87ed082d822527925f2cedaa589e6530053dec41",
+      "title": "Man set for release from prison after serving 21 years for phone robbery",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx8zenrz1o?at_medium=RSS&at_campaign=rss",
+      "description": "Leroy Douglas has spent almost as long in prison as one of Wales' most notorious murderers.",
+      "published_at": "2026-09-13T20:56:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -372,6 +502,7 @@
       "published_at": "2026-09-13T18:59:57+00:00",
       "source": "BBC",
       "categories": [
+        "UK",
         "Wales"
       ]
     },
@@ -657,6 +788,17 @@
       ]
     },
     {
+      "id": "f8753924add76587c602f7f86635511021d43b305058cf14e7008970844f7c5f",
+      "title": "Oman says Hormuz talks with Iran, Gulf states postponed",
+      "url": "https://www.channelnewsasia.com/world/oman-says-hormuz-talks-iran-gulf-states-postponed-6381626",
+      "description": "",
+      "published_at": "2026-09-13T17:49:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "f92997e8aaf592bf56521038a56798696e15ed1f2e77c5204ed6ac3f321d5c43",
       "title": "Haaland strike gives Man City 1-0 win over Man United after Foden sent off",
       "url": "https://www.channelnewsasia.com/sport/haaland-strike-gives-man-city-1-0-win-over-man-united-after-foden-sent-6381611",
@@ -696,7 +838,7 @@
       "id": "c9a56a260367f7bdcd3ac2035e632db349f732afe0670b9821be6b396d296344",
       "title": "Trump chastises Zelenskyy over Russian refinery strikes during Ireland visit",
       "url": "https://www.channelnewsasia.com/world/trump-chastises-zelenskyy-over-russian-refinery-strikes-during-ireland-visit-6381601",
-      "description": "",
+      "description": "\"Let him go after targets, but not diesel fuel, because he's causing a shortage,\" Trump said.",
       "published_at": "2026-09-13T17:35:00+00:00",
       "source": "CNA",
       "categories": [
@@ -2889,6 +3031,17 @@
       ]
     },
     {
+      "id": "a7d6d93fd530e4d502fb2312cd6eba4d6cb136b063c588bf4d3cec9ef181d1eb",
+      "title": "How is Belfast's new pro cricket franchise creating hype with no home matches?",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvr0q04zno?at_medium=RSS&at_campaign=rss",
+      "description": "The new Belfast Wolves will not play any matches in their home city in the first season of the European T20 league.",
+      "published_at": "2026-09-13T05:19:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "59e069e8621796dad86ffe305b6e4842a5970617597b9f35d5be954e536bedbc",
       "title": "Donald Trump continues two-day visit of Ireland",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
@@ -3948,6 +4101,7 @@
       "published_at": "2026-09-12T21:25:28+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "World"
       ]
     },
@@ -7037,6 +7191,17 @@
       ]
     },
     {
+      "id": "96d16c366030f3321e3a7961daf7bd48f9758257fb12ad8b8289450961a31cbe",
+      "title": "Could you run 90k? Ordinary people attempt an extraordinary challenge",
+      "url": "https://www.bbc.co.uk/news/articles/c74k9y99kzjo?at_medium=RSS&at_campaign=rss",
+      "description": "Fell runners are preparing to take on one of Northern Ireland's ultimate mountain running challenges in the Mournes.",
+      "published_at": "2026-09-12T05:10:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "f36f4bd551126496cf847221f7fdabfde99f2b67b493e4184e62eecde093ed3c",
       "title": "Foie gras, puppies, water parks: North Korea gets a glow-up",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3367279/foie-gras-puppies-water-parks-north-korea-gets-glow?utm_source=rss_feed",
@@ -7724,6 +7889,7 @@
       "published_at": "2026-09-11T23:01:52+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "UK"
       ]
     },
@@ -8700,6 +8866,17 @@
       ]
     },
     {
+      "id": "0ab26d72bbc4724bf501c0b4d2e1d37e2dc5bccea4c7e7f1e49af9352d407db1",
+      "title": "'I'm so happy girls can wear trousers to school'",
+      "url": "https://www.bbc.co.uk/news/articles/czxzw9117k5o?at_medium=RSS&at_campaign=rss",
+      "description": "Guidelines stipulate that school uniform policies for the 2027/28 school year onwards must include the option for girls to wear trousers.",
+      "published_at": "2026-09-11T17:20:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "ddf497f9cb904a6dbf0d04d93464fad8d553efab4fc49aba4e3794532476b971",
       "title": "Rugby facing uphill battle for American attention",
       "url": "https://www.channelnewsasia.com/sport/rugby-facing-uphill-battle-american-attention-6379321",
@@ -9243,6 +9420,17 @@
     },
     {
       "id": "227cc401235f711bcc26e76e77273e412c2cd64178632867c25f90777a9bdc81",
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+      "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "published_at": "2026-09-11T15:37:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "677635a4e8b65e2b0f8d5100a39abc10a54b11f0b2c737955e055dd8bd0e7890",
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
       "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
       "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
@@ -21313,6 +21501,17 @@
     },
     {
       "id": "4e6e5d1bc81438dc575d87a622f2b8d73816e8848bb7918ddaa7ee4ab1c59eb6",
+      "title": "The View",
+      "url": "https://www.bbc.co.uk/iplayer/episodes/b01mzml5?at_medium=RSS&at_campaign=rss",
+      "description": "Mark Carruthers provides comment and expert analysis on the week's political news",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "ae809979a89ff931a61b3ac62f147450946602da7a9cb464103aba3017f0e969",
       "title": "The View",
       "url": "https://www.bbc.co.uk/iplayer/episodes/b01mzml5?at_medium=RSS&at_campaign=rss",
       "description": "Mark Carruthers provides comment and expert analysis on the week's political news",
