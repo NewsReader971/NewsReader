@@ -1,6 +1,142 @@
 {
-  "last_updated": "2026-09-13T05:02:24.730306+00:00",
+  "last_updated": "2026-09-13T06:03:25.847036+00:00",
   "articles": [
+    {
+      "id": "7499d79798e39ff67f686bab2f191426299c931283c1498c18a673edfeeb82b2",
+      "title": "Oil prices create 'huge worry' as winter looms",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
+      "description": "The warning comes after the US-Iran conflict drives up heating oil and fuel costs.",
+      "published_at": "2026-09-13T06:01:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "01fa5f3ae9568f893e271f44cb60c7cd92efea287703a5f0848daa0e9edf8fee",
+      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive?utm_source=rss_feed",
+      "description": "Artificial intelligence agents are increasingly taking the wheel in designing China’s next-generation semiconductors, as Beijing and domestic technology firms accelerate efforts to integrate AI into chip design software to bolster national self-sufficiency. Empyrean Technology, China’s top maker of electronic design automation (EDA) tools, has been accelerating the chip design process by using AI-optimised algorithms and agentic tools, according to company chairman Liu Weiping. By applying an AI...",
+      "published_at": "2026-09-13T06:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "e7dc5eb87e8275dd964106aa4237d90ec74adbd7ebd0e2bb32e47aa0c808b798",
+      "title": "Sainz to start home Spanish GP 20th after three-place grid penalty",
+      "url": "https://www.channelnewsasia.com/sport/sainz-start-home-spanish-gp-20th-after-three-place-grid-penalty-6381116",
+      "description": "",
+      "published_at": "2026-09-13T05:27:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0c94d58223911fcb9c9780cdf47ac3b6cc7af1d173c533fc870940a04ff93921",
+      "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "url": "https://www.channelnewsasia.com/business/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-6381111",
+      "description": "",
+      "published_at": "2026-09-13T05:27:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cdf988e7f837d622da1def8a18ea05495becb53a10a6c1f196718db185d5d22f",
+      "title": "Meet the volunteers packing thousands of food parcels for pets",
+      "url": "https://www.bbc.co.uk/news/articles/cly53zgy5llo?at_medium=RSS&at_campaign=rss",
+      "description": "Each week the volunteers go to the USPCA centre in the city where they help prepare food parcels.",
+      "published_at": "2026-09-13T05:20:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1cebc2ca1255af25b83b96f1b68ab73f3cff67458396dcca71784f1ff08690fd",
+      "title": "How is Belfast's new pro cricket franchise creating hype with no home matches?",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvr0q04zno?at_medium=RSS&at_campaign=rss",
+      "description": "The new Belfast Wolves will not play any matches in their home city in the first season of the European T20 league.",
+      "published_at": "2026-09-13T05:19:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "59e069e8621796dad86ffe305b6e4842a5970617597b9f35d5be954e536bedbc",
+      "title": "Donald Trump continues two-day visit of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "description": "The US president will spend the day watching the Irish Open after saying he would love to see a united Ireland.",
+      "published_at": "2026-09-13T05:16:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "8668fb3edf00032b63892ebf6437aeb510764d7ad5d624db167aeeeb6ef6928b",
+      "title": "Donald Trump continues two-day visit of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "description": "The US president will spend the day watching the Irish Open after saying he would love to see a united Ireland.",
+      "published_at": "2026-09-13T05:16:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "e3c683f9d0cb4e6859375332bcf13b8f34711b0c68c32f385ab0acf0780f2873",
+      "title": "Ending rough sleeping is 'not just a housing issue'",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+      "description": "Andy Burnham wants to get people \"in from the cold\" by Christmas, but the scale of the task is huge.",
+      "published_at": "2026-09-13T05:14:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "2beecdb575018ac2be97e62e94851d86636f1a5e6b8a6cbf11c5fef11e0291f7",
+      "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
+      "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "description": "Yemeni Houthi rebels claimed responsibility on Sunday for an attack on a military base in southern Saudi Arabia as renewed fighting with Yemen's government forces forced growing numbers of civilians to flee. Fighting in western Yemen over the past few weeks has left hundreds dead and displaced tens of thousands of people. Follow our liveblog for the latest updates.",
+      "published_at": "2026-09-13T05:11:17+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "7a90cfe1084d84648f1205e5375edaacd29826e478aaca0a387b4e382f3ba00f",
+      "title": "France apologises for criticising US’ human rights record after backlash",
+      "url": "https://www.scmp.com/news/world/europe/article/3367336/france-apologises-criticising-us-human-rights-record-after-backlash?utm_source=rss_feed",
+      "description": "The French UN mission said it regretted an online post criticising how the United States voted during a UN General Assembly meeting, with US officials saying on Saturday that Washington appreciated the statement. France’s permanent mission to the UN published the apology on Friday, saying it regretted a social media post criticising the US’ commitment to human rights. “France and the United States recently took different positions on a vote at the United Nations General Assembly. This difference...",
+      "published_at": "2026-09-13T05:03:29+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "8106e9b24a432200e03dba0dbc89e19d34cc492322247de6f4678e5c96794923",
+      "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+      "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
+      "description": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
+      "published_at": "2026-09-13T05:03:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
     {
       "id": "cdd15fd173115f3f4888a4b36159691f7528757ac249c4046eb3dfc5734d6859",
       "title": "India-Pakistan water row deepens after Hague court ruling",
@@ -77,7 +213,7 @@
       "id": "49d9601e2cd27aaa51ff4178a8d704883b1fc8cb51616cfb7d722b98e4934cb3",
       "title": "Indonesian ship with 241 people aboard loses contact in Java Sea",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367333/indonesian-ship-240-passengers-aboard-loses-contact-java-sea?utm_source=rss_feed",
-      "description": "Indonesian rescuers launched a search operation on Sunday after authorities lost contact with a passenger ship carrying more than 240 people in the Java Sea while travelling from East Java to South Kalimantan province, officials said. The Search and Rescue Office in the city of Banjarmasin in South Kalimantan, which is located on Borneo Island, said it received a report two hours after contact was lost with the Virgo Transport 8 at about 2am on Sunday. The ship had departed from Surabaya,...",
+      "description": "Indonesian rescuers were searching on Sunday for 140 people from a passenger ship that was earlier reported missing in the Java Sea after 103 others were evacuated, one of whom ⁠died, a search and rescue agency official said. The ship carrying ‌243 people was reported missing after losing contact early on Sunday during bad weather, the search and rescue ‌agency said. The Virgo Transport 8 ship set sail on ⁠Saturday from ⁠the East Java city of Surabaya to the South Kalimantan city of Banjarmasin...",
       "published_at": "2026-09-13T03:29:38+00:00",
       "source": "SCMP",
       "categories": [
@@ -911,6 +1047,17 @@
       ]
     },
     {
+      "id": "ff1254f2b3a826a343dc191a6b0ba6397bb101ba2f60b65a9c4774f6f9727599",
+      "title": "Inspired Lowry takes four-shot lead into final day",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cp8dy97wnxjo?at_medium=RSS&at_campaign=rss",
+      "description": "Shane Lowry produces an inspired display on the greens to take a four-shot lead into the final round of the Irish Open and close in on his first individual win since 2022.",
+      "published_at": "2026-09-12T19:27:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "4ec345e63ba4bc6774b5f3ff850465b6d706658ce202bf184a6d5d1bafab2a65",
       "title": "Ex-Crues men get Limavady off the mark at Seaview",
       "url": "https://www.bbc.co.uk/sport/articles/c87v4ypwy5go?at_medium=RSS&at_campaign=rss",
@@ -1630,6 +1777,7 @@
       "published_at": "2026-09-12T14:32:17+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "UK"
       ]
     },
@@ -1837,6 +1985,18 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "21f813c9f64f5f09c954decaf83787acef4250e62dca78621b2f37ede3a7d58e",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+      "published_at": "2026-09-12T13:56:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland",
+        "UK"
       ]
     },
     {
