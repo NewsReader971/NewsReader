@@ -1,6 +1,87 @@
 {
-  "last_updated": "2026-09-14T18:03:03.567422+00:00",
+  "last_updated": "2026-09-14T19:04:08.004881+00:00",
   "articles": [
+    {
+      "id": "b07ff2b969666dac52f94a01049b04f65a9f93b9a8e39a1e7f49e8dc9f62d497",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "published_at": "2026-09-14T18:54:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "46d44d6e0acf8e7b84eebca73aff549986ef65ad02ff27f13f0dec83a0b9c9a1",
+      "title": "Israeli army chief orders legal review of Gaza war documentary NAZA",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3367509/israeli-army-chief-orders-legal-review-gaza-war-documentary-naza?utm_source=rss_feed",
+      "description": "Israel’s top military officer on Monday ordered lawyers to examine steps against the filmmakers behind the Gaza war documentary NAZA that took the jury’s special prize at the Venice Film Festival. Chief of the General Staff Eyal Zamir instructed the military prosecutor to “examine and advance possible legal measures concerning the film and those involved in it”, the military posted on social media. The statement cited “the spread of false claims about soldiers of the Israeli army as well as...",
+      "published_at": "2026-09-14T18:34:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "56a2b7aecd45e84fd9c48cb2d9fa921e0a0addfcce983d10991b76187418c2f8",
+      "title": "Police appeal to unlawfully at large murderer to hand himself in",
+      "url": "https://www.bbc.co.uk/news/articles/c35y7j8k8517o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who is 29-years-old, was sentenced to 15 years for murder in 2023.",
+      "published_at": "2026-09-14T18:31:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "320a020306b7bc6a748de971990c9ee00da173b40a5adf30685ec0856e3a3c28",
+      "title": "Trump blasts 'sick conspiracy' against AI as warnings mount",
+      "url": "https://www.channelnewsasia.com/world/ai-slowdown-trump-sick-conspiracy-6384221",
+      "description": "The US president also said the United States must keep its lead over China in AI development, following calls from Anthropic’s boss for a slowdown.",
+      "published_at": "2026-09-14T18:31:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "aeb940dc3bd3df72143976f4a57adc9cf43dd3aa4094b6860c5cd0d873b185cd",
+      "title": "Where is the kill switch? AI doomsday warnings trigger calls to regulate",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260914-where-is-the-kill-switch-ai-doomsday-warnings-trigger-calls-to-regulate",
+      "description": "Talk about doomsday scrolling. In the past week, our timelines have been alight with dark predictions of our imminent demise, including the one by a Silicon Valley engineer who puts a number on the chances of artificial intelligence wiping out humanity. Better than 10-percent. Triggering the wave of panic, the recent breach of the machine-learning programmers' site Hugging Face by AI machines who banded together to keep their nefarious deeds secret from their human overlords. Can machines actually destroy the planet on their own? In the age of technology, does problem solving always override safety?",
+      "published_at": "2026-09-14T18:22:42+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "b06706a432d2795b9b6af681c15e6760f9b295fbac2ff587e98c9a54f2a90539",
+      "title": "EU is set to propose ban on social media and AI chatbots for under-15s",
+      "url": "https://www.channelnewsasia.com/business/eu-set-propose-ban-social-media-and-ai-chatbots-under-15s-6384231",
+      "description": "",
+      "published_at": "2026-09-14T18:18:24+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "7cc544e3feef04cc952d5506c4e4f1fa3a27dc3569e3b803cee0fa7993fffde0",
+      "title": "Trump Jnr’s wife says Russian oligarch paid for nuptial parties but not the actual wedding",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367508/trump-jnrs-wife-says-russian-oligarch-paid-nuptial-parties-not-actual-wedding?utm_source=rss_feed",
+      "description": "US President Donald Trump’s daughter-in-law said a Russian oligarch paid for “two incredible nights of celebration” in the Bahamas after her wedding to Donald Trump Jnr but was not involved in the actual nuptials, amid fresh ethics questions involving the first family. The couple had a private marriage ceremony on a Friday in May, Bettina Trump wrote in an Instagram post, and then a celebration the following weekend in the Bahamas. That second event, which had been planned before the wedding...",
+      "published_at": "2026-09-14T18:04:21+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
     {
       "id": "1f5bc70c160e8d52fe9c7184c40d9ebaccb4114b968c470600eb38446bfe4130",
       "title": "Police officer who put suspect in headlock and punched him 9 times faces misconduct hearing",
@@ -25,6 +106,17 @@
     },
     {
       "id": "9836a848e7e3c871f247af06c192fe7de69ea60fecf9cb2f924d7bc04f970c7b",
+      "title": "Body found in search for missing hillwalker on Isle of Skye",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xy4j1ydyo?at_medium=RSS&at_campaign=rss",
+      "description": "Hector Patemore, from the Belgian city of Ghent, was last seen leaving Glenbrittle Youth Hostel on Sunday morning.",
+      "published_at": "2026-09-14T17:49:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "d0d5d9a5c38f9fc51bce21b5395b51d30dfd73e2d9d727ffe08f2ae26a5f12ee",
       "title": "Body found in search for missing hillwalker on Isle of Skye",
       "url": "https://www.bbc.co.uk/news/articles/c6j9xy4j1ydyo?at_medium=RSS&at_campaign=rss",
       "description": "Hector Patemore, from the Belgian city of Ghent, was last seen leaving Glenbrittle Youth Hostel on Sunday morning.",
@@ -129,6 +221,17 @@
       ]
     },
     {
+      "id": "249a283b910a3a1c599028f5cdb71636e267726b632664cee01992c4d25c7865",
+      "title": "Jury in Noah Donohoe inquest retires after juror discharged earlier",
+      "url": "https://www.bbc.co.uk/news/articles/cm2mzd55j18o?at_medium=RSS&at_campaign=rss",
+      "description": "The decision comes as the jury resumes its deliberations in the case after the summer recess.",
+      "published_at": "2026-09-14T17:13:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "55c314df68fb7ba409acc71593a4253c7430e90daa9ac6f3bb84491b3b6e026f",
       "title": "Anthropic targets financial advisers with new Claude tool",
       "url": "https://www.channelnewsasia.com/business/anthropic-targets-financial-advisers-new-claude-tool-6384121",
@@ -228,7 +331,8 @@
       "published_at": "2026-09-14T16:58:23+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "England"
       ]
     },
     {
@@ -367,6 +471,17 @@
       ]
     },
     {
+      "id": "4901676cbbacad545a50212b8c680f8e8dfcf6a5839731ff32759e7789360798",
+      "title": "Who are the candidates hoping to replace Starmer in local by-election?",
+      "url": "https://www.bbc.co.uk/news/articles/c70l84ggzlgo?at_medium=RSS&at_campaign=rss",
+      "description": "The vote for Sir Keir Starmer's former seat in north London will take place on 8 October.",
+      "published_at": "2026-09-14T16:37:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "12ebc82d5ccb1bea176f360ca78197d21069146aa3bf7e043cda2d0573ede2fd",
       "title": "Devine to leave Glentoran after two and a half years",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd084131lvko?at_medium=RSS&at_campaign=rss",
@@ -443,6 +558,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "519df62dc3749fd692029836b76f8d51688ec9c2065493df5e9966b0eda6942b",
+      "title": "Fears grow for future of Battle of Britain memorial",
+      "url": "https://www.bbc.co.uk/news/articles/cnvl2r21778o?at_medium=RSS&at_campaign=rss",
+      "description": "Trustees for the site say rising costs and a lack of government funding are threatening its future.",
+      "published_at": "2026-09-14T16:18:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -795,6 +921,7 @@
       "published_at": "2026-09-14T14:44:20+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -1246,6 +1373,17 @@
       ]
     },
     {
+      "id": "26ec8606b33b8ac57eea7d3aca2be531a108cf1b4f7c78ade02f7989a2de018d",
+      "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
+      "description": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
+      "published_at": "2026-09-14T13:22:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "5ce9bc605f786b2d8d988429c5316a33b415543da00f332443ad92e6decb8729",
       "title": "BYD to produce trucks in Europe in bid to become \"European company\"",
       "url": "https://www.channelnewsasia.com/business/byd-produce-trucks-in-europe-in-bid-become-european-company-6383671",
@@ -1514,6 +1652,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cpwlk11vj51o?at_medium=RSS&at_campaign=rss",
       "description": "Eric Edwards, a customer experience manager at a McDonald's in Coventry, says he has no plans to slow down.",
       "published_at": "2026-09-14T12:42:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "a2c7f83641e966488e440fe930a53983a4512a40604ae202f8830d21260e63c4",
+      "title": "British olympians bidding to break English Channel swim record",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2ze0jd7p8o?at_medium=RSS&at_campaign=rss",
+      "description": "Six of the UK's top swimmers are to attempt the relay record for swimming the English Channel.",
+      "published_at": "2026-09-14T12:39:53+00:00",
       "source": "BBC",
       "categories": [
         "England"
@@ -2053,6 +2202,17 @@
     },
     {
       "id": "a892c9cf3f35f9b62e56d248e3dac2a40c6ef8eeab5e7c01995f9adf24be14ef",
+      "title": "Sinfield bid to sell 7,777 pairs of socks for MND",
+      "url": "https://www.bbc.co.uk/news/articles/cly5093433qo?at_medium=RSS&at_campaign=rss",
+      "description": "The Sock It To MND campaign supports the ex-rugby league star's final epic fundraising challenge.",
+      "published_at": "2026-09-14T11:24:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "73b7433c5aafe303937a7dd7e7cc50cd714a81f4bc8bdb280b826794ff7282f8",
       "title": "Sinfield bid to sell 7,777 pairs of socks for MND",
       "url": "https://www.bbc.co.uk/news/articles/cly5093433qo?at_medium=RSS&at_campaign=rss",
       "description": "The Sock It To MND campaign supports the ex-rugby league star's final epic fundraising challenge.",
