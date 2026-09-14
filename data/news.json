@@ -1,6 +1,264 @@
 {
-  "last_updated": "2026-09-14T16:02:49.193617+00:00",
+  "last_updated": "2026-09-14T17:02:11.974865+00:00",
   "articles": [
+    {
+      "id": "43dfe5ba1d03b6891101d0253bed5fa1d775179ed497760dd2807e3118861bed",
+      "title": "Luke Evans reveals his secret to surviving Hollywood",
+      "url": "https://www.bbc.co.uk/news/articles/cr50zqlmg7po?at_medium=RSS&at_campaign=rss",
+      "description": "The star discusses his \"emotional connection\" to his character in a new ITV drama, The Party.",
+      "published_at": "2026-09-14T17:01:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "92f410aec0ab0e56539532341704861a09a28e8a71e48a6ff08dda097205c71e",
+      "title": "Tice apologises for not declaring Israel trip during debate",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj7lz36w2o?at_medium=RSS&at_campaign=rss",
+      "description": "The visit, funded by Reform Friends of Israel, was declared in his register of interests but not during the debate.",
+      "published_at": "2026-09-14T17:00:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "64a1536b914180ea45945f319dfceace9c42e16bfd71e6697d7533713f89c737",
+      "title": "Man in court over deliberate fire at empty tenement building",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm40yz0veo?at_medium=RSS&at_campaign=rss",
+      "description": "The 48-year-old man has been charged with wilful fireraising over the blaze in the Possilpark area of Glasgow.",
+      "published_at": "2026-09-14T17:00:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "2c37f068f4aa760293b20596c37530a44dbc6f61def9d01fdc4bdce911e82a59",
+      "title": "Man admits drugging and raping wife for 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+      "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+      "published_at": "2026-09-14T16:54:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "d3eca082a3324a3571d1c9389ff74099845f74c1fc2cda7190b3882bc9abe1eb",
+      "title": "Man admits drugging and raping wife for 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+      "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+      "published_at": "2026-09-14T16:54:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "eaa84951e0d753803216c0c89eda033ad0952b70f3c811dedabf1fba92646da9",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "url": "https://www.bbc.co.uk/news/videos/cqdj48mpw8mro?at_medium=RSS&at_campaign=rss",
+      "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "published_at": "2026-09-14T16:53:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "2f527eb620970daa25c2a20d53baa76caedf4dbc686d777ed5133afffe44b662",
+      "title": "French candidates race to claim the cost-of-living issue ahead of 2027 vote",
+      "url": "https://www.france24.com/en/france/20260914-french-candidates-race-to-claim-the-cost-of-living-issue-ahead-of-2027-vote",
+      "description": "A new Ipsos survey reveals a country gripped by pessimism, with soaring prices the top worry for French voters ahead of the April 2027 presidential election. Candidates from far-right leader Marine Le Pen, to the far-left's Jean-Luc Mélenchon are racing to make the cost of living the defining issue of their campaigns.",
+      "published_at": "2026-09-14T16:53:16+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f2887b8dbc6ec7d3a78e41c73f43b4d0b21476091ee98178577d52cd594a83d4",
+      "title": "Police probe continues in Armadale as man named in suspected shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkmmmnxo?at_medium=RSS&at_campaign=rss",
+      "description": "William Watson, known as Billy, was killed in the incident in West Lothian on Saturday.",
+      "published_at": "2026-09-14T16:43:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "ff0d296b413a2efa60829b6121cfb9e2528783be79fab7270a40a4d86e525c4c",
+      "title": "Police probe continues in Armadale as man named in suspected shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkmmmnxo?at_medium=RSS&at_campaign=rss",
+      "description": "William Watson, known as Billy, was killed in the incident in West Lothian on Saturday.",
+      "published_at": "2026-09-14T16:43:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4b89306f707ec6c081c8907bbf42343b2cfb2c531e91ccbd531a3431c98c465e",
+      "title": "Police probe continues in Armadale as man named in suspected shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkmmmnxo?at_medium=RSS&at_campaign=rss",
+      "description": "William Watson, known as Billy, was killed in the incident in West Lothian on Saturday.",
+      "published_at": "2026-09-14T16:43:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f77e5869e16a27dfd3d37b50d9903e47c06fd6648d52c9095bd4e77e6890243e",
+      "title": "Burnley boss Hayen 'grateful' to Haverfordwest",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp93kkjjy13o?at_medium=RSS&at_campaign=rss",
+      "description": "The 46-year-old Belgian was County chairman Rob Edwards' surprise appointment when he took over in December 2021.",
+      "published_at": "2026-09-14T16:43:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6226e5684993650906f37b6947d6bac8187a8ea83faab0f16742f04de8897c41",
+      "title": "German intelligence report warns of rising Chinese, Russian spy threat",
+      "url": "https://www.scmp.com/news/world/europe/article/3367505/german-intelligence-report-warns-rising-chinese-russian-spy-threat?utm_source=rss_feed",
+      "description": "Germany’s military counter-intelligence agency, known as MAD, has warned of a growing threat from hybrid attacks and the use of recruited contract agents, or low-level agents, saying Germany is a “prioritised target of Russian espionage activities”. According to the agency’s annual report released on Monday, it cited Germany’s geostrategic position in Europe and Nato the expansion of the Bundeswehr and the introduction of new weapons systems as reasons for the heightened targeting. “The hybrid...",
+      "published_at": "2026-09-14T16:41:44+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "982e3dd9378a7ab4447545013fb54931293b03be7768a5e08cc35cc67db66564",
+      "title": "Who are the candidates hoping to replace Starmer in local by-election?",
+      "url": "https://www.bbc.co.uk/news/articles/c70l84ggzlgo?at_medium=RSS&at_campaign=rss",
+      "description": "The vote for Sir Keir Starmer's former seat in north London will take place on 8 October.",
+      "published_at": "2026-09-14T16:37:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "12ebc82d5ccb1bea176f360ca78197d21069146aa3bf7e043cda2d0573ede2fd",
+      "title": "Devine to leave Glentoran after two and a half years",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd084131lvko?at_medium=RSS&at_campaign=rss",
+      "description": "Glentoran manager Declan Devine is set to leave the club amid the east Belfast outfit's poor start to the Irish Premiership season.",
+      "published_at": "2026-09-14T16:36:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "bc2eb59b8ef6e677116073d6edebea4429b05e807b31fd332a62ef702f737ae8",
+      "title": "Former top civil servant received pay-off of nearly £860,000",
+      "url": "https://www.bbc.co.uk/news/articles/cq7703kjvzlpo?at_medium=RSS&at_campaign=rss",
+      "description": "Lord Wormald became the shortest-serving cabinet secretary in the history of the post when he left in February.",
+      "published_at": "2026-09-14T16:35:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "b96965b3c5daf490eae26eb509e7f07ac1dc4fc5d29eb9a1c62219fbe1a34261",
+      "title": "Iran nuclear chief blocked from Vienna meeting after US pressure",
+      "url": "https://www.channelnewsasia.com/world/iran-nuclear-chief-blocked-vienna-meeting-us-6383991",
+      "description": "US Energy Secretary Chris Wright said Iran’s nuclear chief, Mohammad Eslami, is a “sanctioned individual” and was blocked from attending the IAEA’s annual conference in Vienna.",
+      "published_at": "2026-09-14T16:35:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "53d09d14641f4e476be81af5b859147748943cbb48a08191aaa74d70be608233",
+      "title": "Oil prices climb over 2% after strikes on Saudi pipeline and ships in Middle East",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-climb-over-2-after-strikes-saudi-pipeline-and-ships-in-middle-east-6384081",
+      "description": "",
+      "published_at": "2026-09-14T16:34:19+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "70ac325c8c7bdb45b615e38b69075ae7335975bc2e06156c7b2fc06660cbed70",
+      "title": "Key convicted Palestine Action member on the run",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gm0npmo?at_medium=RSS&at_campaign=rss",
+      "description": "Sean Middlebrough is convicted in his absence over a break-in at a British defence firm in Bristol.",
+      "published_at": "2026-09-14T16:33:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "3453d3ed2967633a76e266a48bc9ac87ba4795a9538a9cdb9eeb13d718dde5f9",
+      "title": "Fugitive Palestine Action organiser convicted over £1.2m factory damage",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gm0npmo?at_medium=RSS&at_campaign=rss",
+      "description": "Sean Middlebrough is convicted in his absence over a break-in at a British defence firm in Bristol.",
+      "published_at": "2026-09-14T16:33:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "986f9fe729ee1e2db15221719aaef51847f66f14f84537fedeb27fd6a1d33c39",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "published_at": "2026-09-14T16:23:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5357d6423e2baac57ebd303284b2ca8317e27d35300518a0e660a407b5942d4a",
+      "title": "Does derby semi add 'more spice' or simply 'nice for fans'?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjz0gexgj1o?at_medium=RSS&at_campaign=rss",
+      "description": "While Hibernian head coach David Gray is relishing a \"very special\" Premier Sports Cup semi-final against Heart of Midlothian, counterpart Wouter Vrancken is keeping cool about the prospect.",
+      "published_at": "2026-09-14T16:16:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "1f305947d2effd145dca595fc7346b3e81df1cef637601670c8adf12051c03ea",
+      "title": "What is AI, how does it work and why are some people concerned about it?",
+      "url": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
+      "description": "AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.",
+      "published_at": "2026-09-14T16:09:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "cd493c44bc50538fead68aa234758a093f2de42acf33be863a8b88770db54579",
+      "title": "Waymo to bring autonomous ride-hailing to Las Vegas",
+      "url": "https://www.channelnewsasia.com/business/waymo-bring-autonomous-ride-hailing-las-vegas-6383981",
+      "description": "",
+      "published_at": "2026-09-14T16:02:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "84f31bae876c659e7ce92a6e3b38fa50188964f6f61996876b919a1361ec3bc1",
       "title": "HKMU powers ahead with new Shenzhen Research Institute",
@@ -11,6 +269,17 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "f3da2d068088b6dfd82b79bc217e595a0aca3198605cf2c13fd2f11b7d6a48c5",
+      "title": "Scotcast: Does the Cardiff summit bring independence closer?",
+      "url": "https://www.bbc.co.uk/sounds/play/m0031h0n?at_medium=RSS&at_campaign=rss",
+      "description": "And John Swinney's independence strategy.",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -504,6 +773,17 @@
       ]
     },
     {
+      "id": "e7970f30cee801155e261e3779cf18b2fb667c9425ec4df8ba7d0460b8e3ecb9",
+      "title": "Rower's world record attempt ends in heartbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6z880w405o?at_medium=RSS&at_campaign=rss",
+      "description": "Lara Vafiadis says the experience ending as it did is going to \"take a long time\" to get over.",
+      "published_at": "2026-09-14T14:03:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "5689ecdb29123784fe2608f8910c5bf23751066c33f38e184f0c4fe850f6fb73",
       "title": "No collusion in sectarian killing but police inquiry flawed, inquiry finds",
       "url": "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o?at_medium=RSS&at_campaign=rss",
@@ -649,6 +929,7 @@
       "published_at": "2026-09-14T13:35:15+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -1328,6 +1609,17 @@
       ]
     },
     {
+      "id": "0aeb40fd258e6e4a44dddaa845cf5320276eec391354c54b34240059d7bedae6",
+      "title": "Council estimates bridge replacement could cost more than £40m",
+      "url": "https://www.bbc.co.uk/news/articles/c674kx0jgpj1o?at_medium=RSS&at_campaign=rss",
+      "description": "Councillors will be asked to approve £6.19m to pay for preliminary work including design and site investigations.",
+      "published_at": "2026-09-14T11:45:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "e7a1347e71bc4883e380563d8696efb8c249678bab17b3913de36753bdca8257",
       "title": "Opera singer leads Scottish takeover of the Last Night of the Proms",
       "url": "https://www.bbc.co.uk/news/articles/c60m3px8k2wwo?at_medium=RSS&at_campaign=rss",
@@ -1952,7 +2244,7 @@
       "id": "f5a5fa15ae92fdbb358035ea5960de369a5f3ed2c790a8cecbdab643d8ec2a8e",
       "title": "This is what women in sport look like - Hunt",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
+      "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
       "published_at": "2026-09-14T09:43:18+00:00",
       "source": "BBC",
       "categories": [
@@ -1963,7 +2255,7 @@
       "id": "db9bc7b2fdcc41c6a2f46df5cd245b8cc90aacf26fa96b3e6994125f62c140b5",
       "title": "This is what women in sport look like - Hunt",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
+      "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
       "published_at": "2026-09-14T09:43:18+00:00",
       "source": "BBC",
       "categories": [
@@ -3508,6 +3800,17 @@
     },
     {
       "id": "c9f9bd4675f080bfdd3b8216d33776b18c73a716ce1d3f3784461675a9016dc6",
+      "title": "Reckless e-bike riders 'dangerous' for cyclists",
+      "url": "https://www.bbc.co.uk/news/articles/cm270ldjl37o?at_medium=RSS&at_campaign=rss",
+      "description": "Morwenna Hughes' arm was shattered after an e-bike rider knocked her off her bike in Hammersmith.",
+      "published_at": "2026-09-14T04:56:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1fdfb9a97ecf227312bc1a5dc3057be67f29c6a770a2775cc39ee86b2623d8e1",
       "title": "Reckless e-bike riders 'dangerous' for cyclists",
       "url": "https://www.bbc.co.uk/news/articles/cm270ldjl37o?at_medium=RSS&at_campaign=rss",
       "description": "Morwenna Hughes' arm was shattered after an e-bike rider knocked her off her bike in Hammersmith.",
@@ -7489,6 +7792,17 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c14dg5ezrpvo?at_medium=RSS&at_campaign=rss",
       "description": "Gwyddonwyr ym Mhrifysgol Bangor yn cynnal ymchwiliad brys i'r difrod sydd wedi ei achosi gan danau gwyllt yn ystod yr haf.",
       "published_at": "2026-09-13T06:13:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "3c55c455ece5c6665ee9fba8664e9f1ea3c38ef8c5cbc42500cdd90451f554f5",
+      "title": "Planned Gibraltar-sized rail testing centre has cost taxpayers £70m but hasn't been built",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zv4end8no?at_medium=RSS&at_campaign=rss",
+      "description": "The site has not found private-sector funding because the risk is \"too great,\" its boss says.",
+      "published_at": "2026-09-13T06:12:53+00:00",
       "source": "BBC",
       "categories": [
         "Wales"
@@ -63978,17 +64292,6 @@
       "source": "BBC",
       "categories": [
         "Education & Family"
-      ]
-    },
-    {
-      "id": "14b332c5dbebad4ac8e024855e887e7d9800f13e8d6dab2f7f1488758891f4df",
-      "title": "Who voted for Count Binface and why?",
-      "url": "https://www.bbc.co.uk/news/articles/cj36gyxv2lyo?at_medium=RSS&at_campaign=rss",
-      "description": "Cheaper Flakes and using Adele to fund the NHS - voters on why they support a man dressed as a bin.",
-      "published_at": "2026-08-15T16:59:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
