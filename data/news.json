@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-09-14T02:02:55.666915+00:00",
+  "last_updated": "2026-09-14T03:02:40.552669+00:00",
   "articles": [
+    {
+      "id": "198d75e280cc6c54ff0eb931c3c53e44ffaf1721f6236ac4deb69fcc83b78bd5",
+      "title": "North Korea tests weapons capable of striking South Korea: ‘huge destructive power’",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3367382/north-korea-tests-weapons-capable-striking-south-korea-huge-destructive-power?utm_source=rss_feed",
+      "description": "North Korea said on Monday it conducted a joint live-fire drill involving missiles, artillery and drones that it claimed showed “huge destructive power”. The official Korean Central News Agency (KCNA) said Saturday’s drill was meant to get familiar with the procedure for the operation of the integrated firepower control system. South Korea’s military earlier said it detected short-range ballistic missile launches from North Korea’s eastern coastal Wonsan area on Saturday morning. After observing...",
+      "published_at": "2026-09-14T02:59:18+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "d28f554d8775bf9c50d08e1f7d384ee971ce2e9ccade89e7fc98e02949ff03b0",
+      "title": "Amazon pauses work with cargo firm after fatal crash",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+      "description": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "published_at": "2026-09-14T02:40:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "9ea7db81afbdce5402a6b28311204482b054797b2b97450458b9d45411b85b57",
+      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks",
+      "url": "https://www.france24.com/en/middle-east/20260914-iranian-ship-qeshm-island-tehran-hormuz",
+      "description": "An Iranian cargo vessel was struck off Qeshm Island in the Strait of Hormuz on Sunday, killing one person and wounding four, Iranian state media said. Tehran blamed a “terrorist enemy” for the attack, which came as threats to shipping intensified around the Hormuz and Bab el-Mandeb straits.",
+      "published_at": "2026-09-14T02:35:36+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "b9fce766537da7d7f0ef37937aae9b0d7eb0129fe3ff8a9e23da9447df2be055",
+      "title": "3 killed, 15 wounded in gunfire ahead of historic Philippine regional election",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367379/3-killed-15-wounded-gunfire-ahead-historic-philippine-regional-election?utm_source=rss_feed",
+      "description": "Three people were killed and 15 others wounded as gunfire erupted hours before the polls opened on Monday in a semi-autonomous Muslim region of the Philippines set to choose its first elected parliament. The vote is the culmination of an on-off peace process that began in the late 1990s and established the Bangsamoro Autonomous Region in Muslim Mindanao in the country’s far south. Cotabato police chief Jibin Bongcayao said the shooting took place just before midnight as members of rival...",
+      "published_at": "2026-09-14T02:26:13+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "a17bac30c5a75621ab8578c4ccd773ba1928a2b4faadeb604ebf43430071d536",
+      "title": "Indonesia rescuers searching for 129 people still missing after passenger ship capsizes",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-rescuers-search-passenger-ship-capsize-6382206",
+      "description": "At least six people have died after the Virgo Transport 8 ship capsized on Sunday.",
+      "published_at": "2026-09-14T02:02:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "d80ea8b2eddf47e26efe7ae00b9b5ba30d079c4103c984f119435a0f4d6fc5b0",
       "title": "Tourism and technology may hold key to boosting China’s public image in the US",
@@ -388,6 +447,18 @@
       "id": "b62afd23014bce547b62dd221c903e2cb91c57042fa50c27d34dbbfda4ec4653",
       "title": "Zverev hails mother's belief after US Open triumph",
       "url": "https://www.channelnewsasia.com/sport/zverev-hails-mothers-belief-after-us-open-triumph-6382001",
+      "description": "",
+      "published_at": "2026-09-13T22:57:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "f0d76111954f9d5ac113c285fdc887ff96275593f81e1528e92c87cf9f508c99",
+      "title": "Zverev hails mother's unwavering belief after US Open triumph",
+      "url": "https://www.channelnewsasia.com/sport/zverev-hails-mothers-unwavering-belief-after-us-open-triumph-6382001",
       "description": "",
       "published_at": "2026-09-13T22:57:01+00:00",
       "source": "CNA",
@@ -885,6 +956,7 @@
       "published_at": "2026-09-13T19:34:36+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "World"
       ]
     },
