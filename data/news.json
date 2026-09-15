@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-09-15T04:03:51.875234+00:00",
+  "last_updated": "2026-09-15T05:03:24.647254+00:00",
   "articles": [
+    {
+      "id": "6dd45a7273f73de7d18ddeea196cc29b91d7012f3b52b3df8d9cc8f2c2e6bcba",
+      "title": "We must heed warnings of AI tech developers, says UK minister",
+      "url": "https://www.bbc.co.uk/news/articles/crvgyq7wljzwo?at_medium=RSS&at_campaign=rss",
+      "description": "Louise Haigh is set to address growing concerns over AI safety on Tuesday in comments at the TUC Congress.",
+      "published_at": "2026-09-15T05:00:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "396bbc2f382971b3eec70e1ea6a5ca3a3efc050ea34b1833c828539d7ae67319",
+      "title": "Lleihau trethi tafarndai, gwestai a sinemâu sydd o dan 'straen anferthol'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmd68xwz2p94o?at_medium=RSS&at_campaign=rss",
+      "description": "Bydd y trethi sy'n cael eu talu gan dafarndai, gwestai a sinemâu yn gostwng ar ôl i Lywodraeth Cymru gyhoeddi toriad 30% ardrethi busnes.",
+      "published_at": "2026-09-15T04:56:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5d30fbf12f32b8b9dc8c7225a139ca791b586f7e602d36b2085624268575223d",
+      "title": "Haze worsens across Malaysia, with 38 areas recording unhealthy air quality",
+      "url": "https://www.channelnewsasia.com/asia/haze-worsens-across-malaysia-38-areas-recording-unhealthy-air-quality-6385056",
+      "description": "Serian in Sarawak recorded Malaysia’s highest Air Pollutant Index reading on Tuesday (Sep 15) morning, while Johor had the most areas with unhealthy air quality, according to data from the Malaysia’s Ministry of Natural Resources and Environmental Sustainability.",
+      "published_at": "2026-09-15T04:47:12+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a2904b80e197c75edd30ff19373c399dd67d2af9e7cdb2fcc220525abd16ecfa",
+      "title": "Ark's Wood says global AI leaders' pledge is positive for technology development",
+      "url": "https://www.channelnewsasia.com/business/arks-wood-says-global-ai-leaders-pledge-positive-technology-development-6385216",
+      "description": "",
+      "published_at": "2026-09-15T04:44:40+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4a676e0fdb1643d71c4f6f0b7ae506d8bc424abbbf2acf004b9bfa0922c0fa4e",
+      "title": "Woman fined after her company's private investigators surveilled police officer",
+      "url": "https://www.channelnewsasia.com/singapore/woman-fined-private-investigator-surveillance-police-officer-6385046",
+      "description": "The client was dissatisfied with how the police officer was investigating a matter involving his father and wanted to know if he was a \"good or bad policeman\".",
+      "published_at": "2026-09-15T04:41:52+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "d42f9a9b6ff7cfc12897c54b2be3559fcec41003be88f5d0ceaaf63ecd82e2a0",
+      "title": "US judge postpones new visa rules for foreign students, journalists",
+      "url": "https://www.channelnewsasia.com/world/us-postpone-new-visa-rule-foreign-student-journalists-6385196",
+      "description": "",
+      "published_at": "2026-09-15T04:41:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "c66ff4ad875d69b5c71650b8b686c79a5ba504843cb11710e16f3f32d55901ca",
+      "title": "Japanese-born Korean actress Yuri Nakamura, star of Netflix's Romantics Anonymous, dead at 44",
+      "url": "https://www.channelnewsasia.com/entertainment/yuri-nakamura-dead-44-years-old-6384806",
+      "description": "According to a statement by her agency on Monday (Sep 14), Nakamura died on Sep 1 following a battle with rectal cancer.",
+      "published_at": "2026-09-15T04:40:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "2f918ba1c943445df3b80ad7a7633b47cdd73885005db1b18996c66c5cd46259",
+      "title": "Exclusive-Vietnam considering first sovereign dollar bond sale since 2014, sources say",
+      "url": "https://www.channelnewsasia.com/business/exclusive-vietnam-considering-first-sovereign-dollar-bond-sale-2014-sources-say-6385191",
+      "description": "",
+      "published_at": "2026-09-15T04:33:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "ef6fbae92c534b3b27dad0325a13fafd8f72810f4fabb35c8c61b3d36af863e7",
+      "title": "Hong Kong’s first 5-year plan to set goals, not alter economic system: John Lee",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3367537/hong-kongs-first-5-year-plan-set-goals-not-alter-economic-system-john-lee?utm_source=rss_feed",
+      "description": "Hong Kong’s first five-year plan will include both binding and aspirational targets, the city’s leader has said, stressing that the long-term blueprint does not signal a move towards a planned economy. Chief Executive John Lee Ka-chiu also revealed on Tuesday that the plan, which will be unveiled alongside his annual policy address the following day, would feature a blue cover symbolising “blue skies”, openness, progress and steadiness. “There will be indicators which are binding and indicators...",
+      "published_at": "2026-09-15T04:31:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "2cc884362a4e4fc32cf7abe99916f04f7bde854c013a682554af88d698f2f24c",
+      "title": "Hyrox changes rules after athlete soiled herself in competition",
+      "url": "https://www.channelnewsasia.com/sport/hyrox-changes-rules-after-athlete-soiled-herself-in-competition-6385161",
+      "description": "",
+      "published_at": "2026-09-15T04:28:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "96dc75f19fa3d1461b33f13ecbc4b662dbe1c15fb8e2d8b49e9188ea83907ef5",
+      "title": "Syngenta files for Hong Kong IPO that could raise $5 billion, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/syngenta-files-hong-kong-ipo-could-raise-5-billion-bloomberg-news-reports-6385166",
+      "description": "",
+      "published_at": "2026-09-15T04:25:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1693c85d3d4b2ad3948f90a1567fba867339531095dbdf62e7bb66076c2f8971",
+      "title": "Woman gets jail, fine for illegally keeping animals in captivity for sale in first such case",
+      "url": "https://www.channelnewsasia.com/singapore/woman-jail-illegal-animal-captivity-smuggling-sale-first-case-6384991",
+      "description": "In a separate case, a 33-year-old man was given the highest sentence yet for a similar offence.",
+      "published_at": "2026-09-15T04:23:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "dc190fefa0bc00faff912157f015db18982c32a298bb54d158d78e3de21a4c68",
+      "title": "South Korea to develop new security guidelines for autonomous AI agents",
+      "url": "https://www.channelnewsasia.com/business/south-korea-develop-new-security-guidelines-autonomous-ai-agents-6385146",
+      "description": "",
+      "published_at": "2026-09-15T04:22:45+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "dc3b968170e2daa04259f566922f39d7e1a7cdf17cbd127f8f3c4a47e3b4cd03",
+      "title": "Widow’s Bay breaks Emmys comedy record with 14 wins including best comedy series and best actor",
+      "url": "https://www.channelnewsasia.com/entertainment/widows-bay-pitt-emmy-2026-winners-6384956",
+      "description": "Matthew Rhys won two acting awards: Best actor in a comedy series for Widow's Bay and best actor in a limited series for The Beast In Me.",
+      "published_at": "2026-09-15T04:21:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "143da6bf8e152e700d67169aecae17c82ba8e310452b6df4a6ad2b426c5d2e0e",
+      "title": "Citigroup hires veteran banker Sophia Wang to lead China institutional sales",
+      "url": "https://www.scmp.com/business/banking-finance/article/3367535/citigroup-hires-veteran-banker-sophia-wang-lead-china-institutional-sales?utm_source=rss_feed",
+      "description": "Citigroup has appointed veteran banker Sophia Wang as a managing director and head of China financial-institutional sales and senior relationship management (SRM), marking the latest move by the Wall Street lender to deepen its footprint in mainland capital markets despite ongoing geopolitical friction. Wang joined the bank on Tuesday, according to an internal staff memo. Based in Shanghai, she will oversee institutional sales coverage across rates, spread products, foreign exchange, commodities...",
+      "published_at": "2026-09-15T04:19:15+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "742e9580ec5dffb0f332b71dcbb40f000741bf7772e597d60d6128469d8904c0",
+      "title": "England boss McCullum calls on Pietersen to shake things up",
+      "url": "https://www.channelnewsasia.com/sport/england-boss-mccullum-calls-pietersen-shake-things-up-6385136",
+      "description": "",
+      "published_at": "2026-09-15T04:17:26+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "214110c47277a425fff14826c2b7b4a1b772feffdd4f054e7820e78ae26ee447",
+      "title": "US military says Iran war has led to munitions shortfall",
+      "url": "https://www.channelnewsasia.com/world/us-military-ammunition-shortfall-iran-war-6385051",
+      "description": "",
+      "published_at": "2026-09-15T04:04:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "0bfee51f3bfd7553243a884453226cc6c16fba2f36dd7b517be9e21f91343d87",
       "title": "Autonomous vehicle safety operators debunk misconceptions that they ‘sit there and do nothing’",
@@ -9,6 +209,7 @@
       "published_at": "2026-09-15T04:00:44+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Singapore"
       ]
     },
@@ -139,7 +340,8 @@
       "published_at": "2026-09-15T03:06:54+00:00",
       "source": "France 24",
       "categories": [
-        "Middle East"
+        "Middle East",
+        "World"
       ]
     },
     {
@@ -148,6 +350,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
       "description": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
       "published_at": "2026-09-15T02:56:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "7c2de8347ac56aaad9811e464f3f577242e3a3b86d0ad37fa3c451409019b0c2",
+      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
+      "description": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
+      "published_at": "2026-09-15T02:53:39+00:00",
       "source": "BBC",
       "categories": [
         "Entertainment & Arts"
@@ -273,6 +486,17 @@
     },
     {
       "id": "f07d555a213ea7b6b5eef7f15400c071d1374292a21cc4aa2ae8100d15fe9524",
+      "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
+      "url": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
+      "description": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television.",
+      "published_at": "2026-09-15T02:00:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "93be6b6e6f5b919d56032b2d498df37efd80f695bb852fd5823650da3d2ffa6c",
       "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
       "url": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
       "description": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television.",
@@ -442,6 +666,17 @@
       ]
     },
     {
+      "id": "c62c865cd7a2fefba779b8b4b05e7996d42ecdb07aa38443c2aa706b4280a40a",
+      "title": "Balaclava ban comes into force in Nottingham city centre",
+      "url": "https://www.bbc.co.uk/news/articles/cq0kldp8k100o?at_medium=RSS&at_campaign=rss",
+      "description": "Nottingham becomes one of the first cities nationally to take this action, its council leader said.",
+      "published_at": "2026-09-15T00:55:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "88080dcc293bb49448383389433e8ad42086bfc3645238651c4e7783c0a07d03",
       "title": "Accenture to pay $25 million to settle US government allegations over DEI",
       "url": "https://www.channelnewsasia.com/business/accenture-pay-25-million-settle-us-government-allegations-over-dei-6384676",
@@ -498,6 +733,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "d901616d926bb9f83e519b5acd7646c0e8d938d3d5e26e0a3a20c4c99ed273df",
+      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
+      "url": "https://www.channelnewsasia.com/business/oil-climbs-saudi-pipeline-outage-fresh-attacks-heighten-supply-concerns-6384666",
+      "description": "",
+      "published_at": "2026-09-15T00:36:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -588,6 +834,7 @@
       "published_at": "2026-09-14T23:51:03+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -1404,6 +1651,17 @@
       "categories": [
         "Business",
         "Technology"
+      ]
+    },
+    {
+      "id": "afa5f3bad985b13805ac86f61f362c90b6b9d4872019fa753eddea41cc319dd4",
+      "title": "Burnham cancels engagements after death of father",
+      "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+      "published_at": "2026-09-14T18:53:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -2891,7 +3149,7 @@
       "id": "fd717711f955c10c8cd41cfa8f3e56b9a1c16325323825e46b14452c1a22a325",
       "title": "UN calls for 'urgent action' to rein in AI in face of 'unprecedented risks'",
       "url": "https://www.channelnewsasia.com/world/un-ai-urgent-action-anthropic-xai-openai-6383676",
-      "description": "",
+      "description": "The UN chief’s comments follow a public call from Anthropic’s CEO for AI companies to coordinate a slowdown in the technology's development.",
       "published_at": "2026-09-14T13:31:00+00:00",
       "source": "CNA",
       "categories": [
@@ -4821,6 +5079,7 @@
       "source": "BBC",
       "categories": [
         "Business",
+        "Politics",
         "UK"
       ]
     },
@@ -7173,10 +7432,11 @@
       "id": "f6af9ddb4230639d28787e8862b80330af1e7ab000ea8580223ba2234f0afd21",
       "title": "First ministers of Wales, Scotland and Northern Ireland to meet in Cardiff",
       "url": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
-      "description": "The Plaid Cymru, SNP and Sinn Féin leaders will discuss ways they can work more closely.",
+      "description": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.",
       "published_at": "2026-09-13T21:04:31+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
