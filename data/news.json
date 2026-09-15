@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-09-15T20:03:19.027254+00:00",
+  "last_updated": "2026-09-15T21:03:01.733945+00:00",
   "articles": [
+    {
+      "id": "0ff50b2edf6b6e659878ba98f8ad11d7303e5d3aff107adeb64feef278b12dbc",
+      "title": "'One in, one out' scheme costs £56,000 per person returned to France, home secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxz31105l4o?at_medium=RSS&at_campaign=rss",
+      "description": "Shabana Mahmood says the policy has been \"difficult\" to scale up and the numbers involved are still \"relatively small\".",
+      "published_at": "2026-09-15T20:53:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "53c55aac0dbce9834feb3cef45861507a5bb6350b10ed66a830d56217faf0b59",
+      "title": "Search launched for boy, 3, missing at playground",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
+      "description": "Police carry out door-to-door inquiries in Brantham and a helicopter has been seen circling the area.",
+      "published_at": "2026-09-15T20:43:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1c3ecc6830a5b54704c4e9ce19c4729383b6e634e8eebef9f4df36934da1e7c5",
+      "title": "Letby hospital consultant says inquiry makes for grim reading",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "description": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+      "published_at": "2026-09-15T20:43:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health",
+        "UK"
+      ]
+    },
+    {
+      "id": "ff9194410cbdee10a28938708c8ff27fd878746a877aed57d050e7a5af553061",
+      "title": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+      "published_at": "2026-09-15T20:37:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "0457d7946a33d738447578369226a8ea5ce9d70f5a2ed0c1578fe9af8c7ffe98",
+      "title": "WNBA's influence felt as Women's World Cup vows schedule changes",
+      "url": "https://www.channelnewsasia.com/sport/wnbas-influence-felt-womens-world-cup-vows-schedule-changes-6387171",
+      "description": "",
+      "published_at": "2026-09-15T20:31:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "10d2612a83cc54d3872ef55203cd5fde13eb1fdbaed9bd6d34f94f3a757a9fde",
+      "title": "People evacuated after bomb squad called to house",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5xgz7z7go?at_medium=RSS&at_campaign=rss",
+      "description": "A cordon is in place and a bomb disposal unit is at the scene in the High Green area of Sheffield.",
+      "published_at": "2026-09-15T20:28:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "346e9934ea66df5b26cf6c7795fcc0b7ec5adb69aae0616f9133a2208cf79570",
+      "title": "NATO jets down drone over Lithuania as Russian ship fires flares at Danish helicopter",
+      "url": "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "description": "NATO fighter jets shot down a drone that entered Lithuanian airspace and Denmark accused a Russian frigate of firing flares at a Danish military helicopter on Tuesday, in incidents that heightened tensions along the alliance’s eastern flank.",
+      "published_at": "2026-09-15T20:26:27+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "c4403dac85cad83ca7dcc39e2d4333661aa2216d3dfec0ad7d08355fb3d0a747",
+      "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+      "url": "https://www.channelnewsasia.com/business/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report-6387151",
+      "description": "",
+      "published_at": "2026-09-15T20:25:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "488cd78c65022b174642faff49ced63845e40a82877db00be5dc5445d12a9f0f",
+      "title": "Southport attack victims, survivors and families hit by data breach",
+      "url": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo?at_medium=RSS&at_campaign=rss",
+      "description": "The Ministry of Justice says sensitive and personal data was accessed in a limited number of cases.",
+      "published_at": "2026-09-15T20:19:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "32c95305041059c7cd914226f36e8e6eaab24ee6024bb81d85f3771c19d89364",
+      "title": "Messi called up by Argentina for farewell appearance following international retirement",
+      "url": "https://www.channelnewsasia.com/sport/messi-called-up-argentina-farewell-appearance-following-international-retirement-6387136",
+      "description": "",
+      "published_at": "2026-09-15T20:18:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "561528e4d9a10fc1e4f5d426b535b6c803611c36aa377d04dcfde40202fef343",
+      "title": "OpenAI, Anthropic and Google are working to create an AI standards body",
+      "url": "https://www.channelnewsasia.com/world/openai-anthropic-and-google-are-working-create-ai-standards-body-6387071",
+      "description": "The three technology companies are considering a self-regulatory body to set AI safety standards.",
+      "published_at": "2026-09-15T20:18:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "cf5c6ecacb448cacbf6c5062f09fcd2982ae3a18d05895a4e5450434fb83bfd7",
+      "title": "With a performance defined by emotion, Céline Dion brings her story to Paris",
+      "url": "http://www.france24.com/en/video/20260915-with-a-performance-defined-by-emotion-c%C3%A9line-dion-brings-her-story-to-paris",
+      "description": "Céline Dion on Saturday fulfilled her dream of returning to the stage after years battling a rare neurological disorder with a sell-out concert in an arena west of Paris. Speaking with FRANCE 24's Mark Owen, vocal coach Elena Hurstel says that Céline Dion's performance in Paris has been defined by emotion, explaining that \"we can really see the new Céline. It's not about being perfect, it's about being the woman she became, about being real\".",
+      "published_at": "2026-09-15T20:12:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "91e96756060781be2203da92c3d7d4123b87c3e9d0af0295df0bb285f16c8334",
       "title": "New reading, maths and attendance targets to boost school standards",
@@ -10,6 +149,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "97ba569d71594e7f0883cdf7a80d5a77d367b75185709c54233f48ba9e1424ed",
+      "title": "Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated",
+      "url": "http://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated",
+      "description": "A viral selfie allegedly showing Vladimir Putin, Xi Jinping, Narendra Modi and other leaders together at the BRICS summit in New Delhi is AI-generated. A SynthID watermark shows it was created using OpenAI tools, while several leaders pictured, including Brazil’s Lula and Turkey’s Erdogan, did not attend. Another AI selfie features former Iranian president Ebrahim Raisi, who died in 2024. Both images were widely shared online, including by official embassy accounts. Vedika Bahl fact-checks.",
+      "published_at": "2026-09-15T19:49:22+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -32,7 +182,8 @@
       "published_at": "2026-09-15T19:42:08+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -318,6 +469,17 @@
     },
     {
       "id": "7a13ae0a108483158bf06a1749f363bae3507712e836a4e5125e7a3be11ed07c",
+      "title": "Teenage soldier 'let down' after sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4zdpwnw9o?at_medium=RSS&at_campaign=rss",
+      "description": "A court martial hears that two senior officers did not deal properly with allegations made by the soldier.",
+      "published_at": "2026-09-15T18:13:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "700b67047b19debcd5b5dfc934aaafaa8e6f39735e878d67a0aaf69d75664b06",
       "title": "Teenage soldier 'let down' after sexual assault",
       "url": "https://www.bbc.co.uk/news/articles/ckge4zdpwnw9o?at_medium=RSS&at_campaign=rss",
       "description": "A court martial hears that two senior officers did not deal properly with allegations made by the soldier.",
@@ -713,7 +875,7 @@
       "id": "e29787669f21527c6c5c458caa8136899c5f3739022bdd6d5b07c73733f36fb5",
       "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "description": "The star says he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "published_at": "2026-09-15T16:01:54+00:00",
       "source": "BBC",
       "categories": [
@@ -724,11 +886,12 @@
       "id": "a4c0b559ce82806f459eb2024f4d19f943bf094ae6b0efa1b16b9b1fea4c3912",
       "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "description": "The star says he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "published_at": "2026-09-15T16:01:54+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "Northern Ireland"
       ]
     },
     {
@@ -1073,6 +1236,17 @@
       ]
     },
     {
+      "id": "31ee21d595be9ddeafa4070b27ef35f4c9a93988dfb848e36eb9d31ddb289173",
+      "title": "AI poses huge risks to national security without guardrails, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/crvgyq7wljzwo?at_medium=RSS&at_campaign=rss",
+      "description": "First Secretary of State Louise Haigh addresses growing concerns over AI safety in a speech at the TUC Congress.",
+      "published_at": "2026-09-15T15:00:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "803c2167e863973ce395f97eb33deac05876a0b638653efc203ea7b578828a1a",
       "title": "How the Noah Donohoe inquest came about after six years of delays",
       "url": "https://www.bbc.co.uk/news/articles/cvgd1er4qp2o?at_medium=RSS&at_campaign=rss",
@@ -1138,6 +1312,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "9693473f63d3efea9feebcb7f71f356154fc504eab40ef355725d227f866ddbd",
+      "title": "Two dead after car hits group of pedestrians",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
+      "description": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
+      "published_at": "2026-09-15T14:47:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1881,6 +2066,17 @@
       ]
     },
     {
+      "id": "7d9110efe7449ba6f8c35c786919746affb7c1e7ec6e3ef5a8d5094eeefddb50",
+      "title": "Woman says NHS 'wants to leave me to die'",
+      "url": "https://www.bbc.co.uk/news/articles/cm89jqwg2qkqo?at_medium=RSS&at_campaign=rss",
+      "description": "Naomi Smith, who can only open her jaw by 14mm, says she has been in \"constant pain for 30 years\".",
+      "published_at": "2026-09-15T12:56:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "079c2aa4dd5db9cb06a8fd3fa09c5d88c9334c62e95f141e89c9dbc7d1a31b44",
       "title": "Number of people claiming key disability benefit hits record high",
       "url": "https://www.bbc.co.uk/news/articles/cqr7djnl3000o?at_medium=RSS&at_campaign=rss",
@@ -2142,6 +2338,17 @@
     },
     {
       "id": "1cf09fd6145b5bb1058fea8cf3bbebca1d2775e53bd3b6bf854b3d5c890562e8",
+      "title": "O'Neill to raise Robert Hamill report with PSNI chief constable",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0610pm0z6o?at_medium=RSS&at_campaign=rss",
+      "description": "Robert Hamill was 25 when he died after he was beaten by loyalists in Portadown, County Armagh, in 1997.",
+      "published_at": "2026-09-15T12:01:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "a7bea27d2ea3222b3fcf4adef4b4a912a46489838769bec1f958de5ef7cfdf89",
       "title": "O'Neill to raise Robert Hamill report with PSNI chief constable",
       "url": "https://www.bbc.co.uk/news/articles/ckj0610pm0z6o?at_medium=RSS&at_campaign=rss",
       "description": "Robert Hamill was 25 when he died after he was beaten by loyalists in Portadown, County Armagh, in 1997.",
@@ -2628,6 +2835,7 @@
       "published_at": "2026-09-15T10:25:28+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -3952,6 +4160,17 @@
       ]
     },
     {
+      "id": "ffdf26b0d7101348966c139af1dd269329df13283ba7106ce2790e7abffe6689",
+      "title": "Memorable moments from the Emmys and everything you couldn't see on TV",
+      "url": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
+      "description": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
+      "published_at": "2026-09-15T05:30:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "85fe1ec6fa61626b8b93568ca1fade8c5e64dc6ffadb31756a992a35fdad6bd5",
       "title": "Hong Kong’s MTR Corp announces half-price fares for ‘Thank You Day’ on October 24",
       "url": "https://www.scmp.com/news/hong-kong/transport/article/3367549/hong-kongs-mtr-corp-announces-half-price-fares-thank-you-day-october-24?utm_source=rss_feed",
@@ -4932,7 +5151,7 @@
       "id": "441986e90400f9b0672ff2a61457a3771f94dc83bb008a06b4c4036bdf389696",
       "title": "NATO fighter jets shoot down drone over Lithuania after latest incursion",
       "url": "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
-      "description": "NATO scrambled fighter jets overnight to ​shoot down a drone over Lithuania after the latest incursion on the alliance's eastern flank. In a separate incident, Denmark said a Russian warship fired two emergency flares at a Danish helicopter in the Baltic Sea, adding that the Russian ambassador had been summoned over the \"reckless action\". Follow our liveblog for the latest developments.",
+      "description": "NATO scrambled fighter jets overnight to ​shoot down a drone over Lithuania after the latest incursion on the alliance's eastern flank. In a separate incident, Denmark said a Russian warship fired two emergency flares at a Danish helicopter in the Baltic Sea, adding that the Russian ambassador had been summoned over the \"reckless action\". Read our liveblog to see how the day's events unfolded.",
       "published_at": "2026-09-15T02:19:11+00:00",
       "source": "France 24",
       "categories": [
