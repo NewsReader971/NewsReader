@@ -1,6 +1,284 @@
 {
-  "last_updated": "2026-09-16T12:03:37.586593+00:00",
+  "last_updated": "2026-09-16T13:04:24.474333+00:00",
   "articles": [
+    {
+      "id": "08417e5f470eee8df14f7a41e731e704844f8d13e97f2bc003bfda383dc8e869",
+      "title": "How is Democracy Doing?",
+      "url": "http://www.france24.com/en/tv-shows/entre-nous/20260916-how-is-democracy-doing",
+      "description": "For the UN's International Day of Democracy we ask: “how is democracy doing in France and globally?” We also take a look at Le Monde's Ipsos poll on the presidential election as well as studies on the effect US politics is having on democracy globally. Finally, we will break down a common misperception that backsliding is due to “democracy not delivering”.",
+      "published_at": "2026-09-16T13:01:57+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c01bf578272aefcd2b41269eb34f8b17afe41fec628b99eea771804d7a7df34a",
+      "title": "Former Kosovo president sentenced to 25 years for war crimes",
+      "url": "http://www.france24.com/en/europe/20260916-former-kosovo-president-sentenced-to-25-years-for-war-crimes",
+      "description": "Former Kosovo President Hashim Thaci was found guilty of war crimes committed as part of the Kosovo Liberation Army including murder, torture and illegal arrests by a tribunal in The Hague on Wednesday. Thaci was sentenced to 25 ​years in prison alongside fellow former KLA figures who were also found guilty and sentenced.",
+      "published_at": "2026-09-16T12:55:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "8129d59cfbcba87184be222d312105e5c7f5e698bfc12bce349d02757db8d619",
+      "title": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
+      "url": "https://www.channelnewsasia.com/business/hedge-funds-step-up-bets-against-consumer-stocks-in-august-hazeltree-says-6389281",
+      "description": "",
+      "published_at": "2026-09-16T12:55:21+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f55c576a338890547ad581d2a04695e6f3214302ec123cfaa4ac96743c374452",
+      "title": "News chopper crash in Los Angeles kills three",
+      "url": "https://www.channelnewsasia.com/world/news-chopper-crash-in-los-angeles-kills-three-6389256",
+      "description": "The helicopter was covering a deadly bus accident when it came down in a Los Angeles neighbourhood.",
+      "published_at": "2026-09-16T12:55:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "e0405ac39300ad3fdc0fee1aea19f123ec4cafe2dfefa1240ba91c3f785e43aa",
+      "title": "Burnham rejects 'tax and spend socialist' comments",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget.",
+      "published_at": "2026-09-16T12:50:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3d99ff4bcbf4ab5f718e786e38d2282d67e4140329764e3d0097b45be41cd2e5",
+      "title": "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
+      "url": "https://www.channelnewsasia.com/world/russia-us-space-arms-race-weapons-6389176",
+      "description": "The US acknowledged this week that the Pentagon is operating weapons in Earth's orbit, a landmark moment in the militarisation of space.",
+      "published_at": "2026-09-16T12:44:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "3bc598924821867584789727b8f4152632c6069c0c0a56ee503e7127229dede5",
+      "title": "Australia to ban student dependants as Labor fends off far-right pressure",
+      "url": "https://www.scmp.com/week-asia/politics/article/3367748/australia-ban-student-dependants-labor-fends-far-right-pressure?utm_source=rss_feed",
+      "description": "Australia is set to introduce sweeping changes to its immigration policy by barring international students from bringing dependants, in a bid to ease housing pressures and fend off a growing political challenge from the far-right. Home Affairs Minister Tony Burke will announce the measures at the National Press Club in Canberra on Thursday, outlining plans to trim net overseas migration from 300,000 to 225,000 by 2028. The issuance of temporary residence permits would also be reduced to curb...",
+      "published_at": "2026-09-16T12:42:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "68641e1697930a567f2563655913ec1006042af97a3800e39f565055339b719d",
+      "title": "Author and critic Bonnie Greer dies aged 77",
+      "url": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
+      "description": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
+      "published_at": "2026-09-16T12:41:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "1c50aeab36a750e0e5abd5491f5451805f025d451a68d40614fd375bb83ac0d4",
+      "title": "Hong Kong leader pledges building maintenance reforms after fatal Tai Po fire",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367744/hong-kong-leader-pledges-building-maintenance-reforms-after-fatal-tai-po-fire?utm_source=rss_feed",
+      "description": "Hong Kong’s leader has pledged to overhaul the city’s building maintenance regime and improve emergency response as part of the government’s response to last year’s fatal Tai Po fire, while authorities study criminalising bid-rigging and plan to submit a proposal later this year. The measures were outlined in Chief Executive John Lee Ka-chiu’s policy address on Wednesday, amid pressure on the government to strengthen oversight of renovation works after the city’s deadliest fire in decades at...",
+      "published_at": "2026-09-16T12:36:43+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "4db777c9fb5c68bab4dd4b05d60a7b213f3b274ac7b1351660f7c33ee90a8378",
+      "title": "Health board considers biggest service shake-up for a generation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx4zw22vwo?at_medium=RSS&at_campaign=rss",
+      "description": "There could be a reduction in the number of community hospital beds across the area.",
+      "published_at": "2026-09-16T12:33:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "dd46387f6af7154c442f73c78fd3cf98c5335f7de992b275a9e6ecace8547999",
+      "title": "What's driving UK 'shoplifting crisis'?",
+      "url": "https://www.bbc.co.uk/news/videos/c639m43070vpo?at_medium=RSS&at_campaign=rss",
+      "description": "The number of shoplifting offences recorded in England and Wales in 2025-26 is still above pre-pandemic levels.",
+      "published_at": "2026-09-16T12:32:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a40e4cf87d42a9dc036b1bfe55596d792a6e999ede1409f39dd2ca263c4b7c8b",
+      "title": "Why Russia’s AI-powered economic future lies in its Far East",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3367500/why-russias-ai-powered-economic-future-lies-its-far-east?utm_source=rss_feed",
+      "description": "I attended this year’s Eastern Economic Forum in Vladivostok and took part in a dialogue on technological development. There, I had a deep discussion with Maxim Oreshkin, Russia’s deputy chief of the presidential executive office, who co-chairs the country’s national AI headquarters. I left Vladivostok with a broader impression: Russia increasingly sees its Far East as a place to build a new version of its economy. For decades, Russia’s Far East has been understood through geography. It is vast,...",
+      "published_at": "2026-09-16T12:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "3a91d4a4f0c402b5b6bf433ffb79c136b8c0bea72282ff0dcda676f06cc974a9",
+      "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
+      "url": "https://www.channelnewsasia.com/east-asia/sk-hynix-intel-deal-memory-chip-us-6388281",
+      "description": "Details about how a SK Hynix-Intel deal might be structured are being reported for the first time.",
+      "published_at": "2026-09-16T12:30:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "450f1df163c2fe572542e61144fbb7cd76f7a8d96fef772f363c14069c3a3758",
+      "title": "Hong Kong to set up ‘AI city brain’ to boost disaster response and public safety",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367746/hong-kong-set-ai-city-brain-boost-disaster-response-and-public-safety?utm_source=rss_feed",
+      "description": "Hong Kong will create an “AI city brain” system to strengthen its response to extreme weather events, major incidents and public order management, while creating the role of artificial intelligence commissioner to tackle emerging challenges. While the city’s first five-year plan set out a vision to advance technology development, Chief Executive John Lee Ka-chiu outlined seven key areas of AI risk governance in Wednesday’s policy address, including efforts to combat the use of AI in crime and...",
+      "published_at": "2026-09-16T12:27:10+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "e77e112a4e2cdf69d3f7ba5ecb675a2f37cb3886349bc6e221b9243db5541302",
+      "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
+      "description": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire. Analysts expect MetaX to face “significant selling pressure” when the restricted shares are released for trading, after the expiry of a similar lock-up period for shares in fellow AI chip firm Moore Threads last week sparked an avalanche of sales that wiped nearly 49 billion yuan...",
+      "published_at": "2026-09-16T12:25:00+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "e2437d3b328301a1ee2ac25829791083fa5664b996e6d7c8d79826b46ca11bd3",
+      "title": "Senedd member who quit Reform says party is 'falling apart' and she backs independence",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Cooper-Lesadd also revealed she voted Remain in the 2016 Brexit referendum.",
+      "published_at": "2026-09-16T12:16:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "e6e68db2455118c00f0f7f39f11c409f32738324b63ed14a5ecfac188dcf1c8a",
+      "title": "Senedd member who quit Reform says party is 'falling apart' and she backs independence",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Cooper-Lesadd also revealed she voted Remain in the 2016 Brexit referendum.",
+      "published_at": "2026-09-16T12:16:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c6e72bd64bddc62d28df8ee6c231ac14120ae34eb7a6dd107822ceb8a0f42690",
+      "title": "Senedd member who quit Reform says party is 'falling apart' and she backs independence",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjz3qyezzo?at_medium=RSS&at_campaign=rss",
+      "description": "Sarah Cooper-Lesadd also revealed she voted Remain in the 2016 Brexit referendum.",
+      "published_at": "2026-09-16T12:16:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "980e6691d2dd12a759a2d21ec259add4e32f7630b6d718d942458172ce2e3948",
+      "title": "Hong Kong’s HK$30,000 bonus for second child among 11 new measures to boost births",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367743/hong-kong-offers-hk30000-second-child-among-11-new-measures-boost-births?utm_source=rss_feed",
+      "description": "Hong Kong authorities have rolled out 11 new initiatives to encourage residents to have children, including an expanded cash bonus scheme and a reduced down payment for subsidised housing for parents with newborns. In the latest policy address delivered on Wednesday, Chief Executive John Lee Ka-chiu announced that the HK$20,000 (US$2,550) newborn bonus scheme, expiring on October 24, would be extended for another three years. He added that the cash bonus for second and subsequent children would...",
+      "published_at": "2026-09-16T12:16:54+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "6aeb0f107403e6a2b3ed97498c5fcde1b7d7c22101e7f72ee979eaa74d1e84d0",
+      "title": "Pupils trained to use life-saving bleed kits",
+      "url": "https://www.bbc.co.uk/news/articles/cn8evy663pzo?at_medium=RSS&at_campaign=rss",
+      "description": "The Daniel Baird Foundation kits have been installed in all Wolverhampton West secondary schools.",
+      "published_at": "2026-09-16T12:15:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "08e18cdfe5c374c424911187758450a1b1dfd6b26dcccfbb1de095d6d474a2cc",
+      "title": "Endangered water voles introduced to reserve",
+      "url": "https://www.bbc.co.uk/news/articles/cmd68wz8wp29o?at_medium=RSS&at_campaign=rss",
+      "description": "Efforts are being made to reintroduce the locally-extinct species back to the River Wey in Surrey.",
+      "published_at": "2026-09-16T12:12:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "a67182681c4a82611952b0a16923f675214d10ff310414b77bcaa56bc2da369a",
+      "title": "Brexit to blame for small boat migrants - Lib Dem leader",
+      "url": "https://www.bbc.co.uk/news/articles/cqlyl5eppg9po?at_medium=RSS&at_campaign=rss",
+      "description": "Sir Ed Davey says the Conservatives and Reform UK are to blame for the numbers of migrants crossing the Channel.",
+      "published_at": "2026-09-16T12:11:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "9aae59ed1b2ded1028768e5df976849e65a7dfab72a419cf739a433a929402b7",
+      "title": "Hong Kong launching pilot scheme to bring in foreign carers for the elderly",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367741/hong-kong-launching-pilot-scheme-bring-foreign-carers-elderly?utm_source=rss_feed",
+      "description": "Hong Kong will introduce a pilot scheme next year to bring in foreign domestic carers to look after older residents as part of a broader package of measures announced in the policy address to deal with an ageing population. Chief Executive John Lee Ka-chiu said in his address on Wednesday that the government would admit carers under a scheme modelled on the city’s existing foreign domestic helper regime. “With reference to the existing regime for admitting foreign domestic helpers, the...",
+      "published_at": "2026-09-16T12:05:41+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "b52273da98adbbcc5bc2587e41c44d6a7d53d468ef0c8e3e3fb832b292e85cf7",
+      "title": "Judge explains compassionate release of murderer who failed to return to NI jail",
+      "url": "https://www.bbc.co.uk/news/articles/cw3d7mmj3jz2o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who is serving 15 years for the murder of Karol Kelly in Londonderry in 2018, remains on the run on Wednesday.",
+      "published_at": "2026-09-16T12:02:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
     {
       "id": "60d770d8de8b8015a5f11580973ccaed2ae594ce77bcf8658cdde8ba1f76e913",
       "title": "Hong Kong aims to raise zero-carbon energy share of fuel mix to 30% by 2030",
@@ -49,6 +327,39 @@
       ]
     },
     {
+      "id": "930653d97db0a2a3e95c9c231ffeb1703cd3d2da89eeee51f94a500dbc643565",
+      "title": "Gas worker 'may have left valve open', trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/c64gd47er5exo?at_medium=RSS&at_campaign=rss",
+      "description": "Neil Armstrong told a manager he \"may have left the valve open\" at Haut du Mont, a court hears.",
+      "published_at": "2026-09-16T11:59:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "fcf517383c7a37b276deec853580628b9fd2ce0f6247b5b34cf8444c5999b893",
+      "title": "Colonel cleared over handling of soldier abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/ck87vr5vqjrpo?at_medium=RSS&at_campaign=rss",
+      "description": "Jaysley Beck, 19, took her own life at Larkhill Camp in Wiltshire after she was sexually assaulted.",
+      "published_at": "2026-09-16T11:57:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "59718924f622d99dee995ebc42f2ac9b0c912890c48bb9b3074b089df526d6ca",
+      "title": "Colonel cleared over handling of soldier abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/ck87vr5vqjrpo?at_medium=RSS&at_campaign=rss",
+      "description": "Jaysley Beck, 19, took her own life at Larkhill Camp in Wiltshire after she was sexually assaulted.",
+      "published_at": "2026-09-16T11:57:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "3165c152eea749a7004495f448cca19eb6e55cc213258616c16bde4ed3660c8f",
       "title": "At least 60 killed in gold mine collapse in remote area of Sudan",
       "url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
@@ -80,7 +391,19 @@
       "published_at": "2026-09-16T11:52:28+00:00",
       "source": "CNA",
       "categories": [
+        "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "b194cadbc8f4769ba59abcf525110a4eb3ef4cc971fe34fe1236c914ec478998",
+      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+      "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+      "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+      "published_at": "2026-09-16T11:50:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
       ]
     },
     {
@@ -103,6 +426,50 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "e2ded30600f18001aba13f2983a4472d10938e889fe7d0e620e7dc1defde52b8",
+      "title": "Nandy pledges crackdown on 'doxxing' after RNLI volunteers see personal details online",
+      "url": "https://www.bbc.co.uk/news/articles/c64gjr5l57d2o?at_medium=RSS&at_campaign=rss",
+      "description": "The Culture Secretary condemned how RNLI volunteers and others have had their addresses published online.",
+      "published_at": "2026-09-16T11:47:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "6892d09632cdf0b1099df80a356fc0702dd9bfcd1128717f1a8fe77a8a3fc208",
+      "title": "Reform says members will not get vote on who replaces Dan Thomas as Welsh leader",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgynjd2qnyo?at_medium=RSS&at_campaign=rss",
+      "description": "Llyr Powell says membership will want Reform politicians to get on with the job, as party meets to discuss next steps.",
+      "published_at": "2026-09-16T11:44:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "66c1da92f96d47e0972aeebb8c1d61a4edc6c967306e5c0845d309fee1d0d14c",
+      "title": "Lucy Letby: Families' solicitor blames hospital bosses for police delay",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmllp86mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The Thirlwall Inquiry found repeated failures by hospital leaders to act on concerns.",
+      "published_at": "2026-09-16T11:41:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "181ccad8d0e75268dee70b1852b3391227708819e3aeafd61c418bd72ece5da4",
+      "title": "Lucy Letby: Families' solicitor blames hospital bosses for police delay",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmllp86mmo?at_medium=RSS&at_campaign=rss",
+      "description": "The Thirlwall Inquiry found repeated failures by hospital leaders to act on concerns.",
+      "published_at": "2026-09-16T11:41:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -186,6 +553,17 @@
       ]
     },
     {
+      "id": "dab0970a5a6060e501f35d39c4e095de7b3d7348b25e5b24c31150cf56ea3e42",
+      "title": "Chocolate mini-eggs thief pulled knife on guard",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xk9ydxzy4o?at_medium=RSS&at_campaign=rss",
+      "description": "Shoplifter Paul Williams, who has 150 offences on his record, is jailed for his latest thefts.",
+      "published_at": "2026-09-16T11:15:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "7c3d73e2e33a7a7c1fcb2351b2a14b5109ec82c3b9f3d1b4b8ae856f1c45ebd5",
       "title": "Parents of Southport attack victim 'devastated' by data breach",
       "url": "https://www.bbc.co.uk/news/articles/c6n4523y5490o?at_medium=RSS&at_campaign=rss",
@@ -204,7 +582,8 @@
       "published_at": "2026-09-16T11:15:44+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -250,6 +629,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "b0ee15f14b4144115882deae60300ee9ad5760bb31fe215d982f983f6aaac4ce",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
+      "published_at": "2026-09-16T11:09:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
       ]
     },
     {
@@ -932,7 +1322,7 @@
       "id": "a2f4fcd0ad42a82cc9d3621eb156f50e3e6a815050d8a7cbb44da8b154a8e5bd",
       "title": "Council tax bills in Wandsworth could almost double",
       "url": "https://www.bbc.co.uk/news/articles/cm70dll40p93o?at_medium=RSS&at_campaign=rss",
-      "description": "The council says it will have to raise council tax by that much unless the government rethinks cuts.",
+      "description": "The council says it will have to raise council tax significantly unless the government rethinks cuts.",
       "published_at": "2026-09-16T08:58:21+00:00",
       "source": "BBC",
       "categories": [
@@ -1029,6 +1419,7 @@
       "published_at": "2026-09-16T08:29:40+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -1118,7 +1509,7 @@
       "id": "d27a73d80f3195eba6edba1235c46f2cbefe7aa1c616c6febf52d2558d656eab",
       "title": "At least 12 killed after war-damaged Gaza building collapses",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living.",
+      "description": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
       "published_at": "2026-09-16T07:58:22+00:00",
       "source": "BBC",
       "categories": [
@@ -1783,6 +2174,17 @@
       ]
     },
     {
+      "id": "2c9418107a7fbe84090773b8326bef3af295b650bbcf7a508456b5bc401659bb",
+      "title": "Brass band trumpets 14th win as Britain's best",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw74jk6k3o?at_medium=RSS&at_campaign=rss",
+      "description": "Foden's Band, known as one of the world's best brass bands, adds another title to its collection.",
+      "published_at": "2026-09-16T05:22:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "e3e00d2d85b24fecf307ae4f984bbfed273cfe0fd45ab20205b9f9b450a675bc",
       "title": "Shoplifters carrying shopping lists, says M&S manager",
       "url": "https://www.bbc.co.uk/news/articles/c539m4n9lz0do?at_medium=RSS&at_campaign=rss",
@@ -1921,6 +2323,17 @@
     },
     {
       "id": "f040a24ab7746cdff05bb6921e5fb7f14994a8a31a8471b14498c7334512bc32",
+      "title": "Bakery 'too successful' to stay at Borough Market",
+      "url": "https://www.bbc.co.uk/news/articles/ck4gq553ynl0o?at_medium=RSS&at_campaign=rss",
+      "description": "The bakery says Borough Market is ending its lease because of its international success.",
+      "published_at": "2026-09-16T05:10:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "082c520215fae7e2c63da39819e5f7bbb953e58d3a0b3d21300205e3907214bf",
       "title": "Bakery 'too successful' to stay at Borough Market",
       "url": "https://www.bbc.co.uk/news/articles/ck4gq553ynl0o?at_medium=RSS&at_campaign=rss",
       "description": "The bakery says Borough Market is ending its lease because of its international success.",
@@ -2218,6 +2631,17 @@
     },
     {
       "id": "df48ca7083a43236c8f2daff075e93033926dbf4ffebc9669950261e63ede57e",
+      "title": "Is bankrupt competitions boss behind new scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
+      "description": "The man behind a competions company which went bust owing thousands is back with a new venture.",
+      "published_at": "2026-09-16T03:52:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d3eb0bfaf460ab53cd5e26579b2e369a68bd5b4ebd20c60f61369dd3beebc1d2",
       "title": "Is bankrupt competitions boss behind new scheme?",
       "url": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
       "description": "The man behind a competions company which went bust owing thousands is back with a new venture.",
@@ -3276,6 +3700,18 @@
       "published_at": "2026-09-15T22:04:38+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
+        "Wales"
+      ]
+    },
+    {
+      "id": "f5a317cf9f074ce5521cd9b177e6d46082ed13d5a965c11c342f830129070c74",
+      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+      "published_at": "2026-09-15T22:04:38+00:00",
+      "source": "BBC",
+      "categories": [
         "Wales"
       ]
     },
@@ -3358,6 +3794,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "2475c025208e34581c8d8a2512311d940c291999ba7cbe52e41b2e47fe7c826f",
+      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Trump-appointed board was blocked from adding the inscription \"Renovated and Restored by President Donald J. Trump\".",
+      "published_at": "2026-09-15T21:55:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
       ]
     },
     {
@@ -3957,7 +4404,7 @@
       "id": "a6f62f1d226c971556ce2fae0df0729beadb644a38cd9981aee518a01bf552cf",
       "title": "'Revolutionary change in American foreign policy': Canada pivoting towards EU, India and China",
       "url": "http://www.france24.com/en/tv-shows/spotlight/20260915-revolutionary-change-in-american-foreign-policy-canada-pivoting-towards-eu-india-and-china",
-      "description": "François Picard is pleased to welcome Anne Applebaum, staff writer at The Atlantic and author of Autocracy, Inc. According to Applebaum, the upheaval in American diplomacy and foreign policy transcends any one administration. She describes a full-fledged transformation in the way the United States exerts power, pivoting away from leadership of a democratic alliance and toward a transactional, mafia-style politics that fuses ideology, private economic interests, personal relationships and geopolitical leverage.",
+      "description": "In this edition, FRANCE 24’s François Picard speaks with Anne Applebaum, staff writer at The Atlantic and author of Autocracy, Inc. According to her, the upheaval in American diplomacy and foreign policy transcends any one administration. She describes a full-fledged transformation in the way the United States exerts power, pivoting away from leadership of a democratic alliance and toward a transactional, mafia-style politics that fuses ideology, private economic interests, personal relationships and geopolitical leverage.",
       "published_at": "2026-09-15T19:18:43+00:00",
       "source": "France 24",
       "categories": [
@@ -6250,6 +6697,17 @@
       ]
     },
     {
+      "id": "c9e65f7c070e498c71a0145a935ff67146bac91e91a72230d54037327080a060",
+      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
+      "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+      "published_at": "2026-09-15T12:06:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "e0b128397feb23812cc05ec14e8b3004d06acf3fc564efc0c71d9830c090665a",
       "title": "Key findings from Lucy Letby Thirlwall Inquiry",
       "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
@@ -7204,6 +7662,17 @@
     {
       "id": "876f93ace0d0dcd16d8c001913afed8dbebc1c922d4bc66a8ddc01e1975f3d79",
       "title": "Sweeney ad a barrier for girls in sport - Hunt",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
+      "description": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
+      "published_at": "2026-09-15T09:22:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "915e1574e022acc3e254ddbdce5d2ed9c6db1abad8fbc62bc2c0bf040676af32",
+      "title": "Sydney Sweeney ad a barrier for girls in sport - Amy Hunt",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
       "description": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
       "published_at": "2026-09-15T09:22:10+00:00",
@@ -20571,6 +21040,7 @@
       "published_at": "2026-09-12T23:06:08+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "UK"
       ]
     },
