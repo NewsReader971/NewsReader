@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-09-16T04:02:55.179401+00:00",
+  "last_updated": "2026-09-16T05:02:31.793691+00:00",
   "articles": [
+    {
+      "id": "8b7ead97b819ebf42bed8f1e4ced1ff677770733b43349124d5f7c68fd8fb7eb",
+      "title": "News helicopter crashes in Los Angeles, killing 3",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367672/news-helicopter-crashes-los-angeles-killing-3?utm_source=rss_feed",
+      "description": "Three people were killed Tuesday in a fiery crash when a US news media helicopter covering a deadly bus crash came down in a Los Angeles neighbourhood. Media in the city had scrambled to cover a deadly accident, after an SUV ploughed into a bus in the Chatsworth area, northwest of downtown, killing another three people and injuring many others in a city where news outlets routinely fly over large incidents. Reporters who were at the scene of the bus crash said there was a loud bang, with some...",
+      "published_at": "2026-09-16T05:01:26+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "dbe7e64c96b716611469cab59a86476b020db07ede7c7ae41a4ba2b541c21c57",
+      "title": "'Dim rheswm' i blant ag alergeddau difrifol wynebu 'mwy o risg' nag yn Lloegr",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9lykd2dzk00o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae cyfraith yn Lloegr yn gorfodi ysgolion i ddilyn canllawiau alergedd penodol, ond nid yw'n bodoli yng Nghymru.",
+      "published_at": "2026-09-16T04:58:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5bf221c395f9127169b866aa222cd8126610b303d8a4b8a93a92398d1fd552b2",
+      "title": "Media helicopter crashes in LA while covering bus collision, killing three",
+      "url": "http://www.france24.com/en/americas/20260916-media-helicopter-crashes-in-la-while-covering-bus-collision-killing-three",
+      "description": "A news helicopter covering a deadly bus crash in the Los Angeles neighbourhood of Chatsworth came down on Tuesday, killing three people, including a pedestrian.",
+      "published_at": "2026-09-16T04:47:53+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "a85f6ec21055174daec5f27fc6fbc5ce6142ce266e88d286abef063a728707a3",
+      "title": "Saudi says Houthis target Mecca, warn of 'red line'",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-target-mecca-6388146",
+      "description": "Saudi Arabia reported that it shot down a drone from the rebels heading towards the Saudi city of Mecca.",
+      "published_at": "2026-09-16T04:46:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "8b9a4a9a78880280dde57cad4ba2de227bbb84459a5acd9906e4e7135c4f460c",
+      "title": "Greater dialogue as AI, outer space rivalries grow; bigger security role by major powers: China's defence chief",
+      "url": "https://www.channelnewsasia.com/east-asia/china-xiangshan-forum-dong-jun-ai-space-6366876",
+      "description": "Dong Jun was speaking on Wednesday (Sep 16) at the Xiangshan Forum in Beijing which was attended by delegates from nearly 100 countries and regions, including Singapore Defence Minister Chan Chun Sing and North Korea’s Vice Defence Minister Kim Kang-il.",
+      "published_at": "2026-09-16T04:34:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a1287e6da8004c1d3d28f60f4c690514dbe5fbe19acca5e23654a4b30121ed9f",
+      "title": "Japanese monks embrace material world to raise cash as donations shrink",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3367667/japanese-monks-embrace-material-world-raise-cash-donations-shrink?utm_source=rss_feed",
+      "description": "Koukyo Yoneta, a fifth-generation Buddhist priest in a small town in Japan’s Hokkaido, was struggling to keep up with the maintenance needs of his century-old temple, so he chose a path that would have been unthinkable for his predecessors – rather than wait for his congregation to give money they do not have, he invested what they had already donated. The move paid off. Within two years, his portfolio of US treasuries, Japanese real estate investment trusts and stocks including BYD and Hyundai...",
+      "published_at": "2026-09-16T04:30:45+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "80ae8a56daedb1084861bb0873ad3875c9da943c35c7c721f75917942011541f",
+      "title": "India's payment firms jump as UPI fee boosts revenue outlook",
+      "url": "https://www.channelnewsasia.com/business/indias-payment-firms-jump-upi-fee-boosts-revenue-outlook-6388116",
+      "description": "",
+      "published_at": "2026-09-16T04:20:11+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4653ec0f633524bcfe33698f1dd4bb20bfe0230535a288ded9faaa9d5e2da8de",
+      "title": "‘Red line’: Saudi coalition accuses Houthis of targeting Mecca with drone",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3367663/red-line-saudi-coalition-accuses-houthis-targeting-mecca-drone?utm_source=rss_feed",
+      "description": "The Saudi-led coalition battling Yemen’s Houthis accused the rebels on Wednesday of targeting Islam’s holy city Mecca, sparking outrage across the Muslim world and deepening the conflict roiling the region. Fresh fighting between the Iran-backed Houthis and Saudi-backed Yemeni government has dragged in Riyadh, with the Houthis declaring a maritime blockade on the kingdom and targeting its ships in the Red Sea. Last week’s lightning offensive saw the group seize control of the entirety of Yemen’s...",
+      "published_at": "2026-09-16T04:06:58+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
     {
       "id": "c791593c40729e02f8f76b71823edb903b13dd662f48f094ce12758f1e650946",
       "title": "Chinese scientists build world’s smallest CT scanner, weighing just 6kg",
@@ -21,7 +116,8 @@
       "published_at": "2026-09-16T04:00:06+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -37,6 +133,17 @@
     },
     {
       "id": "7e327fa4261b3a7146c84363289c883a48c234f1822dc6e2a76f4a12e32b06d9",
+      "title": "How rising bond yields impact American consumers",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+      "published_at": "2026-09-16T03:58:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fb64eef5eda8618029ab2c0ec7e7c8579964b473a1fc22f2971b6c0c64bafe8e",
       "title": "How rising bond yields impact American consumers",
       "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
       "description": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
@@ -446,6 +553,7 @@
       "published_at": "2026-09-16T00:11:25+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -471,6 +579,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "3832255a9055ca615eff7b6dd0f5d53c0ba8192f5286d3ac3994a9289a727fb0",
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+      "published_at": "2026-09-16T00:05:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -1287,6 +1406,17 @@
       ]
     },
     {
+      "id": "efd6c8ab233a9d7bf74fc318585867c47dd93b90f19dea9dc3a280c743cf9900",
+      "title": "People evacuated after bomb squad called to house",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5xgz7z7go?at_medium=RSS&at_campaign=rss",
+      "description": "A cordon is in place and a bomb disposal unit is at the scene in the High Green area of Sheffield.",
+      "published_at": "2026-09-15T20:28:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "346e9934ea66df5b26cf6c7795fcc0b7ec5adb69aae0616f9133a2208cf79570",
       "title": "NATO jets down drone over Lithuania as Russian ship fires flares at Danish helicopter",
       "url": "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
@@ -1527,6 +1657,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b7c1247c80f38efb1117af9a8dc226e62ae66773d7897352376c6310d1da3ea5",
+      "title": "Asian stocks stutter as traders prepare for Fed decision",
+      "url": "https://www.channelnewsasia.com/world/us-asian-stocks-market-fed-inflation-ai-6387061",
+      "description": "",
+      "published_at": "2026-09-15T19:20:00+00:00",
+      "source": "CNA",
+      "categories": [
         "World"
       ]
     },
