@@ -1,6 +1,260 @@
 {
-  "last_updated": "2026-09-16T14:03:37.442460+00:00",
+  "last_updated": "2026-09-16T15:03:23.284877+00:00",
   "articles": [
+    {
+      "id": "481210d88fd92fde010eb810a8c1d53395856d923ac15097b943b2001a9fa9f8",
+      "title": "'Putney pusher' suspect found dead at home",
+      "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
+      "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
+      "published_at": "2026-09-16T15:00:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "80b6df1569ffcd383295f94be34ac674d225ace7b932298596785e7f266fb626",
+      "title": "China uses 100,000 home-grown AI chips to build leading weather forecast system",
+      "url": "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system?utm_source=rss_feed",
+      "description": "China said it can now predict weather 10 days in advance at a cutting-edge resolution of 5km (3.1 miles), finer than most major systems in routine use around the world. The advance was achieved by a Chinese-developed weather forecasting model running on Sugon 8,000, a massive home-grown computing system built entirely with domestically made AI chips. Most major global forecasting systems have resolutions of roughly 5km to 10km, according to the China Meteorological Administration and...",
+      "published_at": "2026-09-16T15:00:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "9719a7b17008679eb4174b7b3cbdbdebb975ee7b0023c3425019ab8e2be0c91a",
+      "title": "Emergency doctor on the challenges of caring for civilians in conflict zones",
+      "url": "http://www.france24.com/en/tv-shows/perspective/20260916-emergency-doctor-on-the-challenges-of-caring-for-civilians-in-conflict-zones",
+      "description": "For humanitarian doctors and healthcare workers operating in active conflict zones, the challenges are seemingly endless: from so-called \"double tap\" strikes that put emergency workers at risk, to roadblocks, evacuation orders and even the positioning of humanitarian organisations in the political debate. Pierre Catoire, emergency doctor and vice-president of Mehad — A French NGO dedicated to healthcare in conflict zones — speaks to FRANCE 24 about how medical professionals go about their work in such conditions.",
+      "published_at": "2026-09-16T14:55:44+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "784144e283d2cfe48e372dc46a9cdc16c4ab1ab39935dc1d7ecffb8404a94d5b",
+      "title": "Hong Kong leader vows support for media’s global reach, to review TV practice code",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3367766/hong-kong-leader-vows-support-medias-global-reach-review-tv-practice-code?utm_source=rss_feed",
+      "description": "Hong Kong’s leader has expressed renewed support for the local media industry, including strengthening its global reach and reviewing the code of practice for television to ensure it keeps abreast with the times. Chief Executive John Lee Ka-chiu made the pledges in both the city’s first five-year plan and the policy address he unveiled on Wednesday. In the section on “Develop an East-meets-West Centre for International Cultural Exchange” under the five-year plan, Lee said: “We will strengthen...",
+      "published_at": "2026-09-16T14:55:39+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "fca6d23ada203dcd4d744e7cc9424af1bb40dcfbd5e88fa952a7b188a8e67a2a",
+      "title": "Von der Leyen pitches 'associate member' status for Canada: What does it mean for EU-US ties?",
+      "url": "http://www.france24.com/en/video/20260916-von-der-leyen-pitches-associate-member-status-for-canada-what-does-it-mean-for-eu-us-ties",
+      "description": "European Commission President Ursula von der Leyen said on Wednesday she wanted to open the door for Canada to become the European Union's first \"associate member\". Earlier this week, Canada's Prime Minister Mark Carney — who was in Strasbourg to listen to von der Leyen's annual State of the Union address — said Canada was seeking a \"unique alliance\" with the EU, but not membership. We discuss this with our guest, Gerardo Fortuna, author of Brussels Playbook.",
+      "published_at": "2026-09-16T14:55:19+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "4c4d428bb01cd8c56153a8a49dc407669c644c888a29df14a665d2beb2f90be9",
+      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
+      "published_at": "2026-09-16T14:52:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "id": "13bc0b34ea6dfaaff137b37dafa8b2185614d059a57519c0f86ac900515135f7",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+      "published_at": "2026-09-16T14:50:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "72687644e3d8dcadc6085e4b7e6dcd2cff83eb6c7fac2c901d9c718ca763e703",
+      "title": "ScotRail app problems may not be fixed by end of the year, MSPs hear",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxz12k8pgko?at_medium=RSS&at_campaign=rss",
+      "description": "The rail operator admitted the launch of the app had \"not been good enough\" but could not say when the problems would be rectified.",
+      "published_at": "2026-09-16T14:49:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "fd416b7ca1b5e4c52bcf8a87e0c42a3e28914b828a53837b00f43d7a2bd97784",
+      "title": "Afiechydon ond digonedd o win: Sut oedd bywyd o dan Owain Glyndŵr?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwvgydkgjrepo?at_medium=RSS&at_campaign=rss",
+      "description": "Dydd Owain Glyndŵr: Beth ydyn ni'n ei wybod am fywydau'r tenantiaid a'r gweithwyr cyffredin yn Sycharth?",
+      "published_at": "2026-09-16T14:45:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "8b43445437f13dbd422e86cfc341102982eed62345789afc07af5262937cac20",
+      "title": "Y Glôb: Chwilio am weithredwr newydd i ailagor tafarn eiconig",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3zxz1d2lkleo?at_medium=RSS&at_campaign=rss",
+      "description": "Cwmni'n chwilio am weithredwr newydd i dafarn eiconig Y Glôb ym Mangor, wrth i fyfyrwyr ddweud ei fod yn \"gymuned, nid jest tafarn\".",
+      "published_at": "2026-09-16T14:44:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "de907963e40a8503e1c67a695141ab3ff9ccf1f12eb996337e3155a781f0330e",
+      "title": "Hong Kong to offer ‘attractive’ merger deals for schools beyond those struggling",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3367765/hong-kong-offer-attractive-merger-deals-schools-beyond-those-struggling?utm_source=rss_feed",
+      "description": "Hong Kong education authorities will offer a “very attractive” proposal and policy support to encourage schools without survival issues to merge amid the shrinking student population, according to official sources. The government said it might allow aided schools and semi-private Direct Subsidy Scheme (DSS) schools to merge and operate across two campuses, though all arrangements remained subject to the forthcoming announcement of further details. Chief Executive John Lee Ka-chiu announced that...",
+      "published_at": "2026-09-16T14:35:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "e0409a1013f7395a77299c20cf8d2227a813d0a213a53e7c1ce3ee21d2936965",
+      "title": "Schools in England get extra £500m in bid to avoid teachers' pay strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
+      "description": "The offer of extra money by the government reduces the prospect of strike action by the largest teaching union.",
+      "published_at": "2026-09-16T14:32:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "247aed71861288bb646ee4266336350bac4464de369501890a935af891e594a8",
+      "title": "Schools in England get extra £500m in bid to avoid teachers' pay strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
+      "description": "The offer of extra money by the government reduces the prospect of strike action by the largest teaching union.",
+      "published_at": "2026-09-16T14:32:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family"
+      ]
+    },
+    {
+      "id": "d3db3a8dd099eb69a7ef75e735db97148eed07ab431d6091570f0f180ac9e74b",
+      "title": "Who is Abdul Malik al-Houthi, the elusive Yemeni commander behind Red Sea-Saudi blitz?",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3367764/who-abdul-malik-al-houthi-elusive-yemeni-commander-behind-red-sea-saudi-blitz?utm_source=rss_feed",
+      "description": "Abdul Malik al-Houthi, an elusive figure who commands ⁠a battle-hardened force, scored his biggest military victory in years when his Iran-aligned Houthi militant group swept through Yemen’s Red Sea coastline and tightened their grip on a vital shipping waterway, rattling oil superpower Saudi Arabia. The offensive, which has been accompanied by attacks on Saudi Arabia, has put the Houthis in a strong position to call the shots in the Bab el-Mandeb strait by potentially halting global trade in...",
+      "published_at": "2026-09-16T14:32:02+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d9b7080cb18116697bc0c34ff205a71762c39598944572a89834dad76b07684e",
+      "title": "Analysis:Crypto bill's defeat shows limits of industry's political machine",
+      "url": "https://www.channelnewsasia.com/business/analysiscrypto-bills-defeat-shows-limits-industrys-political-machine-6389526",
+      "description": "",
+      "published_at": "2026-09-16T14:30:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d015898badcab4de1488ba9b0189632308a98bc2980a8ac30ebfcdb2e57ebc16",
+      "title": "Ed Sheeran: All supporting acts quit tour over Macklemore Palestine controversy",
+      "url": "http://www.france24.com/en/video/20260916-ed-sheeran-all-supporting-acts-quit-tour-over-macklemore-palestine-controversy",
+      "description": "Ed Sheeran’s US tour has been plunged into chaos after all four supporting acts withdrew on Tuesday in solidarity with US rapper Macklemore, who had earlier been dropped from the tour after making comments in support of Palestine. Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham and American singer Finneas all said they would no longer be performing.",
+      "published_at": "2026-09-16T14:23:02+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "82af87d0bde95c42d0c9939f073d196c23cddd7ea5c272c83a2d488735e395fe",
+      "title": "Burnham rejects 'tax and spend socialist' comments",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget.",
+      "published_at": "2026-09-16T14:21:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1d6b83cfdd2553d5a92172ffd2fc38fd8cf1d19af2753e27274307602f43e5b9",
+      "title": "AS adawodd Reform 'wedi cefnogi aros yn yr UE' ac 'o blaid Cymru annibynnol'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm36l82ynzreo?at_medium=RSS&at_campaign=rss",
+      "description": "Dywedodd Sarah Cooper-Lesadd bod Reform hefyd \"yn ddi-drefn\" ac \"yn chwalu\" ar bodlediad Walescast.",
+      "published_at": "2026-09-16T14:21:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "23fad357b13bc9456f11ce1f7dd7cfe2bb4489b586d8dddb5566fcf68cc9fa49",
+      "title": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads",
+      "url": "https://www.channelnewsasia.com/business/openai-tests-advertiser-sponsored-agents-expands-ai-tools-chatgpt-ads-6389506",
+      "description": "",
+      "published_at": "2026-09-16T14:19:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "309438cd93c811f082bfb5e8fd9f7a3258cfbf039be578169fd3366a6c88e851",
+      "title": "Call to raise tax thresholds among union demands ahead of Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cmd94epyg210o?at_medium=RSS&at_campaign=rss",
+      "description": "Unions who donate to Labour will meet John Healey on Thursday to press home their demands ahead of next month's Budget.",
+      "published_at": "2026-09-16T14:19:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "511c49541e452de589bb28e0030b761c06ff2cdd3d63f16285cb761f36f83da9",
+      "title": "Hong Kong’s new training visa could be available in first quarter of 2027",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367763/hong-kongs-new-training-visa-could-be-available-first-quarter-2027?utm_source=rss_feed",
+      "description": "A new visa intended to attract international talent to participate in short-term training programmes in Hong Kong could become available as early as the first quarter of next year, the South China Morning Post has learned. The final policy address of Chief Executive John Lee Ka-chiu’s current term also put the spotlight on five existing or soon-to-launch academies that would seek to train overseas professionals and organise international events. They and the new visa category were among a spate...",
+      "published_at": "2026-09-16T14:15:30+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "0a7b2cec5b7285aaa389ae8d7dd87e684a6d3e115520e462691f060f2e3cf3d4",
+      "title": "China's top diplomat urges Iran, US to show restraint, revive talks",
+      "url": "https://www.channelnewsasia.com/asia/china-iran-us-war-talks-wang-yi-6388751",
+      "description": "\"We urge all parties to take effective measures to reopen the Strait of Hormuz at an early date\", said Chinese Foreign Minister Wang Yi.",
+      "published_at": "2026-09-16T14:11:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "62fbf57cf39706b8df2c82b24a2df92455d029099bedd74b0ec60289ffe09e59",
       "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
@@ -10,6 +264,29 @@
       "source": "BBC",
       "categories": [
         "Technology"
+      ]
+    },
+    {
+      "id": "fea3f894d998e2638f64a01bfbda854c8fa6b0679af9db3b135a1c4de006185d",
+      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
+      "url": "https://www.channelnewsasia.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-6389491",
+      "description": "",
+      "published_at": "2026-09-16T14:02:27+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "03cb5d51074365fc9c8c70c091075cf0c7208fbd07cee96064c7f4420585531b",
+      "title": "Dublin airport rail link cost more than doubles",
+      "url": "https://www.bbc.co.uk/news/articles/c9p807pj8zkpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Metrolink plan is expected to come into operation by the early 2030s.",
+      "published_at": "2026-09-16T14:01:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -45,6 +322,28 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "0802e019190e80ec236baa179d0875687eb73b18429c789b5c9be795071834c9",
+      "title": "Ex-officer jailed over 'toxic' WhatsApp culture",
+      "url": "https://www.bbc.co.uk/news/articles/c3ew98pd1755o?at_medium=RSS&at_campaign=rss",
+      "description": "Former officer who asked for a suspect's sex video to show \"the lads from footy\" is jailed for four years.",
+      "published_at": "2026-09-16T13:58:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "d1e87bf4f47ed718cc8725750202e8dad996b61d058b1ede73e5fb0df094b777",
+      "title": "Ex-police officer who created 'toxic' WhatsApp culture jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c3ew98pd1755o?at_medium=RSS&at_campaign=rss",
+      "description": "Former officer who asked for a suspect's sex video to show \"the lads from footy\" is jailed for four years.",
+      "published_at": "2026-09-16T13:58:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -92,6 +391,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "692e42656eed3ace2918742398e749ee9763ea68890c6ff97ee4427eeb433568",
+      "title": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
+      "description": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at them.",
+      "published_at": "2026-09-16T13:51:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -149,6 +459,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "f9b3a1582d4facb6bcce1b41d76aa027dcaa41c504ce4847a83ab93b9f80e41e",
+      "title": "TotalEnergies up controversy in France with capped gasoline prices",
+      "url": "http://www.france24.com/en/france/20260916-totalenergies-up-controversy-in-france-with-capped-gasoline-prices",
+      "description": "French motorists are flocking to gas stations operated by TotalEnergies, where gasoline prices are capped, but its rivals are accusing the oil giant of unfair competition with the government's support.",
+      "published_at": "2026-09-16T13:32:07+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -306,6 +627,18 @@
       "id": "60fbefd78041e71b69b78bbceb6d79fd9e621c0e25fe9e43eb031746b20c5209",
       "title": "Apple considers Nvidia tech for return to server market, The Information reports",
       "url": "https://www.channelnewsasia.com/business/apple-considers-nvidia-tech-return-server-market-information-reports-6389366",
+      "description": "",
+      "published_at": "2026-09-16T13:09:11+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a0fe72626c08f0fe38d8d21ea3109a860c707853adb61b4469b719d85bb60730",
+      "title": "Apple weighs Nvidia technology for potential server market return, The Information reports",
+      "url": "https://www.channelnewsasia.com/business/apple-weighs-nvidia-technology-potential-server-market-return-information-reports-6389366",
       "description": "",
       "published_at": "2026-09-16T13:09:11+00:00",
       "source": "CNA",
@@ -494,6 +827,17 @@
       ]
     },
     {
+      "id": "ad0a26930e15d738347de8c14736b98f3211a800bafb4ff6a18f2bb22ee458d8",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+      "published_at": "2026-09-16T12:26:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "e77e112a4e2cdf69d3f7ba5ecb675a2f37cb3886349bc6e221b9243db5541302",
       "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
       "url": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
@@ -579,7 +923,8 @@
       "published_at": "2026-09-16T12:11:12+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "Politics"
       ]
     },
     {
@@ -671,6 +1016,7 @@
       "published_at": "2026-09-16T11:57:07+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -730,6 +1076,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "e7bc9860421cb855709abd46650dd32e2b127783c93ab56719538a94ccb1e2ee",
+      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+      "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+      "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+      "published_at": "2026-09-16T11:50:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1367,6 +1724,17 @@
       ]
     },
     {
+      "id": "b7589f9a811032c5c104e564b23c85bb982af7b9e3829e098f85bcc727388370",
+      "title": "Scotland's first 'fire dog' is honoured with statue in Glasgow Central",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyn4w998go?at_medium=RSS&at_campaign=rss",
+      "description": "Wallace was taken in by firemen at the Central Fire Station in 1894 and became a familiar face around the city.",
+      "published_at": "2026-09-16T09:57:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "64689634c5f0f3fce65ef9cfb5811a3f5deef33264a381c110c7332ca1506fa7",
       "title": "EU opens door for Canada to become first associate member",
       "url": "https://www.channelnewsasia.com/world/eu-canada-first-associate-member-6388506",
@@ -1773,6 +2141,17 @@
       ]
     },
     {
+      "id": "b3ecdcfed5ec1db6d765c7a2be77abb2608ac361671dd74921c6d3548f144408",
+      "title": "Trio bag ultra-marathon's first women-only UK podium",
+      "url": "https://www.bbc.co.uk/news/articles/cq07lx95047ro?at_medium=RSS&at_campaign=rss",
+      "description": "At the Hardwick Estate in Derbyshire, competitors ran a 4.16-mile course every hour.",
+      "published_at": "2026-09-16T08:29:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "32ce185e95a8fd9f1b35397793df972a73eec1326c4b9c5083812c3fae21d4e1",
       "title": "China opens major canal linking landlocked regions to sea",
       "url": "https://www.channelnewsasia.com/east-asia/china-open-pinglu-canal-guangxi-gulf-tonkin-6388536",
@@ -2116,6 +2495,7 @@
       "published_at": "2026-09-16T06:52:31+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -3268,6 +3648,7 @@
       "published_at": "2026-09-16T02:09:22+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -3644,7 +4025,8 @@
       "published_at": "2026-09-15T23:50:55+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -4468,6 +4850,17 @@
         "England",
         "Health",
         "UK"
+      ]
+    },
+    {
+      "id": "059609ca932ce247cb6e55c6c482704364f77da6cb854f096d80483502c9c6a5",
+      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+      "description": "Thomas says he has done nothing wrong as Gwent Police confirms his arrest on suspicion of assault.",
+      "published_at": "2026-09-15T20:41:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
