@@ -1,6 +1,87 @@
 {
-  "last_updated": "2026-09-16T03:02:47.055075+00:00",
+  "last_updated": "2026-09-16T04:02:55.179401+00:00",
   "articles": [
+    {
+      "id": "c791593c40729e02f8f76b71823edb903b13dd662f48f094ce12758f1e650946",
+      "title": "Chinese scientists build world’s smallest CT scanner, weighing just 6kg",
+      "url": "https://www.scmp.com/news/china/science/article/3367612/chinese-scientists-build-worlds-smallest-ct-scanner-weighing-just-6kg?utm_source=rss_feed",
+      "description": "Chinese researchers have developed the world’s smallest CT scanner, a portable device designed to produce images of tiny fossils and archaeological relics. Built by the Shandong province-based Rayim, the Xtomo-Cube is about the size of a desktop speaker and weighs just 6kg (13.2lbs). “The device can be held in one hand and is the world’s smallest and lightest CT system, earning it the nickname ‘palm-sized CT scanner’,” Liu Baodong, a senior engineer at the Chinese Academy of Sciences and general...",
+      "published_at": "2026-09-16T04:00:09+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "49babcb308f12f8fb285ca601c73e99986167a525b0629addc07058a3702be74",
+      "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
+      "url": "https://www.channelnewsasia.com/singapore/connect-swda-skillsfuture-careers-courses-free-ai-premium-tools-6387511",
+      "description": "Speaking at the launch of the new centre, Prime Minister Lawrence Wong said people should not need to know which agency runs which scheme before receiving support.",
+      "published_at": "2026-09-16T04:00:06+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "8e8e0f3680a3156eff5559332c0f4899b5271f5bd17f32aa7c0153929032e849",
+      "title": "How rising bond yields impact American consumers",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+      "published_at": "2026-09-16T03:58:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "7e327fa4261b3a7146c84363289c883a48c234f1822dc6e2a76f4a12e32b06d9",
+      "title": "How rising bond yields impact American consumers",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+      "published_at": "2026-09-16T03:58:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "07bdf3df471a73e52218d385be31cc2c543e4c144c69972ae05e109417485abf",
+      "title": "Westlife adds new third show for upcoming Singapore concert, tickets on sale on Sep 21",
+      "url": "https://www.channelnewsasia.com/entertainment/westlife-singapore-concert-2027-new-show-6387716",
+      "description": "Westlife will now perform in Singapore on Jan 18, 2027 – in addition to the previously announced shows on Jan 16 and 17.",
+      "published_at": "2026-09-16T03:32:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b250757172f8a76773945bc0dd8d81e0f7ab1b7a04deb85a30121912d8c01fa0",
+      "title": "Go-Ahead steps up bus captain support after Tampines commuters report longer waits",
+      "url": "https://www.channelnewsasia.com/singapore/go-ahead-bus-delay-long-wait-times-complaints-tampines-6386021",
+      "description": "Tampines residents have complained that their daily bus journeys have become less predictable since Go-Ahead Singapore took over operations from SBS Transit.",
+      "published_at": "2026-09-16T03:27:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "4441a8aa68d1b39ab2c6c6a70b08da9d887fbe05ba3a2183828252d412ac381e",
+      "title": "New French ambassador to US cleared to take up post after diplomatic spat",
+      "url": "http://www.france24.com/en/americas/20260916-new-french-ambassador-to-us-cleared-to-take-up-post-after-diplomatic-spat",
+      "description": "France's incoming ambassador to the US has been cleared to take up his post after Paris apologised for criticism of Washington over a UN vote. Aurelien Lechevallier, chosen by President Emmanuel Macron to replace Laurent Bili, is expected to arrive in Washington in the coming weeks following the diplomatic dispute.",
+      "published_at": "2026-09-16T03:10:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
     {
       "id": "eb865b51a74373c1d0f00242d602fc964b9c568835ba747d6d7f29c161ae21d4",
       "title": "How will the Okinawa governor’s race result reshape China’s local messaging?",
@@ -376,6 +457,7 @@
       "published_at": "2026-09-16T00:05:51+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Science & Environment",
         "UK"
       ]
@@ -450,6 +532,17 @@
         "Business",
         "Politics",
         "UK"
+      ]
+    },
+    {
+      "id": "4188f732d6ee48eac6f33d1ed64fb6bb8385a1a72549298b2eae19b2314680d8",
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+      "published_at": "2026-09-15T23:50:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -1808,7 +1901,7 @@
       "id": "3f64580ad37a5ed18c21c4641c9fcd5f9fd8d2974e6671cf7b408956e590b2bc",
       "title": "Paris court awards Kim Kardashian €1 after 2016 armed robbery",
       "url": "https://www.scmp.com/news/world/europe/article/3367640/paris-court-awards-kim-kardashian-eu1-after-2016-armed-robbery?utm_source=rss_feed",
-      "description": "A Paris court on Tuesday awarded €1 (US$1.15) to Kim Kardashian for having been the victim of an armed robbery in the French capital in 2016, the amount of compensation she had asked for, according to a lawyer involved in the case. Kardashian has sought to move on since the court last year found eight people guilty for their roles in what the US celebrity described as “the most terrifying experience of my life”. The court awarded a former receptionist at the Hotel de Pourtales €109,516...",
+      "description": "A Paris court on Tuesday awarded €1 (US$1.15) to Kim Kardashian for having been the victim of an armed robbery in the French capital in 2016, the amount of compensation she had asked for, according to a lawyer involved in the case. Kardashian has sought to move on since the court last year found eight people guilty for their roles in what the celebrity described as “the most terrifying experience of my life”. She and stylist Simone Harouche expressed gratitude to the French justice system in a...",
       "published_at": "2026-09-15T17:31:20+00:00",
       "source": "SCMP",
       "categories": [
