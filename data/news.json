@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-09-16T20:03:14.787127+00:00",
+  "last_updated": "2026-09-16T21:03:09.222762+00:00",
   "articles": [
+    {
+      "id": "22f9c996b2205aa3763a9e7a32fbec6f67d623e5739f87e4d6a0f2aafc6de8c0",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "description": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
+      "published_at": "2026-09-16T21:02:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1366b990b9058f1684ff248a534a21ed8c6fb144fb54d7159452dc0a767f7e53",
+      "title": "Painful endgame for Gray as stale Hibs slump",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+      "description": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+      "published_at": "2026-09-16T20:53:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "5b02d6a04b58e95db5a1efeab3a577d4f3b0fac7f8cf00e1b9b422a3de12ff3c",
+      "title": "Encouraging signs in DR Congo Ebola fight",
+      "url": "http://www.france24.com/en/encouraging-signs-in-dr-congo-ebola-fight",
+      "description": "In tonight's edition, signs of a welcome slowdown in DR Congo's Ebola outbreak. Also, about 20,000 Ethiopian university students in the northern region of Tigray will be relocated to other campuses across the country. And in northern Senegal, scientists are using fish to keep their food stoicks and communtites healthy.",
+      "published_at": "2026-09-16T20:42:27+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa"
+      ]
+    },
+    {
+      "id": "1a53f06660e11e93de12d7efb30e389a1ec59055dd8c01227fe441af31c9f65e",
+      "title": "Glamorgan survival bid boosted by Leics points deduction",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/crkgwyp2287lo?at_medium=RSS&at_campaign=rss",
+      "description": "Leicestershire are on the brink of relegation from County Championship top flight after breaching pitch regulations against Glamorgan in August.",
+      "published_at": "2026-09-16T20:37:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "8464eef4a516c48adccd28deb49d491071b01ccb9f2844c30c0afb266666ae65",
+      "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/banks-provide-22-billion-chip-loan-blackstone-alphabet-cloud-venture-bloomberg-news-reports-6390211",
+      "description": "",
+      "published_at": "2026-09-16T20:33:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4861bd8e079dd81dea57f12772b5838807b54a582d6b694da62a270f7510170a",
+      "title": "Ex-hospital boss 'astonished' by staff 'complacency' after Lucy Letby's arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cr4glvxvxdw1o?at_medium=RSS&at_campaign=rss",
+      "description": "Dr Susan Gilby says she found a \"general feeling of complacency\" weeks after Lucy Letby's first arrest.",
+      "published_at": "2026-09-16T20:23:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0ca57c1ed7c033c59205c6d0ace2a2bd0cfa883dcaafdfd1be70f74d80a793ba",
+      "title": "Amnesty says Iran committed 'crimes against humanity' in protests crackdown",
+      "url": "http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown",
+      "description": "Iranian authorities committed crimes against humanity in the crackdown on 2022 protests that left hundreds dead, Amnesty International said Wednesday, adding Tehran's suppression of new demonstrations this year bore the \"same hallmarks\" but on an even wider scale. FRANCE 24's Mark Owen speaks with Amnesty International Iran Researcher Raha Bahreini. She calls for the establishment of an international criminal justice mechanism to prosecute those responsible for the crimes.",
+      "published_at": "2026-09-16T20:09:08+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "3c2220bb2920df102caeab3f65d89a81ab449411bbf3574c3d44a0a985873d56",
+      "title": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
+      "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
+      "description": "Saudi Arabia accused Yemen’s Houthis on Wednesday of launching an attack on the holy city of Mecca, which the Iran-backed rebels denied. Saudi Arabia, a US ally which has been the target of large-scale Houthi strikes since early September, declared Mecca a “red line” as it slid deeper into the new front of the Iran war.",
+      "published_at": "2026-09-16T20:08:24+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "95b3947fec730a554623b0a898a2cc6d779271dea01a5101c7e5fe459530e1e9",
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+      "published_at": "2026-09-16T19:59:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "8f10bf309a571d2bc5e859e5cc0e60703d4a7c0e07ea8516ca3b07038e63711c",
       "title": "Saudis seek allies’ help as missile defences run low in fight with Houthis",
@@ -21,7 +123,8 @@
       "published_at": "2026-09-16T19:47:03+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
       ]
     },
     {
@@ -32,7 +135,19 @@
       "published_at": "2026-09-16T19:39:46+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "8b13d78a18fe8dc90cabc827691f42787e37b7a0a4689344936010ea08e3bfaf",
+      "title": "Police chief says justice too late for shop theft",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kxlrj32d2o?at_medium=RSS&at_campaign=rss",
+      "description": "Paul Sanford praises the work of officers but says investment is needed in speeding-up sentencing.",
+      "published_at": "2026-09-16T19:38:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -48,6 +163,17 @@
       ]
     },
     {
+      "id": "bb0063a35a727c385d002afadd9b1a3d0fb28e1933c3be603616fdce37c49789",
+      "title": "Police boss cancels 'ridiculous' theatre tour",
+      "url": "https://www.bbc.co.uk/news/articles/c317jzjvyr5lo?at_medium=RSS&at_campaign=rss",
+      "description": "Colin Sutton tells a meeting that he has pulled out of a 127-date tour due to residents' reaction.",
+      "published_at": "2026-09-16T19:26:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "f5ae0335cff2e243b22c4fbe5bbfabb5a5854cfcf4940aff9efd39118b2867f6",
       "title": "Sweden's centre-left opposition wins election, SVT says",
       "url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says",
@@ -55,7 +181,8 @@
       "published_at": "2026-09-16T19:21:05+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
       ]
     },
     {
@@ -66,7 +193,19 @@
       "published_at": "2026-09-16T19:13:38+00:00",
       "source": "France 24",
       "categories": [
-        "Middle East"
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "11eab66a431fb6b3c3de312b90d8a56ebd7e04e11ba8686813d6ab75ab05180c",
+      "title": "Trump's Chief of Staff Susie Wiles announces she's cancer-free",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+      "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
+      "published_at": "2026-09-16T19:12:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -258,6 +397,18 @@
       ]
     },
     {
+      "id": "307df76856f254b6b9fb1fa0e6c27c777aaf99165cb4db956d788b98c027c137",
+      "title": "Revolut says no direct demand received over alleged data breach",
+      "url": "https://www.channelnewsasia.com/business/revolut-says-no-direct-demand-received-over-alleged-data-breach-6389996",
+      "description": "",
+      "published_at": "2026-09-16T18:10:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "022b5f3f73fddf0aadaa87f575f07faaf64a57e882abae0a89bd25e30195029c",
       "title": "Tooth study shows T. rex was warmblooded, with human-like temperature",
       "url": "https://www.channelnewsasia.com/business/tooth-study-shows-t-rex-was-warmblooded-human-temperature-6389986",
@@ -375,7 +526,7 @@
       "id": "a5822a16ca476587463ec598e5d90b9d41d9ba903344e8ca4e64d0a6939ef699",
       "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
       "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-      "description": "Buckingham Palace has pushed back against the claim, saying grief can \"colour memory\" of events.",
+      "description": "Earl Spencer claimed the then-Prince of Wales made the comment during an argument over her funeral arrangements.",
       "published_at": "2026-09-16T17:47:17+00:00",
       "source": "BBC",
       "categories": [
@@ -716,6 +867,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "7aa50f2fa6d1fd1085a3024fbe6248a814e72a01974b574ee6aa0cb3984f8f91",
+      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
+      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
+      "published_at": "2026-09-16T15:48:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1547,6 +1709,7 @@
       "published_at": "2026-09-16T13:58:54+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -2119,6 +2282,17 @@
       ]
     },
     {
+      "id": "03673604a85f9ad14c592bf822c9b02cce659a5142e45a0a186d87de44ef3a82",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+      "published_at": "2026-09-16T12:26:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "e77e112a4e2cdf69d3f7ba5ecb675a2f37cb3886349bc6e221b9243db5541302",
       "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
       "url": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
@@ -2368,6 +2542,17 @@
       "source": "CNA",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "079f82aac74727756d235089cbec93d94a4b179242a392efbb100f8db497f15b",
+      "title": "Stocks fall as Fed delivers hawkish rate hike",
+      "url": "https://www.channelnewsasia.com/world/fed-rate-hike-decision-stocks-fall-6387681",
+      "description": "Global stocks fell after the US Fed raised interest rates for the first time in three years, while bond yields rose as investors expected more rate hikes.",
+      "published_at": "2026-09-16T11:52:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -2639,6 +2824,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "9d07c2f44b363cd64807700022e9b3d58e9a13b559c882473945239d480b16af",
+      "title": "Carney's new love-in with EU has everything to do with Trump",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+      "description": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
+      "published_at": "2026-09-16T11:08:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -3454,6 +3650,17 @@
       ]
     },
     {
+      "id": "5f8a95a72b03eba56fadce0fb8db92b7b0e84ba492b62ce4360b2313173212ce",
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
+      "published_at": "2026-09-16T08:41:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "7ca0bb34fb03ddcc8760c6df35637748c93d80db15bdf65e5e6d6b837b5061da",
       "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
       "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
@@ -3555,6 +3762,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "d4c1843f4178832d1fcf5c3e3e3e8c28e9e4ec6b2b0c2312696aa66aad34c949",
+      "title": "War-damaged Gaza building collapses, killing 20 people sheltering inside",
+      "url": "https://www.channelnewsasia.com/world/war-damaged-gaza-building-collapses-killing-20-people-sheltering-inside-6388446",
+      "description": "",
+      "published_at": "2026-09-16T08:20:00+00:00",
+      "source": "CNA",
+      "categories": [
         "World"
       ]
     },
