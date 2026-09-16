@@ -1,6 +1,112 @@
 {
-  "last_updated": "2026-09-16T00:03:22.623275+00:00",
+  "last_updated": "2026-09-16T01:02:50.745543+00:00",
   "articles": [
+    {
+      "id": "a276cf28f0babfdce9a81804ed5e907305e483b002edd7dbea93d9182ba8962e",
+      "title": "Japan’s Takaichi to opt for stability in first reshuffle since taking over LDP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3367650/japans-takaichi-opt-stability-first-reshuffle-taking-over-ldp?utm_source=rss_feed",
+      "description": "Japanese Prime Minister Sanae Takaichi is expected to retain many of her Liberal Democratic Party’s (LDP) executives on Wednesday, in her first reshuffle since taking the helm of the ruling party about a year ago. Takaichi is likely to keep the influential former prime minister Taro Aso as vice-president and his brother-in-law, Shunichi Suzuki, as secretary general, sources familiar with the matter have said, as she seeks to maintain continuity ahead of what is likely to be a packed legislative...",
+      "published_at": "2026-09-16T00:51:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "22631a31e30a98b5d92e4ab9a324cd72715e20146751cdc0f3e207e5fa9f0115",
+      "title": "Oil falls as US crude inventories rise despite Saudi supply concerns",
+      "url": "https://www.channelnewsasia.com/business/oil-falls-us-crude-inventories-rise-despite-saudi-supply-concerns-6387586",
+      "description": "",
+      "published_at": "2026-09-16T00:40:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "28297efd6156055b086dda4c2028f9c7fb08b38524e7426c39a089ca8d5c3e7f",
+      "title": "Hong Kong policy address to unveil bold youth housing and mediation initiatives",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367625/hong-kong-policy-address-unveil-bold-youth-housing-and-mediation-initiatives?utm_source=rss_feed",
+      "description": "Hong Kong’s leader will unveil two bold initiatives on housing and mediation in his policy address, the South China Morning Post has learned, with the government planning to boost home ownership rates among young couples and prioritise settling official commercial disputes through the city’s mediation body. The new measures, to be unveiled by Chief Executive John Lee Ka-chiu on Wednesday, aimed to strengthen the city’s status as a global mediation capital while improving livelihoods, government...",
+      "published_at": "2026-09-16T00:30:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "1f3f2d8b45c32ee333ee46e7a28adab60a5c31507f80373b5def14c9929ddd75",
+      "title": "Defence chief Dong Jun at Xiangshan Forum: China willing to share military experience",
+      "url": "https://www.scmp.com/news/china/military/article/3367649/beijing-hosts-xiangshan-forum-marking-20th-anniversary-chinas-top-defence-conference?utm_source=rss_feed",
+      "description": "This live article is freely available to our registered users. Please log in or create an account below. Beijing is hosting China’s most important annual defence conference, the Beijing Xiangshan Forum, bringing defence officials, former politicians and think tank experts to the city from around the world. About 200 specialists and researchers are expected to take part in the forum this week, which many see as Beijing’s answer to Singapore’s annual Shangri-la Dialogue, the region’s biggest...",
+      "published_at": "2026-09-16T00:26:00+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "b02b912e63067d304b0be3408456ff066ffb2142a0a5cc8b8e412a795faf0dcd",
+      "title": "Prince Harry's children moving school after two days over security concerns",
+      "url": "https://www.channelnewsasia.com/entertainment/prince-harry-meghan-children-moving-school-6384336",
+      "description": "The distance between their home and the original school, with heavy traffic in the area, had caused concern for their security team.",
+      "published_at": "2026-09-16T00:14:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "48bb547c0ae5c6302a055d7f0325f006c983179e4fc56a91bc5a515ce9d02e7c",
+      "title": "Nissan to build new hybrid SUV model for Europe at its UK plant",
+      "url": "https://www.channelnewsasia.com/business/nissan-build-new-hybrid-suv-model-europe-its-uk-plant-6387521",
+      "description": "",
+      "published_at": "2026-09-16T00:13:12+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "79324b9b201eb51e0d6e238d3db543c491bd9455fe357d57a8e4d3857b5c6c72",
+      "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
+      "description": "Just 270 people were linked to 28,415 shoplifting offences across England, a BBC analysis has found.",
+      "published_at": "2026-09-16T00:11:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "f2a42b73988f467c63420e6ec4fbf4ef90a44d98adb0a0a66a8b67d9e2dac13c",
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+      "published_at": "2026-09-16T00:05:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "UK"
+      ]
+    },
+    {
+      "id": "0f00a8d30784e51d953bb875f130426842f98ce2a0f44e66de20261aa85cf8c2",
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+      "published_at": "2026-09-16T00:05:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
     {
       "id": "a10a7b11b2433ece398e338854bd26e4679b5f0f21fb51ce60c0811590ca0d14",
       "title": "Singapore ministers earn millions. What do other Asian leaders make?",
@@ -98,6 +204,17 @@
       ]
     },
     {
+      "id": "d116c1564ba8cab469dafb67a582437a6a34249bb2797dab1fafcc2f14daccb9",
+      "title": "Do you feel guilty when calling in sick at work? This might be why...",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
+      "description": "As many as half of people report working when sick. The reasons for this are complex, experts say.",
+      "published_at": "2026-09-15T23:40:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "2df10da701998bde27b50b7673640835a881888b5f1814beb113524296f24190",
       "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
       "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
@@ -130,6 +247,17 @@
       "categories": [
         "Business",
         "Technology"
+      ]
+    },
+    {
+      "id": "2564f0d7bd95217d1f37f4a3a6d163536e54eb4bd45a222661673fe9bb4fa478",
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+      "published_at": "2026-09-15T23:27:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -167,6 +295,17 @@
       ]
     },
     {
+      "id": "09cd1bcdd6a2d37d93f2f9348c0f6cc20ca11992adfad86dbd17fd31ad7520d1",
+      "title": "We are all new job starters - here's how we got through the first few days",
+      "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+      "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+      "published_at": "2026-09-15T23:14:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "72c2de9777e880abec38bb6b776ee37136e9769ca4d44fe6b3986cfe344ea984",
       "title": "Complaints to watchdog about water firms jump 84%",
       "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
@@ -174,7 +313,8 @@
       "published_at": "2026-09-15T23:14:08+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -344,7 +484,7 @@
       "id": "a8c80afb81666c66ff6a9c3211da14880d30961c13355dcd72b706955fd6f611",
       "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "published_at": "2026-09-15T22:13:10+00:00",
       "source": "BBC",
       "categories": [
@@ -725,7 +865,7 @@
       "id": "1c3ecc6830a5b54704c4e9ce19c4729383b6e634e8eebef9f4df36934da1e7c5",
       "title": "Letby hospital consultant says inquiry makes for grim reading",
       "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-      "description": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+      "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
       "published_at": "2026-09-15T20:43:08+00:00",
       "source": "BBC",
       "categories": [
@@ -737,7 +877,7 @@
       "id": "ff9194410cbdee10a28938708c8ff27fd878746a877aed57d050e7a5af553061",
       "title": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
       "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
-      "description": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+      "description": "The Trump-appointed board was blocked from adding the inscription \"Renovated and Restored by President Donald J. Trump\".",
       "published_at": "2026-09-15T20:37:41+00:00",
       "source": "BBC",
       "categories": [
@@ -1056,7 +1196,8 @@
       "published_at": "2026-09-15T18:54:15+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -2652,6 +2793,17 @@
       ]
     },
     {
+      "id": "18cf5b1430d76f1b845df8a41ecb8f0a987c45d55e25fbacede31847da92ec6f",
+      "title": "Political donors could face tougher residency rules",
+      "url": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
+      "description": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
+      "published_at": "2026-09-15T13:25:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "5a4fccd513912d6507382f6e031d10e6a1a2ef8cec1816692cebf2c538ab6143",
       "title": "Pidcock to lead strong British team at worlds, eyeing double",
       "url": "https://www.channelnewsasia.com/sport/pidcock-lead-strong-british-team-worlds-eyeing-double-6386431",
@@ -3437,13 +3589,14 @@
       "id": "5172ffece27a0705f9733b6238c28bbf2f22177b38a836985cb69ba2bb52c50d",
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
       "published_at": "2026-09-15T11:05:42+00:00",
       "source": "BBC",
       "categories": [
         "Business",
         "Northern Ireland",
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -4148,7 +4301,8 @@
       "source": "BBC",
       "categories": [
         "England",
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
