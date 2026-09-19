@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-19T19:02:20.633039+00:00",
+  "last_updated": "2026-09-19T20:02:45.707780+00:00",
   "articles": [
+    {
+      "id": "2433f6b4b0c5f20b209800d0564f2a6cddffae2aeda143cb64f4ad11bd34947d",
+      "title": "Evans committed to Bristol Rovers amid Hibs links",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm624j085qxzo?at_medium=RSS&at_campaign=rss",
+      "description": "Bristol Rovers manager Steve Evans says he is 'not going anywhere' amid speculation linking him with the vacant role at Hibernian.",
+      "published_at": "2026-09-19T19:43:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "c87b56745ab21c5e86a592e78f76a3c5115e2854f201e707b057f449c5906ec5",
+      "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+      "url": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
+      "description": "",
+      "published_at": "2026-09-19T19:36:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "3156cb0f3ac0bc77e6d7485d777fdb4a792cfd11d0a6e705bdb848b574cba858",
       "title": "Watch Sportscene highlights of day's Premiership action",
@@ -10,6 +34,41 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "9fa4eca7c938bbeac2de3e3e6fc466d4e50a5dba9fa15653978f62ff821c849b",
+      "title": "Houthis claim attacks on Saudi capital, after flames seen near Riyadh airport",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3368131/houthis-claim-attacks-saudi-capital-after-flames-seen-near-riyadh-airport?utm_source=rss_feed",
+      "description": "Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital Riyadh on Saturday with missiles and drones, hours after flames and a large plume of smoke were seen near the city’s main airport. Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom. Reuters video and photographs ‌showed a huge pillar of black smoke rising in the area, with the airport highway, main terminal building and other...",
+      "published_at": "2026-09-19T19:25:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "029a21103a053a401b1f13915de5a1dd447e84c4f04d56f1ee39140fa93eda64",
+      "title": "Holmberg's stoppage-time goal rescues Arsenal draw at Man United in WSL",
+      "url": "https://www.channelnewsasia.com/sport/holmbergs-stoppage-time-goal-rescues-arsenal-draw-man-united-in-wsl-6396996",
+      "description": "",
+      "published_at": "2026-09-19T19:11:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0da967566b5369c8ec3b8e7e1bac69c1a662351d8791b92f587878f8f47ca9f2",
+      "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
+      "description": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
+      "published_at": "2026-09-19T19:05:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -784,7 +843,7 @@
       "id": "0857ff22cb71754d1835c63101ee9ae96f87d6aa00fb2f289629624034b2e6ad",
       "title": "Smoke, flames seen near Riyadh airport, ‘major’ flight disruptions reported",
       "url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
-      "description": "A plume of smoke and flames rose near Riyadh's main international airport on Saturday and residents reported hearing loud booms hours after Saudi authorities issued the first alert for the country's capital since the latest escalation with Yemen's Iran-backed Houthi rebels. An Aramco fuel tank near the airport was reportedly on fire, according to a journalist in Riyadh.",
+      "description": "A Houthi spokesman on Saturday said the Yemeni militia launched missile and drone strikes on \"sensitive sites\" in Saudi Arabia, including the kingdom's port city of Yanbu and the capital Riyadh. The statement came hours after residents and journalists said they saw a thick plume of black smoke and flames rising from the area near the Riyadh King Khalid International Airport.",
       "published_at": "2026-09-19T12:53:19+00:00",
       "source": "France 24",
       "categories": [
@@ -96552,17 +96611,6 @@
       "source": "BBC",
       "categories": [
         "Business"
-      ]
-    },
-    {
-      "id": "6173ab56caa4ff0d44d1b20cef3bd6c5ba7fe626aa208ca2fcd26518c53bdfe4",
-      "title": "BBC Inside Science",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&at_campaign=rss",
-      "description": "Has a personalised cancer vaccine become reality?",
-      "published_at": "2026-08-20T20:00:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
       ]
     }
   ]
