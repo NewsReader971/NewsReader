@@ -1,6 +1,84 @@
 {
-  "last_updated": "2026-09-19T22:02:38.559329+00:00",
+  "last_updated": "2026-09-19T23:02:37.073256+00:00",
   "articles": [
+    {
+      "id": "78f12807d26db287bc6c6c9399cd0e48c30da7313efa4008184473845d716271",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "published_at": "2026-09-19T23:01:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2bb239cc7ae2f70b7870c45ff2d406634ab222a3404f7cf839e514d672110983",
+      "title": "'I'm often stopped on the street for confessions' - Retiring bishop reflects on a life at the heart of the community",
+      "url": "https://www.bbc.co.uk/news/articles/cr93ej4y4qpqo?at_medium=RSS&at_campaign=rss",
+      "description": "Bishop Donal McKeown has no regrets about choosing a religious life, but \"would have loved to have been married\".",
+      "published_at": "2026-09-19T23:00:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9fec6ec7a19f7c7e90a16424fb2d5a6e40d71b3637023988e88df5b0ccfa5d8b",
+      "title": "'I'm often stopped on the street for confessions' - Retiring bishop reflects on a life at the heart of the community",
+      "url": "https://www.bbc.co.uk/news/articles/cr93ej4y4qpqo?at_medium=RSS&at_campaign=rss",
+      "description": "Bishop Donal McKeown has no regrets about choosing a religious life, but \"would have loved to have been married\".",
+      "published_at": "2026-09-19T23:00:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "bcca9f5baf0ff355721496cef971440ac1d5736df7079832b2ed3cbc7e4afe72",
+      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+      "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "description": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+      "published_at": "2026-09-19T22:51:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "93f3e2f4d50a5ab65c396d658e3cf6ae147b00ee395117aa846f604282c75785",
+      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+      "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "description": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+      "published_at": "2026-09-19T22:51:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "1e61c15ba57cb129c0ba40fc27a8e4546832d2bff77f28277c56f31f2f53517f",
+      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+      "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "description": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+      "published_at": "2026-09-19T22:51:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b559a8d3a2002e8c0870d3924ada5d9b7375cc242e0091b1a0a9fceb1b631041",
+      "title": "East and west Singapore join central region in recording unhealthy air quality amid haze",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-psi-6396836",
+      "description": "The 24-hour Pollutant Standards Index (PSI) hit 105 in the west and 102 in the east at 6am. The central region, which entered the unhealthy range a day earlier, recorded a reading of 123.",
+      "published_at": "2026-09-19T22:08:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
     {
       "id": "de5ec494801c689fdab91d56933d67e34ed8d301d7c4d92ebb40a0992ad14989",
       "title": "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
@@ -14,6 +92,30 @@
       ]
     },
     {
+      "id": "4ed754aa26b6e92287ca955911054f41f992018690cdf92b2baa2cc0d23f8a38",
+      "title": "Commentary: Regional haze casts a pall on ASEAN’s influence",
+      "url": "https://www.channelnewsasia.com/commentary/asean-haze-fire-indonesia-malaysia-6391951",
+      "description": "ASEAN’s credibility will ultimately depend on whether it can translate regional commitments into practical results, says an ISEAS – Yusof Ishak Institute fellow.",
+      "published_at": "2026-09-19T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0a12adbe38357be161d71598c89b50e2555ee7b67a3be0f7463e7c474f96edee",
+      "title": "‘I can only wait and hope’: Haze hits livelihoods in Sumatra as workers toil in unhealthy air",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-livelihoods-workers-6379941",
+      "description": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the first of a series, CNA speaks to locals about the toll on their incomes and health.",
+      "published_at": "2026-09-19T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
       "id": "3b8c9b04fda1bfa996f082ff14de90240a9088daafc3038803a2f284c666c7ff",
       "title": "Israel's president pardons a combat medic whose shooting of a Palestinian attacker caused debate",
       "url": "https://www.channelnewsasia.com/world/israels-president-pardons-combat-medic-whose-shooting-palestinian-attacker-caused-debate-6396976",
@@ -21,6 +123,7 @@
       "published_at": "2026-09-19T21:57:25+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "World"
       ]
     },
