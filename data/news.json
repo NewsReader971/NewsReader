@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-18T23:02:52.681726+00:00",
+  "last_updated": "2026-09-19T00:03:18.255694+00:00",
   "articles": [
+    {
+      "id": "1737f6fb78bcae5afcb81704e0b0fbffb5b0313dc030d55994518ee0e2d9cffe",
+      "title": "China makes progress in 3-nm chips without advanced lithography tools",
+      "url": "https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools?utm_source=rss_feed",
+      "description": "Chinese researchers have made early strides in pushing semiconductor processing nodes below 3-nm using older lithography technology, as more advanced extreme ultraviolet lithography (EUV) tools from ASML remain blocked under US sanctions. The breakthrough marks the latest progress in China’s drive to chart an alternative path to advanced chipmaking amid US export restrictions. Under current export control rules, Dutch equipment giant ASML is barred from selling its state-of-the-art EUV machines...",
+      "published_at": "2026-09-19T00:00:21+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "f17a7c3413e7e58466bb65578e74d6afd2aa8b8778674796d3bf25c92c980a31",
+      "title": "South Korea wants free ‘AI for All’. Is society ready for it?",
+      "url": "https://www.scmp.com/week-asia/economics/article/3368031/south-korea-wants-free-ai-all-society-ready-it?utm_source=rss_feed",
+      "description": "In Silicon Valley and beyond, the architects of artificial intelligence are increasingly warning about the risks it poses to humanity. Anthropic CEO Dario Amodei wants the industry to slow down. A former engineer at his company, who also worked at its rival OpenAI, told reporters after quitting earlier this month that he was “genuinely frightened” unchecked AI development might mean “we could all die in the immediate future”. Even Geoffrey Hinton, the Nobel Prize-winning computer scientist known...",
+      "published_at": "2026-09-19T00:00:14+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "cb52b3eefa8f2fb70185c5bb61d70dac26ac22e35bd3182767c67f363e3a1e12",
+      "title": "Sikh trucker stabbed in Wyoming, stirring fresh fears in US community",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368080/sikh-trucker-stabbed-wyoming-stirring-fresh-fears-community?utm_source=rss_feed",
+      "description": "The stabbing of a truck driver at a remote Wyoming rest stop had US Sikhs on edge on Friday amid rising anti-immigrant vitriol against the community and its truck drivers in particular. The Sikh victim was attacked from behind early Sunday while in a restroom at the Bitter Creek rest stop on Interstate 80 midway between Cheyenne and Salt Lake City, according to court documents. He suffered stabs to the neck and chest and over a dozen other cuts but survived. While police say the motive is...",
+      "published_at": "2026-09-18T23:47:57+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0c07d4fd1147620668be53a8a90583a0abe0432a390334bc4fcf0d679ba11a11",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "published_at": "2026-09-18T23:18:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "9e18e787e8a7efa2640dbe5f549f8c67df7e52e4100f2bba6bd5317c0af0685f",
+      "title": "Would Australians support a smart glasses ban?",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "description": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "published_at": "2026-09-18T23:15:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "577c27b4df7624a9b972b2230d1041ffab5b302a106c676a00169e27b5688ab8",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "published_at": "2026-09-18T23:07:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "8a9d29af22eec1f380c69ccd583ec251f0485da529f63d2cc022fa717b3d0f88",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "published_at": "2026-09-18T23:04:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "dc27ef936fdc974093b3295e05f785a65548c2ee3f30a9d02672697c1d2aa6bf",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "published_at": "2026-09-18T23:03:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c6721259429dd8e49e5f4fcd65dfde5ec5c0cdebf68fc14e33e17be1aa1aa005",
+      "title": "'Our industry is still male dominated, but things are changing'",
+      "url": "https://www.bbc.co.uk/news/articles/cky9zgd3n49qo?at_medium=RSS&at_campaign=rss",
+      "description": "There has been an increase in the number of women studying for engineering degrees in NI.",
+      "published_at": "2026-09-18T23:01:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
     {
       "id": "a02dbaa58123b9abe8625c671802d28fd3f2f607fe9911e9d1f4b59877c9a7da",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
@@ -37,6 +138,18 @@
       ]
     },
     {
+      "id": "439494d9c5496e4f7c1fc68f89fb7ffa18963d10b482d79760b5dbd88d8f1142",
+      "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
+      "url": "https://www.channelnewsasia.com/business/openai-forecasts-cash-burn-near-280-billion-2030-ft-reports-6396066",
+      "description": "",
+      "published_at": "2026-09-18T22:42:23+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "5b24b8e807e9256eff82b2f76ba659b3a4948b16c9d59998de9d9cab3f0d21eb",
       "title": "Irish police 'acted appropriately' when pursuing car in M9 crash, watchdog finds",
       "url": "https://www.bbc.co.uk/news/articles/cv4g523yynyno?at_medium=RSS&at_campaign=rss",
@@ -57,6 +170,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "f42975b6a094e6f4835642de41fda13c35133f116fa544abe1e7be23bcf04eab",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.channelnewsasia.com/business/gemini-hacked-three-companies-in-first-known-breakout-googles-ai-6396036",
+      "description": "",
+      "published_at": "2026-09-18T22:25:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -99,7 +223,7 @@
       "id": "443ca95dcd7eec933025a578a58f8bb91d26e41b820d5f127896ab3197b1a5ac",
       "title": "US and Denmark reach deal on Greenland, Trump says",
       "url": "https://www.channelnewsasia.com/world/us-and-denmark-reach-deal-greenland-trump-says-6395916",
-      "description": "The Greenland security deal reached by the US and Denmark guarantees that China and Russia cannot set up bases there, says the US State Department.",
+      "description": "\"No US adversary can ever have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval,\" says US President Donald Trump.",
       "published_at": "2026-09-18T22:15:00+00:00",
       "source": "CNA",
       "categories": [
