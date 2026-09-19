@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-09-19T15:02:29.939319+00:00",
+  "last_updated": "2026-09-19T16:02:43.778423+00:00",
   "articles": [
+    {
+      "id": "7eb92bbd8531a2f6da3844d7afb9310d201ae2800ddc5e6f8fc00932788f21a4",
+      "title": "Hong Kong’s political, business elite pay final respects to Tung Chee-hwa",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3368127/hong-kongs-political-business-elite-pay-final-respects-tung-chee-hwa?utm_source=rss_feed",
+      "description": "Hong Kong’s political and business elite bade a solemn farewell to Tung Chee-hwa, the city’s first chief executive, at a vigil on Saturday, as Beijing leaders sent wreaths ahead of his state funeral and members of the public streamed into community centres to sign condolence books. Hundreds of wreaths lined the pavement at the Hong Kong Funeral Home in North Point, spilling into a nearby playground, while inside the hall the mood was hushed as top officials, former politicians and business...",
+      "published_at": "2026-09-19T16:00:39+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "cdcfb433714f52920b4af9ab3cd71b7a39e9965fb69ced9a70b79a71bb2c442b",
+      "title": "African champions beat Asian counterparts to advance in Inter Continental Cup",
+      "url": "https://www.channelnewsasia.com/sport/african-champions-beat-asian-counterparts-advance-in-inter-continental-cup-6396866",
+      "description": "",
+      "published_at": "2026-09-19T15:44:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ff47b3bd1ad6eb02c58af63499b2ee3f7abe25ffbd23e462147533fbdc2518c8",
+      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
+      "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
+      "description": "Germany is gearing up for two more pivotal state elections on Sunday: in the capital Berlin and in the largely rural region of Mecklenburg-Western Pomerania. All eyes are on the far-right AfD, which after recording its best ever result in the recent Saxony-Anhalt elections, is hoping to once again make sweeping gains. The anti-immigration party's surging popularity is proving challenging for Chancellor Friedrich Merz and both elections are expected to further test his leadership. Story by Eliza Herbert.",
+      "published_at": "2026-09-19T15:28:23+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe"
+      ]
+    },
+    {
+      "id": "aacbb0eb284427c221bcccbf16dac4cbd629b3e397c69ac0c2469629d589c2f8",
+      "title": "Denmark cautiously optimistic over Trump’s Greenland deal",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368126/denmark-cautiously-optimistic-over-trumps-greenland-deal?utm_source=rss_feed",
+      "description": "Denmark’s government was cautiously optimistic on Saturday following US President Donald Trump’s announcement of a deal on Greenland to bolster US military presence there but keep the island under Danish control after months of threats by the US president to seize the semi-autonomous territory of a Nato ally. The Arctic island’s top leaders echoed that stance and said the deal, which has not yet been made public, was long in coming. US, Greenlandic and Danish officials had quietly negotiated for...",
+      "published_at": "2026-09-19T15:24:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
     {
       "id": "b4f136021a25c05eca93234db94ec043451d060a0ade42e577042df46529f673",
       "title": "Watch: Camanachd Cup Final - Kingussie v Newtonmore",
@@ -10,6 +57,29 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "ddf83fc17fb26f20583dbd5315bba3330916fcc5e6a6dee34821a2eec149fed0",
+      "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
+      "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
+      "description": "⁠Flames and plumes of smoke ‌were ⁠seen ‌rising near ⁠Riyadh airport this afternoon with flights cancelled and delayed. This as fighting between Saudi-backed government forces and Iran-backed Houthi rebels has killed 48 people in recent hours. The rebels staged a lightning offensive this month, seizing swathes of territory in Yemen and launching a barrage of missiles and drones toward Saudi Arabia. Details and analysis by FRANCE 24 international affairs editor, Jamie Smith-Maillet.",
+      "published_at": "2026-09-19T15:16:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East"
+      ]
+    },
+    {
+      "id": "884e3fb60a0412bf8ddceeaf05e7edcbdc218acc57cad862c42e92980ce5f748",
+      "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+      "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
+      "published_at": "2026-09-19T15:00:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -167,7 +237,7 @@
       "id": "8b5fcd9d55bb7c5d3594234f00c3bbcc307549b7fa2d1bdd72827e878f444a78",
       "title": "In a first, top European design prize awarded to €20 uniform for China’s delivery drivers",
       "url": "https://www.scmp.com/economy/china-economy/article/3368121/first-top-european-design-prize-awarded-eu20-uniform-chinas-delivery-drivers?utm_source=rss_feed",
-      "description": "Taobao Instant Commerce, known as Taobao Shangou in Chinese, Alibaba’s on-demand delivery service that was revamped last year, won a top French Design Award prize on Saturday for its delivery worker uniform, marking the first time the prize was awarded for a design for frontline workers. “We think the [Taobao Shangou] suit design would transform delivery workwear into a recognisable professional uniform, helping reshape how society sees this essential profession,” said Dario Olivero, chair of...",
+      "description": "Taobao Instant Commerce, Alibaba’s on-demand delivery service that was revamped last year and is known as Taobao Shangou in Chinese, won a top French Design Award prize on Saturday for its delivery worker uniform, marking the first time the prize was awarded for a design for frontline workers. “We think the [Taobao Shangou] suit design would transform delivery workwear into a recognisable professional uniform, helping reshape how society sees this essential profession,” said Dario Olivero, chair...",
       "published_at": "2026-09-19T14:00:11+00:00",
       "source": "SCMP",
       "categories": [
@@ -1295,6 +1365,17 @@
       ]
     },
     {
+      "id": "8bbf39f29279a3c1568172a2a8753b6e5096bb539b72479a1bbf3ea6362b83ca",
+      "title": "'Our flat has been for sale for four years': Why is the market so weak?",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz7332dd6o?at_medium=RSS&at_campaign=rss",
+      "description": "James Schaife and his partner are among the many Londoners struggling to sell their flat.",
+      "published_at": "2026-09-19T07:10:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "75e2ae41cd728390a78674036f9fc8064a2244a3a6109c5356438f7c5f89f24f",
       "title": "How a public loo played a pivotal role in a Cold War spy ring",
       "url": "https://www.bbc.co.uk/news/articles/ck5ylrmldvq5o?at_medium=RSS&at_campaign=rss",
@@ -1471,6 +1552,17 @@
       "source": "BBC",
       "categories": [
         "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "a1a164091e8bc1623a63b43880c92a1d4a4c859e9fdf68c506a34cc03679faab",
+      "title": "'Fast, furious and dangerous' - a city's quad bike menace",
+      "url": "https://www.bbc.co.uk/news/articles/c30re9p2zn0ro?at_medium=RSS&at_campaign=rss",
+      "description": "Videos show groups of riders weaving through busy city centre traffic in Birmingham.",
+      "published_at": "2026-09-19T06:25:53+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -2281,6 +2373,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "ce7261ad02082ba003f6201e73f5eb35525e07e0a11ada5da392f324c4a1bcd9",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "published_at": "2026-09-18T23:18:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -8807,6 +8910,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "241dec685aa9a050d5e0663e83303a1aa18e01e36683ce54945f5785b8bf14fb",
+      "title": "Not just 'Nice Guy Eddie': Lib Dems eager for leader to show radical side at party conference",
+      "url": "https://www.bbc.co.uk/news/articles/cq4grjdz8xv5o?at_medium=RSS&at_campaign=rss",
+      "description": "There is a sizeable group of Lib Dem MPs who openly question whether the party's problem is with its leader, while others support his stance.",
+      "published_at": "2026-09-18T00:18:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -95979,17 +96093,6 @@
       "source": "BBC",
       "categories": [
         "Education & Family"
-      ]
-    },
-    {
-      "id": "9ec13eed8a96772334640aa7ea7ad80efacd0f8c6de6192bb9687cce71d81a8f",
-      "title": "Meet the men applying for the 'hardest job in British politics'",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvnlre009o?at_medium=RSS&at_campaign=rss",
-      "description": "Labour MSPs Michael Marra and Joe Fagan are making their pitches as they aim to succeed Anas Sarwar.",
-      "published_at": "2026-08-20T15:25:24+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
