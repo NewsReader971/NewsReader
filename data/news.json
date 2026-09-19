@@ -1,6 +1,109 @@
 {
-  "last_updated": "2026-09-19T18:03:01.379937+00:00",
+  "last_updated": "2026-09-19T19:02:20.633039+00:00",
   "articles": [
+    {
+      "id": "3156cb0f3ac0bc77e6d7485d777fdb4a792cfd11d0a6e705bdb848b574cba858",
+      "title": "Watch Sportscene highlights of day's Premiership action",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
+      "description": "Steven Thompson presents extended highlights of all the day's matches.",
+      "published_at": "2026-09-19T19:30:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9c0e351694d3ce3a2b47dd3f96f6f4c26ddbc522f5620aaa2e051bbd2918c45b",
+      "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
+      "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+      "description": "President Emmanuel Macron embarked Saturday on a symbolic visit to Saint Pierre and Miquelon, a French territory off Canada's Newfoundland, where he hosts Canadian Prime Minister Mark Carney. The first-ever visit by a Canadian prime minister to the French archipelago in the North Atlantic comes as Carney marks a shift in Ottawa's foreign policy toward Europe amid growing tensions with the US.",
+      "published_at": "2026-09-19T19:02:07+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "229a746d6b305d66850a7b522a0d82d4704716e570d7bab2a29a38ae58e9b5ce",
+      "title": "Dortmund beat Stuttgart 1-0 to go top of Bundesliga",
+      "url": "https://www.channelnewsasia.com/sport/dortmund-beat-stuttgart-1-0-go-top-bundesliga-6396986",
+      "description": "",
+      "published_at": "2026-09-19T18:45:29+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "10a163e6773f12461dc3e1e1d24287c39265719495bfe5e8b81ed318c9110dac",
+      "title": "Japan's Nippon Life plans $13 billion for data center financing in US, Nikkei Asia reports",
+      "url": "https://www.channelnewsasia.com/business/japans-nippon-life-plans-13-billion-data-center-financing-in-us-nikkei-asia-reports-6396971",
+      "description": "",
+      "published_at": "2026-09-19T18:43:04+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f37acc26584f0948fdb8718339d21448e985730477231aa2484a6ec2cfd3eb62",
+      "title": "Martinez nets double as Inter come back to draw 2-2 with Roma",
+      "url": "https://www.channelnewsasia.com/sport/martinez-nets-double-inter-come-back-draw-2-2-roma-6396951",
+      "description": "",
+      "published_at": "2026-09-19T18:22:55+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "9a1ef5a8b682f763fd5aa53ec498704624d3c91ff831f8b9380ddd8d78fc3990",
+      "title": "Trump says he will create ‘AI Force’, name AI tsar",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368130/trump-says-he-will-create-ai-force-name-ai-tsar?utm_source=rss_feed",
+      "description": "US President Donald Trump ⁠said in a social media post ⁠on Saturday that he plans to appoint a new artificial intelligence adviser, known as an “AI tsar”, and create an “AI force”, though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed ‌by AI technology on humans and property. Earlier this month, former Anthropic researcher Jacob Coxon said that “people building AI earnestly believe that it...",
+      "published_at": "2026-09-19T18:19:19+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "8cfcd095d78ad3f3a650c07198c84ca89b3224bbb6a382875f1e2845758b9ac8",
+      "title": "New Zealand cruise to victory over Scotland in WXV",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrx95lvxgpo?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland suffer a second successive defeat in the WXV Global Series as New Zealand run out comfortable winners at Hive Stadium.",
+      "published_at": "2026-09-19T18:08:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "262ea5bddaf7ce83f4c86fb58b33db0eb76f4b3b9ffc5cfdd0606f2bf23e211c",
+      "title": "Eagle leaves McIlroy two off Wentworth lead",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cjx2zvg507l6o?at_medium=RSS&at_campaign=rss",
+      "description": "Rory McIlroy stands two strokes behind the third-round leaders heading into the final day after a three-under 72 at the BMW PGA Championship at Wentworth.",
+      "published_at": "2026-09-19T17:58:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "8a973cbc3f838cb6fed2014bb7f95fc4fd3591e857a1409b8ef0af33e8c7eab3",
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "published_at": "2026-09-19T17:50:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "dd935ca52514e6db0c692531e72048c289cca114e039475d56e86ccac17aa113",
       "title": "German general Breuer elected to head top NATO military body",
@@ -33,7 +136,8 @@
       "published_at": "2026-09-19T17:37:20+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
       ]
     },
     {
@@ -51,6 +155,18 @@
       "id": "df1d580fd883361f9e3567109ab101af1e28da55d433d6ab906b261e4e6f3b4e",
       "title": "Trump says he will create 'AI Force,' name AI czar",
       "url": "https://www.channelnewsasia.com/business/trump-says-he-will-create-ai-force-name-ai-czar-6396921",
+      "description": "",
+      "published_at": "2026-09-19T17:25:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5bb38de20a85b388568e007a1fb534dc5d6b21964a6d7dbbc2dc3c64147095f8",
+      "title": "Trump says he will appoint a new AI adviser, without providing details",
+      "url": "https://www.channelnewsasia.com/business/trump-says-he-will-appoint-new-ai-adviser-without-providing-details-6396921",
       "description": "",
       "published_at": "2026-09-19T17:25:03+00:00",
       "source": "CNA",
@@ -290,6 +406,17 @@
       ]
     },
     {
+      "id": "3a0add9c4806d4bd0056c473277f0c45f1fdd07f90007ca7a280cea6900e07a9",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "published_at": "2026-09-19T15:19:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "ddf83fc17fb26f20583dbd5315bba3330916fcc5e6a6dee34821a2eec149fed0",
       "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
       "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
@@ -430,6 +557,18 @@
       ]
     },
     {
+      "id": "e3b03df425824ba0af121835689df7c435b6ff9af69d9c656739b19c9007303e",
+      "title": "West Ham's Castellanos accused of spitting in thrilling Millwall draw",
+      "url": "https://www.channelnewsasia.com/sport/west-hams-castellanos-accused-spitting-in-thrilling-millwall-draw-6396806",
+      "description": "",
+      "published_at": "2026-09-19T14:22:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
       "id": "8f016a56c55fd9f4ee6890a11bb9c651c5b30423263ac9114d80bc9e5da0fc6b",
       "title": "National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed",
       "url": "https://www.channelnewsasia.com/singapore/national-cancer-centre-singapore-email-lapse-pdpa-6396601",
@@ -451,6 +590,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "a7993206dfd53064c9998f730647c6f6872c2773e9b3b9df291b3be4b5ac4173",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "published_at": "2026-09-19T14:05:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -723,6 +873,17 @@
       ]
     },
     {
+      "id": "7b341ec36ab47fae3f686107c035a867b05514f29b5f4a1354890b9a29229bf8",
+      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "url": "https://www.channelnewsasia.com/world/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-saudi-capital-6396631",
+      "description": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
+      "published_at": "2026-09-19T12:06:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "927c73cad53bd574a47ee922a0f4c4bba8336075709e9bcf4e079257fa34012c",
       "title": "China-led study reveals ‘Greater Gondwana’ was 80% of Earth’s crust 500m years ago",
       "url": "https://www.scmp.com/news/china/science/article/3368102/china-led-study-reveals-greater-gondwana-was-80-earths-crust-500m-years-ago?utm_source=rss_feed",
@@ -740,6 +901,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
       "description": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
       "published_at": "2026-09-19T11:50:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "170ead96181621502dd30f77f3319622045812a0bd7d58ced3e13afa51856f22",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "published_at": "2026-09-19T11:50:22+00:00",
       "source": "BBC",
       "categories": [
         "World"
@@ -808,6 +980,17 @@
     },
     {
       "id": "b7ed276da786f3c5007b77c5cdea079c3d7109ce2a4f95e3181c13283e96acb0",
+      "title": "How Queen perfected trademark harmonies in a cave",
+      "url": "https://www.bbc.co.uk/news/articles/c64g7wm0pyw9o?at_medium=RSS&at_campaign=rss",
+      "description": "Drummer Roger Taylor says Queen perfected their singing in a cave on a beach in Cornwall.",
+      "published_at": "2026-09-19T11:18:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "72ad89e43a33d77e81fff8d119e36f9d9113d0d9b5a2bf6752e19c0bc292b593",
       "title": "How Queen perfected trademark harmonies in a cave",
       "url": "https://www.bbc.co.uk/news/articles/c64g7wm0pyw9o?at_medium=RSS&at_campaign=rss",
       "description": "Drummer Roger Taylor says Queen perfected their singing in a cave on a beach in Cornwall.",
@@ -972,6 +1155,17 @@
     },
     {
       "id": "b0538f2be4af65a326d8659070a26574daf63f55f818ec14fcd7e324a9a9c43d",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "published_at": "2026-09-19T10:27:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "662ec3d32c452a0d5baa87c8c755286dfdb2dbe2d7806e9208a9c251f2e1cf7b",
       "title": "Millions without power as Cuba hit by latest major blackout",
       "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
       "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
@@ -1754,6 +1948,17 @@
       ]
     },
     {
+      "id": "776f4de742d36518f398cc31a958f453660c58f9df01ab4654b6942fb9d4f9b5",
+      "title": "Hummingbird hawk moths and ivy bees: The insects thriving as temperatures rise",
+      "url": "https://www.bbc.co.uk/news/articles/cvzez0lpnn3go?at_medium=RSS&at_campaign=rss",
+      "description": "Hummingbird hawk moths - often mistaken for small birds - are being spotted in the West Midlands.",
+      "published_at": "2026-09-19T06:27:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "4e95e6cfca994c280a208570257fdb21442a8204f1127161963272b11d700a8a",
       "title": "'I chase shoplifters from my store aged eight to 82'",
       "url": "https://www.bbc.co.uk/news/articles/cm0qx31wlvx8o?at_medium=RSS&at_campaign=rss",
@@ -1822,6 +2027,17 @@
     },
     {
       "id": "1c6598316465868673e5f65431653e72b12a9347023f1091e7f2354527c0a47a",
+      "title": "RNLI video receives 'pure hatred' after anti-migrant protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqly7vrj82y9o?at_medium=RSS&at_campaign=rss",
+      "description": "Elizabeth Evans, who shared a video of an RNLI training exercise, says the comments were \"really, really bad\".",
+      "published_at": "2026-09-19T06:24:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "3cac038640e88b13a7b7723421e3dd402e399d22659214209f581c555a80505d",
       "title": "RNLI video receives 'pure hatred' after anti-migrant protests",
       "url": "https://www.bbc.co.uk/news/articles/cqly7vrj82y9o?at_medium=RSS&at_campaign=rss",
       "description": "Elizabeth Evans, who shared a video of an RNLI training exercise, says the comments were \"really, really bad\".",
