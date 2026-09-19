@@ -1,15 +1,51 @@
 {
-  "last_updated": "2026-09-19T05:02:32.602750+00:00",
+  "last_updated": "2026-09-19T06:03:17.207364+00:00",
   "articles": [
+    {
+      "id": "f25d61a56c176ef249b0e2e9fefbd87f9afb8fef55ea6669641894ffdc720a73",
+      "title": "DUP leader to call for closer unionist co-operation",
+      "url": "https://www.bbc.co.uk/news/articles/cxddvn11nq61o?at_medium=RSS&at_campaign=rss",
+      "description": "Gavin Robinson will tell his party conference \"we must not gift wrap seats to Sinn Féin and Alliance.",
+      "published_at": "2026-09-19T05:43:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "0dfec76a2865813706cbe24d79bd7149fea09f2cffb1f95c7bf6110f51e88645",
+      "title": "Hong Kong leader says firms must strive to survive despite government support",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3368093/hong-kong-leader-says-firms-must-strive-survive-despite-government-support?utm_source=rss_feed",
+      "description": "Hong Kong’s leader defended measures in his policy address to boost the economy and improve livelihoods, stressing that businesses must also do their part to remain competitive and survive, even with government aid. Chief Executive John Lee Ka-chiu said on Saturday that the livelihood section was the longest and broadest in scope in his policy address when asked about residents who had yet to benefit from the government’s economic policies. “You need to develop the economy first to have the...",
+      "published_at": "2026-09-19T05:42:01+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "3d599be3d1d6d9afe1490f6f0727046e4f55e1b82a2cbdff98eb49ec547664c7",
+      "title": "Ukraine live: Russian strike on apartment building in Ukraine's Sumy kills at least two",
+      "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two",
+      "description": "A Russian aerial bomb struck an apartment building in the eastern Ukrainian city of Sumy late Friday killing at least two people, Ukrainian President Volodymyr Zelensky said. Ukraine's state rescue service published an image showing an apartment with a gaping hole across three floors. Follow our liveblog to see how the day's events unfold.",
+      "published_at": "2026-09-19T05:24:28+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
     {
       "id": "a679439d7ea9337b6721bf16bf9c5566cbd35248dc6912216290cb1aaeef9e36",
       "title": "Air quality back at unhealthy levels in central Singapore",
       "url": "https://www.channelnewsasia.com/singapore/air-quality-back-unhealthy-levels-in-central-singapore-6396246",
-      "description": "",
+      "description": "The 24-hour Pollutant Standards Index (PSI) in the central region hit 102 at 1pm.",
       "published_at": "2026-09-19T05:01:21+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -86,6 +122,17 @@
     },
     {
       "id": "8602da90c72a1334c7f0c4dede517f1516cb34cc2475c619f3db4881a74d5235",
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "description": "Residents later received the all-clear after explosions were reported in the capital.",
+      "published_at": "2026-09-19T04:20:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "88e20a731a3b34c5caffe2be705dc58155232af56afe24b6577db869aa18afee",
       "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
       "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
       "description": "Residents later received the all-clear after explosions were reported in the capital.",
@@ -530,6 +577,17 @@
       ]
     },
     {
+      "id": "4cbdef5f1b3a15187b6a43a72bff25eac2c021793bfc46cc933225a1da2b77f3",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "published_at": "2026-09-18T23:04:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "dc27ef936fdc974093b3295e05f785a65548c2ee3f30a9d02672697c1d2aa6bf",
       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
       "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
@@ -555,7 +613,7 @@
       "id": "a02dbaa58123b9abe8625c671802d28fd3f2f607fe9911e9d1f4b59877c9a7da",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
       "published_at": "2026-09-18T22:58:55+00:00",
       "source": "BBC",
       "categories": [
@@ -692,6 +750,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "cbc53db85405ef58252246f2d21078d24f6e76831122064835e6fc4903d2fc26",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "published_at": "2026-09-18T22:05:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1202,6 +1271,17 @@
       ]
     },
     {
+      "id": "e44a4070415ca10a92aa58677358f660b6df7a5df4c25e97819eb3840f889f79",
+      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "description": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "published_at": "2026-09-18T18:56:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "8c198b0aca24b014156eb8d084813ff478a1f8863d150603b42cca0c70bf7621",
       "title": "Driver who killed woman celebrating 60th jailed",
       "url": "https://www.bbc.co.uk/news/articles/ckn8ez8q86plo?at_medium=RSS&at_campaign=rss",
@@ -1592,6 +1672,17 @@
     },
     {
       "id": "6d0e8816d782f599e2b0d86bd1ccecad5badff20fcad5450e26e97fa6ead62ac",
+      "title": "Police issue fresh appeal to locate on-the-run killer",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk52l42lj0o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who is serving 15 years for the murder of Karol Kelly in Londonderry in 2018, remains on the run.",
+      "published_at": "2026-09-18T16:15:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "cd9e623b4263ce8e91394b674a2d4f1256a307f940e7f91d9260a26455fcb0cb",
       "title": "Police issue fresh appeal to locate on-the-run killer",
       "url": "https://www.bbc.co.uk/news/articles/c9gk52l42lj0o?at_medium=RSS&at_campaign=rss",
       "description": "Gary Anderson, who is serving 15 years for the murder of Karol Kelly in Londonderry in 2018, remains on the run.",
