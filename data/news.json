@@ -1,6 +1,154 @@
 {
-  "last_updated": "2026-09-21T22:02:39.689896+00:00",
+  "last_updated": "2026-09-21T23:02:47.672543+00:00",
   "articles": [
+    {
+      "id": "6ce1cdbd9a83f85161277375e9ef7150f0c56b626332cda2eab0fe47770ca9a8",
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+      "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "published_at": "2026-09-21T23:01:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "5a39879d7115d883e7922a324dc0655a47a92afe91ee8454459c9960c283d03e",
+      "title": "Vet prescription fees capped under rule changes",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+      "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "published_at": "2026-09-21T23:01:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "fe77f12edb92e7a555c55d132e736e5ccaa1fc047adc457b389b5f19e5668127",
+      "title": "AI poses new national security threat, outgoing Hong Kong deputy police chief warns",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368258/ai-poses-new-national-security-threat-outgoing-hong-kong-deputy-police-chief-warns?utm_source=rss_feed",
+      "description": "Retiring deputy police commissioner Andrew Kan Kai-yan has said artificial intelligence (AI) poses a new threat to national security in Hong Kong, with the force turning to the emerging technology to help combat the issue. Kan raised the alarm after state security minister Chen Yixin warned last week of rising national security risks posed by AI. The senior mainland Chinese official also called for robust risk prevention frameworks and stronger global governance of the technology. Chief...",
+      "published_at": "2026-09-21T23:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "9bcd5782d7b9d3d48326f51e1d4eaa8394d4bd692552af4c3bea021718d93f43",
+      "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
+      "description": "The US and China should agree on international regulatory standards for artificial intelligence (AI), akin to atomic-era guardrails, said Ro Khanna, the ranking member of the US House Select Committee on China, in New York on Monday ahead of the two countries’ high-stakes summit. The remarks come two days before Chinese President Xi Jinping is set to arrive in Washington to meet with US President Donald Trump for a closely watched summit where AI is expected to be on the agenda after the two...",
+      "published_at": "2026-09-21T22:48:38+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "2a0758c4d7e4c1892f6a41e9ab580a25674ca3ff63caa2b71d489060104bac2e",
+      "title": "Paramount settles with US states, clearing path for Warner Bros. merger",
+      "url": "https://www.france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger",
+      "description": "Paramount has reached a settlement with California and 11 other states that clears a major legal hurdle to its $110 billion takeover of Warner Bros. Discovery, with the deal imposing commitments on film production, jobs and editorial independence at CNN and CBS News.",
+      "published_at": "2026-09-21T22:48:23+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "c11c78c127eef382166a1d0f2857fa11c62b814db0b953547e76961dea54082e",
+      "title": "Flights scrapped, evacuations urged as Typhoon Dujuan wallops Japan",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-flights-cancelled-typhoon-dujuan-evacuations-tokyo-6400821",
+      "description": "Two people have been confirmed dead as heavy rainfall triggered landslides in Chiba and Kanagawa prefectures near Tokyo, local media reported.",
+      "published_at": "2026-09-21T22:42:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "059a90e433624183576b63ab07918ccc3d5c7d5ad19481be040bd61ca0e9166b",
+      "title": "Traffic chaos in Perthshire villages after Google Maps glitch",
+      "url": "https://www.bbc.co.uk/news/articles/c933k2y1xk53o?at_medium=RSS&at_campaign=rss",
+      "description": "The issue saw vehicles leave the A9 and travel through the Perthshire villages of Ballinluig, Tulliemet and Guay.",
+      "published_at": "2026-09-21T22:12:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "c7d3d85c537925f9250a3145d4f568ff6065a2d579305f13fea2bbb8b1b89fbe",
+      "title": "Traffic chaos in Perthshire villages after Google Maps glitch",
+      "url": "https://www.bbc.co.uk/news/articles/c933k2y1xk53o?at_medium=RSS&at_campaign=rss",
+      "description": "The issue saw vehicles leave the A9 and travel through the Perthshire villages of Ballinluig, Tulliemet and Guay.",
+      "published_at": "2026-09-21T22:12:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9831689372e98dbe8093f4e6ca8e94a8b56c85ad2a012d6d2e99bc23b3c3feb9",
+      "title": "Is architecture the new attraction? These museums make the case",
+      "url": "https://www.channelnewsasia.com/experiences/new-museums-opening-2026-architecture-6384931",
+      "description": "From Los Angeles to Suzhou, a new generation of museums is bringing ambitious design, fresh cultural perspectives and new ways to experience art.",
+      "published_at": "2026-09-21T22:07:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "9bf0fc16cbe26b931d96116896ba0a3f7539150fc22fc3cd7b84352276127300",
+      "title": "Firefighters tackle blaze at Crumlin Road courthouse",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx2xl5zeno?at_medium=RSS&at_campaign=rss",
+      "description": "The Crumlin Road has been closed in both directions between Agnes Street and Carlisle Circus due to the fire, police said.",
+      "published_at": "2026-09-21T22:06:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "01a8dee26e7f969d3beb9aa0b592b93398cde54e30d3fe52c03adc7e2fafdef1",
+      "title": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
+      "url": "https://www.channelnewsasia.com/world/british-columbia-sues-openai-over-tumbler-ridge-school-shooting-6400766",
+      "description": "",
+      "published_at": "2026-09-21T22:06:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f7447f69848dc0b879a3b022c17d9678ceca339fda3f664cb8462d5d198af1df",
+      "title": "Operator paid more than £10m to keep parking free at Edinburgh hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj2lzggppo?at_medium=RSS&at_campaign=rss",
+      "description": "The PFI firm which runs the Royal Infirmary of Edinburgh has banked more than £10m in public money to keep parking free at the hospital.",
+      "published_at": "2026-09-21T22:05:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "2821af036f4f45930088b805f55bc532e41ca960dd36b094dca0ea7a21435e09",
+      "title": "Operator paid more than £10m to keep parking free at Edinburgh hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj2lzggppo?at_medium=RSS&at_campaign=rss",
+      "description": "The PFI firm which runs the Royal Infirmary of Edinburgh has banked more than £10m in public money to keep parking free at the hospital.",
+      "published_at": "2026-09-21T22:05:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
     {
       "id": "d7e1b5c7e971b1f1797f53ffeb84dae3a4d3ae66aa93f1cc8376b819d25e36f7",
       "title": "The US-China tech war has evolved since the last Xi-Trump summit. Who has the edge now?",
@@ -10,6 +158,80 @@
       "source": "SCMP",
       "categories": [
         "News",
+        "World"
+      ]
+    },
+    {
+      "id": "8fa14a5c47a7ce83ca5ba77c7764765d2e76b0d7e7a09b6398290442e39e6e50",
+      "title": "Mid-market gyms feel the heat in Singapore's 'golden age' of fitness",
+      "url": "https://www.channelnewsasia.com/singapore/gyms-true-fitness-competition-costs-rent-6398946",
+      "description": "Even as more Singaporeans exercise regularly, big box gyms are losing ground to boutique studios and budget 24-hour chains.",
+      "published_at": "2026-09-21T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "Singapore",
+        "Sports"
+      ]
+    },
+    {
+      "id": "8ec16628422c9985bf0e01b272be08c34ff14b6e51b418868515ed83c7c6c8b8",
+      "title": "Testing the waters? Businesses weigh China’s new trade shortcut to Southeast Asia",
+      "url": "https://www.channelnewsasia.com/east-asia/pinglu-canal-asean-business-china-guangxi-6397476",
+      "description": "The Pinglu Canal provides China’s landlocked southwest region with a much shorter water route to the South China Sea - and Southeast Asia. But turning early business interest into sustained demand will be the bigger test, say analysts.",
+      "published_at": "2026-09-21T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1d51b5540b82d2a9de252448902123dc8437d6890733c493d212a6cfbef04fc9",
+      "title": "'Never-ending’: Relentless wildfires push Sumatra’s firefighters to their limits",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-firefighters-drought-6391731",
+      "description": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the second of a series, CNA meets the firefighters enduring choking smoke, sleepless nights and scarce water - and finds out what keeps them going.",
+      "published_at": "2026-09-21T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d181c3ddc7b42f858e9aa5c868583b0a7517b7eda91e88ca2c0152c90454424c",
+      "title": "Commentary: Tata data leak a setback for ‘Make in India’ ambitions, but it’s not a verdict",
+      "url": "https://www.channelnewsasia.com/commentary/india-tata-apple-tesla-data-breach-partner-outside-china-6385231",
+      "description": "The Tata data breach is a reminder that qualities such as cybersecurity, are now as much a part of manufacturing competitiveness as infrastructure and labour costs, says University of Delhi’s Aasheerwad Dwivedi.",
+      "published_at": "2026-09-21T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "92c35b672530671d0985852f99dac80b776a0fda4587c27fd20ce82617bc1c5d",
+      "title": "Commentary: Why the world’s hottest stock market is a national liability",
+      "url": "https://www.channelnewsasia.com/commentary/south-korea-stocks-kospi-national-liability-6399261",
+      "description": "South Korea’s wild stock price swings are hurting the country’s image, says Ruchir Sharma for the Financial Times.",
+      "published_at": "2026-09-21T21:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cca4a3a3919a3601bba738b629dd2bece6da848347b2ce3d1d8ec3f72facb1dc",
+      "title": "Commentary: Trump declares victory in Greenland, but the deal exposes a deeper crisis of trust",
+      "url": "https://www.channelnewsasia.com/commentary/trump-greenland-deal-us-denmark-security-6399456",
+      "description": "The deal normalises a sphere-of-influence politics in which smaller states remain legally sovereign but face pressure to accept subordination, say academics.",
+      "published_at": "2026-09-21T21:58:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
         "World"
       ]
     },
@@ -171,14 +393,26 @@
       "published_at": "2026-09-21T21:16:13+00:00",
       "source": "France 24",
       "categories": [
-        "Africa"
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "6c983922d426c24e95c8a5dd412a637ae1ed1f2215304795be274bb97d1d7615",
+      "title": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
+      "url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition",
+      "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's Attorney General said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
+      "published_at": "2026-09-21T21:13:22+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
       "id": "b396f205f9cd0d8d2183a8904eb9da0fc76fd3363b46f5492e8a51d988ef9f1f",
       "title": "UK PM Burnham agrees to Saudi request for refuelling support",
       "url": "https://www.scmp.com/news/world/europe/article/3368308/uk-pm-burnham-agrees-saudi-request-refuelling-support?utm_source=rss_feed",
-      "description": "British Prime Minister Andy Burnham said on ⁠Monday he had ⁠agreed to a request ⁠from Saudi Arabia to provide defensive air-to-air refuelling for a limited time period, a move he described as helping to stabilise the wider region. Riyadh requested support after the Houthis, who control ‌the most populous parts of Yemen, intensified their attacks on Saudi Arabia, a new front in the wider war that began with US and Israeli strikes on Iran in late February. “We have received a request from the...",
+      "description": "Andy Burnham once said he would refuse to meet Donald Trump. Now Britain’s prime minister is about to hold his first meeting with the US president, with Ukraine, the risks and opportunities of artificial intelligence and the soaring cost of conflict in the Middle East dominating his agenda. In a sign of the stark decisions facing the neophyte prime minister who took office just two months ago, Burnham announced Monday that he would send a Royal Air Force plane to help Saudi Arabia repel attacks...",
       "published_at": "2026-09-21T21:12:06+00:00",
       "source": "SCMP",
       "categories": [
@@ -217,7 +451,8 @@
       "published_at": "2026-09-21T21:05:09+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -1660,6 +1895,17 @@
       ]
     },
     {
+      "id": "2d9039d76773f2b3910a059416a94a77f103bfba01478318507b750a91a610f7",
+      "title": "Man guilty of murdering partner in frenzied flat attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqlylp0dxelyo?at_medium=RSS&at_campaign=rss",
+      "description": "Alexander Brennan, 54, killed Brodie MacGregor, 23, at her flat in Glasgow's Springburn on 26 August 2024.",
+      "published_at": "2026-09-21T14:01:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "31722d11b90ca80e6430d95cfacf83725cf050035f5ab30388c53cff71cd8f2e",
       "title": "Survey finds US public opinion shifting in favour of engagement with China",
       "url": "https://www.scmp.com/news/china/article/3368174/survey-finds-us-public-opinion-shifting-favour-engagement-china?utm_source=rss_feed",
@@ -2566,6 +2812,17 @@
     },
     {
       "id": "b3069dae7cb0f3a5e552b60182d177487fecfc652d661b0c4d709109bd1ec540",
+      "title": "Pub used in cult classic film The Wicker Man up for auction",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxz2pnkxgdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Ellangowan Hotel in Creetown became the Green Man pub for the 1970s cult horror movie.",
+      "published_at": "2026-09-21T11:33:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7292cda89638d9fa4b2f22fb496b58c59ef15c53a6c7797fe57a9027550e0cd8",
       "title": "Pub used in cult classic film The Wicker Man up for auction",
       "url": "https://www.bbc.co.uk/news/articles/c6zxz2pnkxgdo?at_medium=RSS&at_campaign=rss",
       "description": "The Ellangowan Hotel in Creetown became the Green Man pub for the 1970s cult horror movie.",
