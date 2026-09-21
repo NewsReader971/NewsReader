@@ -1,6 +1,334 @@
 {
-  "last_updated": "2026-09-21T05:03:32.247119+00:00",
+  "last_updated": "2026-09-21T06:03:41.109460+00:00",
   "articles": [
+    {
+      "id": "4477c82d42a5cc4b3cb32652b74f8021723deea51d7065507d4fdd1bdeaa714c",
+      "title": "Singapore baby-care brand Tollyjoy to wind down after 55 years",
+      "url": "https://www.channelnewsasia.com/singapore/tollyjoy-baby-brand-close-after-55-years-6398891",
+      "description": "The company was founded in Singapore in 1971.",
+      "published_at": "2026-09-21T05:56:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "bdbc0468cbaa0bd427897921d7209ae5bd9cc556c031d750043ca07cae28efbc",
+      "title": "Japanese surgeon removes healthy brain tissue, leaving woman on ventilator",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3368212/japanese-surgeon-removes-healthy-brain-tissue-leaving-woman-ventilator?utm_source=rss_feed",
+      "description": "A Japanese woman was left unable to breathe on her own after a veteran surgeon mistakenly removed healthy tissue instead of a benign tumour from her brain. Kyoto University Hospital apologised for the medical error and vowed to take measures to prevent similar incidents, local news outlet TV Asahi reported. The woman, in her fifties, was diagnosed with a benign brain tumour after consulting doctors for dizziness and unsteadiness. Although she was able to carry out her daily activities, she...",
+      "published_at": "2026-09-21T05:55:03+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "0a493af52952a8413c1286ced20b2ea73d4724797ad574ad84b958cf3aa502f7",
+      "title": "Scotland's papers: Indyref back on agenda and calls for suicide prevention classes",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49p2rg4q1o?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-09-21T05:51:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "de85d33d0a3a57729bd14e41e74faafb0fb4772549b50c6abf99d0bbfbc34464",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "published_at": "2026-09-21T05:50:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "37ba21138a157ef8c277a1a641924ba2640823a428e22b1eaccd8ee9ecb6ace6",
+      "title": "Thailand considering oil tax cut, finance minister says",
+      "url": "https://www.channelnewsasia.com/business/thailand-considering-oil-tax-cut-finance-minister-says-6398926",
+      "description": "",
+      "published_at": "2026-09-21T05:48:19+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "8101f541eed439e4e0f38ffd7ca193574776486e37df5ce7a2761af53291b997",
+      "title": "Over 11,000 applicants for new Hong Kong taxi, ride-hailing test",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3368211/over-11000-applicants-new-hong-kong-taxi-riding-hailing-test?utm_source=rss_feed",
+      "description": "More than 11,000 residents have applied to take the joint examination for taxi and ride-hailing car driver permits, exceeding the Hong Kong government’s expectations, the city’s transport minister has said. Secretary for Transport and Logistics Mable Chan also gave more details on Monday about a separate scheme that would allow mainland Chinese yacht owners to sail their vessels into city waters, saying they had achieved a good passing rate for the relevant test. Hong Kong recently passed...",
+      "published_at": "2026-09-21T05:45:59+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "77d4a99668c0cf793f74166fcfd36b4b72eeb8bdcf4c2661af5a67fa42b6e878",
+      "title": "Crisis looming for Marseille after five successive losses",
+      "url": "https://www.channelnewsasia.com/sport/crisis-looming-marseille-after-five-successive-losses-6398901",
+      "description": "",
+      "published_at": "2026-09-21T05:35:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "e9b97cde7083ba8219884809534ec7e3a878db6b71b272e434868059fa6e6548",
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+      "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+      "published_at": "2026-09-21T05:33:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "0e2e0324fc91bdf1857caad3263c03039e41a95a516d6a93939578800db6624b",
+      "title": "Which emergency foods should you stock up on?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "published_at": "2026-09-21T05:22:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "dfddab996e72e9f261e0869f19d416d3d59dff1a5105df21fa9dd838f9908d34",
+      "title": "Which emergency foods should you stock up on?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "published_at": "2026-09-21T05:22:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "68fc7c826e6a70859bc4be74c081b182470165cc9b8fd0caa48c3b10d3bdb966",
+      "title": "Which emergency foods should you stock up on?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "published_at": "2026-09-21T05:22:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "eedad573f57cd0cd40d966ab2f6840798b80f5c3d3fb1e98176206b1eb64cb70",
+      "title": "Family builds Ganesha statue out of 4,500 Tic Tacs",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z45xd4o?at_medium=RSS&at_campaign=rss",
+      "description": "The family used thousands of the miniature mints to complete their festive creation.",
+      "published_at": "2026-09-21T05:21:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "cb07125aebf7e6903c5dc856ff760765a823e6752312f36b3f3c082d9e551f57",
+      "title": "Actor Mellor's gurning beaten by Cumbria man",
+      "url": "https://www.bbc.co.uk/news/articles/crjw5p03qqpvo?at_medium=RSS&at_campaign=rss",
+      "description": "The World Gurning Championship is held annually in the small Cumbrian town of Egremont.",
+      "published_at": "2026-09-21T05:20:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1e05cb7dcee492665d33f961cd6d75505bfb3f24f880c716218ef4101efda981",
+      "title": "Portrait of George Mitchell will not be removed from Hillsborough Castle",
+      "url": "https://www.bbc.co.uk/news/articles/c914dm124l82o?at_medium=RSS&at_campaign=rss",
+      "description": "The picture will remain as part of the castle's \"important story\" in the peace process\".",
+      "published_at": "2026-09-21T05:17:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "72a488b4a08878dc215a49be8cd4f9df239b6fe476571627720679b4570e9392",
+      "title": "Portrait of George Mitchell will not be removed from Hillsborough Castle",
+      "url": "https://www.bbc.co.uk/news/articles/c914dm124l82o?at_medium=RSS&at_campaign=rss",
+      "description": "The picture will remain as part of the castle's \"important story\" in the peace process\".",
+      "published_at": "2026-09-21T05:17:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "5e2b2be7b9429c44d2e84bb27a29f9bae33a5cf5cc169bb5547445b84014b6d7",
+      "title": "Xi rolls into Trump summit with China's trade engine roaring",
+      "url": "https://www.channelnewsasia.com/world/xi-trump-summit-china-trade-engine-united-states-6398606",
+      "description": "While thorny issues like Taiwan may surface, the main focus of the upcoming meeting is whether Xi and Trump will signal an extension to a trade truce struck last year that averted a major shock to the global economy.",
+      "published_at": "2026-09-21T05:17:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "20482970dec7a55fc4af75ab2372dd3f37d722fcc2e40e84a48f8102fd503f24",
+      "title": "Bake Off star says 'going sober' has been 'glorious'",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5ggy30j4o?at_medium=RSS&at_campaign=rss",
+      "description": "Briony May Williams has been sober since 2023 after deciding to make \"big changes\" in her life.",
+      "published_at": "2026-09-21T05:16:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c71b1a89e720d65b1c8c812a364e65f2a2aa752b93c297c081c54ee35a3938ed",
+      "title": "Runner aged 90 sets world best time for 10k in age group",
+      "url": "https://www.bbc.co.uk/news/articles/cvzezxeye969o?at_medium=RSS&at_campaign=rss",
+      "description": "Ian Winship completed the Cumbernauld 10k run on 13 September in one hour, four minutes and 37 seconds.",
+      "published_at": "2026-09-21T05:14:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b8d5ad6311f8d0647fceb5a83d9cb05693f7f02f436d4ab5c2a05b1655ffd07a",
+      "title": "People who put flags on public lamp-posts could face prison",
+      "url": "https://www.bbc.co.uk/news/articles/crp3kzw1dp7zo?at_medium=RSS&at_campaign=rss",
+      "description": "Local authorities are looking at ways to crackdown on flags placed on public buildings and lamposts.",
+      "published_at": "2026-09-21T05:13:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "92c5c7f1c2cd71653052521a99655aec6c15e89fb3af1d9fa3dc3af3291b9218",
+      "title": "Quadruple amputee enters the Big Brother house",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7vgkmp4do?at_medium=RSS&at_campaign=rss",
+      "description": "Charlotte lost her arms and legs to meningitis as a toddler and is now a contestant on Big Brother.",
+      "published_at": "2026-09-21T05:13:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b3dfa0547843cb855445e2cec822b9f69976b685e71d5b92a642afbf1cae3bb3",
+      "title": "University staff begin five-week strike on day one of new term",
+      "url": "https://www.bbc.co.uk/news/articles/cw980q7r04j7o?at_medium=RSS&at_campaign=rss",
+      "description": "UCU members at the university will not take part in lectures, seminars or tutorials until the end of October.",
+      "published_at": "2026-09-21T05:11:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c15926d5ec1ac21b9785e083e7f4ec935d5d430b25150add1a15142f71390cc2",
+      "title": "University staff begin five-week strike on day one of new term",
+      "url": "https://www.bbc.co.uk/news/articles/cw980q7r04j7o?at_medium=RSS&at_campaign=rss",
+      "description": "UCU members at the university will not take part in lectures, seminars or tutorials until the end of October.",
+      "published_at": "2026-09-21T05:11:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "26046cbb5e333f804ce7c8bc41111e974d171445a10d467a4d64d54f8daf7d43",
+      "title": "University staff begin five-week strike on day one of new term",
+      "url": "https://www.bbc.co.uk/news/articles/cw980q7r04j7o?at_medium=RSS&at_campaign=rss",
+      "description": "UCU members at the university will not take part in lectures, seminars or tutorials until the end of October.",
+      "published_at": "2026-09-21T05:11:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4e95ee5315440eea876a51f44445223d983f9c348e3dae1479f8881349b557fe",
+      "title": "Parents suing over 'rubbish' children's tuition courses",
+      "url": "https://www.bbc.co.uk/news/articles/cm986g1yj55yo?at_medium=RSS&at_campaign=rss",
+      "description": "The group are taking legal action against a former director of tuition provider Exemplar Education.",
+      "published_at": "2026-09-21T05:10:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "91688af6888cb9c76ed5a64db5db928a144fa2c11245adaa070d5ff3b211880b",
+      "title": "Dementia patients dance into Buckingham Palace",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84503d341o?at_medium=RSS&at_campaign=rss",
+      "description": "The programme's sessions have been designed and delivered by English National Ballet.",
+      "published_at": "2026-09-21T05:08:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "98e06c954f25bff5919d5652a2af7435fbc8647169823bb6208bf341d1e1b2cd",
+      "title": "Black robin rules roost in New Zealand’s Bird of the Year vote",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3368206/black-robin-rules-roost-new-zealands-bird-year-vote?utm_source=rss_feed",
+      "description": "A record number of New Zealanders turned out at the polls this month, not for national elections but to vote for their Bird of the Year – the critically endangered black robin. The diminutive native lives on the remote Chatham Islands, 800km (500 miles) off the South Island’s east coast. In 1980, only five of the birds remained, including a single breeding female. Now there are about 350. The black robin topped the pecking order ahead of the famed flightless parrot, the kakapo, and the native...",
+      "published_at": "2026-09-21T05:07:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "d1947ac7203b875915dc3a129a9d5512546e174522889c8bd6191e5ab35d1c2c",
+      "title": "Ofnau am ddyfodol AI yn 'achosi i mi fod eisiau dianc i ryw ynys'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3y0z2lpyvg1o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae pobl wedi rhannu eu pryderon yn sgil penawdau diweddar dros y ffordd y mae technoleg deallusrwydd artiffisial yn datblygu.",
+      "published_at": "2026-09-21T05:05:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "50fc42412e5244ec43698ed1125cd6f69e5eb642724db7e9207ab7c71ec5c26d",
+      "title": "Third-country removals: Trump’s deportation policy by the numbers",
+      "url": "https://www.france24.com/en/americas/20260921-third-country-removals-trump-deportation-policy-numbers",
+      "description": "Since January 2025, the Trump administration has deported more than 25,000 people to so-called “third countries” – places that are not their countries of origin. Working with a team of 26 international media outlets, Forbidden Stories and FRANCE 24 have used information gathered by NGOs and open-source information to count and map these deportations. Our investigation shines a light on the scale of this mass deportation campaign that is being carried out under the cover of darkness.",
+      "published_at": "2026-09-21T05:04:26+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "9bce64a3dc3127a5e8effd45dd7e0d5eb53d98ea1b535b0ba894395bc4d16256",
+      "title": "Heddlu i gymryd cerbydau sy'n difrodi tir gwarchodedig 'yn y fan a'r lle'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqevw70yx02yo?at_medium=RSS&at_campaign=rss",
+      "description": "Bydd cerbydau gyrwyr sy'n achosi difrod i ardaloedd gwarchodedig yn cael eu cymryd \"yn y fan a'r lle\", yn ôl yr heddlu.",
+      "published_at": "2026-09-21T05:02:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
     {
       "id": "dab09c85e5dbc8d1978ae81b5fb4a2b2ec9145ac50f2af715c210399ed2f473e",
       "title": "Illegal off-road vehicles to be seized on the spot as police warn of 'long walk home'",
@@ -10,6 +338,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "3639ca46420a1f3dbac7dc1fe364a24718954cf267ee22db69eef6028f63cabe",
+      "title": "'Loo enthusiast' creates app for rating toilets",
+      "url": "https://www.bbc.co.uk/news/articles/ckq63q3negq7o?at_medium=RSS&at_campaign=rss",
+      "description": "\"It is vital to have a beautiful bathroom - establishments forget that,\" says Yolanda Cuevas-Beck.",
+      "published_at": "2026-09-21T05:01:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -25,6 +364,28 @@
       ]
     },
     {
+      "id": "180f5dce9a2403cc7b58b2f8264429e6ecf1473b9e15fb0c3c0f206fce741ccb",
+      "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+      "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+      "published_at": "2026-09-21T05:00:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "36748ca743e35461e7a5bb36fd81fb748147b7cb802301257ebe6c8e89a37355",
+      "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+      "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+      "published_at": "2026-09-21T05:00:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "4a54c3494ebdb9144d9aa6771e09f8ac349991efef0df9b1264ac61a1cd1581f",
       "title": "‘Waiting for us to crack’: In Cameroon, the victims of Trump’s deportations face uncertain fates",
       "url": "https://www.france24.com/en/africa/20260921-waiting-for-us-to-crack-victims-of-trump-deportations-face-uncertain-fates-in-cameroon",
@@ -34,6 +395,17 @@
       "categories": [
         "Africa",
         "World"
+      ]
+    },
+    {
+      "id": "c21b86a9fc805a2093e3fa9a815b8f15cd36ec0839ce7bcd29c0f884771775b9",
+      "title": "How climate change is reshaping Britain's trees",
+      "url": "https://www.bbc.co.uk/news/articles/cj750xnxpleeo?at_medium=RSS&at_campaign=rss",
+      "description": "Hotter summers are forcing growers to rethink which trees thrive in the UK.",
+      "published_at": "2026-09-21T05:00:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -57,6 +429,17 @@
       "source": "BBC",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "09ff843295352c1e66a205a7a9531905e0efcbdecd22e2f70b03edb5cc43a8e7",
+      "title": "Detectorists strike gold despite faulty headset",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5g1w62pqo?at_medium=RSS&at_campaign=rss",
+      "description": "The ring may have belonged to a woman who became the canoness of a priory in the 14th Century.",
+      "published_at": "2026-09-21T04:53:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -111,7 +494,7 @@
       "id": "017101bdef52376981a873918cb64c4793e986da48e7761002bcc6373d314e77",
       "title": "Loud audio, feet on bus seats among offences carrying fines of up to S$500 from Sep 23",
       "url": "https://www.channelnewsasia.com/singapore/bus-new-regulations-nuisance-offence-fines-penalties-6398691",
-      "description": "The new rules aim to address nuisance and disruptive behaviour on public buses.",
+      "description": "More serious offences, including causing danger to other commuters or soiling a bus, interchange or terminal, can carry penalties of up to S$5,000.",
       "published_at": "2026-09-21T04:18:00+00:00",
       "source": "CNA",
       "categories": [
@@ -187,6 +570,17 @@
       "categories": [
         "Asia",
         "News"
+      ]
+    },
+    {
+      "id": "fc5b46cebbc245c38c5fa284c8e3cf0f384db75b9809edebc590a6c1fbb87ee4",
+      "title": "Owner Tan's 1,000 days without attending a Cardiff game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317jvvgw7zyo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport Wales assess Vincent Tan's often controversial stewardship of Cardiff City as his absence continues.",
+      "published_at": "2026-09-21T03:53:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -317,6 +711,17 @@
       ]
     },
     {
+      "id": "526f26317334e596e8b91a894bf1a3e9cc2eb9a957f52bd31f2f29116e765f15",
+      "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+      "url": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
+      "description": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish exactly when and how the crash happened.",
+      "published_at": "2026-09-21T02:27:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "b02e108fc3a5ea33b64f0afd6ee14b555b14a5e5057eae1794054c16fdfb4d22",
       "title": "3 stray mongrels captured after cyclist dies in suspected dog attack",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3368192/3-stray-mongrels-captured-after-cyclist-dies-suspected-dog-attack?utm_source=rss_feed",
@@ -332,7 +737,7 @@
       "id": "5b11ef521290a0b1d993e6ef4f1922b9dc990e51f3055b22680871d6cc37c050",
       "title": "US, China discuss AI safety ahead of Trump-Xi summit",
       "url": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
-      "description": "US and Chinese officials discussed creating a mechanism to communicate over potentially serious AI incidents during talks in New York on Sunday, as the two sides sought progress on technology and trade ahead of this week’s Trump-Xi summit.",
+      "description": "US and Chinese officials discussed creating a communication channel over potentially serious AI incidents during talks in New York on Sunday as the two sides sought progress on technology and trade ahead of this week’s summit between US President Donald Trump and his Chinese counterpart Xi Jinping.",
       "published_at": "2026-09-21T02:22:17+00:00",
       "source": "France 24",
       "categories": [
@@ -446,6 +851,18 @@
       ]
     },
     {
+      "id": "de1596317f8a11a570d4fe61fa52fd287b3933381c7e84cf6435ff7fbcc8ade0",
+      "title": "Meta's Facebook, Instagram recover after brief outage in US",
+      "url": "https://www.channelnewsasia.com/business/metas-facebook-instagram-recover-after-brief-outage-in-us-6398456",
+      "description": "",
+      "published_at": "2026-09-21T01:46:23+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "be73c949bb6f583b71d378322c56a33aebc02780631ca40570c44232be1bbe3b",
       "title": "Australia to seek UN security council seat from 2029",
       "url": "https://www.channelnewsasia.com/world/australia-un-security-council-seat-2029-6398356",
@@ -473,7 +890,7 @@
       "id": "6ba1e735726645bb1dce427075c678906d8f0a65bc445fb23c0b8359c2483cc9",
       "title": "Mainland China’s stock exchanges mount charm offensive amid Hong Kong IPO boom",
       "url": "https://www.scmp.com/business/article/3368149/mainland-chinas-stock-exchanges-mount-charm-offensive-amid-hong-kong-ipo-boom?utm_source=rss_feed",
-      "description": "Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise domestic listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter. The domestic exchanges recently met representatives of some mainland companies planning Hong Kong listings, especially first-time issuers and firms in sectors supported by national policies, a source said. “Exchanges emphasised the benefits of listing...",
+      "description": "Mainland China’s stock exchanges have stepped up lobbying of companies and regulators to prioritise their boards for listings after Hong Kong stole their thunder in fundraising activities in recent years, according to two sources familiar with the matter. Figures from the exchanges recently met representatives of some mainland companies planning Hong Kong listings, especially first-time issuers and firms in sectors supported by national policies, a source said. “Exchanges emphasised the benefits...",
       "published_at": "2026-09-21T01:00:10+00:00",
       "source": "SCMP",
       "categories": [
@@ -702,6 +1119,17 @@
       "source": "CNA",
       "categories": [
         "Latest News"
+      ]
+    },
+    {
+      "id": "f5ee22f6d08eb2979c1540f532e320eda13be6a67708c658f2ae7589e1de81db",
+      "title": "Watch: BBC tracks down abusive teacher secretly released early",
+      "url": "https://www.bbc.co.uk/news/videos/c5gmrlm7pm0vo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Eye has discovered a teacher who was imprisoned for sexually assaulting a student in Indonesia has been secretly released early.",
+      "published_at": "2026-09-20T23:09:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1429,7 +1857,7 @@
       "id": "0b59dd0741b99b484f28f77abd419d9b73b816406380c73799e9a90dfd15815a",
       "title": "Germany’s Merz vows to press ahead with reforms after historic state election defeat",
       "url": "https://www.scmp.com/news/world/europe/article/3368175/germanys-merz-vows-press-ahead-reforms-after-historic-state-election-defeat?utm_source=rss_feed",
-      "description": "German Chancellor Friedrich Merz suffered a bruising electoral setback in two state elections on Sunday, including a historic defeat for his party, but vowed to press ahead with potentially painful reforms to Europe’s biggest economy. Exit polls by public broadcaster ARD on Sunday night indicated that Merz’s centre-right Christian Democratic Union, or CDU, came in with just 5 per cent in Mecklenburg-Western Pomerania – the lowest result ever since World War II for the party in any state. The...",
+      "description": "German Chancellor Friedrich Merz faced a struggle to stabilise his position and keep his agenda on track on Monday after voters inflicted two more defeats on his party, ejecting it from a state legislature for the first time. The unpopular Merz vowed to stay on and push through reforms to Germany, Europe’s biggest economy, minutes after polls closed Sunday in regional elections in Berlin and in Mecklenburg-Western Pomerania, a largely rural eastern region on the Baltic Sea coast. Still, final...",
       "published_at": "2026-09-20T17:24:32+00:00",
       "source": "SCMP",
       "categories": [
@@ -1632,6 +2060,17 @@
       ]
     },
     {
+      "id": "9a6099b3e8ed23fd3033f51a6d9527517c7b0e92cc96421452373bbd49726ceb",
+      "title": "Rangers look like they know where they want to go - Celtic just look lost",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&at_campaign=rss",
+      "description": "Tom English reflects on the first Old Firm league game of the season, in which Rangers repeated their League Cup win over Celtic.",
+      "published_at": "2026-09-20T16:23:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "f262d30f9dbbeede68ea13714bfeca1c8ea7f4ab2af01bcfa701493581e8e729",
       "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
       "url": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
@@ -1810,6 +2249,18 @@
       "url": "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote",
       "description": "Two German states are heading to the polls today – in Berlin and the state of Mecklenburg-Western Pomerania. The far-right AfD party is expected to make further gains after securing a historic win in Saxony-Anhalt two weeks ago, though it has no realistic path to power in Berlin. Sunday's vote is a key test for Chancellor Friedrich Merz, one that could determine whether he can hold on to power. Details with Jamie Smith-Maillet, FRANCE 24 international affairs editor.",
       "published_at": "2026-09-20T14:56:15+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "d06c6bbdd1cddc4f68ce89be6f5d4b35dcf000e846069859b30a059e6185813d",
+      "title": "Putin’s party set to retain majority after Russia vote marred by cyberattacks, drones",
+      "url": "https://www.france24.com/en/europe/20260920-putin-s-party-set-to-retain-power-after-russia-vote-hit-by-cyberattacks-drones",
+      "description": "Russian President Vladimir Putin’s United Russia party won a large majority in parliamentary elections, according to preliminary results published by state media Monday, in a vote held amid Ukrainian drone strikes, cyberattacks and a crackdown on anti-war opposition. The election was the first since Russia’s full-scale invasion of Ukraine in 2022.",
+      "published_at": "2026-09-20T14:47:00+00:00",
       "source": "France 24",
       "categories": [
         "Europe",
@@ -2420,6 +2871,17 @@
     },
     {
       "id": "83ad9a0150b8fec648483c9c9027d5ac43860e80d7976a528e9fbe1ecd211803",
+      "title": "Chiltern Railways renationalised after 30 years",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
+      "description": "It joins Great British Railways as part of government plans to save money and improve services.",
+      "published_at": "2026-09-20T10:45:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "38643933e11205d4e2e8b7eae2145ec09fff39bfc9f9c8231950b664aa45f4ca",
       "title": "Chiltern Railways renationalised after 30 years",
       "url": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
       "description": "It joins Great British Railways as part of government plans to save money and improve services.",
@@ -3471,6 +3933,17 @@
       ]
     },
     {
+      "id": "eaac75e1fe1cc8444bca69a7bcee43500c86eec21d598c6ee830b8272551a8de",
+      "title": "My 'surreal' new job in the chapel where Henry VIII worshipped",
+      "url": "https://www.bbc.co.uk/news/articles/cq1mv72zleydo?at_medium=RSS&at_campaign=rss",
+      "description": "Archdeacon Robert Miller becomes the first cleric from the island of Ireland to take up the chaplaincy at Hampton Court Palace.",
+      "published_at": "2026-09-20T05:52:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "b675c8fcfa11b5c29a4aa396729fe9a5d9a71ddc404a9d4714f1ec3a6bb71d3f",
       "title": "Girl, 10, has swum in the sea every day for a year",
       "url": "https://www.bbc.co.uk/news/articles/cy0zqr29w1jo?at_medium=RSS&at_campaign=rss",
@@ -3960,6 +4433,17 @@
       ]
     },
     {
+      "id": "fc947f6002527cb0fcbdc28d293052993e9290ac4278a911a32e30c5e3ac9b2b",
+      "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+      "url": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+      "description": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
+      "published_at": "2026-09-19T23:18:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "ecaa732a7dc34bebe039c5875be6b10d474f5fe318c834459c59a9da12065f87",
       "title": "Cultural treasures are being destroyed by war, and people want justice",
       "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
@@ -4429,6 +4913,17 @@
       ]
     },
     {
+      "id": "a09a18f0d2b2ab9ee7cf41b1cbb788fb7217c6b4515e3478bced3b611dbfb066",
+      "title": "Larne stay in touching distance before big break",
+      "url": "https://www.bbc.co.uk/sport/articles/cm3re37epvq0o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport NI looks at champions Larne's impressive start to the season and how they will cope with their upcoming fixture pile-up.",
+      "published_at": "2026-09-19T19:57:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "24b533a0ed35399c28e5783daab50d9c3b5a996fc3f42532616d7299faad2cbb",
       "title": "Moyes demands more from Everton - but don't mention Europe",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
@@ -4626,6 +5121,17 @@
     },
     {
       "id": "262ea5bddaf7ce83f4c86fb58b33db0eb76f4b3b9ffc5cfdd0606f2bf23e211c",
+      "title": "Eagle leaves McIlroy two off Wentworth lead",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cjx2zvg507l6o?at_medium=RSS&at_campaign=rss",
+      "description": "Rory McIlroy stands two strokes behind the third-round leaders heading into the final day after a three-under 72 at the BMW PGA Championship at Wentworth.",
+      "published_at": "2026-09-19T17:58:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1692182fd0a9a032bdf7a1fd428d5f7925242f00b885a3019d7f8fd01825dd90",
       "title": "Eagle leaves McIlroy two off Wentworth lead",
       "url": "https://www.bbc.co.uk/sport/golf/articles/cjx2zvg507l6o?at_medium=RSS&at_campaign=rss",
       "description": "Rory McIlroy stands two strokes behind the third-round leaders heading into the final day after a three-under 72 at the BMW PGA Championship at Wentworth.",
@@ -4845,6 +5351,17 @@
     },
     {
       "id": "3b1e84d2d490545a259cbb92b8618399f173137a91c94e7f731851553ad6a1f9",
+      "title": "Richness of Japanese culture in Northern Ireland celebrated",
+      "url": "https://www.bbc.co.uk/news/articles/crd68l78p731o?at_medium=RSS&at_campaign=rss",
+      "description": "The Japan Society in Northern Ireland marked its 30th anniversary.",
+      "published_at": "2026-09-19T16:27:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "3f832fbd469e7cbdbcb084a63f673821a1092ab963df60e2bcece839eae89383",
       "title": "Richness of Japanese culture in Northern Ireland celebrated",
       "url": "https://www.bbc.co.uk/news/articles/crd68l78p731o?at_medium=RSS&at_campaign=rss",
       "description": "The Japan Society in Northern Ireland marked its 30th anniversary.",
@@ -5273,6 +5790,17 @@
       ]
     },
     {
+      "id": "fbabbd3d0c4705ccb24ce664a2f46c5811903db03516412218035e6a2c602ad6",
+      "title": "DUP will 'not be found wanting' when it comes to unionist co-operation, says Robinson",
+      "url": "https://www.bbc.co.uk/news/articles/cxddvn11nq61o?at_medium=RSS&at_campaign=rss",
+      "description": "Gavin Robinson was speaking at his annual conference ahead of highly anticipated assembly and council elections next May.",
+      "published_at": "2026-09-19T13:31:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "4b7b20233b91434f7949ccf3a417ca14eea3219bb6301b3658595f890e6b25a0",
       "title": "China is now Rwanda’s biggest export market – now comes the hard part",
       "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
@@ -5670,6 +6198,17 @@
     },
     {
       "id": "4b8dae897d25b694a3a911b8d4554824f76a20c8ff06f765113ee648fa748bd5",
+      "title": "Who is new Scottish Labour leader Michael Marra?",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxz41drez1o?at_medium=RSS&at_campaign=rss",
+      "description": "The North East MSP has enjoyed a rapid rise to leader of his party.",
+      "published_at": "2026-09-19T11:04:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "bc46cb1bb799016509dc2ae7d042c152b6de35934f7d572fbda8c923c4dc7c53",
       "title": "Who is new Scottish Labour leader Michael Marra?",
       "url": "https://www.bbc.co.uk/news/articles/cmzxz41drez1o?at_medium=RSS&at_campaign=rss",
       "description": "The North East MSP has enjoyed a rapid rise to leader of his party.",
@@ -6312,6 +6851,17 @@
       ]
     },
     {
+      "id": "5a62ed09038dca4368da1ba5ec57bb7f315f6fa913859824425dba5873917cfa",
+      "title": "We've been transatlantic pen pals for 70 years and are now more like sisters",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrxq7vej3qo?at_medium=RSS&at_campaign=rss",
+      "description": "Kathleen Bonthron and Shirley Hedtke were age 10 and 11 when their friendship began to blossom in letters sent between Scotland and the US.",
+      "published_at": "2026-09-19T08:24:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "bda3eaa25f73d6a51a4bc4d386d403681080efa2f728ed25cb10a2e6332a8c3e",
       "title": "'Not an easy inbox' for new Scottish Labour leader",
       "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
@@ -6319,6 +6869,7 @@
       "published_at": "2026-09-19T08:23:34+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -7762,6 +8313,17 @@
       ]
     },
     {
+      "id": "b216f9d32134047c1c8dbd4eda7e7b21b3ae538c36e59246a52d40a4fef15cfe",
+      "title": "'Our industry is still male dominated, but things are changing'",
+      "url": "https://www.bbc.co.uk/news/articles/cky9zgd3n49qo?at_medium=RSS&at_campaign=rss",
+      "description": "There has been an increase in the number of women studying for engineering degrees in NI.",
+      "published_at": "2026-09-18T23:01:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "2c5a5823089101dc6a31c7ffc02d46320eac380b5ee1d70d47507cf58f18a373",
       "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
       "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
@@ -8880,6 +9442,17 @@
       ]
     },
     {
+      "id": "9284f328b26e5582eea32d615faa2380cf6f46559b18faf62a0e92550cc83160",
+      "title": "Parades Commission defends appointment of mediators for Drumcree dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvnmrz553o?at_medium=RSS&at_campaign=rss",
+      "description": "There has been criticism of how the commission has handled the issue from the Garvaghy Road Residents Coalition.",
+      "published_at": "2026-09-18T16:46:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "f59b2502697e67beb270ad8b9da9397cd5d3032d700abbaa38cd3902c243b8da",
       "title": "Warren Buffett's road to investing glory",
       "url": "https://www.channelnewsasia.com/world/warren-buffett-berkshire-hathaway-chairman-6395516",
@@ -9017,6 +9590,17 @@
     },
     {
       "id": "794b9c477194db580b62740a53adc428fef1ba8446a2cd90387425228cbedba4",
+      "title": "Man admits to killing woman in Londonderry, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/c9p80r3vl753o?at_medium=RSS&at_campaign=rss",
+      "description": "Ciaran Edward Murray, 30, of Malvern Terrace in Derry is charged with the murder of a 65-year-old Spanish national in 2024.",
+      "published_at": "2026-09-18T16:10:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "216552c263785d84ad4009d4fc1f0a509732b95d192f8c490799d8ba05c82add",
       "title": "Man admits to killing woman in Londonderry, court hears",
       "url": "https://www.bbc.co.uk/news/articles/c9p80r3vl753o?at_medium=RSS&at_campaign=rss",
       "description": "Ciaran Edward Murray, 30, of Malvern Terrace in Derry is charged with the murder of a 65-year-old Spanish national in 2024.",
@@ -9207,6 +9791,17 @@
       ]
     },
     {
+      "id": "1eb6fa5f81a4956b568ac26ccb008c2d5243db4ac7de3c622dba6da380f41e74",
+      "title": "Woman convicted of murdering baby did not get a fair trial - appeal court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgk52l3p08jo?at_medium=RSS&at_campaign=rss",
+      "description": "The woman's convictions were quashed and she later pleaded guilty to infanticide and attempted murder.",
+      "published_at": "2026-09-18T15:39:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "04906f2f167391fde545d00e9d0c3c8f1121a563a9efe9e367f3c39a04fa287c",
       "title": "Coroner raises concerns about 999 response to trapped mum",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5v53577qo?at_medium=RSS&at_campaign=rss",
@@ -9281,6 +9876,7 @@
       "published_at": "2026-09-18T15:27:01+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "UK"
       ]
     },
