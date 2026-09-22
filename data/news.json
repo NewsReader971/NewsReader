@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-09-22T00:03:53.881905+00:00",
+  "last_updated": "2026-09-22T01:02:16.556834+00:00",
   "articles": [
+    {
+      "id": "bd46e85dbc7f2dedbbcc2687cdcc06a2906c800fe45a5879c95dbd3c27c72843",
+      "title": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368288/shadow-xi-summit-hangs-over-trumps-high-stakes-talks-japans-takaichi?utm_source=rss_feed",
+      "description": "When Japanese Prime Minister Sanae Takaichi meets US President Donald Trump in New York on Tuesday, the leader casting the longest shadow over the meeting will not even be in the building. Trump will meet Chinese President Xi Jinping in Washington on Thursday – two days after Takaichi meets the US leader on the sidelines of the United Nations General Assembly. It will be Xi’s first state visit to the US in over 10 years. Faced with an unpredictable American president eager for tangible results...",
+      "published_at": "2026-09-22T01:00:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "2f536d379a4f09622f1ccefc62f93eede2f0a97a082fe90afe846640579328b6",
+      "title": "Taylor Swift to receive MTV’s first artist-director award",
+      "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-wins-first-mtv-artist-director-award-6400451",
+      "description": "MTV created the artist-director award to recognise musicians who shape music videos behind the camera. Taylor Swift will become its first recipient during Sunday's awards ceremony.",
+      "published_at": "2026-09-22T00:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "41e3d42f97d2ad81aa87f2b35ad2e110ad1efbe00b29a0954b743d7e0132cce0",
+      "title": "French singer accuses Miley Cyrus of plagiarism over new song Redlights",
+      "url": "https://www.channelnewsasia.com/entertainment/miley-cyrus-plagiarism-redlights-bass-persuades-6400906",
+      "description": "Amanda Lear has accused Cyrus of plagiarising her 1978 song The Sphinx, claiming the US star's new track from the album Bass Persuades closely resembles it.",
+      "published_at": "2026-09-22T00:49:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "bd553ceb0e6ad1006d57ecbe545f8850b1519e6bf4e74141028702790404c335",
+      "title": "Hong Kong animal groups call for tighter pet laws after suspected fatal mauling",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3368298/hong-kong-animal-groups-call-tighter-pet-laws-after-suspected-fatal-mauling?utm_source=rss_feed",
+      "description": "Animal welfare groups in Hong Kong have called for closing a legal loophole in pet ownership laws to better protect public safety, as authorities pledged to review stray dog policies following Sunday’s suspected fatal mauling of a woman. The groups suggested that, based on their experience, the 27-year-old victim was likely attacked by former warehouse guard dogs rather than strays. But existing legal provisions make it difficult to prosecute owners who fail to microchip or properly secure their...",
+      "published_at": "2026-09-22T00:30:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
     {
       "id": "b72390457f0e507ab9ed3685e164fae5c1727ecb1e057dc1169198520d8be456",
       "title": "Schools not ready for AI and 'crying out' for government guidance, report warns",
@@ -9,7 +56,8 @@
       "published_at": "2026-09-22T00:02:08+00:00",
       "source": "BBC",
       "categories": [
-        "Education & Family"
+        "Education & Family",
+        "UK"
       ]
     },
     {
@@ -77,7 +125,8 @@
       "published_at": "2026-09-21T23:38:57+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "UK"
       ]
     },
     {
@@ -101,6 +150,17 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "d21267bfeb1f09e9b0abb25730f46ca68130e4d439b3b8723abdb4cd58efad3c",
+      "title": "The simple skincare routine for teens that actually works - and five expert tips",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+      "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+      "published_at": "2026-09-21T23:28:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -151,6 +211,17 @@
       ]
     },
     {
+      "id": "f7b4bb7b50496e255afa5618ff79246fcf15eb88ad6a0ba89c489a18bebad4a8",
+      "title": "'My army dream was ended by childhood eye surgery'",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&at_campaign=rss",
+      "description": "Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.",
+      "published_at": "2026-09-21T23:19:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "d948c09439a2450e198c7e48cf609eeca026037c845ec49ffa94b3b5a48d9a25",
       "title": "Paramount settles with US states to clear Warner Bros. mega-merger",
       "url": "https://www.france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger",
@@ -191,7 +262,8 @@
       "published_at": "2026-09-21T23:01:26+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -224,7 +296,8 @@
       "published_at": "2026-09-21T23:01:18+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -273,6 +346,18 @@
       "categories": [
         "Asia",
         "Latest News"
+      ]
+    },
+    {
+      "id": "af8902730df91dad2a1569eba35d2dd7883b2ed8cdee2248bbbbe3041cfe6f0b",
+      "title": "Manchester to host world leaders at G20 summit in 2027",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g503n374jo?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Andy Burnham said he was pleased he would be welcoming US President Donald Trump to the city.",
+      "published_at": "2026-09-21T22:39:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -717,6 +802,17 @@
       ]
     },
     {
+      "id": "d1891df2fc073c3a59f7b98160e1af3e42b479a963c835df0d30d71ac0177088",
+      "title": "Settling old scores with royals drives Spencer's book, but Diana steals focus",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z21ekkrro?at_medium=RSS&at_campaign=rss",
+      "description": "What more revelations are going to appear now the full details of his Diana book are published?",
+      "published_at": "2026-09-21T20:32:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "a01adec06587550d0cb36d4b360a1f5a16c42dc7febf9991ebbfaa688b3dd325",
       "title": "US, Japan and South Korea launch economic-security talks before Xi summit",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
@@ -1108,6 +1204,17 @@
       ]
     },
     {
+      "id": "a4ef10eda1893a16f8c54291bc0fe8190d9a70437be819104746401c84200de2",
+      "title": "Man charged with causing death by dangerous driving over crash that killed 6",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
+      "description": "Four members of the same family and a married couple on a motorbike died in the 2024 collision.",
+      "published_at": "2026-09-21T17:01:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "a9d857a23a7364c5318af758487cbaa70b22825cbc63ab59ae8973d705ee7b24",
       "title": "First UK charges brought over 1994 Rwanda genocide",
       "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
@@ -1151,6 +1258,17 @@
       "source": "BBC",
       "categories": [
         "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "b455b0ac2012a191e343578f28fc0bea018f118e18ca72828db6bb21c0140e3f",
+      "title": "Two pilot whales dead after mass stranding",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx22zny8yo?at_medium=RSS&at_campaign=rss",
+      "description": "Attempts to refloat the whales off the Northumberland coast are unsuccessful due to the tides.",
+      "published_at": "2026-09-21T16:59:04+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -5404,6 +5522,17 @@
       ]
     },
     {
+      "id": "5585c80145721c6f54bf162b726318515db8018c1ff559cda922572db9529a74",
+      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+      "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+      "published_at": "2026-09-21T05:00:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "4a54c3494ebdb9144d9aa6771e09f8ac349991efef0df9b1264ac61a1cd1581f",
       "title": "‘Waiting for us to crack’: In Cameroon, the victims of Trump’s deportations face uncertain fates",
       "url": "https://www.france24.com/en/africa/20260921-waiting-for-us-to-crack-victims-of-trump-deportations-face-uncertain-fates-in-cameroon",
@@ -5552,6 +5681,7 @@
       "source": "BBC",
       "categories": [
         "Business",
+        "Politics",
         "World"
       ]
     },
@@ -5576,6 +5706,17 @@
       "source": "BBC",
       "categories": [
         "Health",
+        "UK"
+      ]
+    },
+    {
+      "id": "c99f84c5525aaaa083101f8ba8f528bf6935eaa96b4c46bda9c443592c1a4be2",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+      "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+      "published_at": "2026-09-21T04:00:05+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
