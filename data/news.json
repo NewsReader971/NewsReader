@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-09-22T19:02:21.946560+00:00",
+  "last_updated": "2026-09-22T20:02:28.997518+00:00",
   "articles": [
+    {
+      "id": "60662371faf223ac20462d2bfa9f2c2a8c666d451ae40cadca0968586efa94bb",
+      "title": "Why was the Kent meningitis outbreak so severe?",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4kr1dr27ko?at_medium=RSS&at_campaign=rss",
+      "description": "More than 20 young people were infected in the March outbreak, linked to a Canterbury nightclub.",
+      "published_at": "2026-09-22T19:56:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "442722c8058ca26e18dff68d1ee7a817931797298db39eb655306a5b5345f8d5",
+      "title": "Sri Lankan court sentences 15 men to life in prison for roles in deadly 2019 Easter bombings",
+      "url": "https://www.channelnewsasia.com/world/sri-lanka-easter-bombings-sentence-men-6403166",
+      "description": "A Sri Lankan court convicted 15 men over the 2019 Easter bombings and sentenced each to 200 years in prison.",
+      "published_at": "2026-09-22T19:51:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "aa41da10bbc2e596192f54e4df2f7d5374e123bff00141b14432c823e3cc47cc",
+      "title": "Jacks takes five and hits unbeaten 46 as England crush Sri Lanka",
+      "url": "https://www.channelnewsasia.com/sport/jacks-takes-five-and-hits-unbeaten-46-england-crush-sri-lanka-6403246",
+      "description": "",
+      "published_at": "2026-09-22T19:37:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "b6b12da6da681ae725a766816a3bbed33a9a81231395c44bea1133618e876764",
+      "title": "Analysis: Lib Dems leave conference buoyed by Davey's message",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
+      "description": "Concerns over Sir Ed Davey's leadership were dampened by pledges at conference and his performance.",
+      "published_at": "2026-09-22T19:33:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3f59c821de07b0296a2c5aa7bc76badfa5b408b8c363846037a6afd04e133520",
+      "title": "Trump praises Takaichi for doing ‘tremendous job’ ahead of Xi’s visit to US",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368439/trump-praises-takaichi-doing-tremendous-job-ahead-xis-visit-us?utm_source=rss_feed",
+      "description": "US President Donald Trump praised his strong relationship with Japanese Prime Minister Sanae Takaichi in New York on Tuesday, days before he is due to meet with Chinese President Xi Jinping. The talks, held on the sidelines of the United Nations General Assembly, came at a time when relations between Beijing and Tokyo show no signs of thawing. Both leaders hailed their good working relationship, with Takaichi saying the two countries looked forward to deepening ties. Trump lavished praise on the...",
+      "published_at": "2026-09-22T19:31:34+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "deb0b368c1ff387fd2edb7ef264193c07c817f9b3d42244004661a7c51489e43",
+      "title": "Family's 'incredibly painful' wait for justice over",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9e523vgm2o?at_medium=RSS&at_campaign=rss",
+      "description": "\"As we said in our victim impact statements today, it's a huge, huge loss for everybody.\"",
+      "published_at": "2026-09-22T19:19:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "17e49bcfc8da670333f0d334973b5f8c57a3c45d9c21864b88e984f7f0af9a97",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "published_at": "2026-09-22T19:06:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ac3ba31f47d1be8a634d81d454d30cb4de0685b92a994dd12b4f5bde051e6e40",
+      "title": "Drunk teacher struck pupil on school trip, hearing told",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g5yxn0n7xo?at_medium=RSS&at_campaign=rss",
+      "description": "Shôn Rowcliffe was suspended over claims he was drunk on a Pembrokeshire school trip to France.",
+      "published_at": "2026-09-22T19:01:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "fec837d8f752717e4e566dc6d34dec903341aaf56c7f0bbf0c9d85cc4e72d3bc",
+      "title": "Booker prize winner Douglas Stuart makes literary shortlist again",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+      "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+      "published_at": "2026-09-22T19:01:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
     {
       "id": "fdae03962672c4a491df3e19c4644582d11e8b4ef31590235ef7b0727c40039b",
       "title": "Bwrdd iechyd dan bwysau wedi colli traean o'i gyfarwyddwyr",
@@ -42,6 +144,7 @@
       "published_at": "2026-09-22T18:48:56+00:00",
       "source": "CNA",
       "categories": [
+        "Business",
         "Latest News"
       ]
     },
@@ -54,6 +157,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "e4e88f5b4ff8cebda71f7f5cb5bfebadd0f09a2b564473b41267911347f8254d",
+      "title": "Man pleads guilty to racist Badenoch death threats",
+      "url": "https://www.bbc.co.uk/news/articles/cqd08mn9x52po?at_medium=RSS&at_campaign=rss",
+      "description": "Kieran Kyle was ex-IRA and would have shot Badenoch when he was a paramilitary, a court hears.",
+      "published_at": "2026-09-22T18:41:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -99,6 +213,17 @@
       "source": "BBC",
       "categories": [
         "Politics"
+      ]
+    },
+    {
+      "id": "0ba8859c01218a463a21ef05f811e23cedbb21d65b0d0251b7bcc8c0169c1b55",
+      "title": "Man 'paid for terrible decision with his life', inquest told",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g5ypdg5w8o?at_medium=RSS&at_campaign=rss",
+      "description": "Will Place died when he crashed his car after drinking while watching a football match, an inquest finds.",
+      "published_at": "2026-09-22T18:18:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -240,6 +365,18 @@
       ]
     },
     {
+      "id": "e84ec4abd1ad1de08dc8a13cdd4ba0223739a2c8e00423a47882a2616b5a4f5b",
+      "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees",
+      "url": "https://www.channelnewsasia.com/business/shinyhunters-hackers-say-they-breached-fbi-stole-data-bureau-employees-6403081",
+      "description": "",
+      "published_at": "2026-09-22T17:38:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "9ad8e2e1b6a3343a16deaa1cd6a30a9a4c61097b8e4541e2b75f527ffc0c287a",
       "title": "Child, 6, among riders as dozens of e-bikes and scooters seized",
       "url": "https://www.bbc.co.uk/news/articles/cj750y7vpx2zo?at_medium=RSS&at_campaign=rss",
@@ -263,6 +400,17 @@
       ]
     },
     {
+      "id": "8845fbf403a5c893ff88d75459ce1f3c6738d417d66140392e256b9f4e1c399a",
+      "title": "Theft accused trio claim King's lambs were rescued",
+      "url": "https://www.bbc.co.uk/news/articles/ck3wjy1y2xzxo?at_medium=RSS&at_campaign=rss",
+      "description": "Three women are on trial for allegedly stealing three lambs owned by King Charles III.",
+      "published_at": "2026-09-22T17:31:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "6096862d8c4fea27304bb2311d44fe60b29541f9a6d92f2f8f0289a3ac870eba",
       "title": "Hayden Panettiere died from accidental overdose involving fentanyl, coroner says",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3368436/hayden-panettiere-died-accidental-overdose-involving-fentanyl-coroner-says?utm_source=rss_feed",
@@ -272,6 +420,17 @@
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "414f626fe209b43fcab3e22f13c43d3b0239518f2bd0d6672f470edc8c193034",
+      "title": "'Cult' priest denies sexually assaulting women",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9e58j0zd0o?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Brain says there was 'nothing wrong' with massages from women in his congregation.",
+      "published_at": "2026-09-22T17:09:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -365,6 +524,17 @@
       ]
     },
     {
+      "id": "d9fa85d515ca9fd907c79fb532155b68788d673e87d6e716b79eb86d1f20501e",
+      "title": "Top South African policeman charged with sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "description": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "published_at": "2026-09-22T16:54:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "b44c36f7f416b81fc6d914de2c238c321cc683f9cf69bf7120314aeefc7009b0",
       "title": "Protest walkout by Reform MSPs as Holyrood debates independence",
       "url": "https://www.bbc.co.uk/news/articles/cw62m1zy9z0jo?at_medium=RSS&at_campaign=rss",
@@ -419,6 +589,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "182b51c0b11851d22897b58bed2cecf7d18b9423b2dbae3044cb5d812e0b1ffb",
+      "title": "Teen 'inspiring others' congratulated by Prince Harry",
+      "url": "https://www.bbc.co.uk/news/articles/c69qr2wnnv2go?at_medium=RSS&at_campaign=rss",
+      "description": "George, 15, wins the Special Recognition Award at the national 2026 WellChild Awards.",
+      "published_at": "2026-09-22T16:41:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -643,6 +824,17 @@
     },
     {
       "id": "56c097d74f02f49a9853c7d2eadba937faad61e8b49ec23681c00656f024566d",
+      "title": "Firm fined £322,500 after worker killed by falling steel tube",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlqwqegrpo?at_medium=RSS&at_campaign=rss",
+      "description": "Albert Ross, 67, died after an unloading incident from a cargo ship in Aberdeen in 2023.",
+      "published_at": "2026-09-22T15:40:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "d49e346dbd0954f8cab20851f8435ec38000a642103834a39d3d0b5273a7cf80",
       "title": "Firm fined £322,500 after worker killed by falling steel tube",
       "url": "https://www.bbc.co.uk/news/articles/cpwlqwqegrpo?at_medium=RSS&at_campaign=rss",
       "description": "Albert Ross, 67, died after an unloading incident from a cargo ship in Aberdeen in 2023.",
@@ -3012,6 +3204,17 @@
       ]
     },
     {
+      "id": "f0a86528a8a0d36327b8675a1360f43f0b0a5a3aa81d4e036979081f6967434a",
+      "title": "Oil prices settle lower as crude flows from Middle East improve",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-settle-lower-crude-flows-middle-east-improve-6400951",
+      "description": "",
+      "published_at": "2026-09-22T09:52:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "fa95dc448ef898a3f63bd39250ce684a0aa5e76d87713492c12780a64ec358e8",
       "title": "Games-Mandhana stars as women's T20 brings India's first gold of Nagoya Games",
       "url": "https://www.channelnewsasia.com/sport/games-mandhana-stars-womens-t20-brings-indias-first-gold-nagoya-games-6401956",
@@ -3610,6 +3813,17 @@
       "id": "5e1c6945e2576ad45094971b2637004bb5af9b9ed0aa156a94a0a3fb2f631dc6",
       "title": "Dollar choppy as investors weigh oil drop against Fed rate path",
       "url": "https://www.channelnewsasia.com/business/dollar-choppy-investors-weigh-oil-drop-against-fed-rate-path-6400966",
+      "description": "",
+      "published_at": "2026-09-22T08:25:52+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3e9948d7e04d94f86630bbed24e20988b2edecc549c1ba65d789b48a60cf2217",
+      "title": "Dollar rises in choppy trading as investors weigh inflation prospects",
+      "url": "https://www.channelnewsasia.com/business/dollar-rises-in-choppy-trading-investors-weigh-inflation-prospects-6400966",
       "description": "",
       "published_at": "2026-09-22T08:25:52+00:00",
       "source": "CNA",
@@ -5474,6 +5688,7 @@
       "published_at": "2026-09-22T00:01:19+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -6835,6 +7050,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts",
+        "Wales"
+      ]
+    },
+    {
+      "id": "0b3f4370c0732b48e85176eca69ba5801bb6d153bc40f5c9dc025097837bc620",
+      "title": "First look at The Other Bennet Sister Christmas special revealed",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
+      "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
+      "published_at": "2026-09-21T17:02:05+00:00",
+      "source": "BBC",
+      "categories": [
         "Wales"
       ]
     },
