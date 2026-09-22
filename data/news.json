@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-09-22T01:02:16.556834+00:00",
+  "last_updated": "2026-09-22T02:02:41.644995+00:00",
   "articles": [
+    {
+      "id": "e8ffead4f62e9adceba7b602ecb8504900c6dc2c9a3e6a7fa18475d7222fb152",
+      "title": "Why flu prevention matters as Singapore’s population ages",
+      "url": "https://www.channelnewsasia.com/advertorial/why-flu-prevention-matters-singapores-population-ages-6371641",
+      "description": "As the immune system weakens with age, influenza can carry greater risks. An expert explains why vaccination should be part of routine preventive care for older adults.",
+      "published_at": "2026-09-22T01:45:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "165e95a58106937a28490a8fa65d3e3f71221d70b17bf8848bab2a069ee3e241",
+      "title": "EU and Philippines agree on free trade deal",
+      "url": "https://www.channelnewsasia.com/business/eu-and-philippines-agree-free-trade-deal-6401041",
+      "description": "",
+      "published_at": "2026-09-22T01:35:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "640eb22f72978a04572fd215c69d2ae2f413b873cb88119a7a4217b147007fbd",
+      "title": "How Hong Kong can keep the talking going when US-China officials don’t",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3368057/how-hong-kong-can-keep-talking-going-when-us-china-officials-dont?utm_source=rss_feed",
+      "description": "When Tung Chee-hwa died, the obituaries predictably described a Hong Kong shipping mogul who became the city’s first postcolonial chief executive. How his government navigated the Asian financial crisis and severe acute respiratory syndrome (Sars) epidemic and its retreat from Article 23 were highlighted. There was less attention paid to the political hybrid he embodied. Tung sat as vice-chairman of China’s top political advisory body, the Chinese People’s Political Consultative Conference,...",
+      "published_at": "2026-09-22T01:30:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "41d48352b726729bf8e587762f4f9192d96365690bb6cd1e26e73479a04a6d9c",
+      "title": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
+      "url": "https://www.channelnewsasia.com/east-asia/us-china-japan-south-korea-taiwan-xi-trump-meeting-6401016",
+      "description": "",
+      "published_at": "2026-09-22T01:27:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "883f10c9a6b3006266e6233a7955ea13e6758049ca4cf5408e347571249c6c2a",
+      "title": "North Korea's Kim hails 'new-type weapon' days after missile launch",
+      "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-north-korea-hails-new-weapon-missile-launch-6400996",
+      "description": "",
+      "published_at": "2026-09-22T01:20:34+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
     {
       "id": "bd46e85dbc7f2dedbbcc2687cdcc06a2906c800fe45a5879c95dbd3c27c72843",
       "title": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi",
@@ -21,7 +80,8 @@
       "published_at": "2026-09-22T00:59:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "World"
       ]
     },
     {
@@ -34,6 +94,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "73cd63d30f44187718336d288841a7cd2fd193e0ee7bc5d61c6ecf412dadfe99",
+      "title": "The Papers:  'Air traffic out of control' and 'RAF to help Saudis'",
+      "url": "https://www.bbc.co.uk/news/articles/cmj4jpj9144wo?at_medium=RSS&at_campaign=rss",
+      "description": "A second glitch this month in the national air traffic system and the PM's first major foreign policy move lead the papers.",
+      "published_at": "2026-09-22T00:46:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -57,6 +128,17 @@
       "source": "BBC",
       "categories": [
         "Education & Family",
+        "UK"
+      ]
+    },
+    {
+      "id": "8fd002396268f6fc4f9a389a41d7daa8d708d56e03e06d7d4d8e1238a0ec6791",
+      "title": "New right to bereavement leave to cover step and half relatives",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerp1e7vdqo?at_medium=RSS&at_campaign=rss",
+      "description": "The new law will also cover foster, kinship care and adoptive relationships, as well as early pregnancy loss.",
+      "published_at": "2026-09-22T00:01:19+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -91,7 +173,8 @@
       "published_at": "2026-09-22T00:00:04+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "UK"
       ]
     },
     {
@@ -802,10 +885,21 @@
       ]
     },
     {
+      "id": "dbdfe369763a7e95a13da6bfadd4a69b46085c324e377f51b6f409e5af4c3086",
+      "title": "Seventeen arrested in Teesside organised crime raids",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+      "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
+      "published_at": "2026-09-21T20:36:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "d1891df2fc073c3a59f7b98160e1af3e42b479a963c835df0d30d71ac0177088",
       "title": "Settling old scores with royals drives Spencer's book, but Diana steals focus",
       "url": "https://www.bbc.co.uk/news/articles/cqy7z21ekkrro?at_medium=RSS&at_campaign=rss",
-      "description": "What more revelations are going to appear now the full details of his Diana book are published?",
+      "description": "What further revelations are going to appear now the full details of his Diana book are published?",
       "published_at": "2026-09-21T20:32:36+00:00",
       "source": "BBC",
       "categories": [
@@ -908,7 +1002,7 @@
       "id": "ab355522ed14fef01ae40ee87d206e4d96f4dfc71868178f6c5e1c469d3931ce",
       "title": "Trump inaugurates White House helipad but networks skip coverage over media ban",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3368304/trump-inaugurates-white-house-helipad-networks-skip-coverage-over-media-ban?utm_source=rss_feed",
-      "description": "US President Donald Trump showed off his new White House helicopter landing pad on Monday, attempting to brush aside a First Amendment firestorm even as major television networks kept their cameras away because CNN was not allowed to cover the event. Trump used oversized gold scissors to cut a red, white and blue ribbon. He then exchanged handshakes with officials wearing green construction smocks and hard hats – seeking to portray business as usual. The noise of his waiting helicopter meant...",
+      "description": "US President Donald Trump showed off his new White House helicopter landing pad on Monday, attempting to brush aside a First Amendment firestorm even as major television networks kept their cameras away in protest of CNN being banned from the grounds. A light drizzle fell on the South Lawn as Trump used oversized gold scissors to cut a red, white and blue ribbon. He then exchanged handshakes with officials and some members of a construction crew wearing green smocks and hard hats – seeking to...",
       "published_at": "2026-09-21T19:13:08+00:00",
       "source": "SCMP",
       "categories": [
@@ -1099,6 +1193,17 @@
       "source": "BBC",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "99ff45578aa1c01e0adf9916b805ef15b7ffa4a513ff5d29b543e9365a3ce6c8",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "published_at": "2026-09-21T17:48:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
