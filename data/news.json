@@ -1,16 +1,401 @@
 {
-  "last_updated": "2026-09-23T21:02:38.780521+00:00",
+  "last_updated": "2026-09-23T22:02:59.721163+00:00",
   "articles": [
+    {
+      "id": "1b17819fae7782dc8a08e45bea80b52c9e3f1e6d0e56354fd8c9f446abffd039",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "published_at": "2026-09-23T22:01:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "55fd36c5fff3cbe21b4d293fd83225467e6fc199e8dafe1b2d266d6dca9481f7",
+      "title": "I couldn't live with the agony of migraines any more but my GP called me dramatic",
+      "url": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
+      "description": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
+      "published_at": "2026-09-23T22:00:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "e9fcc68b3904e60c6480cfa9e182c2dd8d8d802d05b1df7f1405390d2451f5c8",
+      "title": "I couldn't live with the agony of migraines any more but my GP called me dramatic",
+      "url": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
+      "description": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
+      "published_at": "2026-09-23T22:00:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "f48d24819af27d4ce69a0fa4bb5964356bcf743de33d62462ec7888ace545ec3",
+      "title": "Commentary: Return of tensions in the South China Sea was a matter of time",
+      "url": "https://www.channelnewsasia.com/commentary/south-china-sea-philippines-clash-injury-control-6405116",
+      "description": "Clashes on the water between China and the Philippines have become sharper and more frequent after two years of relative quiet, says Andrew Chubb from the Asia Society Policy Institute.",
+      "published_at": "2026-09-23T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "cd3252a6ca0bbab84d8b22e60fb0ec97309aab18212811029e8ab4720df7cc9d",
+      "title": "How a new conciliation route can resolve years of unpaid divorce maintenance beyond the courtroom",
+      "url": "https://www.channelnewsasia.com/singapore/divorce-maintenance-unpaid-child-support-enforcement-officer-minlaw-6404806",
+      "description": "Aiming to set ex-spouses on a stable footing and avoid future disputes, maintenance enforcement officers have attended to more than 1,500 cases as of Jul 29.",
+      "published_at": "2026-09-23T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "540d7cea8deb820a5dc616ebbf74d515f55aff2d3b594d33a3ab30c700106d2c",
+      "title": "She was a ‘guardian angel’: Reunions with teacher and former helper stir emotions online",
+      "url": "https://www.channelnewsasia.com/cna-insider/guardian-angel-reunions-finding-teacher-auntie-former-domestic-helper-6404371",
+      "description": "A teacher’s kindness helped shape Dino Isaac’s life, while a former helper who raised Leticia Peh ended up sacrificing more than the girl imagined. Their reunions, featured in On The Red Dot, have struck a chord with viewers.",
+      "published_at": "2026-09-23T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "3fd31291ac391bea2553535455935e473c65e2f097383f3fec803f111069c25c",
+      "title": "Cheap to burn, costly to bear: What fuels Indonesia’s persistent cycle of fires and haze?",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-human-activity-crackdown-6403751",
+      "description": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the last of a three-part series, CNA looks at why the fires persist despite bans and crackdowns - and what it will take to stamp them out for good.",
+      "published_at": "2026-09-23T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d9f04a585318876663dde2e39615d8147a39ffb56a37ab00f367e3dc1ab86a2b",
+      "title": "Commentary: Sri Lanka exposes the limits of Asia’s anti-scam campaign",
+      "url": "https://www.channelnewsasia.com/commentary/sri-lanka-scam-centre-cambodia-china-6404676",
+      "description": "Crackdowns can encourage criminal networks to become more decentralised and geographically dispersed, says a researcher.",
+      "published_at": "2026-09-23T21:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "bea2b06a66c5c69f5b3df2c8ce8ed203e8adff7273e2ae93aae9e422fde1954a",
+      "title": "Commentary: How would AI kill all humans? Here are the top 5 scenarios",
+      "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-kill-humans-superintelligent-6404801",
+      "description": "Most scenarios involve the concept of “superintelligent” AI, says a professor.",
+      "published_at": "2026-09-23T21:58:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "6b41183dfeb2b71ea48c3122f98d9e99492d9e9e4e3705f48110a01964c36b63",
+      "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+      "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+      "published_at": "2026-09-23T21:53:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1d464476e71ccbcb8821d003c5cb7da69d558e6b1194b71724cc0a58f3e4f811",
+      "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+      "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+      "published_at": "2026-09-23T21:53:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4a05e68b3448fa2945ed5c9e2f4779874b578b0921042dfdddd355dd77580b6f",
+      "title": "The medieval monk's journey that became a global travel 'essential'",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k168rp87o?at_medium=RSS&at_campaign=rss",
+      "description": "St Cuthbert's Way - from Melrose to Lindisfarne - rubs shoulders with the world's top travel experiences.",
+      "published_at": "2026-09-23T21:52:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7462d43806784d9086bc0ad6d5848d2bf381387d1ad9c8beed5043ac2cc8693e",
+      "title": "The medieval monk's journey that became a global travel 'essential'",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k168rp87o?at_medium=RSS&at_campaign=rss",
+      "description": "St Cuthbert's Way - from Melrose to Lindisfarne - rubs shoulders with the world's top travel experiences.",
+      "published_at": "2026-09-23T21:52:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "fa51fb5685620971ac76ffbf0c02729b9947b7e7a621eaeacf7b3c1727f76397",
+      "title": "US restricts visas for birth tourism ahead of Xi Jinping’s summit with Trump",
+      "url": "https://www.scmp.com/news/china/politics/article/3368569/us-restricts-visas-birth-tourism-ahead-xi-jinpings-summit-trump?utm_source=rss_feed",
+      "description": "Hours before Chinese President Xi Jinping arrived in the US for a high-stakes summit, US Secretary of State Marco Rubio moved to restrict visas for those who “engage in or facilitate” birth tourism, a practice the Trump administration has increasingly accused China of. “By restricting visa issuance of those who both engage in and profit from this fraud, we are sending a clear message: the United States will not allow foreigners to exploit our immigration system and violate the sanctity of US...",
+      "published_at": "2026-09-23T21:50:26+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "067727dc19bd1bf661feef3f98a8c4f2c7da1cd198cd492f1d03b785dc718701",
+      "title": "Thai silk house Jim Thompson is evolving for a new generation – with Be Inthavong leading the way",
+      "url": "https://www.channelnewsasia.com/obsessions/jim-thompson-be-inthavong-thai-silk-6398491",
+      "description": "The Lao-American designer is helping modernise the 75-year-old Thai silk house while drawing on his own family heritage of handweaving.",
+      "published_at": "2026-09-23T21:49:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "8a69d3d4e5f6171c9238f31ff121701d3b084f24a9fa446c1b5c5bb542aa5f8a",
+      "title": "Residents advised to close windows as fire service tackles blaze",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zd8gl7ngo?at_medium=RSS&at_campaign=rss",
+      "description": "The Northern Ireland Fire and Rescue Service (NIFRS) said crews are attending the fire on Cloughfern Avenue in Monkstown.",
+      "published_at": "2026-09-23T21:47:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1a6e4ed9199452eeba24005678626bbde9be36fc694db0a894e0d9faa247b6a4",
+      "title": "Xi lands in US for high-stakes summit with Trump amid deep tensions",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368568/xi-lands-us-high-stakes-summit-trump-amid-deep-tensions?utm_source=rss_feed",
+      "description": "Chinese President Xi Jinping landed at Joint Base Andrews late Wednesday afternoon after a 15-hour flight where he was greeted on the tarmac by US President Donald Trump in an unprecedented move for a top American leader. The closely watched visit – Xi’s first summit in the United States in 11 years – comes as the two nations grapple with a host of thorny issues beneath the flowery language and statements of friendship, including artificial intelligence, critical minerals, tariffs, Ukraine, the...",
+      "published_at": "2026-09-23T21:46:57+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "162bcb15c3da00fb49869b7d32cdbb487ee4176b18a1966f9fd7e61eb279eb5d",
+      "title": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "description": "Leaders of some of the world's biggest AI companies urged caution at the United Nations on Wednesday, warning that increasingly autonomous systems could outpace human oversight. Anthropic CEO Dario Amodei pledged to slow development to ensure new AI systems are safe, while OpenAI chief Sam Altman called for 'extreme care'.",
+      "published_at": "2026-09-23T21:46:14+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "0d826b2ccc61a5e89d6ede640573fd40503f5966aedeced49c92aa0da126974d",
+      "title": "Stocks fall on soaring bond yields, higher oil prices",
+      "url": "https://www.channelnewsasia.com/world/stocks-fall-soaring-bond-yields-higher-oil-prices-6406516",
+      "description": "",
+      "published_at": "2026-09-23T21:45:02+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "0d3fba624e51e9ba26feeb3e24b6b10f6020d0b4880e71abdc4733e68677290b",
+      "title": "Teenagers to be offered new vocational GCSE subjects in school",
+      "url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+      "description": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
+      "published_at": "2026-09-23T21:31:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family",
+        "Politics"
+      ]
+    },
+    {
+      "id": "42dc011aaebff06fea2c108717ff38361b0c43bc1a7fb914ec8a574a7d6af3ba",
+      "title": "When Bellamy watched on as Ronaldo caused lockdown",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqdjvvqp2no?at_medium=RSS&at_campaign=rss",
+      "description": "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+      "published_at": "2026-09-23T21:30:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "b55cb874f4e605f268e663cef8437bee43606683db71359f953dea1590f43b24",
+      "title": "China is leveraging its diaspora to boost the economy, unlike India",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3367636/china-leveraging-its-diaspora-boost-economy-unlike-india?utm_source=rss_feed",
+      "description": "A country’s diaspora can be a symbol of its pride and power. A nation’s diaspora can help it build international value through success stories, promote its soft power through culture and contribute to its economic progress through remittances, investments and transfers of expertise. India and China have among the world’s largest diasporas. They also offer two very different models of how countries can leverage their diasporas. In India, before the 1991 reforms, people mostly saw those who left...",
+      "published_at": "2026-09-23T21:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "cc8665cfbc224e174d06fe3b96781fbbd28ee9a87266de1410f0412b56daf101",
+      "title": "Watch: The arms race in space explained",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "published_at": "2026-09-23T21:29:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c831083de65676746c77388e248620e7acec3b32017efec6b92ef1a9e6de44e7",
+      "title": "Watch: The arms race in space explained",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "published_at": "2026-09-23T21:29:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b81a966410e32ed56bc021eeb38198d0eef0ece2c5d5dc92a7bebc3ca8f22ed7",
+      "title": "US-backed Board of Peace unveils US$2.5bn Gaza recovery plan",
+      "url": "https://www.channelnewsasia.com/world/gaza-board-peace-recovery-plan-unga-6406456",
+      "description": "During a meeting on the sidelines of the UN General Assembly, US President Donald Trump’s Board of Peace proposed a US$2.45 billion plan to rebuild Gaza over six months.",
+      "published_at": "2026-09-23T21:26:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "1ec2e84f64adfea9b2944355b394d78d7a787f7bd3c97b50a4b54f1254c130ab",
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "description": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+      "published_at": "2026-09-23T21:25:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "f9fe36b86a831fa120573f36187478d60b2c18d99e742d2092537e6e2ab49b66",
+      "title": "Xi begins 3-day US visit with rare airport welcome from Trump",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368567/xi-begin-3-day-us-visit-rare-airport-welcome-trump?utm_source=rss_feed",
+      "description": "This live article is freely available to our registered users. Please log in or create an account. Unrivalled Xi-Trump summit analysis: get real-time updates and exclusive boots-on-the-ground reporting from our US and China bureaus. Subscribe now with great savings to stay ahead. President Xi Jinping is meeting US President Donald Trump in Washington, in the first face-to-face talks between the Chinese and American leaders since Trump visited Beijing in May. On this first day of Xi’s three-day...",
+      "published_at": "2026-09-23T21:18:58+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0c377f79007539d15a735152a1a5b9434bca3aea3566fd670190dc3dbc376294",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "published_at": "2026-09-23T21:16:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "dad94b848a0eeff69a1c4c4ce7fbcc4e1000c5b20c82dce6b60ec83abe99545f",
+      "title": "Trading Day: US yields cross 5% threshold​",
+      "url": "https://www.channelnewsasia.com/business/trading-day-us-yields-cross-5-threshold-6406461",
+      "description": "",
+      "published_at": "2026-09-23T21:10:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "fd3fba52e9e27b082a1241526dc5c3b642a5b9795e50dc34a4da1e4b6ca9f249",
+      "title": "US judge weighing Trump's White House ban on media outlets",
+      "url": "https://www.channelnewsasia.com/world/media-outlets-court-hearing-white-house-ban-6406361",
+      "description": "US media outlets CNN, MS NOW and Politico asked a US court to restore their access to the White House after US President Donald Trump banned them, arguing that the ban violates the First Amendment and the right to a free press.",
+      "published_at": "2026-09-23T21:04:41+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "1a49dde04194399073d099290b54dedbc99526535d6d343aa1de276949cb17fc",
+      "title": "Burnham backs lifting restrictions on alcohol at English soccer matches",
+      "url": "https://www.channelnewsasia.com/sport/burnham-backs-lifting-restrictions-alcohol-english-soccer-matches-6406436",
+      "description": "",
+      "published_at": "2026-09-23T21:03:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "54d972afd419bf9bf8cebdeb2264bbebe094ab67de826b4360a7935ec2c39be1",
+      "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+      "url": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+      "description": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+      "published_at": "2026-09-23T21:01:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
     {
       "id": "eaf7b41934ce59a037f7f92ad5be9c76fdd19be46dcadc38d4f17593be7e7f06",
       "title": "Ukraine’s Zelensky warns of painful winter for Russia if energy truce talks fail",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368566/ukraines-zelensky-warns-painful-winter-russia-if-energy-truce-talks-fail?utm_source=rss_feed",
-      "description": "President Volodymyr Zelensky warned Moscow at the United Nations on Wednesday that Ukraine would strike back and make the coming winter deeply painful for Russia, if the two sides cannot agree a truce on energy attacks before the cold sets in. Ukraine and its allies are racing to secure limited agreements on energy infrastructure and Black Sea shipping before winter, fearing renewed Russian strikes on power and heating ‌facilities, while Moscow continues to show little interest in wider...",
+      "description": "Ukrainian President Volodymyr Zelensky warned Moscow at the United Nations on Wednesday that his nation would strike back and make the coming winter deeply painful for Russia, if the two sides cannot agree a truce on energy attacks before the cold sets in. Ukraine and its allies are racing to secure limited agreements on energy infrastructure and Black Sea shipping before winter, fearing renewed Russian strikes on power and heating ‌facilities, while Moscow continues to show little interest in...",
       "published_at": "2026-09-23T21:01:32+00:00",
       "source": "SCMP",
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "01846f94846a6e6ac14d46074521e32c0d5f646c1115bfaf379e5c043ab06d74",
+      "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+      "url": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+      "published_at": "2026-09-23T21:01:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -32,7 +417,8 @@
       "published_at": "2026-09-23T20:54:26+00:00",
       "source": "France 24",
       "categories": [
-        "Americas"
+        "Americas",
+        "World"
       ]
     },
     {
@@ -60,6 +446,28 @@
       ]
     },
     {
+      "id": "d506bd3c21472c6a10df3f6ab96d716e196062f15c44f115163cdedf7b73c7c3",
+      "title": "Trump sparks debate over diesel export ban",
+      "url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
+      "description": "The Trump administration's suggestion that it could ban or limit diesel exports has sparked furious backlash from the American oil industry. Politicians are trying to bring down soaring energy prices ahead of the midterm election in November, but critics say a ban would cause supply problems and higher prices both at home and abroad. Also in this edition - the OECD says the global economy is withstanding the energy shock better than expected, partly thanks to AI investment.",
+      "published_at": "2026-09-23T20:38:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ea8f1bf1cc56b6948f9546b1376860394282122a9c8913eb49a915bc225e86ed",
+      "title": "'Cancer counselling helped me with dark feelings'",
+      "url": "https://www.bbc.co.uk/news/articles/ck3reyej9r53o?at_medium=RSS&at_campaign=rss",
+      "description": "Patient Emma Tom says counselling sessions from blood cancer charity Linc helped her and her family.",
+      "published_at": "2026-09-23T20:32:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "434ebbb95f3dcea3fbf96601814592d3d11d6fa6983b1d3b8c0c489f659688ce",
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
       "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
@@ -78,7 +486,8 @@
       "published_at": "2026-09-23T20:27:14+00:00",
       "source": "France 24",
       "categories": [
-        "Africa"
+        "Africa",
+        "World"
       ]
     },
     {
@@ -125,6 +534,18 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "5a19e817ec899ad4c588499d75133cbe067355979c55b3b70c5079a0c62cab32",
+      "title": "Exclusive-Hellman & Friedman explores sale of Applied Systems at up to $10 billion, sources say",
+      "url": "https://www.channelnewsasia.com/business/exclusive-hellman-friedman-explores-sale-applied-systems-up-10-billion-sources-say-6406321",
+      "description": "",
+      "published_at": "2026-09-23T20:08:52+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -233,6 +654,17 @@
       "categories": [
         "Business",
         "Health",
+        "UK"
+      ]
+    },
+    {
+      "id": "3e0ef3302ea5cdeec7c8414e73aecf40da6987d05f2f6d25a1cb827f35db9b61",
+      "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
+      "url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+      "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+      "published_at": "2026-09-23T19:10:22+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -560,6 +992,17 @@
       ]
     },
     {
+      "id": "48dd777c6542e9ac7dfb0202dcd9218c4eee6eba547a6138a0ea05d249e515cb",
+      "title": "Inquest into death of Lucy Letby's 'boyfriend' opens",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z31z81gyo?at_medium=RSS&at_campaign=rss",
+      "description": "There is reason to believe Dr Mark Deakin's death was \"unnatural\", a court is told.",
+      "published_at": "2026-09-23T16:55:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "61c726bfb3afa7d0c8c3e7d5c0449c59182a3c9966d41a329d6e6304a7b53429",
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
@@ -578,7 +1021,8 @@
       "published_at": "2026-09-23T16:40:19+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "World"
       ]
     },
     {
@@ -877,6 +1321,17 @@
     },
     {
       "id": "bab30ce8094d3154e617a3d3a132d91609f2d505d5406ab58bf0a7315d6d707c",
+      "title": "Badenoch registers gift of £8,177 for Murdoch meeting in Greece",
+      "url": "https://www.bbc.co.uk/news/articles/c6d945wyew38o?at_medium=RSS&at_campaign=rss",
+      "description": "The Murdochs' News Corp company paid for flights and accommodation for the Conservative leader and her husband to travel to Greece.",
+      "published_at": "2026-09-23T15:52:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "84c258176e2b18cdc676315ea24661f9c63d26b609e01e7fd2fff647d07ea1c4",
       "title": "Badenoch registers gift of £8,177 for Murdoch meeting in Greece",
       "url": "https://www.bbc.co.uk/news/articles/c6d945wyew38o?at_medium=RSS&at_campaign=rss",
       "description": "The Murdochs' News Corp company paid for flights and accommodation for the Conservative leader and her husband to travel to Greece.",
@@ -1778,7 +2233,7 @@
       "id": "f3f682462c3a18b01830da2375521ce97551f0472dd00decfd2e350b4aa78f05",
       "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
       "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+      "description": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
       "published_at": "2026-09-23T13:34:25+00:00",
       "source": "BBC",
       "categories": [
@@ -3646,6 +4101,7 @@
       "published_at": "2026-09-23T09:00:21+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -5968,6 +6424,17 @@
       ]
     },
     {
+      "id": "4c326afa9b0eac43baa321959d8c69e62bc0eee3701fea00f4cbe95522d8c24f",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "published_at": "2026-09-22T23:11:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "5492627e8acd466001d49ec0ddb126f82e7efefe3bc6a475dbfd1481a48fcc9b",
       "title": "WPP opens London hub in bid to produce faster, AI-assisted ads",
       "url": "https://www.channelnewsasia.com/business/wpp-opens-london-hub-in-bid-produce-faster-ai-assisted-ads-6403616",
@@ -6005,10 +6472,11 @@
       "id": "9051214862080c8b973458824a0445e18b12c4913d3bfc40b6ef7a8b4a167e5d",
       "title": "'All anger has been taken away' - says daughter of solicitor murdered by IRA, as report published",
       "url": "https://www.bbc.co.uk/news/articles/cw9802y12vq0o?at_medium=RSS&at_campaign=rss",
-      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request",
+      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request.",
       "published_at": "2026-09-22T23:04:57+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "UK"
       ]
     },
@@ -6171,6 +6639,17 @@
       ]
     },
     {
+      "id": "5e5c5aeae6ea0e08ea0eb1cce45d607ed2ca56df0784f4a5394db98b17a655c1",
+      "title": "How a teacake tycoon helped to save a village's lifeboat station",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5dp6z54l7o?at_medium=RSS&at_campaign=rss",
+      "description": "A donation from Sir Boyd Tunnock worth \"a lot of caramel wafers\" saved the St Abbs service 10 years ago.",
+      "published_at": "2026-09-22T22:09:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "eb69bf0e4bca4ffb871e07c03b991d006b3ddb5f342132d49dc05db9e0a7cfd0",
       "title": "'Pigs Village' Welsh name change will go ahead",
       "url": "https://www.bbc.co.uk/news/articles/cmvgy78qddnyo?at_medium=RSS&at_campaign=rss",
@@ -6255,6 +6734,7 @@
       "published_at": "2026-09-22T22:03:15+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -7343,6 +7823,17 @@
       ]
     },
     {
+      "id": "8d480addc62ad5974245b75224d02f70c8e0c4fe51459678561de785ea62f6d2",
+      "title": "BBC weatherman announces he's walking away from role after 30 years",
+      "url": "https://www.bbc.co.uk/news/articles/c674kd7jl4njo?at_medium=RSS&at_campaign=rss",
+      "description": "The presenter covered the biggest stories, including the Beast from the East and Storm Dennis.",
+      "published_at": "2026-09-22T18:03:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "16bcc36f53c0f053ea239148c6bdb89cc8e8da9ccfab825bb2c80621188d6a0f",
       "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
       "url": "https://www.channelnewsasia.com/business/openai-expands-gpt-6-lineup-cheaper-sol-and-luna-models-6403136",
@@ -7628,6 +8119,7 @@
       "source": "BBC",
       "categories": [
         "Business",
+        "Politics",
         "UK"
       ]
     },
