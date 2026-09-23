@@ -1,6 +1,137 @@
 {
-  "last_updated": "2026-09-23T22:02:59.721163+00:00",
+  "last_updated": "2026-09-23T23:02:17.964163+00:00",
   "articles": [
+    {
+      "id": "c55c54b0b421a6da1f2a2a2852cba50eb1fd481638e2137e0c5ce58de1c30792",
+      "title": "Turkey to hand over military base to Iraq",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3368571/turkey-hand-over-military-base-iraq?utm_source=rss_feed",
+      "description": "Turkey will hand over control of its base in Bashiqa in northern Iraq to Baghdad, the Turkish presidency announced on Wednesday in a joint statement with its neighbour. “In light of progress achieved by these security measures implemented by Iraq, Turkish forces will gradually hand over the Bashiqa-Zilkan base to the Federal Government of Iraq in accordance with the agreed mechanism and timetable,” a joint statement said. The announcement followed a meeting Wednesday between Turkish President...",
+      "published_at": "2026-09-23T22:59:22+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "8cf1784ceec769113dd65dd96881003067778c3c04f6de2a213cd49de58e79d9",
+      "title": "Modal Labs in talks to raise funds at $15 billion valuation, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/modal-labs-in-talks-raise-funds-15-billion-valuation-bloomberg-news-reports-6406601",
+      "description": "",
+      "published_at": "2026-09-23T22:49:33+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "adb48de6ae82793027392a88c373cd14cf8524f1ff622a1a5131d8ad4bfbe24a",
+      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+      "published_at": "2026-09-23T22:35:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "1f9498ddc8a9fbf9d10476449a1da6285d734d5d32f3351222353ddf338c8ce0",
+      "title": "Can the US and China verify an AI deal? Start-ups are starting to build the tools",
+      "url": "https://www.scmp.com/news/us/article/3368570/can-us-and-china-verify-ai-deal-start-ups-are-starting-build-tools?utm_source=rss_feed",
+      "description": "There are growing calls for Washington and Beijing to agree to slow down development of artificial intelligence. But even if they wanted to do so, how could they verify that the other side would do the same? A group of researchers and start-ups is developing technology intended to make this a possibility, without relying on trust alone. Their proposed tools would allow third parties and governments to check some claims about how AI models are being trained or used – possibly without needing...",
+      "published_at": "2026-09-23T22:34:38+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "17a866b2f131a71ae91196fed9b900074171c0bc3d4ccf398ddab69b64f7c303",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "published_at": "2026-09-23T22:23:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology",
+        "World"
+      ]
+    },
+    {
+      "id": "4414d8c5526c28c552b6e5dc7165d1faa21283d7b93fca957312c75694016573",
+      "title": "China's Xi arrives in US to personal Trump welcome",
+      "url": "https://www.channelnewsasia.com/world/china-xi-jinping-lands-donald-trump-us-airport-welcome-6406556",
+      "description": "US President Donald Trump's personal airport greeting of Chinese leader Xi Jinping begins three days of pageantry that will include another flyover and a state banquet at the White House.",
+      "published_at": "2026-09-23T22:16:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "d390dca4652e3eb28fd14c550f73d32286f96c66a7850579702bd55ffb1db984",
+      "title": "New College Swimming League dives into inaugural season with eye on wider audience",
+      "url": "https://www.channelnewsasia.com/sport/new-college-swimming-league-dives-inaugural-season-eye-wider-audience-6406551",
+      "description": "",
+      "published_at": "2026-09-23T22:12:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "9d3a394665191efea669f768a579da63ec6fcfe731c6a9f57b61b7e5c4c27330",
+      "title": "OpenAI AI agent breached Australian government website, PM says",
+      "url": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
+      "description": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public and non-public files in what Prime Minister Anthony Albanese described as the first known case of an AI agent hacking a government system.",
+      "published_at": "2026-09-23T22:10:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "0bb86ce6970d750de82d36275e9a5f306323d6ad9ab2e012414c6b1f02ef8672",
+      "title": "Mum's £1.5m appeal to save son and apology for bin collections wait",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrzxr74zxeo?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Wales.",
+      "published_at": "2026-09-23T22:06:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "94e1944c37337dbaf33eba54a2d654627886c25dd29d03d7c9a8f58ba5c601bc",
+      "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
+      "description": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
+      "published_at": "2026-09-23T22:03:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "Wales"
+      ]
+    },
+    {
+      "id": "e88af01022dab3b50f31e5fd12bfcb7d16dc11ece3b5f8f1748c5320d60865d1",
+      "title": "Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds",
+      "url": "https://www.channelnewsasia.com/business/teslas-supervised-self-driving-system-often-misreads-speed-limits-belgian-safety-group-finds-6406536",
+      "description": "",
+      "published_at": "2026-09-23T22:03:07+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "1b17819fae7782dc8a08e45bea80b52c9e3f1e6d0e56354fd8c9f446abffd039",
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
@@ -9,7 +140,9 @@
       "published_at": "2026-09-23T22:01:17+00:00",
       "source": "BBC",
       "categories": [
-        "Technology"
+        "Business",
+        "Technology",
+        "World"
       ]
     },
     {
@@ -55,7 +188,8 @@
       "published_at": "2026-09-23T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -66,7 +200,8 @@
       "published_at": "2026-09-23T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -189,7 +324,7 @@
       "id": "1a6e4ed9199452eeba24005678626bbde9be36fc694db0a894e0d9faa247b6a4",
       "title": "Xi lands in US for high-stakes summit with Trump amid deep tensions",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3368568/xi-lands-us-high-stakes-summit-trump-amid-deep-tensions?utm_source=rss_feed",
-      "description": "Chinese President Xi Jinping landed at Joint Base Andrews late Wednesday afternoon after a 15-hour flight where he was greeted on the tarmac by US President Donald Trump in an unprecedented move for a top American leader. The closely watched visit – Xi’s first summit in the United States in 11 years – comes as the two nations grapple with a host of thorny issues beneath the flowery language and statements of friendship, including artificial intelligence, critical minerals, tariffs, Ukraine, the...",
+      "description": "Chinese President Xi Jinping landed at Joint Base Andrews late Wednesday afternoon after a 15-hour flight where he was met on the tarmac by US President Donald Trump in an unprecedented move for a top American leader. The closely watched visit – Xi’s first summit in the United States in 11 years – comes as the two nations grapple with a host of thorny issues beneath the flowery language and statements of friendship, including artificial intelligence, critical minerals, tariffs, Ukraine, the Iran...",
       "published_at": "2026-09-23T21:46:57+00:00",
       "source": "SCMP",
       "categories": [
@@ -328,6 +463,17 @@
       ]
     },
     {
+      "id": "75defc6668809d90abe1f090681cc4a4321b352118683564e4a1937ddfa78377",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "published_at": "2026-09-23T21:16:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "dad94b848a0eeff69a1c4c4ce7fbcc4e1000c5b20c82dce6b60ec83abe99545f",
       "title": "Trading Day: US yields cross 5% threshold​",
       "url": "https://www.channelnewsasia.com/business/trading-day-us-yields-cross-5-threshold-6406461",
@@ -371,7 +517,19 @@
       "published_at": "2026-09-23T21:01:55+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "87419fcff1378013f18526cd26170fc71ede83aed6ce693cebcfa39ddd4c63f7",
+      "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+      "url": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+      "description": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+      "published_at": "2026-09-23T21:01:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -425,6 +583,18 @@
       "id": "1c61b1e0b5a354d112696f265e04f22e99256b88c7a96e4ccb3f36afc911c472",
       "title": "Australia PM Albanese says OpenAI agent breached government website in June",
       "url": "https://www.channelnewsasia.com/business/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-6406411",
+      "description": "",
+      "published_at": "2026-09-23T20:44:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a6abb29b2f697a94c0358b10447660b1ff2e2103504769cfcbba957eb869f3b2",
+      "title": "Australia says OpenAI agent breached government health data portal",
+      "url": "https://www.channelnewsasia.com/business/australia-says-openai-agent-breached-government-health-data-portal-6406411",
       "description": "",
       "published_at": "2026-09-23T20:44:22+00:00",
       "source": "CNA",
@@ -622,6 +792,17 @@
     },
     {
       "id": "17a1d92147eda83a8d9e16a2ea034940b027ca6c32774033f1bdfeabefa61cdf",
+      "title": "Bentley unveils its first fully electric car",
+      "url": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
+      "description": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
+      "published_at": "2026-09-23T19:21:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3bd0677c9a74741935313ea36e6c8366d5321bbe35d888fe317764f81e2e6c1f",
       "title": "Bentley unveils its first fully electric car",
       "url": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
       "description": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
@@ -935,6 +1116,17 @@
     },
     {
       "id": "d4833cd608753fb4e77af3e922d358b7774999a53a1affba5a054dca17de9c99",
+      "title": "Netherlands to return to Eurovision after 2026 boycott",
+      "url": "https://www.bbc.co.uk/news/articles/c674kyg43d3lo?at_medium=RSS&at_campaign=rss",
+      "description": "The country did not participate in this year's contest but will return next year in Bulgaria.",
+      "published_at": "2026-09-23T17:17:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "a44462e19871224981ed1417c703bacff68b23ea9e9c395da6a7832f25613fd9",
       "title": "Netherlands to return to Eurovision after 2026 boycott",
       "url": "https://www.bbc.co.uk/news/articles/c674kyg43d3lo?at_medium=RSS&at_campaign=rss",
       "description": "The country did not participate in this year's contest but will return next year in Bulgaria.",
@@ -1519,6 +1711,17 @@
       "categories": [
         "Americas",
         "World"
+      ]
+    },
+    {
+      "id": "e90d966224479d7c5b901ee5be56aa4123a1f48bf82b232199e753c703b6892e",
+      "title": "Watch: Pilots eject as RAF jet crashes in Anglesey",
+      "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+      "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+      "published_at": "2026-09-23T15:23:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -2158,6 +2361,7 @@
       "published_at": "2026-09-23T13:50:25+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "UK"
       ]
     },
@@ -2700,6 +2904,17 @@
       ]
     },
     {
+      "id": "8a0c8def3abd3682fc70a241d8bee1f5fe5d9efa499e2a50b485ed02ffc4d947",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "published_at": "2026-09-23T12:22:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "0b59ced829291fdaddd6fbd7ab2c26fa72af7c33a708a0a571b693133d35b438",
       "title": "Greece proposes European Spectrum Union to raise billions for EU budget from 6G mobile",
       "url": "https://www.channelnewsasia.com/business/greece-proposes-european-spectrum-union-raise-billions-eu-budget-6g-mobile-6405341",
@@ -2907,6 +3122,17 @@
       "source": "BBC",
       "categories": [
         "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "1abd7e504d101a80954e1999be9991cec05afad6954b548c6433b50745da1e5e",
+      "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
+      "url": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
+      "description": "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.",
+      "published_at": "2026-09-23T11:47:17+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -6493,6 +6719,17 @@
       ]
     },
     {
+      "id": "62b9e83a4164f66a2b3a62fa2259cc8d65cdbbc12e7501d9de953957508d63f0",
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "description": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
+      "published_at": "2026-09-22T23:03:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "8063b87ab234daa78f19041a4bd527ec5569f182157a8183a339f8ed200fd49c",
       "title": "India is producing more green energy - but wasting a lot of it",
       "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
@@ -8847,6 +9084,17 @@
     },
     {
       "id": "0d87f429009a10bda9f9be7915cb56502ff320e1f3cc4b0c3f15a86fd0e70332",
+      "title": "Student who accidentally overdosed on paracetamol learns to walk and talk again",
+      "url": "https://www.bbc.co.uk/news/articles/c80462yzr50ro?at_medium=RSS&at_campaign=rss",
+      "description": "Riley Lubas took two over-the counter medicines without realising they both contained paracetamol.",
+      "published_at": "2026-09-22T14:27:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "15b6790b0fadc32992ee393bfe58c4094fe108ac1b8dfa35010bf8af338dac79",
       "title": "Student who accidentally overdosed on paracetamol learns to walk and talk again",
       "url": "https://www.bbc.co.uk/news/articles/c80462yzr50ro?at_medium=RSS&at_campaign=rss",
       "description": "Riley Lubas took two over-the counter medicines without realising they both contained paracetamol.",
