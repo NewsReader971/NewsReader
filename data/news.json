@@ -1,6 +1,380 @@
 {
-  "last_updated": "2026-09-23T15:02:21.567654+00:00",
+  "last_updated": "2026-09-23T16:02:57.088131+00:00",
   "articles": [
+    {
+      "id": "ad21ac98d8b210fade76c5002929f9456d463294194bd7f9c7fc7b67f3d446de",
+      "title": "Singer Michael Kiwanuka reveals he is recovering from a stroke",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do?at_medium=RSS&at_campaign=rss",
+      "description": "The award-winning musician says he faces a \"tough journey ahead\" after a \"quite severe\" brain injury.",
+      "published_at": "2026-09-23T15:58:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "dc3e2a6ac48052672deb9bf60e23342003f6393df294fdcbde2d96c08732e682",
+      "title": "Urgent review after two migrant boats reach shore",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+      "description": "Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.",
+      "published_at": "2026-09-23T15:58:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "5f896a31682fabf93b8ac6a42f09622ae6d447481d46f1c2d2a29bb11858a7be",
+      "title": "🔴Harvey Weinstein sentenced to 15 years in prison for 2006 sex assault",
+      "url": "https://www.france24.com/en/americas/20260923-disgraced-hollywood-mogul-harvey-weinstein-sentenced-to-15-years-for-2006-sex-assault",
+      "description": "",
+      "published_at": "2026-09-23T15:56:40+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ecde97da301255b1b701ffe9a211bc3a04bac4af8045fa5fc4affb404a64f610",
+      "title": "Disgraced Hollywood mogul Harvey Weinstein sentenced to 15 years for 2006 sex assault",
+      "url": "https://www.france24.com/en/americas/20260923-disgraced-hollywood-mogul-harvey-weinstein-sentenced-to-15-years-for-2006-sex-assault",
+      "description": "Disgraced movie mogul Harvey Weinstein was sentenced to 15 years in prison Wednesday in another #MeToo reckoning for sexually assaulting a former production assistant.",
+      "published_at": "2026-09-23T15:55:04+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "88d2f52b4b457fe2cec20a17f2ff676cfa3eea4a1a0f37b2cbfd65f54031e69d",
+      "title": "Bessent and He meet again to tackle  ‘some unfinished business’ as Xi summit nears",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368555/bessent-and-he-meet-again-tackle-some-unfinished-business-xi-summit-nears?utm_source=rss_feed",
+      "description": "US Treasury Secretary Scott Bessent held an unscheduled meeting with Chinese Vice Premier He Lifeng in Washington on Wednesday, hours before Chinese President Xi Jinping was due to arrive for a state visit. “We had some unfinished business from Sunday. We want strategic stability, but it has to be based on reciprocity and fairness,” Bessent told Fox News on his way to the meeting. The talks are under way at the World Bank headquarters in the US capital, following the two leaders’ engagement on...",
+      "published_at": "2026-09-23T15:52:53+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "ef194977ad08af7ff51ec5ebb6bb4818f58032a17534d538c70827c00aa0e989",
+      "title": "On-the-run killer who absconded after father's funeral arrested",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2d7pjr9o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who has been unlawfully at large for over a week, has been arrested in the Republic of Ireland.",
+      "published_at": "2026-09-23T15:52:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "496f7c09890bc9a7e5ba68cdd21a2df086010b324a42fbb84d417723269e6d52",
+      "title": "On-the-run killer who absconded after father's funeral arrested",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2d7pjr9o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who has been unlawfully at large for over a week, has been arrested in the Republic of Ireland.",
+      "published_at": "2026-09-23T15:52:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "ef096fe1437ffe06fa8347ece11fe4d0773ed5d3333dfddd6d14d4c620df69eb",
+      "title": "On-the-run killer who absconded after father's funeral arrested",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2d7pjr9o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Anderson, who has been unlawfully at large for over a week, has been arrested in the Republic of Ireland.",
+      "published_at": "2026-09-23T15:52:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "bab30ce8094d3154e617a3d3a132d91609f2d505d5406ab58bf0a7315d6d707c",
+      "title": "Badenoch registers gift of £8,177 for Murdoch meeting in Greece",
+      "url": "https://www.bbc.co.uk/news/articles/c6d945wyew38o?at_medium=RSS&at_campaign=rss",
+      "description": "The Murdochs' News Corp company paid for flights and accommodation for the Conservative leader and her husband to travel to Greece.",
+      "published_at": "2026-09-23T15:52:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "e16c520daac5cc8ea4272796e558b9e152fa4a1d902e987757d1babbe54b35bc",
+      "title": "Iran will 'never bend at the knee', Pezeshkian tells UN in defiant wartime address",
+      "url": "https://www.france24.com/en/middle-east/20260923-iran-will-never-bend-at-the-knee-pezeshkian-tells-un-defiant-wartime-address",
+      "description": "Iranian President Masoud Pezeshkian gave a defiant wartime address at the UN on Wednesday accusing the US of terrorism in his country and saying Iran would not \"bend at the knee\". But as Pezeshkian called for diplomacy, Iranian officials downplayed their talks with US counterparts on the sidelines of the gerenal assembly as \"not anything new\".",
+      "published_at": "2026-09-23T15:49:35+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "5c06aa0c63f618933020fefcc4ef9e2ca3ba8aef323b04546ecfda5d1d4339c5",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+      "published_at": "2026-09-23T15:46:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e329919c41960783da34801914ac23333b21bc15717965f8dc708c98a644c6e0",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+      "published_at": "2026-09-23T15:46:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d73e8486a84e60045c2040ecc3d597452cbdb3609e26b7c2c28c63e584d96d03",
+      "title": "Nearly 150 homes damaged by Storm Babet flooding to be demolished",
+      "url": "https://www.bbc.co.uk/news/articles/c9lykerxxxg2o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents in Brechin say they have been living in limbo since floods in 2023.",
+      "published_at": "2026-09-23T15:44:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f98e8c169c4f7ab532974c5eb613246ff236e858b33b053b9b266e8eba13b50b",
+      "title": "Nearly 150 homes damaged by Storm Babet flooding to be demolished",
+      "url": "https://www.bbc.co.uk/news/articles/c9lykerxxxg2o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents in Brechin say they have been living in limbo since floods in 2023.",
+      "published_at": "2026-09-23T15:44:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "3bcdf3bf31a2ce7352506291ad43fdca8f310f917e426788ae1463c670181677",
+      "title": "Japan's steep yield curve opens 'reverse carry' trade opportunity, Eastspring says",
+      "url": "https://www.channelnewsasia.com/business/japans-steep-yield-curve-opens-reverse-carry-trade-opportunity-eastspring-says-6405886",
+      "description": "",
+      "published_at": "2026-09-23T15:38:34+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f7ea35f0c3a6266676ab80bf6445500c37883681843b859e224b897a1abb0947",
+      "title": "FA charges Cardiff's Bielik as police end inquiry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8d8g0zq8o?at_medium=RSS&at_campaign=rss",
+      "description": "The Football Association charges Cardiff City defender Krystian Bielik over an altercation involving Portsmouth fans, but a police investigation has been concluded.",
+      "published_at": "2026-09-23T15:37:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "b4bbc59109290e584468a7a6a5cb8d4f502bc7035c7b72925ffd9f6476edca69",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "published_at": "2026-09-23T15:37:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d50daecb9948171ba824e7133fd672b31748e6eceddd29618fefa36bed7ef6ef",
+      "title": "Man cautioned over Reform conference assaults",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8mkmvx7pmo?at_medium=RSS&at_campaign=rss",
+      "description": "West Midlands Police is investigating a number of assaults after protests interrupted the Reform UK conference.",
+      "published_at": "2026-09-23T15:35:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "04191151525054f08ef0dee71ab625415339c1a26b9b7c5c0f5f448df7f97c4a",
+      "title": "Backlash against smart glasses grow",
+      "url": "https://www.france24.com/en/backlash-against-smart-glasses-grow",
+      "description": "Paris prosecutors say they have opened several investigations after receiving complaints about women allegedly filmed on the street without their consent by people wearing so-called “smart glasses”. Calls are growing across Europe for action against what campaigners have dubbed “pervert” smart glasses, after secretly filmed footage of women and girls appeared online. Solange Mougin reports.",
+      "published_at": "2026-09-23T15:30:21+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "40000d5e08d3f4fce29e9a07306d97ca1cdda73a5e1a1272aac7e24f4ad904df",
+      "title": "Charlotte Church accuses Ed Sheeran of choosing 'capitalism over doing the right thing'",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y2xp65ko?at_medium=RSS&at_campaign=rss",
+      "description": "Charlotte Church says Ed Sheeran chose capitalism over \"doing the right thing\".",
+      "published_at": "2026-09-23T15:27:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7017432821ffdef2c98d6c3e66074ccee174a6a99a18ca6a32349f6cb7444eda",
+      "title": "US says wants Ukraine, Russia to end strikes on energy sites",
+      "url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
+      "description": "Ukrainian President Volodymyr Zelenskyy is due to address the UN General Assembly on Wednesday, as US President Donald Trump pushes for an end to Russia’s war and Kyiv seeks to shape renewed diplomatic efforts after more than four and a half years of conflict. France 24 International affairs commentator Douglas Herbert shares further details.",
+      "published_at": "2026-09-23T15:25:52+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "25fc088e0db8f7fbe3620fabc41d36251d9790fa2ad235aa2707dc64434c4a6e",
+      "title": "Dollar jumps to near two-month high on Fed outlook, oil climb",
+      "url": "https://www.channelnewsasia.com/business/dollar-jumps-near-two-month-high-fed-outlook-oil-climb-6403811",
+      "description": "",
+      "published_at": "2026-09-23T15:22:19+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "49c2ef38bf73d8f3cc3af2c3db4a1ec88faacfd657ae6eef155f316e03317054",
+      "title": "Zelenskyy set to address UN as Russia strikes Kyiv",
+      "url": "https://www.france24.com/en/video/20260923-zelenskyy-set-to-address-un-as-russia-strikes-kyiv-1",
+      "description": "Russia hammered Ukraine’s capital, Kyiv, with drones in daylight attacks on Wednesday, killing two people and wounding 23, just hours before Ukrainian President Volodymyr Zelenskyy was due to address world leaders at the UN General Assembly. Zelenskyy met US President Donald Trump on Tuesday, as Trump has expressed frustration over the lack of progress in talks aimed at ending the war and the continued escalation of aerial attacks by both sides. Emerald Maxwell reports.",
+      "published_at": "2026-09-23T15:20:58+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "812e7b7b75bf217c42a88d6593aed49a0165e9c2b6f108011309b8112404a1ac",
+      "title": "Iranian president adresses UNGA amid war with US",
+      "url": "https://www.france24.com/en/iranian-president-adresses-unga-amid-war-with-us",
+      "description": "Iranian President Masoud Pezeshkian is speaking before the UN General Assembly Wednesday in his first speech at the world body since the US and Israel launched the conflict with his country. His address comes a day after US President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell\". France 24 correspondent from New York, Jessica Le Masurier, tells us more.",
+      "published_at": "2026-09-23T15:20:23+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5400f062aa3d2fefc375e19e3109de21edaeaee460f919b48236abbe9d13c48c",
+      "title": "Why is France's Gen Z turning to Catholicism?",
+      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260923-why-is-france-s-gen-z-turning-to-catholicism",
+      "description": "As France prepares for Pope Leo XIV's visit, a surprising trend has emerged in recent years: the number of baptisms among teenagers and young adults has skyrocketed. More than 21,000 catechumens, those undergoing the period of preparation for baptism into the Christian Church, have been recorded so far in 2026. How can this renewed interest in the Catholic faith be explained? Florence Gaillard reports for France in Focus.",
+      "published_at": "2026-09-23T15:18:05+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "63224d63f46e9e2735b5bc43dbb9df9202e611f97bf0ea23028974d6268ab3f1",
+      "title": "OVHcloud CEO says public commitment for EU AI gigafactories too small",
+      "url": "https://www.channelnewsasia.com/business/ovhcloud-ceo-says-public-commitment-eu-ai-gigafactories-too-small-6405836",
+      "description": "",
+      "published_at": "2026-09-23T15:11:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6b6f2673ef62b9cd4ab2289d9c0bf99e640c1d37b9075f9f6c55007995884c68",
+      "title": "Wales suffer scrum-half Lockwood blow for USA Test",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm3wjy05l679o?at_medium=RSS&at_campaign=rss",
+      "description": "Scrum-half Seren Lockwood is out of Wales' second WXV Test, against USA, after failing a head injury assessment.",
+      "published_at": "2026-09-23T15:09:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "f1d963e2beed435c6d57aaf1e86185d5e8f9759f18eb82b2a37ce5118741d438",
+      "title": "ICC convicts Central African Republic rebel leader",
+      "url": "https://www.channelnewsasia.com/world/icc-convicts-central-african-republic-rebel-leader-6405021",
+      "description": "",
+      "published_at": "2026-09-23T15:08:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "d64e5e18bd242870582e55518db344bfb57a7b944fad0fb1042bcb0ba3413a79",
+      "title": "Mam Josh Roberts yn gobeithio y daw'r 'gwirionedd llawn' i'r amlwg",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm3reyp052nno?at_medium=RSS&at_campaign=rss",
+      "description": "Mae mam Josh Roberts fu farw mewn gwrthdrawiad dair blynedd yn ôl yn dweud ei bod yn gobeithio y daw'r \"gwirionedd llawn\" am farwolaeth ei mab i'r amlwg",
+      "published_at": "2026-09-23T15:04:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "43296ba1b9e8cfb07cb0535adb6340156142c8af0ef9ba57badc11dd6ed17bad",
+      "title": "Orkney's main post office shuts 'without warning'",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2z66gvp6jo?at_medium=RSS&at_campaign=rss",
+      "description": "The Post Office says it is due to staffing issues and has apologised for any inconvenience caused.",
+      "published_at": "2026-09-23T15:04:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "61cf69255689f961eb8200b40826d7d944d5025fef01886e7e902aa4c41dd5c6",
+      "title": "Man who abandoned 71 cats in Bukit Panjang flat given 16 weeks' jail",
+      "url": "https://www.channelnewsasia.com/singapore/animal-abuse-neglect-71-cats-bukit-panjang-16-weeks-jail-6405321",
+      "description": "Nine of the cats, which were left neglected in the unit for almost two years, died.",
+      "published_at": "2026-09-23T15:03:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "362b67a116868c2164857c20ae72bcdec7149cfb394c079af27b7bedb0db826a",
+      "title": "Bangladesh to buy 11 more Boeing jets as it seeks closer US trade ties",
+      "url": "https://www.channelnewsasia.com/business/bangladesh-buy-11-more-boeing-jets-it-seeks-closer-us-trade-ties-6405781",
+      "description": "",
+      "published_at": "2026-09-23T15:02:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "47a9365edacc73b5359c01c83a89d06dae1a8eb5d0d8598a532d4d225dfd8c45",
+      "title": "Pope Leo XIV to trace back French ancestry, spiritual roots on visit to France",
+      "url": "https://www.france24.com/en/france/20260923-pope-leo-xiv-trace-back-french-ancestry-spiritual-roots-visit-to-france",
+      "description": "Pope Leo’s four-day visit to France, which kicks off on Friday, is something of a homecoming for the Chicago-born pontiff, a grandson of European immigrants with family roots in Normandy. His spiritual roots in French Catholicism run deeper still.",
+      "published_at": "2026-09-23T15:02:44+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "5175185b42a62c16ec8df7f04a1f2a138f0a5b2cf6c34f41cd2b86010c873e64",
       "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
@@ -13,6 +387,17 @@
       ]
     },
     {
+      "id": "cb2a9e627e3c4cc1428267100e30c84491d8466c3028a07b4ee06825e82f6d91",
+      "title": "El Nino: Climate scientists warn of \"Godzilla-level\" climate event",
+      "url": "https://www.france24.com/en/video/20260923-el-nino-climate-scientists-warn-of-godzilla-level-climate-event",
+      "description": "Extreme heat caused by this year’s “super El Niño” could lead to as many as 451,000 excess deaths worldwide in the six months to February 2027, according to researchers at the University of Chicago’s Climate Impact Lab. The number of extremely hot days is expected to rise by 44%, with Nigeria, Indonesia and Sudan among the countries likely to be worst affected. Researchers warn that the impact could extend well beyond the six-month period studied. Carys Garland reports.",
+      "published_at": "2026-09-23T14:59:28+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "53c5f61c8d68ea7c6ddd4d4f306c78bc41455e833ad25423defe0fbd2e35634f",
       "title": "Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
       "url": "https://www.france24.com/en/iran-s-pezeshkian-tells-un-his-country-is-victim-of-us-terrorism",
@@ -20,6 +405,8 @@
       "published_at": "2026-09-23T14:57:47+00:00",
       "source": "France 24",
       "categories": [
+        "Americas",
+        "Middle East",
         "World"
       ]
     },
@@ -27,10 +414,11 @@
       "id": "6a8f6ea1025214c9ab189c9b1660ead0e607534918815740ab093a2699c54013",
       "title": "Urgent review after two migrant boats reach shore",
       "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
-      "description": "Twenty-six people are detained after the landings, but it is not known if others are being sought.",
+      "description": "Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.",
       "published_at": "2026-09-23T14:56:52+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -42,6 +430,7 @@
       "published_at": "2026-09-23T14:55:51+00:00",
       "source": "CNA",
       "categories": [
+        "Business",
         "Latest News"
       ]
     },
@@ -77,6 +466,8 @@
       "published_at": "2026-09-23T14:44:13+00:00",
       "source": "France 24",
       "categories": [
+        "Americas",
+        "Middle East",
         "World"
       ]
     },
@@ -297,6 +688,17 @@
       ]
     },
     {
+      "id": "fd953c3e308d27fb413c943d13d584777c9b2bc0c3bf37b32caacf65e875716b",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "description": "One of those killed is believed to be a pregnant woman, police said.",
+      "published_at": "2026-09-23T14:02:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "0ccb68ce2ccb27e150eb74eab6cec476cc18cfe363b7f12a19f74c9ea5375dd1",
       "title": "Two pilots eject and parachute out of RAF plane before crash",
       "url": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&at_campaign=rss",
@@ -433,6 +835,17 @@
       ]
     },
     {
+      "id": "f3f682462c3a18b01830da2375521ce97551f0472dd00decfd2e350b4aa78f05",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+      "published_at": "2026-09-23T13:34:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "acb6f94e31632d0ec39035b88c2c351de659ad4a281e69dc0dcb758b98819c94",
       "title": "How US players are reshaping France and the continent",
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20260923-how-us-players-are-reshaping-france-and-the-continent",
@@ -452,6 +865,7 @@
       "published_at": "2026-09-23T13:31:32+00:00",
       "source": "France 24",
       "categories": [
+        "Middle East",
         "World"
       ]
     },
@@ -824,6 +1238,17 @@
       ]
     },
     {
+      "id": "3d7b6b829c095b61928a1613edd0d9396d8ec883312a816ca839c8d86c0fe2d9",
+      "title": "Further education colleges cut thousands of student places amid budget absence",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dge182lpo?at_medium=RSS&at_campaign=rss",
+      "description": "A college spokeperson says the deadlock over a Stormont budget was partially responsible.",
+      "published_at": "2026-09-23T12:27:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "5a177f35ed7f72b7b033e1e66ebdd48b79c7acd346ca918721b969799deaf7c9",
       "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
       "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
@@ -878,7 +1303,8 @@
       "published_at": "2026-09-23T12:13:06+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -1415,6 +1841,17 @@
       ]
     },
     {
+      "id": "efe6552247f7ec04fb9b35075f7b73fc75aaf3636f5f82d497d5ece0c0d0b39d",
+      "title": "'It was scary' - Jacks goes from emergency surgery to match-winner",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o?at_medium=RSS&at_campaign=rss",
+      "description": "Will Jacks' career-best 50-over figures on Tuesday came shortly after the England all-rounder was rushed into hospital for emergency surgery while on a weekend away.",
+      "published_at": "2026-09-23T11:00:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "0d64cb3a5da9b730270c1b5150696645f1ef46f4dc902525d08fd62d7dfcfacc",
       "title": "What's at stake when Trump and Xi meet in the US?",
       "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
@@ -1703,6 +2140,17 @@
       "categories": [
         "Americas",
         "World"
+      ]
+    },
+    {
+      "id": "1e0810f0442dbb65f0d416d1f2cda9f9288551847a644e0af55cf1be7279a239",
+      "title": "'Pigs Village' Welsh name change will go ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy78qddnyo?at_medium=RSS&at_campaign=rss",
+      "description": "The name survived despite restrictions on the Welsh language dating back to the 19th Century.",
+      "published_at": "2026-09-23T10:12:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -3580,6 +4028,17 @@
       ]
     },
     {
+      "id": "5e73fe217005c32a1d5be10c82938893f01cb3c5a9a3b7a1730901ec77071c53",
+      "title": "'Disabled artists need opportunities, not just access'",
+      "url": "https://www.bbc.co.uk/news/articles/ck4gj4gn91xpo?at_medium=RSS&at_campaign=rss",
+      "description": "Artists say while access has improved at arts venues, more could be done to support their work.",
+      "published_at": "2026-09-23T04:51:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "6572c715e9dbbcce0be8f7b2bae2525769f48418a872cef9b7f75fefbffe888c",
       "title": "Exiled opposition leader tries to enter Venezuela as Rodriguez meets Trump in US",
       "url": "https://www.scmp.com/news/world/americas/article/3368468/exiled-opposition-leader-tries-enter-venezuela-rodriguez-meets-trump-us?utm_source=rss_feed",
@@ -3617,6 +4076,17 @@
     },
     {
       "id": "b6aed23d04e6a7251a6c5f5a83a298409a010bf77250d31f63982439a602a00a",
+      "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
+      "published_at": "2026-09-23T04:32:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "b39a75086da9afccb6735bb2ab0dd1947e70c7ee1d990f433715ce4e23ca63ee",
       "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
       "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
       "description": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
@@ -4628,6 +5098,17 @@
       ]
     },
     {
+      "id": "f36ab318b925749c60f9f836f6658f150a05efc15950ec400a2c8f2029a40bbf",
+      "title": "'I had cancer as a child, now I'm a beauty pageant queen'",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvjer1dn7o?at_medium=RSS&at_campaign=rss",
+      "description": "Nicola Anderson's parents were told there was only a 50/50 chance she would survive surgery.",
+      "published_at": "2026-09-22T22:10:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "64fc52a658d1f5802945c2f78a34cd08389d01c06237741f6dee4c34237b8847",
       "title": "How a teacake tycoon helped to save a village's lifeboat station",
       "url": "https://www.bbc.co.uk/news/articles/c8n5dp6z54l7o?at_medium=RSS&at_campaign=rss",
@@ -4934,6 +5415,17 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "9d8f23e516ce3482d09da47cf87b05f5ec02e7a4c11fdd2f0d178e57fa2b235a",
+      "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+      "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+      "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+      "published_at": "2026-09-22T21:22:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -6824,6 +7316,17 @@
     },
     {
       "id": "7812fb16c0c41147a9049b18126b2dfe33af4ffa684dab1466316a3d84b8deca",
+      "title": "'My son might not have survived without Daisy Hill maternity service'",
+      "url": "https://www.bbc.co.uk/news/articles/cky8z2l5qxj6o?at_medium=RSS&at_campaign=rss",
+      "description": "Kara Finnegan, who had an emergency Caesarean last year, has criticised the planned removal of maternity services.",
+      "published_at": "2026-09-22T14:27:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "b6adc549c83fb552d8301eccf858cd2087bca16a555ec738ba0d5769bfdcd0fc",
       "title": "'My son might not have survived without Daisy Hill maternity service'",
       "url": "https://www.bbc.co.uk/news/articles/cky8z2l5qxj6o?at_medium=RSS&at_campaign=rss",
       "description": "Kara Finnegan, who had an emergency Caesarean last year, has criticised the planned removal of maternity services.",
@@ -9106,6 +9609,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "95704e52f5ed9bcc46cbd6c4b4db1f4b71b32711323caa9fe5c89b80e77f9395",
+      "title": "'A sad outcome' - Administrators appointed to Glens of Antrim Potatoes",
+      "url": "https://www.bbc.co.uk/news/articles/cmd94p48xkgqo?at_medium=RSS&at_campaign=rss",
+      "description": "The business operates from sites in Cushendall and Ballymena in County Antrim.",
+      "published_at": "2026-09-22T09:27:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
