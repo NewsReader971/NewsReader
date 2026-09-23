@@ -1,16 +1,316 @@
 {
-  "last_updated": "2026-09-23T10:02:41.068650+00:00",
+  "last_updated": "2026-09-23T11:02:37.542584+00:00",
   "articles": [
+    {
+      "id": "1e0bdaf07b54b221f91b3449d77e35d0902c0fb579a535de77014a7cf6358918",
+      "title": "China cracks down on scam centres in neighbouring Myanmar",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260923-china-cracks-down-on-scam-centres-in-neighbouring-myanmar",
+      "description": "In Southeast Asia, hundreds of thousands of people working in fraud centres are scamming people across the world. US authorities suggest the fraudsters are responsible for scams worth almost $10 billion a year against US nationals alone. Victims in Europe, the UK and China have also been targeted. Human rights groups further warn that those working in the centres are often themselves victims of human trafficking – forced to work as slaves.",
+      "published_at": "2026-09-23T11:01:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "Asia/Pacific"
+      ]
+    },
+    {
+      "id": "7776abf3b5e7ab644b8f1a9b0de25f92f89bb8586558fa5ec5aa47e5b30dc6ca",
+      "title": "South Korea says Trump welcomes progress in US strategic investment projects",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-says-trump-welcomes-progress-in-us-strategic-investment-projects-6403856",
+      "description": "",
+      "published_at": "2026-09-23T11:01:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "87b7ebc814ebf317531a19c506de600a0e6bc362843a5504458d20e528397bf0",
+      "title": "China hawks grumble over Trump’s lavish welcome planned for Xi state visit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368501/china-hawks-grumble-over-trumps-lavish-welcome-planned-xi-state-visit?utm_source=rss_feed",
+      "description": "Hours before President Xi Jinping’s aircraft lands at Joint Base Andrews, Washington is preparing for a scene that seemed unthinkable in recent years: his American counterpart waiting on the tarmac for the leader of a country that much of the US national security establishment regards as its foremost strategic adversary. While the Donald Trump administration is betting on warmth, deals and stability with Beijing, recent public surveys show that American anxiety over China has eased from its 2024...",
+      "published_at": "2026-09-23T11:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "317f9f747a1e368e3ea802f9f211aa36c38f21a477ac12d94d1c4c81e762830e",
+      "title": "Man denies murder of woman and her niece in fire",
+      "url": "https://www.bbc.co.uk/news/articles/cmd79wv53l5qo?at_medium=RSS&at_campaign=rss",
+      "description": "Jaden Wright appears at Teesside Crown Court charged with murder and grievous bodily harm.",
+      "published_at": "2026-09-23T10:59:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b172d87a82fbc5508c7b98c5f7e7bb3bdd73b705955f18d8a8516bce3e3a787b",
+      "title": "Student almost dies after accidental paracetamol overdose",
+      "url": "https://www.bbc.co.uk/news/videos/cq0kly26dykmo?at_medium=RSS&at_campaign=rss",
+      "description": "The parents of a student who suffered organ failure and nearly died after accidentally overdosing on paracetamol have spoken of the distress it caused and said they have \"no idea how it happened so quickly\".",
+      "published_at": "2026-09-23T10:57:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "7d69ef9c27ed380b6d329c5515815ce9471fb215a057301e87ee9b43b3dfa53d",
+      "title": "Concerns county will not benefit from £2 bus cap",
+      "url": "https://www.bbc.co.uk/news/articles/cqd08m30r2j9o?at_medium=RSS&at_campaign=rss",
+      "description": "Councillor Justine Peberdy says Yeomans Travel and Sargeants Brothers have not committed to the cap.",
+      "published_at": "2026-09-23T10:49:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "5aea1786b1d64a2bcd20e3e95e0d025390c167a47d40fb592b5e076632c97334",
+      "title": "Off sick? You need to phone your boss, back-to-work adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+      "description": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
+      "published_at": "2026-09-23T10:49:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "UK"
+      ]
+    },
+    {
+      "id": "f17ece86edea6d4e1ae485352dc03de2b2d7da3c5c3f295d8218daeb99d5a27f",
+      "title": "Hurricane Polo churns off Mexico",
+      "url": "https://www.france24.com/en/hurricane-polo-churns-off-mexico",
+      "description": "Hurricane Polo has strengthened into one of the most powerful Pacific cyclones in decades and is expected to skirt Mexico’s southwestern coast as a Category 5 storm. The Miami-based National Hurricane Center described Polo as an “extremely dangerous” storm, with maximum sustained winds of 165 miles per hour.",
+      "published_at": "2026-09-23T10:49:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas"
+      ]
+    },
+    {
+      "id": "7efea75551285bba0d36fd84188144be132da4d75b578fb5417925904c9e48f9",
+      "title": "US President warns Tehran at UN but says talks ongoing",
+      "url": "https://www.france24.com/en/us-president-warns-tehran-at-un-but-says-talks-ongoing",
+      "description": "The day began with Donald Trump threatening to annihilate Iran but ended with a three-hour meeting between US and Iranian mediators, which Trump described as “very good.” Trump also held a high-level meeting with Ukrainian President Volodymyr Zelensky, with both sides saying they wanted the war in Ukraine to end before winter. Today, as the UN General Assembly continues, Zelensky and Iranian President Masoud Pezeshkian are among those expected to address the assembly, as world leaders seek ways to end the two conflicts dominating international politics. France 24 International Affairs Editor Kethevane Gorjestani shares further insights.",
+      "published_at": "2026-09-23T10:46:26+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "410504c34031027907ec4e8af60458823542d0342726314ccd441f6a96f45c1e",
+      "title": "Scarlets' Anderson set to miss start of season",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn5d93kqgw4o?at_medium=RSS&at_campaign=rss",
+      "description": "Scarlets number eight Fletcher Anderson is set to miss the start of the season because of a groin injury.",
+      "published_at": "2026-09-23T10:45:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7a02827a4a4d0c980a88259c79e052ffd15a0eccef693e39f4d9a00134d2c8da",
+      "title": "Chess-Presidential candidate Buettner pitches outsider shake-up, promises to leave politics out of FIDE",
+      "url": "https://www.channelnewsasia.com/sport/chess-presidential-candidate-buettner-pitches-outsider-shake-up-promises-leave-politics-out-fide-6405131",
+      "description": "",
+      "published_at": "2026-09-23T10:42:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0306067a3bd349f8d38bf1cca4000f9bc70795133c55fdf80f63636cee3d07e8",
+      "title": "'Shame': Macron slams Trump's Gaza diplomacy in final UN speech",
+      "url": "https://www.france24.com/en/video/20260923-shame-macron-slams-trump-s-gaza-diplomacy-in-final-un-speech",
+      "description": "🇫🇷 French President Emmanuel Macron criticised Gaza diplomacy at the UN General Assembly, calling it a \"shameful spectacle\" and urging action to reopen humanitarian routes.",
+      "published_at": "2026-09-23T10:38:36+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas"
+      ]
+    },
+    {
+      "id": "5406a0912dbbb181413ba8baf3519796de948321c6f9ef8b5cad7647c7a85b58",
+      "title": "Ahead of Xi’s ‘historic milestone’ US visit, a fentanyl goodwill gesture from China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368527/ahead-xis-historic-milestone-us-visit-fentanyl-goodwill-gesture-china?utm_source=rss_feed",
+      "description": "China’s ambassador to the United States has hailed President Xi Jinping’s coming state visit as a “historic milestone” for bilateral and international relations. Xie Feng’s remarks came just as Beijing unveiled stringent new regulations on fentanyl, in a clear move to build diplomatic momentum ahead of the Xi-Trump summit in Washington. Under the strategic guidance of both leaders, the “giant ship” of China-US relations would continue to “break waves and sail ahead” along a trajectory of “mutual...",
+      "published_at": "2026-09-23T10:35:16+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "82546acc20d50a0fbe59a2ac88ae7c1e379c839c9d90b4f078a858425dbb36f1",
+      "title": "Fresh drilling for a lost Egyptian queen?",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260923-fresh-drilling-for-a-lost-egyptian-queen",
+      "description": "PRESS REVIEW – Wednesday, September 23: The papers look ahead to US President Donald Trump hosting his Chinese counterpart Xi Jinping. In other news, a Haitian-born novelist, tipped to win France's prestigious Goncourt literary prize, has been struck by an AI scandal. Finally, could the remains of Nefertiti lie behind the burial chamber of Tutankhamun?",
+      "published_at": "2026-09-23T10:31:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "94c65c8405fb9a6fcc6021d2e5e5b4c2547f39d5d9ac41e0d3e2d40c570fd564",
+      "title": "AI boom helps lift Asia growth outlook despite energy, El Nino risks: ADB",
+      "url": "https://www.channelnewsasia.com/asia/asian-development-bank-adb-outlook-growth-projection-asia-pacific-ai-boom-el-nino-6404886",
+      "description": "The Asian Development Bank raised its 2026 growth projection for the region to 5 per cent, up 0.1 percentage points from its July forecast.",
+      "published_at": "2026-09-23T10:31:12+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "409dfbfb24f8986fb61c73b9aa26e8f1d2fa40f1c8dc07b39f3cbfa13d93bdfc",
+      "title": "China's Yu, 13, wins third gold with latest Asian Games record",
+      "url": "https://www.channelnewsasia.com/sport/chinas-yu-13-wins-third-gold-latest-asian-games-record-6405036",
+      "description": "",
+      "published_at": "2026-09-23T10:29:35+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "4aa331978f41f0537067d2a546e939e6dd45dcf3a1d6425dfd70157de992b087",
+      "title": "What have we learned from the Championship so far?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe9ep4nvxr8o?at_medium=RSS&at_campaign=rss",
+      "description": "As we enter the three-week international break, BBC Sport looks back at the opening block of Championship fixtures to see what we have learned so far.",
+      "published_at": "2026-09-23T10:17:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "36b1df492d67d78b2ecaa239b1df34a3fa64faf800f93695362fe58335a789a7",
+      "title": "Swans lead the Championship pack, but is the race wide open?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe9ep4nvxr8o?at_medium=RSS&at_campaign=rss",
+      "description": "As we enter the three-week international break, BBC Sport looks back at the opening block of Championship fixtures to see what we have learned so far.",
+      "published_at": "2026-09-23T10:17:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e22243a9e66e73124345460e956691f151f81d1d63480ec6533874703ab65923",
+      "title": "Why younger Filipinos are warming to China despite maritime tensions",
+      "url": "https://www.scmp.com/week-asia/politics/article/3368528/why-younger-filipinos-are-warming-china-despite-maritime-tensions?utm_source=rss_feed",
+      "description": "Inside a car wash lounge in the southern Philippine city of Davao, Shenilane Formento scrolls through messages on her Chinese-made Oppo phone as she waits for a customer to pay. Formento, 29, has worked as a cashier for about a year. She follows developments in the South China Sea through news reports shared on her social media feeds, including frequent confrontations between Philippine and Chinese forces in the disputed waters. While she found such incidents “disappointing”, she ultimately...",
+      "published_at": "2026-09-23T10:15:30+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "aa4fa2117e64f8b5fccc0305387d83ff88c49162d2c001d49f1b11e330ecec1e",
+      "title": "Live: Pezeshkian set to address UN for the first time since US, Israel launched Iran war",
+      "url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
+      "description": "Iranian President Massoud Pezeshkian is scheduled to address the UN General Assembly (UNGA) Wednesday in his first speech at the world body since the US and Israel launched the Iran war. His address comes a day after President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell.\" Follow our liveblog for all the latest updates.",
+      "published_at": "2026-09-23T10:13:25+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "90552da7475f8faf8ebd2a10efbc4dd8ddf9b7b0ae5d6cdd81c095bdf26008d9",
+      "title": "Clarkson's Farm sheep 'theft' actually a miscount",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjk1pd2jy9o?at_medium=RSS&at_campaign=rss",
+      "description": "Jeremy Clarkson reported the theft of sheep from his Diddly Squat Farm to police earlier this month.",
+      "published_at": "2026-09-23T10:10:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "63258983a9d50ad07c770022a1cede33c904816fab2293fcdad802f2d728cf28",
+      "title": "As Chinese carmakers diversify beyond CATL batteries, Beijing warns of market overreaction",
+      "url": "https://www.scmp.com/economy/china-economy/article/3368526/chinese-carmakers-diversify-beyond-catl-batteries-beijing-warns-market-overreaction?utm_source=rss_feed",
+      "description": "A publication under China’s industry ministry has pushed back against market chatter of “de-CATLisation” as a growing number of the battery giant’s automotive partners diversify their suppliers, with the company’s shares falling recently. The commentary, published by the news centre of the Ministry of Industry and Information Technology (MIIT), said supplier diversification and in-house battery projects are standard commercial practices. Such moves should not be portrayed as deliberate attempts...",
+      "published_at": "2026-09-23T10:08:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "8b5e7354d429f93efff4824c01d23d6a5ea2515c3436da03cab07ab268b79002",
+      "title": "Glamorgan batter Root to join Ingram in retirement",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no?at_medium=RSS&at_campaign=rss",
+      "description": "Batter Billy Root will follow fellow long-serving Glamorgan player Colin Ingram into retirement from top-flight cricket at the end of the 2026 season.",
+      "published_at": "2026-09-23T10:06:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "c518ae1ebd733e750216bbce0100167a438ef4ced1cc354a65e62669bad634e5",
+      "title": "Tesla’s Elon Musk hails Xi Jinping’s leadership and Chinese AI strength",
+      "url": "https://www.scmp.com/news/china/politics/article/3368524/elon-musk-hails-xi-jinpings-leadership-and-chinese-ai-capabilities-state-media?utm_source=rss_feed",
+      "description": "Tesla CEO Elon Musk described Chinese President Xi Jinping as “a great leader” and “very capable” during an interview with China’s state broadcaster on Wednesday, just hours before Xi left China for a summit with US President Donald Trump. “He seems like a great leader. Under his tenure, China has prospered immensely. I’ve seen it first hand,” Musk said in one of a series of videos posted on CCTV’s social media account. “And it’s also obvious to see just walking around the streets, the …...",
+      "published_at": "2026-09-23T10:04:41+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "82c105f394c3c94404d791f746c95bf2163026b5baa0918308679ea5ca4cbe70",
+      "title": "No grand deal expected from Xi’s US visit as China seeks ‘strategic stability’: Analysts",
+      "url": "https://www.channelnewsasia.com/world/xi-trump-us-visit-china-seeks-strategic-stability-analysts-6404776",
+      "description": "The visit will be Chinese President Xi Jinping’s first state visit to the United States in more than a decade.",
+      "published_at": "2026-09-23T10:03:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "a9efa81c13106b4a56801123cd804aa9b90905b96e2301a99756437f978e9455",
       "title": "Northern Metropolis data hub to start phased operations in mid-2027: CLP Power",
       "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368520/northern-metropolis-data-hub-start-phased-operations-mid-2027-clp-power?utm_source=rss_feed",
-      "description": "A planned supercomputing hub at the Northern Metropolis megadevelopment in Hong Kong’s border area will start phased operations earlier than expected in mid-2027, according to electricity supplier CLP Power. The power supplier added that it had sufficient capacity to support the energy demands equivalent to three to four supercomputing centres similar to the scale of the Sandy Ridge data facility cluster over the next decade. “I am delighted to join Range Technology today in announcing our...",
+      "description": "A planned supercomputing hub at the Northern Metropolis megadevelopment in Hong Kong’s border area will start phased operations earlier than expected in mid-2027, according to electricity supplier CLP Power. The power supplier added that it had sufficient capacity to support energy demand equivalent to three to four supercomputing centres similar in scale to the Sandy Ridge data facility cluster over the next decade. “I am delighted to join Range Technology today in announcing our objective to...",
       "published_at": "2026-09-23T10:02:12+00:00",
       "source": "SCMP",
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "99fe5b3a3ac6e1c7b749c3475df9abab417ca3e88fa699ba356ff8062d31c877",
+      "title": "Meta expected to unveil smart glasses without camera as privacy concerns grow",
+      "url": "https://www.channelnewsasia.com/business/meta-expected-unveil-smart-glasses-without-camera-privacy-concerns-grow-6404951",
+      "description": "",
+      "published_at": "2026-09-23T10:01:47+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -33,6 +333,28 @@
       "source": "SCMP",
       "categories": [
         "News"
+      ]
+    },
+    {
+      "id": "5b57448877732fc231fcadeeac9144086c6bd07ad2fe7888f0e37f64990ba535",
+      "title": "Police worker jailed over child sex offence",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zvr1gxxro?at_medium=RSS&at_campaign=rss",
+      "description": "Christopher Thompson was working in the force's regional scientific support services when arrested.",
+      "published_at": "2026-09-23T09:59:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "eb158603153a94a7be0204d2b3af63b5960db24bb0eb0731b7a4c652c6f5150a",
+      "title": "Prince Harry honours girl who defied all the odds",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zjl1jvv3o?at_medium=RSS&at_campaign=rss",
+      "description": "Margot is recognised at the WellChild Awards after surviving a catastrophic bleed on the brain.",
+      "published_at": "2026-09-23T09:56:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -317,6 +639,18 @@
       ]
     },
     {
+      "id": "c3590f2b2a13ddd99d42154450f27addad384304aa118a710e3668d6f8129690",
+      "title": "Russia pounds Kyiv with drone strikes after Zelenskyy-Trump talks",
+      "url": "https://www.channelnewsasia.com/world/russia-pounds-kyiv-drone-strikes-after-zelenskyy-trump-talks-6404556",
+      "description": "",
+      "published_at": "2026-09-23T09:07:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
       "id": "71b370c5a6a0b642cdfb1cb13999f95edc8575f5450702f0bf78ac7c107247a0",
       "title": "Crew sack Higuain after accusation of sexism towards referee",
       "url": "https://www.channelnewsasia.com/sport/crew-sack-higuain-after-accusation-sexism-towards-referee-6404761",
@@ -384,7 +718,8 @@
       "source": "BBC",
       "categories": [
         "Politics",
-        "Science & Environment"
+        "Science & Environment",
+        "UK"
       ]
     },
     {
@@ -523,6 +858,17 @@
       ]
     },
     {
+      "id": "e6095ef44389b247b686ae174060ed2be763d417c689e821d55a55b799c2c2ea",
+      "title": "Teenager arrested after girl, 15, sexually assaulted in Aberdeen",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0zje5n344o?at_medium=RSS&at_campaign=rss",
+      "description": "Police say an 18-year-old boy is expected to appear in court at a later date.",
+      "published_at": "2026-09-23T08:47:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "c852a7f684dec2f7b828a8b0430e48e34aa42c2c6a84b1fd21ed67637bd5027b",
       "title": "Philippine Senate lowers threshold for conviction in VP Duterte's impeachment trial",
       "url": "https://www.channelnewsasia.com/asia/philippines-sara-duterte-impeachment-senate-vote-6404671",
@@ -560,6 +906,17 @@
       ]
     },
     {
+      "id": "f0caa2b7e535a778bc98aecef706d3478501fc072416ec7b0806450a9b22e7c9",
+      "title": "Arrest as man killed in HGV and bike collision",
+      "url": "https://www.bbc.co.uk/news/articles/c962j1k05emmo?at_medium=RSS&at_campaign=rss",
+      "description": "A 35-year-old woman is arrested on suspicion of causing death by careless driving, police say.",
+      "published_at": "2026-09-23T08:44:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "7da121a9b369e76513fd1e80b7a7971cb4a4d6430d7a3eb0333d941c4e1f904e",
       "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
       "url": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
@@ -582,6 +939,17 @@
       ]
     },
     {
+      "id": "47e0f1bb0377d60ea6c310c4804c6418337a9f51e14be4941d04cf55c0a46379",
+      "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
+      "url": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
+      "description": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series.",
+      "published_at": "2026-09-23T08:43:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "e589b0dd408be78a48a1aecfa8bd7e914d474ab72c663d4c5da5ee24363b6943",
       "title": "Prince and Princess of Wales share a laugh with Tom Cruise at film premiere",
       "url": "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro?at_medium=RSS&at_campaign=rss",
@@ -590,6 +958,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "520a6336f7db7cb6f2d0cc32e05b8252a20feea1ce4446845dbd6ffcfbed0d60",
+      "title": "Prince and Princess of Wales share a laugh with Tom Cruise at film premiere",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro?at_medium=RSS&at_campaign=rss",
+      "description": "William and Catherine renew their friendship with the Hollywood star at the premiere for his film Digger.",
+      "published_at": "2026-09-23T08:42:55+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -776,7 +1155,7 @@
       "id": "51642bfe2d612d4ff22a6d533d261ed3a4bef97eba0fffeb598f502217bf98bc",
       "title": "'All anger has been taken away' - says daughter of solicitor murdered by IRA, as report published",
       "url": "https://www.bbc.co.uk/news/articles/cw9802y12vq0o?at_medium=RSS&at_campaign=rss",
-      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request",
+      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request.",
       "published_at": "2026-09-23T08:06:49+00:00",
       "source": "BBC",
       "categories": [
@@ -1252,6 +1631,7 @@
       "published_at": "2026-09-23T05:36:14+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "Entertainment & Arts"
       ]
     },
@@ -1436,6 +1816,28 @@
       ]
     },
     {
+      "id": "49b10ae51138a4a7faa993160905638210055f03ccdb23be40f4f566348c4200",
+      "title": "My dad was killed in a random attack - you would not wish that on anyone",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8eqylgjp7o?at_medium=RSS&at_campaign=rss",
+      "description": "Sapphire Greatorex's 82-year-old father was fatally stabbed in his own front garden.",
+      "published_at": "2026-09-23T05:04:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "bad4a101a5eca1746ea9aa263964e2137cffc222d9413b2ac622eec66ecfabe5",
+      "title": "Blood cancer patients call for faster drug access",
+      "url": "https://www.bbc.co.uk/news/articles/c780n8z80pjo?at_medium=RSS&at_campaign=rss",
+      "description": "Louise Martinez from Newbury is among those calling for faster clearance for new treatments.",
+      "published_at": "2026-09-23T05:02:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "bd89c587882645ce0fb7875cbda25f4a50140e0345b3606d02afd89056e70d7f",
       "title": "AI trade outlook brightens on falling oil and Meta’s Muse agent ahead of Xi-Trump meeting",
       "url": "https://www.scmp.com/business/china-business/article/3368470/ai-trade-outlook-brightens-falling-oil-and-metas-muse-agent-ahead-xi-trump-meeting?utm_source=rss_feed",
@@ -1606,6 +2008,17 @@
     },
     {
       "id": "60b6fb0068e0a9305cbd3ff0f2a48f0deb3ee62e564a2ed85498178350d6a06f",
+      "title": "RAF base prepares for threats at home and abroad",
+      "url": "https://www.bbc.co.uk/news/articles/ck3reywj0lj8o?at_medium=RSS&at_campaign=rss",
+      "description": "Combat first-aid training and weapons drills are being stepped up at the station in Lincolnshire.",
+      "published_at": "2026-09-23T04:56:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "36d47a3e215438914a2e129d51ea5a841962a0b9e33bd2be58b9a46e67912ed0",
       "title": "RAF base prepares for threats at home and abroad",
       "url": "https://www.bbc.co.uk/news/articles/ck3reywj0lj8o?at_medium=RSS&at_campaign=rss",
       "description": "Combat first-aid training and weapons drills are being stepped up at the station in Lincolnshire.",
@@ -2034,6 +2447,17 @@
       ]
     },
     {
+      "id": "08535817c72e70a4ae9ec744fb57f376307d80b41f776146eb255086a83116c5",
+      "title": "Oil holds near two-week lows while diesel cracks hit record peak",
+      "url": "https://www.channelnewsasia.com/business/oil-holds-near-two-week-lows-while-diesel-cracks-hit-record-peak-6403826",
+      "description": "",
+      "published_at": "2026-09-23T01:47:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "6c2fc9454d0c6d10e65f6d71a035232563e433bc51411e9d107b94dff181ce17",
       "title": "Exclusive-GM CEO Mary Barra to attend Trump's state dinner for Xi, sources say",
       "url": "https://www.channelnewsasia.com/business/exclusive-gm-ceo-mary-barra-attend-trumps-state-dinner-xi-sources-say-6403816",
@@ -2363,7 +2787,7 @@
       "id": "3476699bd1dd02c082ac355482493e3a5779dcaabb032aa4f3629ecc83747fd2",
       "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
       "url": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss",
-      "description": "Louise Nunn's daughter bought drugs from Canadian Kenneth Law, who sold toxic chemicals online.",
+      "description": "Louise Nunn's daughter bought a substance from Canadian Kenneth Law, who was selling toxic chemicals online.",
       "published_at": "2026-09-22T23:20:43+00:00",
       "source": "BBC",
       "categories": [
@@ -2454,7 +2878,7 @@
       "id": "c232739205195d05be326e42431853c1b1a13eadc9e1f80dd7f36cfc845dd766",
       "title": "'All anger has been taken away' - says daughter of solicitor murdered by IRA, as report published",
       "url": "https://www.bbc.co.uk/news/articles/cw9802y12vq0o?at_medium=RSS&at_campaign=rss",
-      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request",
+      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request.",
       "published_at": "2026-09-22T23:04:57+00:00",
       "source": "BBC",
       "categories": [
@@ -2465,7 +2889,7 @@
       "id": "3fb44c44eac7de43a7bbda473c5d5acc04022f7c766e52cac05e276593f4c9fc",
       "title": "'All anger has been taken away' - says daughter of solicitor murdered by IRA, as report published",
       "url": "https://www.bbc.co.uk/news/articles/cw9802y12vq0o?at_medium=RSS&at_campaign=rss",
-      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request",
+      "description": "The 1977 murder of the Catholic lawyer and co-founder of the SDLP is being examined by the ICRIR at his family's request.",
       "published_at": "2026-09-22T23:04:57+00:00",
       "source": "BBC",
       "categories": [
@@ -3091,6 +3515,17 @@
       ]
     },
     {
+      "id": "ecd62a88383cfa3ec068023336525a386b92750427173d0b3278fc8f357add31",
+      "title": "Trump says he would back ban on diesel exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+      "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+      "published_at": "2026-09-22T20:41:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "cb7a6c507e657986af940db5b2314ad358356d5af63d1469675c2332c11eb529",
       "title": "Business Daily",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct98sh?at_medium=RSS&at_campaign=rss",
@@ -3439,6 +3874,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "57940904f8fb72ea800994aebc55e17e5499e80b9de2e87781e93b32f2d6fa27",
+      "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+      "description": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+      "published_at": "2026-09-22T19:01:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
