@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-09-23T03:02:42.141100+00:00",
+  "last_updated": "2026-09-23T04:02:47.929585+00:00",
   "articles": [
+    {
+      "id": "3bec7853bad78f4d5d8e1c17ea0f220dbe9af4061536728fd0e11316028b0920",
+      "title": "In France, prosecutors probe secret filming of women with smart glasses",
+      "url": "https://www.scmp.com/news/world/europe/article/3368459/france-prosecutors-probe-secret-filming-women-smart-glasses?utm_source=rss_feed",
+      "description": "Paris prosecutors said Tuesday they had opened several probes after receiving complaints concerning women filmed on the street without their consent using smart glasses. Anyone wearing smart glasses can take photos, film videos, listen to music, make phone calls, translate text or interact with an AI assistant. Meta’s smart spectacles, developed in partnership with Ray-Ban maker EssilorLuxottica, have become a commercial success. Meta sold 7 million pairs in 2025. Other companies, including...",
+      "published_at": "2026-09-23T03:57:56+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "cb932df393dcab23e7b936019f28ba37b41990d91c804f5a5c36b41c62a3fd3c",
+      "title": "Cambodia no 'safe haven' for scams, prime minister tells anti-fraud summit",
+      "url": "https://www.channelnewsasia.com/asia/cambodia-scams-anti-fraud-summit-us-china-6403706",
+      "description": "",
+      "published_at": "2026-09-23T03:55:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "3866ac9e3be5b4932620cadc9b2847bb29b224729163cd1c007ad682a2a4324f",
+      "title": "CNA Explains: What does the US-Greenland security deal actually change?",
+      "url": "https://www.channelnewsasia.com/world/greenland-us-deal-military-base-denmark-cna-explains-6401501",
+      "description": "The US, Denmark and Greenland signed a security pact on Tuesday, granting Washington a stronger military presence on the semi-autonomous Danish territory.",
+      "published_at": "2026-09-23T03:39:23+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f5661407dac525c8979eba3dc663d30ddac0c34065b7051c8d3c1304c93665d1",
+      "title": "Dozens of migrants taken to Dover after more than 30 hours at sea",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l6yed62v5o?at_medium=RSS&at_campaign=rss",
+      "description": "Protesters had earlier gathered in Gosport after an initial report that the small boat would be brought further west.",
+      "published_at": "2026-09-23T03:37:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9e174214a7596b9976e9fd31f99f1b1652a574694e6c5f9fe68ab2c3fcccd7b5",
+      "title": "Taiwanese TV host Blackie Chen apologises for breaking hospital rules with ICU photo",
+      "url": "https://www.channelnewsasia.com/entertainment/blackie-chen-icu-photo-against-rules-6403806",
+      "description": "The Taiwanese star's celebrity-filled hospital photo sparked questions about preferential treatment.",
+      "published_at": "2026-09-23T03:07:19+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
     {
       "id": "1b32d619d913eb087239694ebd5fc692c28bcc4f2b6815132a482a973be855f5",
       "title": "How does Xi Jinping’s ‘special plane’ compare with Air Force One?",
@@ -673,7 +731,7 @@
       "id": "28a8e29a8da0d2f7c1fb22ee62e073c70556a56fcbe0474bd9c4291ea70cdd06",
       "title": "A new skyline of data centres is rising from the rolling plains of rural China",
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "description": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+      "description": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
       "published_at": "2026-09-22T22:04:31+00:00",
       "source": "BBC",
       "categories": [
@@ -1812,7 +1870,8 @@
       "published_at": "2026-09-22T16:50:29+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -29187,6 +29246,17 @@
       "id": "101d4cf7e395801d513646a606521185fae275966e15cd9062e7263a8bd4d999",
       "title": "BBC Inside Science",
       "url": "https://www.bbc.co.uk/programmes/w3ct9785?at_medium=RSS&at_campaign=rss",
+      "description": "Might the UK and US joining their AI forces help solve nuclear fusion?",
+      "published_at": "2026-09-17T20:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "71086171178671e61fb9cbc2a69fbd893f0a46f82de59fed9d3b8969d31c9005",
+      "title": "BBC Inside Science",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
       "description": "Might the UK and US joining their AI forces help solve nuclear fusion?",
       "published_at": "2026-09-17T20:00:00+00:00",
       "source": "BBC",
