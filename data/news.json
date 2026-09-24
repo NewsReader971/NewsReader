@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T19:02:50.060303+00:00",
+  "last_updated": "2026-09-24T20:02:41.781269+00:00",
   "articles": [
     {
       "id": "c63ab161596142705c9984fdcb391d1b3f3696930cddc836652fd33bb5946e90",
@@ -10,6 +10,131 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "cd0b69d2f45ba357e4e56db287d2d0606413958baf7a1477784059fab3b1c1b5",
+      "title": "US 30-year mortgage rates top 7%, highest in Trump presidency",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368720/us-30-year-mortgage-rates-top-7-highest-trump-presidency?utm_source=rss_feed",
+      "description": "US mortgage rates have exceeded 7.0 per cent, data showed Thursday, reaching their highest level since Donald Trump returned to the presidency as voters grapple with high costs of living ahead of midterm elections. The popular 30-year fixed-rate mortgage averaged 7.03 per cent as of Thursday, a stark uptick from 6.30 per cent the same period a year ago. This is the highest average level since January 16 last year, just days before Trump returned to the White House, according to data from...",
+      "published_at": "2026-09-24T19:52:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "b9bfc7050a911ec449d2692d10db080a19d2e914162156b6db77d6b8614cccef",
+      "title": "Woman, 40, dies in three-vehicle crash",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgvnvzdyo?at_medium=RSS&at_campaign=rss",
+      "description": "Karen Stewart was one of five people taken to hospital after a crash on the Moira Road on Saturday but later died from her injuries.",
+      "published_at": "2026-09-24T19:43:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "7c29cef3a51024af5f4c7b828d026ec0e671cb2c5ae655a70fc124f4b8ff3270",
+      "title": "Woman, 40, dies in three-vehicle crash",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgvnvzdyo?at_medium=RSS&at_campaign=rss",
+      "description": "Karen Stewart was one of five people taken to hospital after a crash on the Moira Road on Saturday but later died from her injuries.",
+      "published_at": "2026-09-24T19:43:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "7cdb5a3cdc8c12a8f59045103d211cce914be3cb3ed32929a0ce399a5a217d5c",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "published_at": "2026-09-24T19:32:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5553bb55d664eb0b7d7b9ab4d83641b1c590365f8307088e2cca6aa68e716ce6",
+      "title": "Israeli PM Netanyahu calls Gaza genocide allegations ‘biggest lie of the century’",
+      "url": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
+      "description": "Israeli Prime Minister Benjamin Netanyahu gave a combative speech at the UN General Assembly on Thursday in which he denied that Israel had committed genocide in Gaza, lashed out at leaders, including New York Mayor Zohran Mamdani, and said attacking Iran was \"one of the easiest decisions\" he had ever made.",
+      "published_at": "2026-09-24T19:31:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "5cf3c4ac51c2393c74cc8890f0b5de52fd674a3ace1a37c4b4d1bb939685de05",
+      "title": "REPLAY:  Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
+      "description": "Prime Minister Benjamin Netanyahu on ​Thursday mounted a forceful defense of Israel's actions in the region at the UN, seeking to counter growing international isolation ahead of elections he could lose, as dozens of delegates streamed out.",
+      "published_at": "2026-09-24T19:28:01+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c69ae93d2504d57a739c1397efd6ebebf8eee93cfe900920e7924b4a53efc0b6",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "published_at": "2026-09-24T19:18:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5a10651a76f72b8f0b110ab6a4562ef1c79c068acec13ada1e9b6c6e33b3fb06",
+      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+      "description": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worsen watching the Chinese president’s first state visit to Washington in nine years. If there's one issue where the planet's biggest superpowers agree on, it's now’s not the time for global regulation of artificial intelligence. As they sit down to a White House dinner hours after news that OpenAI had hacked the Australian government, we’ll ask who will call to task the US tech titans at the table.",
+      "published_at": "2026-09-24T19:05:59+00:00",
+      "source": "France 24",
+      "categories": [
+        "Asia/Pacific",
+        "World"
+      ]
+    },
+    {
+      "id": "ced5e90935aade25111431e54ea7742d253af970ce507548a2bba707efc7f859",
+      "title": "Trump-Xi summit in Washington begins with great fanfare but low expectations",
+      "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-iran-taiwan-ai-6409161",
+      "description": "“We had a great meeting,” US President Donald Trump said after a bilateral meeting with Chinese President Xi Jinping, earlier hailing a “truly great friendship” with the Chinese leader.",
+      "published_at": "2026-09-24T19:04:29+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "6960f02bbeeceb35bd8d57c9584bdbffc16e4679f18c186d9cd7910c4551bcc0",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "published_at": "2026-09-24T19:02:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "8af17ab116d3777083868c42a029276092a7d373feb2838901f25bf4925e5bc7",
+      "title": "Henry superfan, 8, shows off vacuum collection",
+      "url": "https://www.bbc.co.uk/news/articles/cmj4jk5ex0npo?at_medium=RSS&at_campaign=rss",
+      "description": "Ted, from Melksham, is gifted a limited edition cleaner to mark the company's 45th anniversary.",
+      "published_at": "2026-09-24T18:58:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -50,7 +175,7 @@
       "id": "90d74c2cf1781da9fae075a2fb1af78501a39b65b7539923379f8fb51bef251c",
       "title": "US cybersecurity agency releases election infrastructure plan 40 days before midterms",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3368719/us-cybersecurity-agency-releases-election-infrastructure-plan-40-days-midterms?utm_source=rss_feed",
-      "description": "The nation’s cybersecurity agency on Thursday released an election infrastructure security plan 40 days before November’s midterms, laying out potential threats to election systems and listing services it would offer to election officials to protect the vote. The plan, which Homeland Security Secretary Markwayne Mullin had originally promised to release by mid-August, comes as the Trump administration has been trying to kickstart efforts to help states protect voting systems. Election officials...",
+      "description": "The US’ cybersecurity agency on Thursday released an election infrastructure security plan, some 40 days before November’s midterms, laying out potential threats to election systems and listing services it would offer to election officials to protect the vote. The plan, which Homeland Security Secretary Markwayne Mullin had originally promised to release by mid-August, comes as the Trump administration has been trying to kickstart efforts to help states protect voting systems. Election officials...",
       "published_at": "2026-09-24T18:39:04+00:00",
       "source": "SCMP",
       "categories": [
@@ -59,7 +184,40 @@
       ]
     },
     {
+      "id": "c8fbe4bdf65865b1a7e94efe1a6ee4568ebc223c6fe65f2bb49073dc6bd42b34",
+      "title": "Woman denies leaving friend for dead in flat",
+      "url": "https://www.bbc.co.uk/news/articles/cm70lg5x0ek8o?at_medium=RSS&at_campaign=rss",
+      "description": "Amy Keely is accused of helping herself to Helen Bloomfield's cereal after killing her.",
+      "published_at": "2026-09-24T18:32:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "725fdc2d6ce1171d4bd9c51786ad925d5e5e49a1da1aff357c53ca68e0292b5e",
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "description": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
+      "published_at": "2026-09-24T18:29:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "85f33009b70cd2368e0e44004de48b66e1e4d6b43ce76b2c1a65641ed224c39b",
+      "title": "Bowler Stevenson dies two months after Glasgow gold",
+      "url": "https://www.bbc.co.uk/sport/bowls/articles/ckx2zl0ll4ego?at_medium=RSS&at_campaign=rss",
+      "description": "Commonwealth Games bowler Mary Stevenson has died just a couple of months after winning a gold medal for Scotland at Glasgow 2026, where her winning throw earned her the moniker Mary Queen of Shots.",
+      "published_at": "2026-09-24T18:28:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "13756ce08062f28abca909ac3d97de14be8e45b1869efb026236c899836e3a59",
       "title": "Bowler Stevenson dies two months after Glasgow gold",
       "url": "https://www.bbc.co.uk/sport/bowls/articles/ckx2zl0ll4ego?at_medium=RSS&at_campaign=rss",
       "description": "Commonwealth Games bowler Mary Stevenson has died just a couple of months after winning a gold medal for Scotland at Glasgow 2026, where her winning throw earned her the moniker Mary Queen of Shots.",
@@ -89,6 +247,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "89f841150146120b936ffe732824723940d739f7f2f659e905caa66b6d0ced71",
+      "title": "Fraudster who claimed to be a lord and doctor jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c39w42ep2lq0o?at_medium=RSS&at_campaign=rss",
+      "description": "Darren Anderson, from Nottinghamshire, set up numerous fake companies under various aliases.",
+      "published_at": "2026-09-24T18:12:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -156,7 +325,8 @@
       "published_at": "2026-09-24T17:57:52+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -172,6 +342,17 @@
     },
     {
       "id": "4aac53528f7d32baf051cf9370922c10d99bfe26777743e98f35ab5021133b59",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "published_at": "2026-09-24T17:55:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "9cef0c6327580a9bcb07b2598172c7783b1eaecfa4622ed3f29c3adf615c5893",
       "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
       "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
@@ -440,6 +621,7 @@
       "published_at": "2026-09-24T16:36:33+00:00",
       "source": "BBC",
       "categories": [
+        "UK",
         "World"
       ]
     },
@@ -513,6 +695,17 @@
       ]
     },
     {
+      "id": "4438c26d13f4110574f4fc75828af5194e3225856e9737b31cfe6229ce7487f5",
+      "title": "Eastleigh sign ex-Wales international Williams",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xknrgr8z5o?at_medium=RSS&at_campaign=rss",
+      "description": "Eastleigh sign 32-year-old former Crystal Palace, Charlton and Gillingham midfielder Jonny Williams.",
+      "published_at": "2026-09-24T16:19:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "d00bbf70aac3a3247062409086a1de405b55dabfcd393ef0b6489e7ad9aeb018",
       "title": "Haas to decide 2027 driver line-up within couple of weeks",
       "url": "https://www.channelnewsasia.com/sport/haas-decide-2027-driver-line-up-within-couple-weeks-6408961",
@@ -569,6 +762,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "083c08782d2116d5d353bb6a6421be1c33717cf8ca1f988cc327ce5287dea57b",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "published_at": "2026-09-24T16:00:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -642,6 +846,18 @@
       "id": "6e6e63b5f03fa83cf30b88d1e107793d706fe1869996850c26d243daef429112",
       "title": "Oil prices rise 2% as Houthi missiles add to supply fears",
       "url": "https://www.channelnewsasia.com/business/oil-prices-rise-2-houthi-missiles-add-supply-fears-6408881",
+      "description": "",
+      "published_at": "2026-09-24T15:57:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "c9521d377464d7e7e75542b25fbed9a4c50543f011926b1db526b0cdea44afeb",
+      "title": "Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-settle-up-about-3-houthi-attack-saudi-arabia-lifts-supply-fears-6408881",
       "description": "",
       "published_at": "2026-09-24T15:57:57+00:00",
       "source": "CNA",
@@ -784,6 +1000,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "bb2bf2cb6adaba15b204fe226370ecb979b994799e573da4205c3aacb8983c88",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "published_at": "2026-09-24T15:37:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -975,7 +1202,8 @@
       "published_at": "2026-09-24T14:58:49+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -1014,6 +1242,17 @@
     },
     {
       "id": "4f98527de23bb6bd2f1df24f140b78ef76b2fd1b89980a91f6a3f54ebc8d58f4",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "published_at": "2026-09-24T14:37:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "3720edfa3c9dbdcd4e40a0456627a09231e547927e141845412c22c6be16961e",
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
@@ -1675,6 +1914,17 @@
       "id": "267fb390eba6633e4133efeed8eafab029bad4eea61f6c988182d190c4987840",
       "title": "Oracle cites ‘force majeure’ to shield itself on controversial data center, Bloomberg News reports",
       "url": "https://www.channelnewsasia.com/business/oracle-cites-force-majeure-shield-itself-controversial-data-center-bloomberg-news-reports-6408541",
+      "description": "",
+      "published_at": "2026-09-24T12:48:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d088abfdac3f4b9cbf28399b0e445af4bfd8dc67dfcb3320c1357f78a9822aa1",
+      "title": "Oracle triggers 'force majeure' on data center project over power delays, source says",
+      "url": "https://www.channelnewsasia.com/business/oracle-triggers-force-majeure-data-center-project-over-power-delays-source-says-6408541",
       "description": "",
       "published_at": "2026-09-24T12:48:13+00:00",
       "source": "CNA",
@@ -4969,7 +5219,8 @@
       "published_at": "2026-09-24T03:22:54+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "World"
       ]
     },
     {
@@ -127954,17 +128205,6 @@
       "source": "France 24",
       "categories": [
         "Africa"
-      ]
-    },
-    {
-      "id": "2f0337aa3257d97a41970ed134a9301a02b081dd250d76890b43b9131c739fa3",
-      "title": "Tech Life",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
-      "description": "The government agency that's encouraging high-risk and high-reward research.",
-      "published_at": "2026-08-25T20:00:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Technology"
       ]
     }
   ]
