@@ -1,6 +1,293 @@
 {
-  "last_updated": "2026-09-24T13:03:46.730073+00:00",
+  "last_updated": "2026-09-24T14:03:08.911207+00:00",
   "articles": [
+    {
+      "id": "abc8ffe1475b84753aa9a9e3b00b3c0f3e0c653c1164759ba46f27e4a76a2394",
+      "title": "Singapore’s finance firms pledge to train 80,000 local staff in AI skills",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368707/singapores-finance-firms-pledge-train-80000-local-staff-ai-skills?utm_source=rss_feed",
+      "description": "Singapore’s major financial institutions have pledged to train more than 80,000 local employees in AI skills as the country moves to cushion white-collar workers from potential job disruption. A pioneer batch of 23 banks, insurers and asset managers has committed to train all their Singapore staff by 2028, and more than half of them have already gone through programmes recognised by an industry association, according to Deputy Prime Minister Gan Kim Yong. The firms would also study how jobs were...",
+      "published_at": "2026-09-24T14:01:44+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "38b5b625490ee8b48e8a094c5054d670d7703017c86ffc5e450fe2115edac9be",
+      "title": "Sister of Omagh bomb victim says officer's pre-recorded video evidence a 'farce'",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwl9qx2757o?at_medium=RSS&at_campaign=rss",
+      "description": "Detective Superintendent Emmett Casserly of An Garda Síochána (Irish police) was questioned by the inquiry team on 1 September in Dublin.",
+      "published_at": "2026-09-24T13:56:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "f5ca4dbf12d705469659acaff59ef07d24d76bee0be23912c4910ac6b78fc53c",
+      "title": "Google plans first test of AI chips in space under Project Suncatcher",
+      "url": "https://www.channelnewsasia.com/business/google-plans-first-test-ai-chips-in-space-under-project-suncatcher-6408686",
+      "description": "",
+      "published_at": "2026-09-24T13:55:20+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d167fc4a57d792734c3b81372440d5af6d6c0296ed13df0c35f079b305564451",
+      "title": "Xi begins first full day of US visit to meet Trump with White House ceremony",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed",
+      "description": "This live article is freely available to our registered users. Please log in or create an account. Unrivalled Xi-Trump summit analysis: get real-time updates and exclusive boots-on-the-ground reporting from our US and China bureaus. Subscribe now with great savings to stay ahead. President Xi Jinping has a loaded itinerary for the first full day of his trip to the US – a journey made nearly a decade after the Chinese leader’s previous visit – including formal talks with US President Donald...",
+      "published_at": "2026-09-24T13:53:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d56e59fb2e24f59b5fed786e811b3f0b2de72de8169c30b007c1800f82f8613e",
+      "title": "Exco declarations reveal new roles for ex-lawmakers as minister retains 22 flats",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3368705/exco-declarations-reveal-new-roles-ex-lawmakers-minister-retains-22-flats?utm_source=rss_feed",
+      "description": "Updated declarations of interest by members of Hong Kong’s top decision-making body have revealed new business ventures and corporate board appointments for several former veteran lawmakers, while constitutional affairs chief Janice Tse Siu-wa remains the biggest landlord among ministers. The Executive Council’s annually updated declarations of interest were published on Thursday in accordance with regulations requiring all members, including senior politically appointed officials, to declare...",
+      "published_at": "2026-09-24T13:50:44+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "3411353b81b41e25ec3511ed86203436b05048438133f0e6e1acf599ed87cd19",
+      "title": "Morgan Stanley Asia deals leaked in missent email attachment",
+      "url": "https://www.channelnewsasia.com/business/morgan-stanley-deals-leaked-missent-email-6408671",
+      "description": "",
+      "published_at": "2026-09-24T13:48:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "cf655bc6a996d8dcf3b68051f0c74322e50bf841c95d4816d471f3463589ebb7",
+      "title": "781 migrants arrive in small boats in 2026 record",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
+      "description": "A total of 781 migrants arrive on Wednesday, but the yearly total is below the same point in 2025.",
+      "published_at": "2026-09-24T13:46:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "09682301766b5c7e675f4f473c7bd767c9de413a7001fc7b9bac49eb354c5fe0",
+      "title": "EU sanctions Russian pundit Xenia Fedorova after expulsion from France",
+      "url": "https://www.france24.com/en/europe/20260924-eu-sanctions-russian-pundit-xenia-fedorova-after-expulsion-from-france",
+      "description": "The European Union on Thursday imposed sanctions on Russian commentator Xenia Fedorova, whom France expelled in August over claims that she was disseminating \"pro-Russian narratives\" in the country.",
+      "published_at": "2026-09-24T13:45:30+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "17dd5775832445ae48434b95019fa8ceccaf53bafa7158a9d7ee111ae1958dc0",
+      "title": "The French Senate: Old, expensive and out of touch or necessary safeguard to democracy?",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260924-the-french-senate-old-expensive-and-out-of-touch-or-necessary-safeguard-to-democracy",
+      "description": "France is gearing up for an election this Sunday, September 27 to renew just about half of the Senate's 348 red velvet seats. The French parliament is the country's bicameral legislature. The lower house (the National Assembly) tends to overshadow the upper house (the Senate). So what does the Senate actually do? Is it a powerful protector of the regions or a retirement club for old, mostly male politicians? We take a closer look in French Connections.",
+      "published_at": "2026-09-24T13:27:49+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "af6e7b8f62a676a119b274f2db16c073939bc30e54452ec4276eb5f0e03e69c1",
+      "title": "Shetland awarded £23m to develop inter-island tunnels plan",
+      "url": "https://www.bbc.co.uk/news/articles/cw770gne74mno?at_medium=RSS&at_campaign=rss",
+      "description": "One tunnel is expected to cost more than £500m.",
+      "published_at": "2026-09-24T13:25:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "800a638a6a8a8b74707a9c3f0ce14202e3cc1c3e8e51eab2b473ffc930fe4f15",
+      "title": "🔴 CNN, MS NOW, Politico still barred from White House despite court ruling",
+      "url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
+      "description": "",
+      "published_at": "2026-09-24T13:24:19+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "04938e4e15e8ccf0ecab8da9f1f27401ab7448e8da3146de7db7230b0a93c012",
+      "title": "Unanswered questions for English teams after Women's Champions League returns",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1e516z2y8qo?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal, Chelsea and Manchester City start bids for European glory in unconvincing fashion.",
+      "published_at": "2026-09-24T13:19:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8054e581334209b720319b8b6ec866e9958baec794cfee48b408870f473c1300",
+      "title": "Infantino looks set to stay, but FIFA faces a new war over power",
+      "url": "https://www.channelnewsasia.com/sport/infantino-looks-set-stay-fifa-faces-new-war-over-power-6408596",
+      "description": "",
+      "published_at": "2026-09-24T13:19:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ccf01b6a847f6453cc8a3f239211cfa655f192c447f9897023fbbb82adeff50e",
+      "title": "Boy, 15, who died in sea named at inquest",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dw8gn9d62o?at_medium=RSS&at_campaign=rss",
+      "description": "An inquest into the boy's death hears he was one of three people who got into difficulty in the sea.",
+      "published_at": "2026-09-24T13:18:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "0d2eefb497323d8a5742d71ec3d4b3b1d8615455cc72293cf188532416588dc8",
+      "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race",
+      "description": "The topic of artificial intelligence looms large as Chinese President Xi Jinping begins his highly anticipated state visit to Washington. The fate of Taiwan – coveted by its larger neighbour, China – will also be on the table. It's the global leader in superconductor research and development. These powerful chips can be found in smartphones, computers, and above all in AI development. Our France 2 colleagues take a rare look inside one of Taiwan's state-of-the-art laboratories.",
+      "published_at": "2026-09-24T13:17:00+00:00",
+      "source": "France 24",
+      "categories": [
+        "Asia/Pacific",
+        "World"
+      ]
+    },
+    {
+      "id": "5134e6fae6aa0c4c66baf7d85f46344017c16b04ba6f08b1558eb174bc83e208",
+      "title": "Hong Kong model Abby Choi’s former relatives admit body disposal, deny murder",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368703/hong-kong-model-abby-chois-former-relatives-admit-body-disposal-deny-murder?utm_source=rss_feed",
+      "description": "Slain Hong Kong socialite Abby Choi Tin-fung’s former husband and brother-in-law have pleaded guilty to illegally disposing of her dismembered body, but will still stand trial alongside their father on murder charges as prosecutors prepare to open their case on Monday. The pleas on the two charges were revealed on Thursday after the High Court empanelled a nine-member jury for the high-profile trial, which is expected to last about eight weeks. The seven men and two women will hear evidence and...",
+      "published_at": "2026-09-24T13:15:26+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "796b98f5813f259362ecb5d912d4f3716d56fac05f63188af7fcebe237d694c0",
+      "title": "McLachlan & Wills back from injury to face Australia",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm2qgz89320o?at_medium=RSS&at_campaign=rss",
+      "description": "Rachel McLachlan and Evie Wills return from injury to start for Scotland against Australia in their final home match of the WXV Series on Saturday.",
+      "published_at": "2026-09-24T13:12:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "6a17a388a7654efc7ab833a41399b4e65f276d4cdc898bedc64b6290684c24cb",
+      "title": "UK far-right activist arrested after migrant boat slashed in English Channel",
+      "url": "https://www.scmp.com/news/world/europe/article/3368701/uk-far-right-activist-arrested-after-migrant-boat-slashed-english-channel?utm_source=rss_feed",
+      "description": "A far-right activist who had led protests against migrants crossing the English Channel in small boats has been arrested for allegedly slashing a dinghy in the water, police said Thursday. The incident comes as agitators against immigration adopt a confrontational new tactic of trying to stop the boats landing on England’s shores, clashing with police and rescuers in the process. A video posted on Tuesday on social media appears to show Daniel Thomas, 37, taking a knife to an inflatable boat,...",
+      "published_at": "2026-09-24T13:11:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "ce11aeeb66c3727fc4dd53dc8329cc378b551118d80823550ae3d96741179e3c",
+      "title": "Why is Trump rolling out the red carpet for China's Xi?",
+      "url": "https://www.france24.com/en/video/20260924-why-is-trump-rolling-out-the-red-carpet-for-china-s-xi",
+      "description": "US President Donald Trump will host Chinese leader Xi Jinping at the White House on Thursday for a day full of pageantry. Trump personally greeted Xi on the tarmac after his arrival on Wednesday, the first time in more than six decades that a US president has welcomed a foreign political leader at Joint Base Andrews near Washington. But Trump's decision to roll out the red carpet has ruffled feathers among both Democrats and Republicans.",
+      "published_at": "2026-09-24T13:11:09+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "59739dd905de7ffae60290c57eb08f2e8915bdb54ff4d0cc85018c13d9494a5b",
+      "title": "Judge orders White House to restore access to barred media companies",
+      "url": "https://www.france24.com/en/video/20260924-judge-orders-white-house-to-restore-access-to-barred-media-companies",
+      "description": "A federal judge temporarily blocked President Donald Trump’s ban of three news outlets from the White House grounds, ordering early Thursday that CNN, MS NOW and Politico must have their access restored.",
+      "published_at": "2026-09-24T13:08:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "7e2661bca4ea1be4633d2f4e82b2e6f716ff86362bc279039758de98b76bd1bf",
+      "title": "Reported assaults on Britain's rail services rise by more than a third",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+      "description": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+      "published_at": "2026-09-24T13:07:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "ed7e7ed81d18c2dbe0f5c10fe6efb1f2d5ab7910b51b7d3dc30e3c5515c89e98",
+      "title": "Tigrayan leaders say new war with Ethiopian govt has begun",
+      "url": "https://www.france24.com/en/video/20260924-tigrayan-leaders-say-new-war-with-ethiopian-govt-has-begun",
+      "description": "The TPLF says war has kicked off with the federal forces, four years after the end of the last conflict in Tigray which killed more than 600,000 people. The TPLF seized control of the airport in the capital of the northern region and fighting on the ground took place on the eastern border with Afar. It comes after months of tensions between Mekelle and Addis Ababa, and an announcement on Sunday of an alliance which aims to overthrow the prime minister. More from our correspondent Tom Canetti.)",
+      "published_at": "2026-09-24T13:06:31+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "886fa51302e69e778db205cf7d04133d86e061dbba00ad246cdba3f37ff92496",
+      "title": "Who is paying for the pope’s visit to France?",
+      "url": "https://www.france24.com/en/video/20260924-who-is-paying-for-the-pope-s-visit-to-france",
+      "description": "Initially estimated at €12 million, the cost of Pope Leo XIV’s visit to France has now risen to €27 million due to the immense excitement around his trip. But with France a firmly secular country, who is going to be footing the bill? Our journalist Sam Ball explains.",
+      "published_at": "2026-09-24T13:04:29+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "df44ed772f5866acc4c30c87c1f9638b5d1bb0bb49e47e6f824116115c2c7f5a",
+      "title": "Dragons have surprises for Patchell in URC opener",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y7z4w2xw7o?at_medium=RSS&at_campaign=rss",
+      "description": "Dragons aim to start the season strongly when they face Wayne Pivac's Benetton in the first round of matches in the United Rugby Championship.",
+      "published_at": "2026-09-24T13:03:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "36768b9efecc25583263e9cbe5e39477d6f27b6d9fa8b8b63f8f4a2011591925",
+      "title": "Girl, 16, killed in crash near north London school",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6np0vygyo?at_medium=RSS&at_campaign=rss",
+      "description": "A 68-year-old man has been arrested on suspicion of causing death by careless driving, the Met says.",
+      "published_at": "2026-09-24T13:03:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
     {
       "id": "09fb08a04277dae9d5d8a2f2ce05986eded5446deda863978f1b668ca4b43eb2",
       "title": "China’s next carrier could be its longest – what are Beijing’s plans?",
@@ -25,6 +312,30 @@
       ]
     },
     {
+      "id": "3c3a88ac49ddc1b37d63c8edff3d9c84a327c8afe6def5a762c577bb1eb7882b",
+      "title": "Trump-Xi summit: Leaders meet at White House for high-stakes talks",
+      "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-washington-china-us-6407711",
+      "description": "This is their second summit in four months, following Trump's state visit to Beijing in May.",
+      "published_at": "2026-09-24T13:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "702d3773a080ed8263f7f9fa26c638eb231c41d55d4ac36ba8b69d845cd525a9",
+      "title": "Mass shooting at a house party in South Africa kills 11",
+      "url": "https://www.france24.com/en/video/20260924-mass-shooting-at-a-house-party-in-south-africa-kills-11",
+      "description": "Three gunmen barged into a small house in an impoverished neighborhood in South Africa and opened fire on a group enjoying a party inside, killing at least 11 people, police and local authorities said Wednesday.",
+      "published_at": "2026-09-24T12:55:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "ee0424a5131573ef63645050329027499ec3d566d235a072b80ad0de1cf94177",
       "title": "Channel sees busiest day of 2026 for small boats",
       "url": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
@@ -32,7 +343,8 @@
       "published_at": "2026-09-24T12:52:45+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -48,6 +360,17 @@
       ]
     },
     {
+      "id": "8f535a8b6584d62f29e3ffec7924b64cc0336647f959328ab4563d8d5d87fec5",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "published_at": "2026-09-24T12:49:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "74faf3636c1963df5599fbf8e1eee363e934b2211d7fa0a8720b255d82631b59",
       "title": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports",
       "url": "https://www.channelnewsasia.com/business/oracle-cites-force-majeure-shield-itself-data-center-bloomberg-news-reports-6408541",
@@ -55,6 +378,7 @@
       "published_at": "2026-09-24T12:48:13+00:00",
       "source": "CNA",
       "categories": [
+        "Business",
         "Latest News"
       ]
     },
@@ -73,7 +397,7 @@
       "id": "22b66e291aa4f250016a34efe2de1ef6a89510b1febbabff89855820c1059a41",
       "title": "Reported assaults on Britain's rail services rise substantially",
       "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-      "description": "Recorded incidents of violence and harassment against passengers and rail workers increased by 36% in the year to March.",
+      "description": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
       "published_at": "2026-09-24T12:43:50+00:00",
       "source": "BBC",
       "categories": [
@@ -152,7 +476,7 @@
       "id": "36ab6e1420796bffa94ce086ef52099dac2ca3f87f9fab85e3aa4c2c81355f64",
       "title": "Choirs pull out of Principality Stadium gig over 'cheeky' individual singer fees",
       "url": "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o?at_medium=RSS&at_campaign=rss",
-      "description": "Multiple choirs say they're pulling out of the Land of Song Festival due to the £42 per member charge.",
+      "description": "Choirs say they're withdrawing from the Principality Stadium event because of the £42 per member charge.",
       "published_at": "2026-09-24T12:38:18+00:00",
       "source": "BBC",
       "categories": [
@@ -163,7 +487,7 @@
       "id": "e0613d36247ed01e28eb1a46931326d3baa89b9cacd416cca60db65faaa73a49",
       "title": "Choirs pull out of Principality Stadium gig over 'cheeky' individual singer fees",
       "url": "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o?at_medium=RSS&at_campaign=rss",
-      "description": "Multiple choirs say they're pulling out of the Land of Song Festival due to the £42 per member charge.",
+      "description": "Choirs say they're withdrawing from the Principality Stadium event because of the £42 per member charge.",
       "published_at": "2026-09-24T12:38:18+00:00",
       "source": "BBC",
       "categories": [
@@ -1668,6 +1992,17 @@
       ]
     },
     {
+      "id": "4e8d9ffc0485576fba0b42020cd093ecd47ff08a19956424085ed473c57d4927",
+      "title": "No unique student 'brain drain' in Northern Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cqrl6w6dwwjjo?at_medium=RSS&at_campaign=rss",
+      "description": "New research suggests proportionally fewer students leave Northern Ireland than some other parts of the UK.",
+      "published_at": "2026-09-24T08:40:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "234eeef2c4c33a537fa71129029870f46dd00ab20b6c1b75158134db2a50bbdc",
       "title": "Who has the upper hand in financial markets, the US or China?",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3368593/who-has-upper-hand-financial-markets-us-or-china?utm_source=rss_feed",
@@ -2647,6 +2982,17 @@
     },
     {
       "id": "6e313a30b5110e3838b8c25666d56aa4693830206d9ef461da0f9fc7e090435f",
+      "title": "I had no heating or electricity for more than two years - now I have a new island home",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lry2ek1zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Ruari Morgan is one of the first tenants in a new development of 10 social homes on Rathlin Island.",
+      "published_at": "2026-09-24T05:12:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "4de296d482abba484c682b1e9db7ad285a56f327a3efed45867e0db6e595db05",
       "title": "I had no heating or electricity for more than two years - now I have a new island home",
       "url": "https://www.bbc.co.uk/news/articles/cq0lry2ek1zpo?at_medium=RSS&at_campaign=rss",
       "description": "Ruari Morgan is one of the first tenants in a new development of 10 social homes on Rathlin Island.",
@@ -4414,6 +4760,17 @@
       "source": "BBC",
       "categories": [
         "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "13df442479ede406ae6d78d9483e3bee680dbbfcc897d9ace7386793ef78152e",
+      "title": "Burnham describes ban on alcohol in football stands as 'discrimination'",
+      "url": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+      "published_at": "2026-09-23T21:01:16+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -45940,7 +46297,8 @@
       "published_at": "2026-09-17T02:00:00+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "Politics"
       ]
     },
     {
