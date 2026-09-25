@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-09-25T20:02:49.912453+00:00",
+  "last_updated": "2026-09-25T21:03:02.817872+00:00",
   "articles": [
+    {
+      "id": "102a9ae59dae83294aed2b3a765d71848cb7232e9d03b91643471f9b14e6bcf9",
+      "title": "Dragons draw URC opener at Benetton after late drama",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3kg88vv797zo?at_medium=RSS&at_campaign=rss",
+      "description": "Dragons draw their United Rugby Championship opener against Wayne Pivac's Benetton after Elliot Dee's late try.",
+      "published_at": "2026-09-25T20:44:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "bcd7cf487f4aa86f7307cb5f829d8a184f767962371fd32e4bc1094e5ed21232",
+      "title": "Top court grants Trump bid to use federal database to verify voter rolls",
+      "url": "https://www.channelnewsasia.com/world/trump-supreme-court-elections-database-6411921",
+      "description": "The US Supreme Court allowed the Trump administration to use a federal database to help states check voter citizenship.",
+      "published_at": "2026-09-25T20:44:25+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "42b8f23edf89f9458fae87bde451260d26ec6f92e184a3c5772ec95b85334fab",
+      "title": "Yemen's president calls on his people to mobilise against Iran-backed Houthis",
+      "url": "https://www.france24.com/en/middle-east/20260925-yemen-president-calls-on-his-people-to-mobilise-against-iran-backed-houthis",
+      "description": "Yemen’s Riyadh-based President Rashid al-Alimi on Friday called on ‌his people to mobilise and join the armed ‌forces while offering a general amnesty to the Iran-backed Houthi rebels who have seized swaths of Yemen's Red Sea coast and imposed a naval blockade on Saudi Arabia.",
+      "published_at": "2026-09-25T20:41:29+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "5c833dda11a3a3cc843530700e7ecfc4d6a809a351e259a113518e5fb45cefb9",
+      "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges",
+      "url": "https://www.channelnewsasia.com/business/exclusive-openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-6411996",
+      "description": "",
+      "published_at": "2026-09-25T20:37:56+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f8a553404b2a953449a5abe46533f3d4e8980b0d68cec1bd1ecf60459d0e69bb",
+      "title": "Telecoms disruption raises fears as heavy fighting strikes Ethiopia",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260925-telecoms-disruption-raises-fears-as-heavy-fighting-strikes-ethiopia",
+      "description": "First, fighting continues between the Ethiopian forces and the Tigray People's Liberation Front as fears of a regional spillover continue to mount. Then, both the opposition and the ruling UDPS party continue to blame each other for the violence in the latest mass protest. And, the Authenticity and Modernity party looks now to form a coalition to address the top voter issues including the cost of living crisis in Morocco.",
+      "published_at": "2026-09-25T20:32:28+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "cb07d13e4962e3505d56b8f27bab25240541296cd510fe9ceb43dfeb392e0c34",
+      "title": "France's Mbappe forced off with apparent knee injury in Turkey clash",
+      "url": "https://www.channelnewsasia.com/sport/frances-mbappe-forced-apparent-knee-injury-in-turkey-clash-6411976",
+      "description": "",
+      "published_at": "2026-09-25T20:19:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "94d0b7920050c6a875fe4dd4a4c8f6a054dc303e915c71029226b31851a0bb37",
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+      "published_at": "2026-09-25T20:11:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
     {
       "id": "74ef59c159b92dcc6523e89c6248bf1c4fed77857c426193261b5d24eeb05f38",
       "title": "Black woman Tasia Fortune’s hanging was ‘staged’ after her death, Mississippi police say",
@@ -21,7 +103,8 @@
       "published_at": "2026-09-25T19:58:01+00:00",
       "source": "CNA",
       "categories": [
-        "Business"
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -2220,6 +2303,17 @@
       ]
     },
     {
+      "id": "406bd931ebc5a260d9136f9f86a38c87c34b90cac874113104c5cecf0c7c6e1b",
+      "title": "Chip shop staff stop 'man with knife' after he jumps over counter",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqkn80dpdo?at_medium=RSS&at_campaign=rss",
+      "description": "Staff working at The Chippy on St Mary Street stop a man who hopped over the counter.",
+      "published_at": "2026-09-25T11:23:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "c362a2622da811aee99df823bba3fd178e7e90df7a14b812d9a57c46781cf52b",
       "title": "Xi Jinping marks second Mid-Autumn Festival in US during state visit",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3368838/xi-jinping-marks-second-mid-autumn-festival-us-during-state-visit?utm_source=rss_feed",
@@ -2475,6 +2569,17 @@
     },
     {
       "id": "c8f73f3e0d5da2340556eab4dacdae42a03b91193c5b0907264d9d41093c92f4",
+      "title": "First ROI player publicly voices opposition to playing Israel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
+      "description": "Jason Knight has become the first Republic of Ireland player to publicly voice his opposition to playing Israel on Sunday.",
+      "published_at": "2026-09-25T10:59:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "1981b7aa3368b1c2f3a4ada86c0786fe65a2ee70c59f92ad9f6d333ddb9d6e3b",
       "title": "First ROI player publicly voices opposition to playing Israel",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
       "description": "Jason Knight has become the first Republic of Ireland player to publicly voice his opposition to playing Israel on Sunday.",
@@ -10635,7 +10740,8 @@
       "published_at": "2026-09-24T07:38:21+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "Wales"
       ]
     },
     {
@@ -135041,17 +135147,6 @@
       "source": "BBC",
       "categories": [
         "Business"
-      ]
-    },
-    {
-      "id": "af59f24e763de5962983d77c0d69da60b921969adb7f97cacf946bdbdcab060e",
-      "title": "New revelations at South Africa corruption inquiry",
-      "url": "https://www.france24.com/en/south-africa-kingpin-and-the-corruption-commission",
-      "description": "In tonight's programme: The three-day testimony of an alleged underworld kingpin exposes the deep links between alleged criminals and high-profile police officers in South Africa. Also, in Tunisia, grieving families bid farewell to the young victims of a boat that went down in the Mediterranean Sea over the weekend. Finally, in an era of mass production and electric machines, one young Kenyan fashion designer is taking a slower approach.",
-      "published_at": "2026-08-26T20:48:12+00:00",
-      "source": "France 24",
-      "categories": [
-        "Africa"
       ]
     }
   ]
