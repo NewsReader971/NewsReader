@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-09-25T03:02:41.822705+00:00",
+  "last_updated": "2026-09-25T04:02:43.331412+00:00",
   "articles": [
+    {
+      "id": "0d943d1477fcc7bc78a251842b836cf52de973234d6c6f249d79810ab4031d38",
+      "title": "Japan’s cut-price morgues cash in on legal loopholes as lonely deaths rise",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3368738/japans-cut-price-morgues-cash-legal-loopholes-lonely-deaths-rise?utm_source=rss_feed",
+      "description": "Unregulated companies are running a brisk trade across Japan storing and disposing unclaimed corpses, with a recent report revealing how such “cut-price morgues” are cashing in on legal loopholes to discard the nation’s dead. The business has shed light on the growing number of “lonely deaths” of elderly Japanese as the traditional nuclear family fades. Some industry insiders have expressed shock at the trend and are calling for regulation to block potential loopholes, while others point to...",
+      "published_at": "2026-09-25T04:00:17+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "03edc8690a554ba2f2fbe53bcc606fad36fcd8544f75089a5470f422005e2b11",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "published_at": "2026-09-25T03:57:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5178b4df10f0d9c574823fe84c21903e763f02d7f77c07bdfecb3e2511b94230",
+      "title": "Man charged with taking part in public assemblies near Changi Prison without a permit",
+      "url": "https://www.channelnewsasia.com/singapore/man-charged-taking-part-in-public-assemblies-near-changi-prison-without-permit-6409996",
+      "description": "S Suraendher Kumarr, 32, is also accused of taking part in a February 2025 public assembly at the State Courts, where such gatherings are prohibited.",
+      "published_at": "2026-09-25T03:40:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "ffe535f498dd3f60d39d39f78c43644ed096c98d51c941542504ac334adc35bf",
+      "title": "Scaloni says he did his best to convince Messi to return for Argentina farewell",
+      "url": "https://www.channelnewsasia.com/sport/scaloni-says-he-did-his-best-convince-messi-return-argentina-farewell-6409991",
+      "description": "",
+      "published_at": "2026-09-25T03:16:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "1c85a3a98d9166b9fbf3ada1e4c98e9503a1c0aa2644d602f4ada749fbf2a367",
+      "title": "China’s Xi shares a rare laugh on White House tour at Trump’s Biden autopen joke",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368744/chinas-xi-shares-rare-laugh-white-house-tour-trumps-biden-autopen-joke?utm_source=rss_feed",
+      "description": "Chinese President Xi Jinping broke into rare laughter as his US counterpart Donald Trump showed him a framed “autopen” displayed in place of the former American leader Joe Biden’s portrait during a White House tour. The viral moment stood out against the Chinese leader’s otherwise restrained demeanour during his first state visit to the United States in more than a decade. A video released by the White House on social media showed Trump taking Xi along the White House colonnade on Thursday...",
+      "published_at": "2026-09-25T03:13:32+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "07211d137fd524e4b6493ea2c193c5c57f1e7f0f6c77f597591411bb2dd362a2",
+      "title": "Science Centre Singapore has an illuminated night trail and a silent disco for Mid-Autumn Festival",
+      "url": "https://www.channelnewsasia.com/living/science-centre-singapore-mid-autumn-festival-2026-6409921",
+      "description": "Science Centre Singapore is hosting a series of events in September to celebrate Mid-Autumn Festival.",
+      "published_at": "2026-09-25T03:08:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "091d413979bd313404281e4919a272931770cc4dae0f50a041b58d9bd9b38a56",
+      "title": "Woman charged with taking part in Falun Gong public gatherings without permit after multiple convictions",
+      "url": "https://www.channelnewsasia.com/singapore/falun-gong-singapore-illegal-gathering-6409946",
+      "description": "Ng Chye Huay, 62, allegedly took part in six public assemblies in support of the Falun Gong spiritual group without a permit at Merlion Park and Anderson Bridge. She was convicted of similar offences in 2001, 2005 and 2007.",
+      "published_at": "2026-09-25T03:01:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
     {
       "id": "335bb10207608c2f4a85ede8aec6a133eef0caf195faa5b7394655bd164acd84",
       "title": "Ivanka Trump takes front-row seat to welcome Xi in dress by Chinese designer Guo Pei",
@@ -1353,6 +1436,17 @@
     },
     {
       "id": "c69ae93d2504d57a739c1397efd6ebebf8eee93cfe900920e7924b4a53efc0b6",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "published_at": "2026-09-24T19:18:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1c4cc035eee6224d89b4938d79f7f6fb4da51b32c7b368c0180ee22bdbeafbc1",
       "title": "Priest killed and four injured in knife attack at Polish abbey",
       "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
       "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
