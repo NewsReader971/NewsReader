@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-09-25T00:03:29.814288+00:00",
+  "last_updated": "2026-09-25T01:03:14.896585+00:00",
   "articles": [
+    {
+      "id": "ed978f508aa7554e39f71d2ae6df494e6ac7f647a28748e1ade263cbb87a5730",
+      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
+      "description": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
+      "published_at": "2026-09-25T00:51:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "5abc638a649b9917887ffdeb6cbb778044364cdadeb79d8affceb9947c1b8830",
+      "title": "Legislation among options to regulate minors’ social media use: justice minister",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
+      "description": "Introducing legislation to protect minors by regulating social media use is among the options on the table, Hong Kong’s justice minister has said, after the latest policy address unveiled plans to create a task force to review the situation. Speaking to the South China Morning Post and other media outlets on Wednesday, Secretary for Justice Paul Lam Ting-kwok dismissed concerns that such measures could infringe on individual rights and freedoms, emphasising that the goal was to protect children...",
+      "published_at": "2026-09-25T00:30:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "eb6060e5b421151b7aac4eb9457d93eee32605166a408a07f84f2e402bb3f35b",
+      "title": "Culinary diplomacy on the menu for Xi and Trump at the White House",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368729/culinary-diplomacy-menu-xi-and-trump-white-house?utm_source=rss_feed",
+      "description": "As Donald Trump and Xi Jinping meet at the White House for a state dinner on Thursday, culinary diplomacy is on the menu for guests who include business leaders and government officials. “The menu showcases American ingredients with subtle Chinese influence, bringing the culinary traditions of both nations together,” the office of American first lady Melania Trump said. Xi is dressed in a black Zhongshan suit – colloquially known as a “Mao suit” – while Chinese first lady Peng Liyuan is wearing...",
+      "published_at": "2026-09-25T00:17:37+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "34f68a049f54402f0990ec471c09ade2f7ed7b9b6e420cab62f3160835d1dd2c",
+      "title": "Five takeaways from Trump's summit with Xi in Washington",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-xi-jinping-summit-takeaways-6409711",
+      "description": "The US secured an extension of its trade truce this week - but only a short one.",
+      "published_at": "2026-09-25T00:14:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "61310671186c6410e0eea93968c9fc5706af596767ac45b486bbf372abf401f9",
+      "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+      "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-state-dinner-china-united-states-6409366",
+      "description": "China and the US must explore a new approach for major countries to get along well with each other, says Xi Jinping at the White House state dinner.",
+      "published_at": "2026-09-25T00:08:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "c296be918bfe3295dda2e04a06aa2d04c3b7422dd8d6b383c0f03cf21b48c10a",
       "title": "Ukraine’s POW transfer reveal deals North Korea a propaganda blow",
@@ -37,6 +96,17 @@
       ]
     },
     {
+      "id": "2257340d01a6ff2e920b68b0d0170ddd45f10327e9dbbc9a923485baf02f0fd3",
+      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
+      "description": "Gyms are booming, solitary cardio is out - how workouts are changing.",
+      "published_at": "2026-09-24T23:46:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "ffcafec6e3be5a7615903134a2cb3cce4d01f86cb4af77d44bb0aa4f9d87ad43",
       "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
       "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
@@ -44,7 +114,8 @@
       "published_at": "2026-09-24T23:45:08+00:00",
       "source": "BBC",
       "categories": [
-        "Science & Environment"
+        "Science & Environment",
+        "UK"
       ]
     },
     {
@@ -59,6 +130,17 @@
       ]
     },
     {
+      "id": "0758cb833207ee8ba2f74611133ee0570b34f95ed53e880b80511febd32405b2",
+      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+      "description": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
+      "published_at": "2026-09-24T23:44:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "db50eec2750b64cbcda954ef7a15600298daccc10d58b3c5d12f5f11c1e8ea88",
       "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
       "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
@@ -66,7 +148,8 @@
       "published_at": "2026-09-24T23:44:00+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "UK"
       ]
     },
     {
@@ -651,6 +734,18 @@
       ]
     },
     {
+      "id": "2026fd7c83000149a3b0186e610d191a2ca04a9c8a05364f7f7c49b6909e8b36",
+      "title": "Macklemore hits back with 'Free Palestine Tour' after Ed Sheeran split",
+      "url": "https://www.channelnewsasia.com/entertainment/macklemore-free-palestine-tour-ed-sheeran-6409411",
+      "description": "US rapper Macklemore announced his own “Free Palestine Tour”, with all proceeds going to organisations supporting Palestinians, after being dropped from Ed Sheeran’s US tour following pro-Palestinian comments earlier this month.",
+      "published_at": "2026-09-24T21:23:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
       "id": "6e216d84e7127aaad5610a089e44cec1a38e0a5187f7b6ebd60f014c3aa24fed",
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
@@ -1004,6 +1099,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "19593b5a1df270f7faf0ba731cd9750938d70dee0d28a9874f747498877484af",
+      "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
+      "url": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
+      "description": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
+      "published_at": "2026-09-24T19:16:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -2820,7 +2926,8 @@
       "published_at": "2026-09-24T13:07:40+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
