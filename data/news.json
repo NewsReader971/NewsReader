@@ -1,6 +1,316 @@
 {
-  "last_updated": "2026-09-26T06:03:23.502316+00:00",
+  "last_updated": "2026-09-26T07:03:02.956113+00:00",
   "articles": [
+    {
+      "id": "a199b709c665ec1e0b3bc878171d1811373aa225771d762b889150c937aba526",
+      "title": "Train services disrupted due to ongoing security alert",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e3317knggo?at_medium=RSS&at_campaign=rss",
+      "description": "Translink say a rail replacement bus substitution service is in place between Lisburn and Portadown.",
+      "published_at": "2026-09-26T07:00:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "747cf2223c8f07511007618a031255dfd4f4b43726347e931334677d60e07aa0",
+      "title": "Live: More than half a million expected at pope’s open-air Mass in Paris",
+      "url": "https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris",
+      "description": "On his last day in Paris, Pope Leo XIV is set to celebrate an open-air Mass at the centrally located Place de la Concorde. Some 600,000 faithful are expected to attend Saturday’s enormous event, with crowds stretching all along the famed Champs-Élysées avenue. Follow our liveblog for all the latest on the pope's visit to France.",
+      "published_at": "2026-09-26T06:59:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "e36868b4f7f82571aefb2a3b7102faca2b75d696fec3c3a21be027ce3af57a37",
+      "title": "'Eating disorders thrive on isolation'",
+      "url": "https://www.bbc.co.uk/news/articles/c8qlw16zq6vvo?at_medium=RSS&at_campaign=rss",
+      "description": "Anna Binet had an eating disorder before losing both of her parents, within months of each other.",
+      "published_at": "2026-09-26T06:33:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "00c1c5ea021f14d759952e302a855806f45346057b949fa6cb84ba23629da98a",
+      "title": "Fuel costs putting off meal delivery driver applicants",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyzkwnd258o?at_medium=RSS&at_campaign=rss",
+      "description": "Maureen Bougeard says some prospective volunteers do not respond after learning about expenses.",
+      "published_at": "2026-09-26T06:33:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "7ffa21d9c61041d3e6847d52922c0e211be9601e3da615b573f8956272968ae7",
+      "title": "Disaster declared as heavy rains spark Bangkok flooding",
+      "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "description": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+      "published_at": "2026-09-26T06:28:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "29963322d7757d7b86c6948a3f4798a5796a779638b0b887d56148dd582039a2",
+      "title": "Islamophobia 'as bad as it was in the 1980s'",
+      "url": "https://www.bbc.co.uk/news/articles/cm98622gd5z4o?at_medium=RSS&at_campaign=rss",
+      "description": "The sister of a 13-year-old boy who was stabbed to death 40 years ago says social media fuels hate.",
+      "published_at": "2026-09-26T06:23:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5d69d514720e756b94c0592fa89c7975973bb346ca8c2fc29a0fd93328b52303",
+      "title": "'It's our highlight of the year' - the vloggers who watch Goose Fair arrive",
+      "url": "https://www.bbc.co.uk/news/articles/cm6246j218q0o?at_medium=RSS&at_campaign=rss",
+      "description": "For these enthusiasts, the set-up is part of the \"magic\" and has earned them thousands of followers.",
+      "published_at": "2026-09-26T06:22:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "613abed2b5624608eb66ca4d7ed1068b4c79a35b56653e0753ca62b967a4b2b3",
+      "title": "Hong Kong minister vows to give public account on Queen Mary Hospital lifts saga",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3368888/hong-kong-minister-pledges-public-account-faulty-lifts-queen-mary-hospital?utm_source=rss_feed",
+      "description": "Hong Kong’s development minister has pledged to give a public account of whether her bureau failed to properly oversee faulty lift installations at Queen Mary Hospital’s new block, but has stopped short of confirming whether a new accountability system for heads of departments will be invoked to probe the saga. Nearly two weeks after Chief Executive John Lee Ka-chiu tasked the Development Bureau with submitting a report within a month, Secretary for Development Bernadette Linn Hon-ho said she...",
+      "published_at": "2026-09-26T06:21:38+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "5a9d1ca6c543e04ae684b6ab4f805a3fbfb11a934abf9c8c06c286a6720c550a",
+      "title": "Library's first edition reveals Austen's early fans",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0le8gymeo?at_medium=RSS&at_campaign=rss",
+      "description": "Several first editions were bought by the 2nd Marquess of Bath during the author's lifetime.",
+      "published_at": "2026-09-26T06:21:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "e2820d0fe5328ce75d6c2d92a0a5343661137d5d4d10490e20e7eacdfe27b70e",
+      "title": "Navy bomb experts given highest humanitarian honour",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr77ll63jmo?at_medium=RSS&at_campaign=rss",
+      "description": "The squadron made a 500kg WW2 bomb safe during four days of disruption in Plymouth in 2024.",
+      "published_at": "2026-09-26T06:20:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0164a06552c6dd5b040b26c477593c709b20b47ad3e157895d14df75d9711c38",
+      "title": "'Agony aunt' with months to live tackles bucket list",
+      "url": "https://www.bbc.co.uk/news/articles/cq9v93x9k2jgo?at_medium=RSS&at_campaign=rss",
+      "description": "More than £3,000 is raised by customers and friends to help Claire Bailey make lasting memories.",
+      "published_at": "2026-09-26T06:20:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5d4096094acbb37f0de36cc0f1b8245f4d11e708ab66e9e63ed5e2e4aa93e0b7",
+      "title": "Dig to unearth the lost world of medieval leprosy",
+      "url": "https://www.bbc.co.uk/news/articles/c9p80llllp11o?at_medium=RSS&at_campaign=rss",
+      "description": "Experts hope to uncover the Hospital of the Holy Innocents, in Lincoln, which dates from about 1100.",
+      "published_at": "2026-09-26T06:19:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c700c96023e319efc001b222546913f933492a9bf86cd770e28316615f59e79f",
+      "title": "Cwis: Ruth Jones",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c52e0l34kvr9o?at_medium=RSS&at_campaign=rss",
+      "description": "Beth wyddoch chi am y person â ddaeth â'r dywediad \"What's occurring?\" i'n bywydau?",
+      "published_at": "2026-09-26T06:18:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "a5c03fa9ae8c95889aea896370cef1256ef57de4dba2cacb164c2deb37fccc34",
+      "title": "'We lost her future': Family's brain tumour plea",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg00md7d9jo?at_medium=RSS&at_campaign=rss",
+      "description": "Evanne Miller-Bettridge died at the age of 24, after being diagnosed with a malignant tumour in 2019.",
+      "published_at": "2026-09-26T06:16:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8cdd4fb195f7ebd7b700987568bdbf99e16dd84faf12319cadbe1360b44908c1",
+      "title": "Gŵyl 'lawn hwyl ac asbri' yn croesawu Eisteddfod yr Urdd i Gasnewydd",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmeq8dpy4yy0o?at_medium=RSS&at_campaign=rss",
+      "description": "Bydd cannoedd o bobl yn rhan o ŵyl yng Nghasnewydd ddydd Sadwrn er mwyn croesawu Eisteddfod yr Urdd Bro'r Wenynen yn 2027.",
+      "published_at": "2026-09-26T06:14:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6f212bfe838ec90b549fe92c0f52c10d4b69cf76a1c5bde387a7193ce564a9be",
+      "title": "Rare Star Wars double lightsaber  figure for sale",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8eje120djo?at_medium=RSS&at_campaign=rss",
+      "description": "Vectis Auction says the action figure is very sought after due to the discontinued saber feature.",
+      "published_at": "2026-09-26T06:13:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "3a6513aca38a9c0980a64ef94cbf31c873ef62e0c437f59a4a51c6f77b1ea5aa",
+      "title": "Street renamed after Sir Ken Dodd",
+      "url": "https://www.bbc.co.uk/news/articles/cm4glyx96xj4o?at_medium=RSS&at_campaign=rss",
+      "description": "Adelaide St West is renamed Sir Ken Dodd Avenue as a lasting tribute to the late entertainer.",
+      "published_at": "2026-09-26T06:12:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "db76dd2b7a398b600aa996778b12e945d4863714bf58e4c6ccfde3b12956c97b",
+      "title": "Coroner appeals to families linked to jailed surgeon",
+      "url": "https://www.bbc.co.uk/news/articles/cq39mmk114e2o?at_medium=RSS&at_campaign=rss",
+      "description": "Surgeon Ian Paterson is serving a 20-year sentence for his botched and unnecessary operations.",
+      "published_at": "2026-09-26T06:11:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "24e34c562888c1fb248a1f838296bd6832d04a45384fe501553f43c650fb0786",
+      "title": "Coroner appeals to families linked to jailed surgeon",
+      "url": "https://www.bbc.co.uk/news/articles/cq39mmk114e2o?at_medium=RSS&at_campaign=rss",
+      "description": "Surgeon Ian Paterson is serving a 20-year sentence for his botched and unnecessary operations.",
+      "published_at": "2026-09-26T06:11:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "cfa080fbf16172f05ad1e80ad24c94dc13aab41e2ef7341ef109a7c40f75680b",
+      "title": "Venues strike back against AI generated artwork",
+      "url": "https://www.bbc.co.uk/news/articles/cmpd071gpv49o?at_medium=RSS&at_campaign=rss",
+      "description": "Café Kino is the latest venue to ban the use of AI artwork over ethical and sustainability concerns.",
+      "published_at": "2026-09-26T06:11:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8fec4a50645a5ea895240db6e606c08abdd0eacd7a7c798997c2258680d7abfc",
+      "title": "Dwy fam eisiau creu lle arbennig i blant ag anghenion yng Ngwynedd",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm0qxvx3g480o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae dwy fam o ogledd Cymru yn gobeithio sefydlu Hwb Heddwch i gefnogi teuluoedd a phlant gydag anghenion arbennig.",
+      "published_at": "2026-09-26T06:11:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "191ba2776110536b65c411d1240e67705f6c6c08c01244b3f18b73888eb8674c",
+      "title": "Seahorse habitats 'healing' thanks to eco-moorings",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm90n3m90po?at_medium=RSS&at_campaign=rss",
+      "description": "Scars in Studland Bay's seagrass meadows, caused by boat anchor chains, are healing, a study finds.",
+      "published_at": "2026-09-26T06:10:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "472d0addf4b86caeb30ee21523d3446086e8deec6ec43171d71f9e8c0f1048bf",
+      "title": "'Our wedding present ruined us': Couple join dozens in car seller dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cly7l4rn02vo?at_medium=RSS&at_campaign=rss",
+      "description": "Thirty-four customers battling for refunds on faulty cars as Trading Standards investigates.",
+      "published_at": "2026-09-26T06:09:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "fa5784feb77cb5534f0550da581c51dacc0938d18259d5d7bebe8422f347eb93",
+      "title": "Friends embark on 20-year board game battle",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyqyzk947o?at_medium=RSS&at_campaign=rss",
+      "description": "James Purcell and Andy Taeger are confident their friendship will survive the test.",
+      "published_at": "2026-09-26T06:07:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "74dbd6f1242b054a0dd3161563ef89cfc3f59befb243befc3e6d263b3899c11e",
+      "title": "Gornest Tyson Fury ac Anthony Joshua am fod 'yn wych i economi Caerdydd'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm780051v5dvo?at_medium=RSS&at_campaign=rss",
+      "description": "Mae busnesau Caerdydd yn dweud y bydd yr ornest rhwng Anthony Joshua a Tyson Fury yn rhoi \"hwb fawr\" i economi Cymru.",
+      "published_at": "2026-09-26T06:06:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "c147d8e026e0bf52f19670359e80caef4183ea4c2750c8ec32704b861b136506",
+      "title": "'Too narrow' shopping centre parking bays widened",
+      "url": "https://www.bbc.co.uk/news/articles/c69w42lxwdnvo?at_medium=RSS&at_campaign=rss",
+      "description": "Driver have complained they have to squeeze into spaces and have difficulty exiting their vehicles.",
+      "published_at": "2026-09-26T06:05:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "19eb271b3a03dfca7c29b44b62683ae2f41b77a6f64d8a12275520f1494725cb",
+      "title": "'I'll get emotional for son's international debut'",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz2v5e3dzo?at_medium=RSS&at_campaign=rss",
+      "description": "Kent-born Luis Binks is called up to the Scotland men's senior team for the first time on Saturday.",
+      "published_at": "2026-09-26T06:04:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8c16c3cfa8260a147714c2a908339b994e9c01949c14e7d3c40472747965c0b6",
+      "title": "Teen referees being 'reduced to tears' by parents",
+      "url": "https://www.bbc.co.uk/news/articles/cm750g4d03w2o?at_medium=RSS&at_campaign=rss",
+      "description": "A Cumbrian referee, who is 16, says many are discouraged to continue because of abuse.",
+      "published_at": "2026-09-26T06:04:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "6d429d02b14bca596b64815705b4fbd11740d27baf0154300f990df29567fb4f",
       "title": "From football to foxtrot for NI creator joining Strictly line-up",
@@ -20,6 +330,8 @@
       "published_at": "2026-09-26T05:59:17+00:00",
       "source": "CNA",
       "categories": [
+        "Asia",
+        "Latest News",
         "World"
       ]
     },
@@ -33,6 +345,28 @@
       "categories": [
         "Americas",
         "World"
+      ]
+    },
+    {
+      "id": "03450f0f194fade0c9e4080d1fda7b4b9ca50c3585f7f2632142f51ea9701ce2",
+      "title": "Social media, hashtags and the search for Corrie Mckeague",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9e5ne5xkxo?at_medium=RSS&at_campaign=rss",
+      "description": "Desperate for answers, the 23-year-old's mum used social media in an attempt to find him.",
+      "published_at": "2026-09-26T05:54:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5a7b40e0db33140e50988a1d8a444d961fdd63f99c2da31c18da67073a25bb34",
+      "title": "Father sets up network after 'dad-life got lonely'",
+      "url": "https://www.bbc.co.uk/news/articles/c63eqwq3944no?at_medium=RSS&at_campaign=rss",
+      "description": "\"I wondered whether there were other dads who felt the same,\" says group founder Callum Jarvis.",
+      "published_at": "2026-09-26T05:51:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -58,6 +392,17 @@
       ]
     },
     {
+      "id": "efcd1def52da58f52a0fd84054ff09fc54cc1441c69eabecc5563a52142b74c9",
+      "title": "Will English status prevent a whisky wild west?",
+      "url": "https://www.bbc.co.uk/news/articles/c69qr9npjqx3o?at_medium=RSS&at_campaign=rss",
+      "description": "English whisky is recognised as a distinctive spirit but critics claim the rules are too relaxed.",
+      "published_at": "2026-09-26T05:38:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "e3b0ca3ae0b1db691a88e4fc446a52b2a03aa6fa54d58f44e3974f6f23cdf004",
       "title": "Unionism 'stands at a crossroads', Burrows to tell UUP conference",
       "url": "https://www.bbc.co.uk/news/articles/c607lr418yv9o?at_medium=RSS&at_campaign=rss",
@@ -66,6 +411,39 @@
       "source": "BBC",
       "categories": [
         "Northern Ireland"
+      ]
+    },
+    {
+      "id": "dd369249829eb5a690757e6f8b7f1a1aa355980df9992871cb2dd8c3fa66acb4",
+      "title": "Family 'will never get over' murder of mother",
+      "url": "https://www.bbc.co.uk/news/articles/cqp933r7vlvyo?at_medium=RSS&at_campaign=rss",
+      "description": "Her niece says Tania was a \"beacon of light\" and a \"loud, colourful, happy person\"",
+      "published_at": "2026-09-26T05:36:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "2b1b84900c313936e5058629cd0129c2d895da739e24ae2855c207c3cf42fefc",
+      "title": "Why are 3,000 fridges piling up in north Norfolk?",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzlmymzl0o?at_medium=RSS&at_campaign=rss",
+      "description": "Kate Murrell says a shortage of specialists is behind a backlog in reprocessing fridges and freezers.",
+      "published_at": "2026-09-26T05:33:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "19a300717aa9d2d6bdad2ab0e3d9bf0b8ff79d774f27b22672f1a1571243256e",
+      "title": "Bake Off star 'begged' for stand mixer at Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/cmn9wnyp9nrjo?at_medium=RSS&at_campaign=rss",
+      "description": "Moyin Odeniran, now 22, says his Christmas list as a 12-year-old have stood him in good stead for TV.",
+      "published_at": "2026-09-26T05:24:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -78,6 +456,17 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "52b1947b81ec4d86c3702a3bfd3111685fad45940f29a13cd074b354565380d0",
+      "title": "Key signed by Superman found 'hiding in plain sight'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zdyrgk0no?at_medium=RSS&at_campaign=rss",
+      "description": "A charity is auctioning the memorabilia signed by Superman actors who filmed in Milton Keynes.",
+      "published_at": "2026-09-26T05:18:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -499,6 +888,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "911f8db65048269e39e52048aefb5c6d887727f29a974b6619d3c49e36ef6256",
+      "title": "Indie and punk music made me feel I was betraying my race",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerpx4wz7xo?at_medium=RSS&at_campaign=rss",
+      "description": "Big Joanie's Stephanie Phillips sets out the history of black people and alternative music.",
+      "published_at": "2026-09-25T23:37:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -3082,6 +3482,7 @@
       "published_at": "2026-09-25T12:51:16+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "UK"
       ]
     },
