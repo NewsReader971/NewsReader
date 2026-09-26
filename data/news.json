@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-09-26T19:02:20.537443+00:00",
+  "last_updated": "2026-09-26T20:02:17.392660+00:00",
   "articles": [
+    {
+      "id": "c577cabdc7406f97f955602960a4a233a074043eb4a8a41c73362a4504e070c3",
+      "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+      "url": "https://www.channelnewsasia.com/world/china-us-ai-tariff-cuts-xi-6413066",
+      "description": "Tariff cuts on $30 billion of goods in each direction mark the clearest US-China breakthrough, as both sides also launch AI talks and an incident channel.",
+      "published_at": "2026-09-26T19:45:07+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "5eb183d1a3a3044c83fcdb2249ed94177f90af270443b8de458a9f634c8f755f",
+      "title": "Georgia replace manager Sagnol with Svanadze after Northern Ireland loss",
+      "url": "https://www.channelnewsasia.com/sport/georgia-replace-manager-sagnol-svanadze-after-northern-ireland-loss-6413051",
+      "description": "",
+      "published_at": "2026-09-26T19:26:13+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "83421b39637c87864d55756f9c66ebda7f2785c86ed2cfc0dd03bdc3e99b8dd3",
+      "title": "Trump predicts Cuba and US will make a deal",
+      "url": "https://www.channelnewsasia.com/world/trump-cuba-us-will-deal-6412811",
+      "description": "Fuel shortages and blackouts grip Cuba as Donald Trump says the US can strike a deal with Havana without military action.",
+      "published_at": "2026-09-26T19:19:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "e7fc93b13fe248aedbde65ba32d6acf22022ee53a8ffa2fa1ab33ea2791d146b",
+      "title": "Vollering edges rival Niewiadoma-Phinney for road race world title",
+      "url": "https://www.channelnewsasia.com/sport/vollering-edges-rival-niewiadoma-phinney-road-race-world-title-6413041",
+      "description": "",
+      "published_at": "2026-09-26T19:12:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "79620b7c69458dfe6e62cbaacab0e7e5535ba703615fca20cd686998359f647a",
+      "title": "Welsh presenter to take on 'greatest ever distance' in Children in Need challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
+      "description": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
+      "published_at": "2026-09-26T19:09:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "Wales"
+      ]
+    },
+    {
+      "id": "b5ae57521ada84e11847f38c727923181e312a0cf81e336ab18a46104fdcc029",
+      "title": "Beijing says US, China to pursue military crisis-communication pact",
+      "url": "https://www.scmp.com/news/china/article/3368919/beijing-says-us-china-pursue-military-crisis-communication-pact?utm_source=rss_feed",
+      "description": "China and the United States have agreed to pursue a new military crisis-communication pact following the summit between Donald Trump and Xi Jinping, according to Beijing, potentially giving commanders another mechanism for managing dangerous encounters across the Indo-Pacific. China’s Foreign Ministry said on Saturday that the two militaries had agreed to conclude a memorandum of understanding on “crisis communication and prevention” as soon as possible. The two militaries already have...",
+      "published_at": "2026-09-26T19:07:53+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
     {
       "id": "bb2eb0b874c171d25b67ab9c6786d70346d850e1a551e4bf2cadf3f7ae6c7498",
       "title": "Why US chip controls took a back seat at the Xi-Trump summit",
@@ -11,6 +83,28 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "af59063f81f3395ab568eb242913863076ebc153936f3e9b41c3b93c0caf30e3",
+      "title": "Red Roses embrace growing competitiveness of game",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
+      "description": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+      "published_at": "2026-09-26T18:55:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1de208a859ed14e0bc0d20d2a361ae2e810cd8e414a0390910e8dc567f16a73a",
+      "title": "Wakefield shock Wigan to reach first Grand Final",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+      "description": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+      "published_at": "2026-09-26T18:44:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -88,7 +182,20 @@
       "published_at": "2026-09-26T18:03:40+00:00",
       "source": "France 24",
       "categories": [
-        "Europe"
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "40de3404618d41638469f02db9b5fe0ffe46ce16baba86b6b27b9fd040648a40",
+      "title": "Mbappe diagnosed with knee hyperextension, say Real Madrid",
+      "url": "https://www.channelnewsasia.com/sport/mbappe-knee-hyperextension-real-madrid-6413011",
+      "description": "Kylian Mbappe leaves the France squad after tests confirm a left knee hyperextension, following his goal and early exit in the 1-0 Nations League win over Turkey.",
+      "published_at": "2026-09-26T18:03:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -209,6 +316,29 @@
       ]
     },
     {
+      "id": "5372b2064341bd703769cd4d82161668e959a721146efc57a7ed23927342e4f0",
+      "title": "Pope Leo XIV addresses youth at giant Paris Mass",
+      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-addresses-youth-at-giant-paris-mass",
+      "description": "🇫🇷 🇻🇦 During #Pope Leo XIV's giant Mass at the Place de la Concorde in #Paris on Saturday, he spoke directly to Catholic youth, calling them the \"Church of today\". The pontiff made efforts to connect with young people during his visit, holding a youth vigil at the Stade de #France on Friday.",
+      "published_at": "2026-09-26T17:04:48+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "06d84a6cc6fe68d12c232ff672bcb8eca15a18a2a62181d50d976afa1320f24d",
+      "title": "Thousands march in Madrid to protest eviction of 87-year-old woman",
+      "url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
+      "description": "The eviction of 87-year-old Maricarmen Abascal on Wednesday sparked a thousands-strong protest in the streets of Madrid Saturday, with demonstrators calling for greater protection for tenants. Widespread anger at rising housing costs have put pressure on centre-left Prime Minister Pedro Sanchez, whose government is expected to approve a package of pro-tenant measures in its next cabinet meeting.",
+      "published_at": "2026-09-26T17:04:06+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
       "id": "598acedede397ac318b3993cab1db49786dbd74635a7ffb627344e329dcdf88b",
       "title": "Trump rejects Iran proposal for deal to reopen Hormuz",
       "url": "https://www.scmp.com/news/world/middle-east/article/3368917/trump-rejects-iran-proposal-deal-reopen-hormuz?utm_source=rss_feed",
@@ -265,6 +395,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "8d4a0b30a154c5af3874bab09c2a078db527f8594d8259bb1807035787184923",
+      "title": "Pope Leo XIV 600,000 people gather for Mass on the Champs-Élysées",
+      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-600-000-people-gather-for-mass-on-the-champs-%C3%A9lys%C3%A9es",
+      "description": "🇻🇦👀How do you get into one of the largest outdoor Mass in the world? Pope Leo XIV celebrated an open-air Mass in front of hundreds of thousands of faithful on Saturday, September 26, in Paris. France 24’s Stella Elgersma was there to tell you more! #Pope #France #LeoXIV",
+      "published_at": "2026-09-26T16:46:30+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -961,6 +1102,17 @@
       ]
     },
     {
+      "id": "4cb8586da9838fff8fd55d0399ee5ae5c17fe6013fc55d1a0ca1c8e7dea65aa2",
+      "title": "Prince Harry says it is 'great' to be back in Britain after six years in US",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+      "description": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\".",
+      "published_at": "2026-09-26T12:26:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "3db01d505518de1ff211cdc77dc9ee751c38f75704c54365dffb198605fdec68",
       "title": "Air quality returns to unhealthy range in central region",
       "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-central-unhealthy-range-sep-26-6412536",
@@ -1090,6 +1242,17 @@
       ]
     },
     {
+      "id": "8653d507c5ba96fc4daf479ff8fc030bed218da2a149cc6a50286536de8d3891",
+      "title": "Ireland to fulfil Nations League fixture with Israel after players vote",
+      "url": "https://www.channelnewsasia.com/sport/ireland-fulfil-nations-league-fixture-israel-after-players-vote-6412646",
+      "description": "",
+      "published_at": "2026-09-26T11:27:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Sports"
+      ]
+    },
+    {
       "id": "92dae0d95d1eb412c3da6c99ad999f320f0a312e924103bf1d8d41feff31921b",
       "title": "Hundreds of wildflowers to be planted at meadow",
       "url": "https://www.bbc.co.uk/news/articles/ckq631d25dvlo?at_medium=RSS&at_campaign=rss",
@@ -1165,7 +1328,8 @@
       "published_at": "2026-09-26T11:07:19+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -4239,7 +4403,8 @@
       "published_at": "2026-09-25T18:16:04+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
@@ -9661,6 +9826,7 @@
       "published_at": "2026-09-25T01:10:35+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "World"
       ]
     },
@@ -140072,17 +140238,6 @@
       "source": "France 24",
       "categories": [
         "Africa"
-      ]
-    },
-    {
-      "id": "6c2e789b66c2dd69d32572d81f9a971c570c01249a96391b00fdf8425a48e1af",
-      "title": "BBC Inside Science",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9782?at_medium=RSS&at_campaign=rss",
-      "description": "The datacentres are coming, potentially in the hundreds.",
-      "published_at": "2026-08-27T20:00:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
       ]
     }
   ]
