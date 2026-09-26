@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-09-26T18:02:57.514308+00:00",
+  "last_updated": "2026-09-26T19:02:20.537443+00:00",
   "articles": [
+    {
+      "id": "bb2eb0b874c171d25b67ab9c6786d70346d850e1a551e4bf2cadf3f7ae6c7498",
+      "title": "Why US chip controls took a back seat at the Xi-Trump summit",
+      "url": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
+      "description": "There is little question that Jensen Huang and Lisa Su, the heads of US semiconductor chip giants Nvidia and Advanced Micro Devices (AMD), had secured two of the best seats in the house at the White House state dinner on Thursday evening: at the head table alongside the two presidents and their wives. But what remains unclear is how much progress they were able to make on their primary goal of restoring access to the Chinese market, amid entrenched opposition to that happening in both China and...",
+      "published_at": "2026-09-26T18:57:23+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "14e03290e2e23f130dc2088c5b36f204e58eb4c7a32914022ee40bd4e155a0c2",
+      "title": "Dobie stars as Glasgow beat Munster",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr2kww88pz85o?at_medium=RSS&at_campaign=rss",
+      "description": "Glasgow Warriors begin their United Rugby Championship season in fine style as an impressive second-half turnaround earns a bonus-point win over Munster at Thomond Park.",
+      "published_at": "2026-09-26T18:44:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9b70ed81d0ed16b4664cd1d839fb051a968c08f6100d23ecebd635a0feb2e9d5",
+      "title": "Lynn remaining positive despite Wales' USA setback",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjly44x72n0lo?at_medium=RSS&at_campaign=rss",
+      "description": "Head coach Sean Lynn is still seeing the positives despite Wales' narrow WXV defeat to USA.",
+      "published_at": "2026-09-26T18:34:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "eae2315e408b4f8501c456522cbc042bbc2255e8f2ad75a5331558a9ad5a4a34",
+      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "published_at": "2026-09-26T18:30:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f63f0b4383fb12f8d9b9d890f9668dbdd3895eecba4781cdc41b9e01dd3cae4",
+      "title": "Teenager arrested after cyclist killed in crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm1588dqjjy1o?at_medium=RSS&at_campaign=rss",
+      "description": "West Mercia Police says the cyclist, a man in his 60s, died in the crash.",
+      "published_at": "2026-09-26T18:11:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "795221594865dd76bb4e81bc9612acc61ccacf8f2023c4ba859790e209c179b4",
+      "title": "Lost document uncovers true story of 'hero' who led infamous revolt",
+      "url": "https://www.bbc.co.uk/news/articles/cwe87mepe52jo?at_medium=RSS&at_campaign=rss",
+      "description": "New evidence has uncovered what happened next to a man who led a workers' revolt almost 200 years ago.",
+      "published_at": "2026-09-26T18:06:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7d29141a78e276de397b11d66fc7422e3fef35de3d5d245a5765f776d7deb1bc",
+      "title": "Mbappe diagnosed with knee hyperextension, say Real Madrid",
+      "url": "https://www.channelnewsasia.com/sport/mbappe-diagnosed-knee-hyperextension-say-real-madrid-6413011",
+      "description": "",
+      "published_at": "2026-09-26T18:03:53+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0a178bd855c1e4a94426ba7f0652ace868e2fae09a95dbc39fc6cd3229698f8c",
+      "title": "Maricarmen Vs The ‘Vultures’: A “social tragedy” mobilising Spaniards",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260926-maricarmen-vs-the-vultures-a-social-tragedy-mobilising-spaniards",
+      "description": "Protests are ongoing in Madrid right now, with many demonstrators holding signs and banners that read “Maricarmen vs the Vultures”. “Maricarmen, you are not alone.” Or “Ni una Maricarmen más.” Not one more Maricarmen.",
+      "published_at": "2026-09-26T18:03:40+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe"
+      ]
+    },
     {
       "id": "46aff6f187b71a8657e8e72b03d7b67b348c24097f75a7e48019d03197d7fae3",
       "title": "F1 leader Antonelli calls Azerbaijan weekend the worst of his season",
@@ -35,6 +125,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "af61aa9a13806de11f44a80b0e0c9a1a7b3ae97acd677eb6cbc48c76ce640fd1",
+      "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
+      "description": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+      "published_at": "2026-09-26T17:44:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -139,7 +240,8 @@
       "published_at": "2026-09-26T16:55:37+00:00",
       "source": "BBC",
       "categories": [
-        "Science & Environment"
+        "Science & Environment",
+        "World"
       ]
     },
     {
@@ -1053,6 +1155,17 @@
       "source": "BBC",
       "categories": [
         "Health"
+      ]
+    },
+    {
+      "id": "df6d679eaeb2a878ddbc37d0b0f3598c52b2a65455bc7040fd13e658e6dc1ca0",
+      "title": "PM pledges £210m to regenerate UK's high streets",
+      "url": "https://www.bbc.co.uk/news/articles/cve8xx47rnjxo?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham said the fund would would support communities to transform derelict buildings and keep businesses open",
+      "published_at": "2026-09-26T11:07:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -3230,6 +3343,17 @@
       ]
     },
     {
+      "id": "9df1644c3e212049e749876e77f7b4204bf901b27cb82d8f7ba07516004c6660",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "published_at": "2026-09-25T23:20:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "79080f71e129cd70c83d37a1bc364709055a5849cc0a0bb762c895213db9ca86",
       "title": "Internationals stun US with 5-0 sweep to take Presidents Cup lead",
       "url": "https://www.channelnewsasia.com/sport/internationals-stun-us-5-0-sweep-take-presidents-cup-lead-6412131",
@@ -4310,6 +4434,17 @@
       "source": "BBC",
       "categories": [
         "Northern Ireland"
+      ]
+    },
+    {
+      "id": "b855ec7e405ff7581718ae15f85413cb132bcc640b1c6d5857a8662e825b86ff",
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "published_at": "2026-09-25T17:15:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -7471,6 +7606,17 @@
     {
       "id": "9a6f741f67e85db4ce2edd50dd0619cb9400f055bd436266b456e15d3353a843",
       "title": "Woman grieving loss of sister wins £10k-a-month prize",
+      "url": "https://www.bbc.co.uk/news/articles/cq804nkjkdlno?at_medium=RSS&at_campaign=rss",
+      "description": "Amanda Hampton asked her sister for \"a sign\", and woke up to find she had won a life-changing lottery prize.",
+      "published_at": "2026-09-25T09:09:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "b0111ed736368920665ef932aa48449c17ac65d895659cea4755d823e1688555",
+      "title": "Woman grieving death of sister wins £10k-a-month for 30 years prize",
       "url": "https://www.bbc.co.uk/news/articles/cq804nkjkdlno?at_medium=RSS&at_campaign=rss",
       "description": "Amanda Hampton asked her sister for \"a sign\", and woke up to find she had won a life-changing lottery prize.",
       "published_at": "2026-09-25T09:09:06+00:00",
@@ -139934,17 +140080,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/w3ct9782?at_medium=RSS&at_campaign=rss",
       "description": "The datacentres are coming, potentially in the hundreds.",
       "published_at": "2026-08-27T20:00:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "c7f174a4845d970513b2d9786bda398870cdf22739e3e75647498b47db9e1801",
-      "title": "France relaxes strict cheese-making rules after prolonged drought",
-      "url": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
-      "description": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
-      "published_at": "2026-08-27T18:29:38+00:00",
       "source": "BBC",
       "categories": [
         "Science & Environment"
