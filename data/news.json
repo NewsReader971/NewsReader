@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-26T22:02:23.112962+00:00",
+  "last_updated": "2026-09-26T23:02:32.675070+00:00",
   "articles": [
+    {
+      "id": "cc3914a7f8a56405f82d585e52493aabdf9925b3ad9de67e79e05f811f9152bc",
+      "title": "Powerful storm pummels northeast US with rain and high winds",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368922/powerful-storm-pummels-northeast-us-rain-and-high-winds?utm_source=rss_feed",
+      "description": "Heavy rain and strong winds battered the northeastern US on Saturday as an unusually powerful autumn storm intensified, forcing the cancellation of hundreds of flights and leaving tens of thousands of people without power. New York, Boston and Philadelphia were all in the firing line of the “nor'easter” – so labelled for its northeasterly winds – as authorities warned of potential major flooding and road closures. “This storm is expected to bring major coastal flooding to the mid-Atlantic coast...",
+      "published_at": "2026-09-26T22:17:40+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "215343a1169ede66dfcc9d6ac7dd40039f0709fb6bc73f5ab641468578dd912e",
+      "title": "Gordon's goal continues debate over England's footballing identity",
+      "url": "https://www.channelnewsasia.com/sport/gordons-goal-continues-debate-over-englands-footballing-identity-6413146",
+      "description": "",
+      "published_at": "2026-09-26T22:16:59+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "9386faf1cfffe2700a3cfc0c502d24582ec79a3a840a95e1a0e6b67ce020c49c",
+      "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
+      "description": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s other AI superpower, China, on board. All US government documents, and “hopefully the world’s”, will use the term “superintelligence”, or SI, to refer to the fast-evolving technology, Trump said at the United Nations General Assembly on Tuesday. The same day, the US State Department ordered US diplomats to use SI instead of AI in all communications moving forward, the Associated...",
+      "published_at": "2026-09-26T22:15:40+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
     {
       "id": "0ccb78086fc6b5e6fb7397ddd388d2f44f4eae4f1ea1e9813cbf088fec2f83ff",
       "title": "Claims China’s BeiDou satellite was refuelled in orbit could change space race",
@@ -11,6 +47,30 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "64b7956d4da3f40be59946b4afe0ef29aba8aa0e4e906b36afbe70db070cd00b",
+      "title": "Commentary: Zuckerberg’s ‘Tamagotchi-like’ AI could be Meta’s iPod moment",
+      "url": "https://www.channelnewsasia.com/commentary/mark-zuckerberg-meta-muse-ai-agent-6411051",
+      "description": "For someone mocked as a robotic, out-of-touch nerd, Mark Zuckerberg has struck the right tone with the Muse assistant, says Dave Lee for Bloomberg Opinion.",
+      "published_at": "2026-09-26T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "58ebdc28393c8f43dc1dc318b92ebcf4b63635c2223528a934f052c324cbd617",
+      "title": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
+      "url": "https://www.channelnewsasia.com/asia/scams-illegal-businesses-pose-new-setback-johors-forest-city-revival-6408931",
+      "description": "Forest City is courting investors and trying to shed its “ghost town” label, but recent controversies are testing efforts to revive the development and its property market.",
+      "published_at": "2026-09-26T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
       ]
     },
     {
@@ -209,7 +269,7 @@
       "id": "c577cabdc7406f97f955602960a4a233a074043eb4a8a41c73362a4504e070c3",
       "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
       "url": "https://www.channelnewsasia.com/world/china-us-ai-tariff-cuts-xi-6413066",
-      "description": "Tariff cuts on $30 billion of goods in each direction mark the clearest US-China breakthrough, as both sides also launch AI talks and an incident channel.",
+      "description": "The tariff reductions would apply to US exports such as agricultural goods, wood and cosmetics, as well as US imports including small appliances, toys, decorations, said the White House.",
       "published_at": "2026-09-26T19:45:07+00:00",
       "source": "CNA",
       "categories": [
@@ -488,7 +548,7 @@
       "id": "9a60d942e02d948bf656a6b0dd77dfa4cff9c232fefde1a6d13e348e99ecaef0",
       "title": "China pushes back against US on Iran and Cuba in UN speech",
       "url": "https://www.channelnewsasia.com/asia/china-us-iran-cuba-un-speech-6412806",
-      "description": "Respect for Gulf sovereignty and an end to pressure on Cuba dominate China’s UN speech, as Vice President Han Zheng pushes back without naming the US.",
+      "description": "Respect for Gulf sovereignty and an end to pressure on Cuba dominated China’s UN speech, as Chinese Vice President Han Zheng pushed back without naming the US.",
       "published_at": "2026-09-26T17:23:03+00:00",
       "source": "CNA",
       "categories": [
@@ -1348,6 +1408,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b21ecbd85ea681b4fd2fb45e7fba0b7f56714d47d78d41bab186734bba1047a6",
+      "title": "Singapore air quality enters unhealthy range in three regions",
+      "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-unhealthy-range-6412536",
+      "description": "PSI readings have dipped in and out of the unhealthy range over the past weeks.",
+      "published_at": "2026-09-26T12:06:00+00:00",
+      "source": "CNA",
+      "categories": [
         "Singapore"
       ]
     },
@@ -3656,7 +3727,7 @@
       "id": "8a1022d94f8cf383e594c73fbef8ad79910418de8e00e70bc9160dc5c860c0da",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
       "published_at": "2026-09-25T23:38:48+00:00",
       "source": "BBC",
       "categories": [
