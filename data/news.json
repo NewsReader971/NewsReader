@@ -1,11 +1,71 @@
 {
-  "last_updated": "2026-09-27T05:02:46.780101+00:00",
+  "last_updated": "2026-09-27T06:03:31.817437+00:00",
   "articles": [
+    {
+      "id": "5d1528548c8ad232129a08e850db7bd664e9f2497a263ce5d6d6dfe906c68a41",
+      "title": "Investigation launched as NHS trust apologises for Noah Woods data breach",
+      "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+      "description": "East Suffolk and North Essex NHS Foundation Trust has apologised to the family for \"extra anguish\" caused.",
+      "published_at": "2026-09-27T05:58:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1efa32a31122e7a2abe9acff4cb56e06a2b5af1fb09a172aac51c579daee5145",
+      "title": "Hong Kong can offer AI governance solutions for major economies: Paul Chan",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368931/hong-kong-can-offer-ai-governance-solutions-major-economies-paul-chan?utm_source=rss_feed",
+      "description": "Hong Kong can offer trusted solutions in artificial intelligence (AI) governance for major economies by leveraging the city’s unique strengths, including its common law system, internationally connected standards and professional services, the city’s finance chief has said. “As major economies begin discussing AI governance, data, compliance and risk management, Hong Kong can leverage its unique strengths in providing ‘rules’ and ‘trust’,” Financial Secretary Paul Chan Mo-po wrote in his weekly...",
+      "published_at": "2026-09-27T05:43:38+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "f7d42c87f10a656cf7cb398145eeb1bd36f662d2f1f7b248b3d881f42cd62a20",
+      "title": "Singapore's Loh Kean Yew beats world number 1 Christie, guaranteed historic Asian Games medal",
+      "url": "https://www.channelnewsasia.com/sport/loh-kean-yew-asian-games-badminton-6413311",
+      "description": "This is Loh's first win over Christie in 11 meetings.",
+      "published_at": "2026-09-27T05:42:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "36c032957e70a1dcf9b2d78fe623a66abd7293ab921ca9f2d0c024019af36d47",
+      "title": "Cardiff City footballer Perry Ng receives Singapore citizenship, awaits FIFA clearance to represent Lions",
+      "url": "https://www.channelnewsasia.com/sport/perry-ng-singapore-citizenship-passport-lions-national-football-team-cardiff-6413396",
+      "description": "\"Singapore has always been part of my family’s story, and over the years, it has become home to me too. I’m grateful for everyone who has supported me on this journey,\" says the 30-year-old defender.",
+      "published_at": "2026-09-27T05:33:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore",
+        "Sports"
+      ]
+    },
+    {
+      "id": "05dc81eed4ffe448a8e2ce6ff227431347427ce8112b99aa479be64079c4c10b",
+      "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-suicide-bombing-police-checkpoint-ambulance-6412666",
+      "description": "",
+      "published_at": "2026-09-27T05:00:11+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "e65cae81456b41514d85d348465833fcf8eb3786f21bb1d4c6e4068445c72dd3",
       "title": "RSAF moving to new runway as part of Paya Lebar Air Base relocation plans",
       "url": "https://www.channelnewsasia.com/singapore/rsaf-new-runway-changi-east-paya-lebar-air-base-relocation-6413306",
-      "description": "Then-Defence Minister Ng En Hen said in 2015 that Changi Air Base East would have to be expanded to replace Paya Lebar Air Base.",
+      "description": "Then-Defence Minister Ng Eng Hen said in 2015 that Changi Air Base East would have to be expanded to replace Paya Lebar Air Base.",
       "published_at": "2026-09-27T04:37:00+00:00",
       "source": "CNA",
       "categories": [
@@ -143,6 +203,17 @@
       ]
     },
     {
+      "id": "d092675cf0f85a150c20b93f173f8ce46f0e30882066dd3edc9a2a5a4df35c49",
+      "title": "Four killed in helicopter crash near Montreal",
+      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+      "published_at": "2026-09-27T02:43:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "8bebc3083c6d5a128517d3f47bbd0a56fd059ca810f37a2f888ac41b132c35e2",
       "title": "Bangkok floodwaters recede as officials race to drain canals",
       "url": "https://www.channelnewsasia.com/asia/bangkok-flood-recede-heavy-rain-disaster-6413256",
@@ -152,6 +223,17 @@
       "categories": [
         "Asia",
         "Latest News"
+      ]
+    },
+    {
+      "id": "434926a779a135e27410e1dff426f40e1aae2197c78d13e109dd13898230c026",
+      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "description": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+      "published_at": "2026-09-27T02:16:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -320,6 +402,17 @@
       ]
     },
     {
+      "id": "fa35c4441b94f18bd6e591d8cb9189b87e093dbe2da0fbe334e9062fbfd9336e",
+      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "published_at": "2026-09-26T23:04:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "a578f694a422f329fa18febf7ddd8bb053120b13f907ccd294c1fad3e2aa00ef",
       "title": "The young women guiding tourists through India's night sky",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss",
@@ -408,6 +501,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "8da3dda97cabcceb83378233d65be1ed1049b667a9cdcd1c9057f588db65e0f4",
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
+      "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "published_at": "2026-09-26T22:02:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -504,7 +608,29 @@
       ]
     },
     {
+      "id": "6bfb4b7515a34145ec9a0df4ed05805f70a24d94e74a58af557f89029e848ba3",
+      "title": "Are claims of a white genocide in South Africa real?",
+      "url": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "description": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says there is not a genocide.",
+      "published_at": "2026-09-26T21:20:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "70fec29dcf1fd97b7b619a092ec4a2b1c2688075fc14a142dcdfe2077f73301b",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "published_at": "2026-09-26T21:13:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "37aca3ba8d3d217adde64a0fb423bf751598f0340ac167c61bef1082c9cf6793",
       "title": "Mother of woman found hanging in tree shocked as police say body was staged",
       "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
       "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
@@ -636,6 +762,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "c80b78a03fab6f986cbc668c96f75b30a26257ae46541b6002b9bfe355a1b3d5",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "published_at": "2026-09-26T19:59:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1310,7 +1447,7 @@
       "id": "d856224a6763377b732b0d50cf9dcbd09d944276ac5cb3d38cf8560b460cbc09",
       "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
       "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "description": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "description": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
       "published_at": "2026-09-26T15:12:25+00:00",
       "source": "BBC",
       "categories": [
@@ -1464,6 +1601,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "626c4f4b4e19fb09fc13260707c27c0dcfc1157423bd18fb4b76bcbf50db6610",
+      "title": "Pope Leo XIV visits Lourdes after Paris mass to meet clergy sexual abuse victims",
+      "url": "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims",
+      "description": "After two days in Paris where he drew hundreds of thousands of worshippers, Pope Leo XIV will continue his visit to France on Sunday in the southwestern pilgrimage town of Lourdes with a private meeting with victims of sexual abuse within the Catholic Church. Leo's four-day trip is the first official papal visit to France in nearly two decades.",
+      "published_at": "2026-09-26T13:40:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -2024,6 +2172,17 @@
       "source": "BBC",
       "categories": [
         "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "feb26cec959f24e3e43be3d60aa08fc2d24a0e455a7dd82421ad351f9b26e306",
+      "title": "PM pledges £210m to regenerate UK's high streets",
+      "url": "https://www.bbc.co.uk/news/articles/cve8xx47rnjxo?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham said the fund would would support communities to transform derelict buildings and keep businesses open",
+      "published_at": "2026-09-26T11:07:19+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
