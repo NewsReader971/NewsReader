@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-09-27T15:02:28.284331+00:00",
+  "last_updated": "2026-09-27T16:02:46.902681+00:00",
   "articles": [
+    {
+      "id": "48cb31261a24dd6d5933201c1be794b0acdf5484eb8d72f434476b74f79e4b60",
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+      "published_at": "2026-09-27T15:56:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d3af1c1636cc6aa576d85efdc8f478ea32d72d6487f6f840f89dab3063765ce1",
+      "title": "Team Europe cruise past Team World to win sixth Laver Cup title",
+      "url": "https://www.channelnewsasia.com/sport/team-europe-cruise-past-team-world-win-sixth-laver-cup-title-6413921",
+      "description": "",
+      "published_at": "2026-09-27T15:53:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "350426ee7cd7cae58c768dba27adfe1b390756100f18ec9db932ddf6c35ca6a8",
+      "title": "Social care reform could mean big risks and big rewards for Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss",
+      "description": "The state of the social care system in England is a topic that's made Andy Burnham angry for decades - but will his plans for reform work?",
+      "published_at": "2026-09-27T15:23:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "58ba56b74073b6cfdbaf123ea8e82e5ae9e65dd34b6a18569066a887049bbe7d",
+      "title": "Sailing-Italy dominate to win America's Cup run-up regatta in Naples",
+      "url": "https://www.channelnewsasia.com/sport/sailing-italy-dominate-win-americas-cup-run-up-regatta-in-naples-6413896",
+      "description": "",
+      "published_at": "2026-09-27T15:18:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "2a69dc14f313ee5ca047d4fe420c3d1872f9172dcb9a1755174011474ef5a21d",
+      "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
+      "url": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
+      "description": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
+      "published_at": "2026-09-27T15:08:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "52f661e1ef22d05032808953bd3a2104cdc7421242bb8aa44756afe7d1c09230",
+      "title": "Police given more time to quiz Manchester plot suspects",
+      "url": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
+      "description": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
+      "published_at": "2026-09-27T15:08:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "7e196984cf62aa8e178421698ea1654381ae5f8f8deaf08511fe928f719960ae",
+      "title": "Two people arrested after man's unexplained death",
+      "url": "https://www.bbc.co.uk/news/articles/cxj06l24y56no?at_medium=RSS&at_campaign=rss",
+      "description": "Police say the 28-year-old man was found collapsed at an address in York on Friday evening.",
+      "published_at": "2026-09-27T15:01:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "75658dd7d282b72c1ff247f0fd7025d11a6b33a0bc976bf3a4c9a359886d69ae",
+      "title": "Church confronts shock of abuse crisis",
+      "url": "https://www.france24.com/en/church-confronts-shock-of-abuse-crisis",
+      "description": "After two days in Paris, where he drew hundreds of thousands of worshippers, Pope Leo XIV is continuing his visit to France in the southwestern pilgrimage town of Lourdes. There, he is due to meet privately with survivors of clergy sexual abuse. His four-day trip is the first official papal visit to France in nearly two decades. For more reaction, we can speak to Marc Artzrouni, the French representative for the global coalition “Ending Clergy Abuse”.",
+      "published_at": "2026-09-27T15:01:16+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "30ad173087bbdee72ad079d9d990cf6581ae448b3fc84d4895cef1f8a555ab7b",
       "title": "Police arrest man, 34, over hidden cameras found in Hong Kong gym changing rooms",
@@ -11,6 +101,17 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "e8f058e82ab7dcf5394ac907e6144abc90a9d19c38445839b92b5408a158eee8",
+      "title": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
+      "url": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
+      "description": "British police have evacuated homes near an air force base in Gloucestershire, as army bomb disposal experts examined several vehicles in what authorities described as a major incident. Five men have been arrested on suspicion of preparing a terrorist act and offences under the Explosives Act. RAF Fairford, the base involved, is also being used by the US for strikes on Iranian missile sites targeting ships in the Strait of Hormuz. US Air Force personnel at the base have been told to remain vigilant, while police say the incident is now contained. France 24 international affairs editor",
+      "published_at": "2026-09-27T14:55:13+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -501,6 +602,17 @@
       ]
     },
     {
+      "id": "7e58991bdd366cfabdb59fc747d898704876588d6286c735850f5dffbd9132a4",
+      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "published_at": "2026-09-27T11:38:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "fd85cd007a52f5d755042ec8dda0af0f5ebb8419bb532d9ef41223acc04df820",
       "title": "Why does Robbie Ure have Robbie Ure on his Scotland shirt?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5gmrrl0dvrdo?at_medium=RSS&at_campaign=rss",
@@ -801,6 +913,17 @@
     },
     {
       "id": "b0a4a2c1ece2dcc47ca1ed583ff60288a22c625ee3bbf7228ceb1884667d4731",
+      "title": "Arrest after four pedestrians hurt in hit-and-run",
+      "url": "https://www.bbc.co.uk/news/articles/cmjw5e3p7gpyo?at_medium=RSS&at_campaign=rss",
+      "description": "Three men are in hospital with serious injuries after being hit while crossing a road in Leicester.",
+      "published_at": "2026-09-27T09:46:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d8e7f952d6d5197fdc21617cbf806602972df4a723a149fc67ab49248a5452cd",
       "title": "Arrest after four pedestrians hurt in hit-and-run",
       "url": "https://www.bbc.co.uk/news/articles/cmjw5e3p7gpyo?at_medium=RSS&at_campaign=rss",
       "description": "Three men are in hospital with serious injuries after being hit while crossing a road in Leicester.",
@@ -1471,6 +1594,17 @@
       ]
     },
     {
+      "id": "3cad064166e60039407e7271aa2a3cf093e30f9aeb71489d5200236ac9e56874",
+      "title": "Being hit by a football in her face revealed my daughter's cancer",
+      "url": "https://www.bbc.co.uk/news/articles/cvlylxlz39g9o?at_medium=RSS&at_campaign=rss",
+      "description": "Aaron's daughter, Harper, was five years old when she was diagnosed with neuroblastoma.",
+      "published_at": "2026-09-27T06:21:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "4594d085f60a5e7a4bcc0ad4d22b1222f92bdaff704068113cb428a82a3e3149",
       "title": "'I was angry at my husband - I didn't know he had dementia'",
       "url": "https://www.bbc.co.uk/news/articles/ckg59pnr8g78o?at_medium=RSS&at_campaign=rss",
@@ -1629,7 +1763,7 @@
       "id": "a0cdac7cd7c4db30bec3e33aaf57ff6f3ef12b4c6d16376258d013f1e4e0ea2c",
       "title": "Marathon nid ras wib i ailadeiladu Llafur Cymru - Ken Skates",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/crje88253z9zo?at_medium=RSS&at_campaign=rss",
-      "description": "Mae Ken Skates yn dweud y bydd ailadeiladu Llafur Cymru yn \"farathon nid yn ras wib\".",
+      "description": "Daeth y sylwadau wrth iddo annerch cynhadledd y Blaid Lafur am y tro cyntaf ers cael ei ethol yn arweinydd Llafur Cymru.",
       "published_at": "2026-09-27T06:06:52+00:00",
       "source": "BBC",
       "categories": [
