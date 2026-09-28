@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-09-28T20:02:30.268681+00:00",
+  "last_updated": "2026-09-28T21:03:25.509109+00:00",
   "articles": [
+    {
+      "id": "f320c9e835228c88ca170bd88918b686d5866be0e1994e20087fa09d6fe3aa7c",
+      "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
+      "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
+      "description": "Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as investigations continue. Meanwhile, AI-enhanced images purporting to show their faces have gone viral, with some users claiming it ‘proves’ the men are Muslim. SynthID confirms the sharpened images were created using OpenAI tools, meaning the AI has suggested different facial features. UK police have not disclosed any names or religion, only that the men are all British nationals. Vedika Bahl explains.",
+      "published_at": "2026-09-28T20:55:42+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe"
+      ]
+    },
+    {
+      "id": "feb60521648a951cf897349b7a106d2da08a469e01b337fccd6bf9fe4b377979",
+      "title": "US revokes visas from Latin American officials and families over accusations of corruption",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369114/us-revokes-visas-latin-american-officials-and-families-over-accusations-corruption?utm_source=rss_feed",
+      "description": "The Trump administration is revoking the visas of 27 Latin American officials, former officials and their families, including Bolivia’s attorney general, over accusations of corruption. The officials and their families come from Bolivia, Colombia, Ecuador and Peru - all nations with right-leaning leaders friendly with US President Donald Trump. Secretary of State Marco Rubio visited Colombia, Ecuador and Peru this month, pledging US support for their efforts to combat drug and human...",
+      "published_at": "2026-09-28T20:50:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "4b47c5b2d0f734910c2a74298395c088bd5136096ee70332662a715ebe8b9e94",
+      "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
+      "url": "https://www.channelnewsasia.com/world/trump-ai-slowdown-meeting-tech-ceos-6416731",
+      "description": "US President Donald Trump is set to meet major AI executives as lawmakers debate how to balance rapid innovation with government oversight and safety.",
+      "published_at": "2026-09-28T20:42:25+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "2c01017f5241f2a5781bd0523729f014afe7410108d77f11d476749b51c9e046",
+      "title": "France braces for a day of strikes and protests over civil servants' pay",
+      "url": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
+      "description": "Trade unions in France have called on public sector workers - from train drivers to teachers to health workers and police officers - to stop working and protest at the government's plan to freeze the public sector's pay index, just days before the government is set to unveil its draft budget for 2027. Plus, as Paris Fashion Week kicks off, we speak with an expert on what the struggling luxury sector needs to do towards a more sustainable future.",
+      "published_at": "2026-09-28T20:42:09+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e7b3877fbecb030a4e0088b989abe70f4d2e577de08a528a165857194a84c92b",
+      "title": "Ethiopian forces claim Tigray town",
+      "url": "https://www.france24.com/en/ethiopian-forces-claim-tigray-town",
+      "description": "In tonight's edition, Ethiopia's army says it's seized a key city in the northern region of Tigray amidst escalating conflict with local rebels. Also, two mass shootings in South Africa leave at least 28 dead. And Ugandan activist Praise Aloikin Opoloje is facing court after she turned up following days of uncertainty about her whereabouts.",
+      "published_at": "2026-09-28T20:32:38+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "1352ea13d9da42b14009c34b4945efa10e540f9408748d2e61520bcddb3dd190",
+      "title": "Russia pummels Kyiv in latest deadly daytime attack",
+      "url": "https://www.channelnewsasia.com/world/russia-pummels-kyiv-in-latest-deadly-daytime-attack-6416656",
+      "description": "Russian drones struck Ukraine's National Academy of Sciences in Kyiv, killing one person and wounding others.",
+      "published_at": "2026-09-28T20:13:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "422f17131379e2852c9f5723d5d9bc83aa0b44a3c9db265a8e9be9726fdabe94",
+      "title": "AMD acquires World Labs in $8.2 billion deal to bolster AI systems strategy",
+      "url": "https://www.channelnewsasia.com/business/amd-acquires-world-labs-in-82-billion-deal-bolster-ai-systems-strategy-6416721",
+      "description": "",
+      "published_at": "2026-09-28T20:13:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "faaa882ce8d318d212b098eac6a1457c82dad2fdafcf0056d84e5058137ad530",
       "title": "JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues",
@@ -10,6 +92,29 @@
       "source": "SCMP",
       "categories": [
         "News"
+      ]
+    },
+    {
+      "id": "1b56a15851bdd06c20c260bce50265d16fab5bc5ae1363d035cd777f25077f5b",
+      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
+      "url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls",
+      "description": "A French investigative website on Monday alleged that far-right National Rally leader Jordan Bardella made antisemitic comments in writing in 2013, but the close ally of presidential frontrunner Marine Le Pen dismissed the claims as fake. The allegations emerged as Le Pen's prospects for the 2027 elections appear stronger than at any point in her previous campaigns. FRANCE 24's Jennie Shin speaks with Dr Andrew Smith, Lecturer in History and Liberal Arts at Queen Mary University of London.",
+      "published_at": "2026-09-28T19:56:54+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "b305f54ee967248c0d42cdebfdcb931df8ab067c13b64b2e6adad8494ed4b674",
+      "title": "Japan's Nidec CEO Mitsuya Kishida to resign, Nikkei reports",
+      "url": "https://www.channelnewsasia.com/business/japans-nidec-ceo-mitsuya-kishida-resign-nikkei-reports-6416676",
+      "description": "",
+      "published_at": "2026-09-28T19:55:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -71,6 +176,29 @@
       ]
     },
     {
+      "id": "533ade155d6a0f40e813bc2caa069a2cceedd2679c897988f322830d8e590c00",
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+      "published_at": "2026-09-28T19:16:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "d5c91be581d992d9d280ebb3888a607535392f26bf41b5bdb99511078f98d526",
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+      "published_at": "2026-09-28T19:16:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "cc5f7f1d3f97509314a032ab0da6860008d35f0419c246cffe1209db8216aa4c",
       "title": "Putin signs decree adding 15,500 troops to Russian army",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369112/putin-signs-decree-adding-15500-troops-russian-army?utm_source=rss_feed",
@@ -124,6 +252,7 @@
       "published_at": "2026-09-28T18:58:58+00:00",
       "source": "BBC",
       "categories": [
+        "UK",
         "Wales"
       ]
     },
@@ -134,6 +263,17 @@
       "description": "There's a new Pope in town and he's got very different ideas on what France's far-right calls the defense of Christian civilization. Leo the 14th concluding his trip to France in the eastern city of Metz, hometown of a founding father of present-day European federalism Maurice Schumann. There, the head of the world's largest organized religion proudly stated fact, that Europe’s roots are Christian, dating back to the Romans, all the while hailing an EU model that transcends 'us versus them' ideology, which brushes aside ‘might is right’ in favor of human rights and international law.",
       "published_at": "2026-09-28T18:49:50+00:00",
       "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c91c9cd002cbcf39d27fa45d59d1eaafeda38c86873e25455c5af129b4c8685a",
+      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+      "description": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+      "published_at": "2026-09-28T18:37:15+00:00",
+      "source": "BBC",
       "categories": [
         "World"
       ]
@@ -214,7 +354,8 @@
       "published_at": "2026-09-28T18:04:41+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -263,6 +404,18 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "dc82e77be74c4428ec4bf5ef4249fa9c02cd7e6d89801d1bdcd0547b4f1b4484",
+      "title": "Mallorca keeper Cuellar in hospital after canteen structure collapses",
+      "url": "https://www.channelnewsasia.com/sport/mallorca-keeper-cuellar-in-hospital-after-canteen-structure-collapses-6416516",
+      "description": "",
+      "published_at": "2026-09-28T17:48:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -445,7 +598,8 @@
       "source": "BBC",
       "categories": [
         "Business",
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -467,7 +621,8 @@
       "published_at": "2026-09-28T17:00:29+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "UK"
       ]
     },
     {
@@ -728,6 +883,18 @@
       ]
     },
     {
+      "id": "4a745d6f723e32ea63a66b282d3077b9f589d4aa39b19190049e3615c77d273b",
+      "title": "Pope Leo wraps up France visit, urging Europe to help combat 'lies and deceit'",
+      "url": "https://www.france24.com/en/europe/20260928-pope-leo-wraps-up-france-visit-urging-europe-to-help-combat-lies-and-deceit",
+      "description": "Pope Leo XIV urged Europe on Monday to draw from its Christian roots and tradition of dialogue to counter the \"uncivilised\" relations and \"desire for domination\" driving today's wars, as he wrapped up a four-day state visit to France that leaned heavily into politics and drew huge crowds at every turn.",
+      "published_at": "2026-09-28T16:00:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
       "id": "40039ad0c5c390c5b496407d51e803787344e2b2433dbcaeb3bda3faacbf94b4",
       "title": "Scotcast: Glasgow City Council vs the unions - what now?",
       "url": "https://www.bbc.co.uk/sounds/play/m00323x5?at_medium=RSS&at_campaign=rss",
@@ -747,6 +914,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "d18aa317648876cc3111123a8ca3754b0e1ae50f12b63129a2702bdf9f9c662c",
+      "title": "Mahmood to reopen scheme to resettle refugees in the UK",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgyj8k3dzgo?at_medium=RSS&at_campaign=rss",
+      "description": "Around 25% of arrivals under the UK Resettlement Scheme are expected to be Afghan women and girls and Palestinians.",
+      "published_at": "2026-09-28T15:53:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1150,6 +1328,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "bebee2e0f31453c6f6614aa5548c7e4b6ff1bbe032eb7e353eab81f206dddc34",
+      "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
+      "url": "https://www.channelnewsasia.com/business/shein-quarterly-profit-falls-67-costs-jump-europe-sales-slump-6415966",
+      "description": "",
+      "published_at": "2026-09-28T14:19:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -1890,6 +2079,17 @@
       "source": "BBC",
       "categories": [
         "Politics"
+      ]
+    },
+    {
+      "id": "f90fb4f96e089da9f46abb5185f7cd3f596814d363d9563c43e24d3bc56cc713",
+      "title": "Lithium-ion battery caused fire that killed mum and 3 children",
+      "url": "https://www.bbc.co.uk/news/articles/cq62jyk6ne4vo?at_medium=RSS&at_campaign=rss",
+      "description": "Elisha Brabin, 36, and three of her children, died after a blaze at their home in Bootle, Merseyside.",
+      "published_at": "2026-09-28T12:13:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -3257,6 +3457,17 @@
       ]
     },
     {
+      "id": "3f0527aa7dfa735f43fe42a7f4b4cc184e024dccd4b7fa446ed41fd76a2d3bb4",
+      "title": "Angela Scanlon takes over Sara Cox's drivetime slot on Radio 2",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxvnyg0xz7o?at_medium=RSS&at_campaign=rss",
+      "description": "The station also announces a new presenter for its country show after Bob Harris's departure.",
+      "published_at": "2026-09-28T08:05:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "760b4777bf395b82deff9ebcf5ef9581adfba0e6df14dd0dd149c24159a4aed2",
       "title": "National Gallery Singapore and Singapore Art Museum announce leadership changes from Jan 1, 2027",
       "url": "https://www.channelnewsasia.com/living/national-gallery-singapore-sam-chng-hak-peng-eugene-tan-6415016",
@@ -4391,6 +4602,17 @@
     },
     {
       "id": "f6af32995b3e3a1d36efb5bb1c40c253a23138c5375f81b767f2a7dac0d634af",
+      "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+      "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+      "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+      "published_at": "2026-09-28T05:02:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "adb7906aa0c19a0f08f8ade552e8d4e424079b14ce6eb44ebc41c2e9eb69e956",
       "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
       "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
       "description": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
