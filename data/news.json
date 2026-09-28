@@ -1,6 +1,215 @@
 {
-  "last_updated": "2026-09-28T06:03:30.021806+00:00",
+  "last_updated": "2026-09-28T07:06:00.983752+00:00",
   "articles": [
+    {
+      "id": "34650305c06190a20bfb63a2fff0136648d836c98a569bf93f89dd3d61f8f451",
+      "title": "What we know about RAF Fairford counter-terror probe",
+      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "published_at": "2026-09-28T07:04:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c90bcb764f22fa895698ded042d383e8548e94a2fb83d4689bae703504a96af1",
+      "title": "Podcast: Pocognoli v Clarke - what has changed for Scotland?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pctbqh?at_medium=RSS&at_campaign=rss",
+      "description": "The Pocognoli blueprint: progress, promise and Switzerland",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "de6b7035c94786397f016dd3477d9e495cc42be1c14320fee3b1af1a7ee041a2",
+      "title": "SpaceX to attempt putting Starship rocket into Earth orbit for first time",
+      "url": "https://www.france24.com/en/science/20260928-spacex-aims-put-starship-rocket-into-earth-orbit-first-time",
+      "description": "Space X on Monday will attempt to launch its Starship rocket from Texas into Earth's orbit in a 10-hour flight which would deploy 26 Starlink satellites and would represent a milestone in the development of the massive launch vehicle. But the success of the launch is uncertain, as many previous tests have failed.",
+      "published_at": "2026-09-28T06:50:31+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c0fb8f6f1c9aaac413ee6acf09d039143e8dbcfc192a20e80f5077a25af7516b",
+      "title": "Water returns for thousands after disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cmn5dvln36y1o?at_medium=RSS&at_campaign=rss",
+      "description": "Southern Water says about 9,000 customers hit by supply issues have have seen supplies return.",
+      "published_at": "2026-09-28T06:41:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0a8b4851c7c2bda88ebcad5d18890221795de7549636e3e76a76bc2ed7eaa3e0",
+      "title": "2026 MTV VMAs: Taylor Swift makes VMA history and debuts Patient Zero music video, Lisa wins Best Pop award",
+      "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-mtv-vmas-dolly-parton-patient-zero-lisa-6414946",
+      "description": "The night featured various musical tributes to Dolly Parton, Taylor Swift becoming the most-awarded artist in VMA history and premiering her Patient Zero music video, as well as Blackpink's Lisa taking home Best Pop for the song Dream.",
+      "published_at": "2026-09-28T06:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a9b55109ae2b5936e439c1a8f332e5ccc9d4d153445e2d902a14538011d2d9d8",
+      "title": "ESA taps OVHcloud, CGI to build system for Earth observation data",
+      "url": "https://www.channelnewsasia.com/business/esa-taps-ovhcloud-cgi-build-system-earth-observation-data-6415056",
+      "description": "",
+      "published_at": "2026-09-28T06:34:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "70a10a978884bec81812a7fb10f8817ff8ba32a2a83e428270cd4a32c838973d",
+      "title": "Hong Kong authorities investigate yacht that allegedly charged at boat with 6 rowers",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3369032/hong-kong-authorities-investigate-yacht-allegedly-charged-boat-6-rowers?utm_source=rss_feed",
+      "description": "Hong Kong marine authorities have launched an investigation after a yacht allegedly sped directly towards a boat rowed by six athletes during a race in Sai Kung over the weekend, in an aggressive act that one participant said was “deliberate”. The incident came to light on Sunday after one of the rowers, Eddie Lam Yat-ming, an assistant professor at the Hong Kong Metropolitan University’s Lee Shau Kee School of Business and Administration, shared footage of the encounter on social media. Lam was...",
+      "published_at": "2026-09-28T06:26:40+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "62a3bd16505aac661775b007055626569b1402537787d56f3a730baf04f90913",
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "description": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
+      "published_at": "2026-09-28T06:22:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "11efb9e9ce70a19ca9883d91f77ecb1b3769c1e4faf34872ac927d3892afa0f6",
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "description": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
+      "published_at": "2026-09-28T06:22:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "171da15347521417287799bf77d4cfe0b45658f6b2db5678996bf690a7586f5b",
+      "title": "Ladbrokes owner Entain cuts revenue outlook after Brazil online betting ban",
+      "url": "https://www.channelnewsasia.com/business/ladbrokes-owner-entain-cuts-revenue-outlook-after-brazil-online-betting-ban-6415026",
+      "description": "",
+      "published_at": "2026-09-28T06:22:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "45f68ed6d2293f64adbf3126928ec6751610ec9a7e454c5520f4dd7215cc4b3a",
+      "title": "Singaporean TV actors charged over death penalty protests",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369030/singaporean-tv-actors-charged-over-death-penalty-protests?utm_source=rss_feed",
+      "description": "Six Singaporeans, including journalist Kirsten Han and Phua Chu Kang actors Lim Kay Siu and Neo Swee Lin, were charged on Monday with taking part in public assemblies. The assemblies were held in prohibited areas, with one held outside the State Courts in support of abolishing the death penalty, as well as candlelight vigils held outside Changi Prison for death row inmates. The six charged are Annamalai Kokila Parvathi, 38, Ten Leu Jiun Jeanne-Marie, 56, Howe Wen Khong Rocky, 31, Kirsten Han,...",
+      "published_at": "2026-09-28T06:22:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "82591b94731dc58cf4d65c20f6aa38606d9b85c892ceca619f0205a8610f13d3",
+      "title": "China’s gas turbine makers aim to challenge global giants. Is Malaysia the start?",
+      "url": "https://www.scmp.com/economy/global-economy/article/3369029/chinas-gas-turbine-makers-aim-challenge-global-giants-malaysia-start?utm_source=rss_feed",
+      "description": "In the latest milestone for China’s heavy-duty gas turbine manufacturers, Shanghai Electric has secured a turnkey contract to supply equipment to a power plant in Malaysia, giving it a foothold in a market dominated by established foreign suppliers amid a global supply crunch. The state-owned conglomerate, based in Shanghai, hailed the deal reached earlier this month as evidence of the competitiveness of its integrated solutions and its capacity to design and manufacture crucial components...",
+      "published_at": "2026-09-28T06:20:17+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "b41089948b93b70feca89d2643b357264f1a00c5329aac14be43a69bb51be2a0",
+      "title": "Ateb y Galw: Cai Fôn Davies",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqn74n38jepzo?at_medium=RSS&at_campaign=rss",
+      "description": "Cai Fôn Davies sy'n athro yn y gyfres Athrawon ac yn aelod o gôr Johns' Boys sy'n Ateb y Galw yr wythnos hon.",
+      "published_at": "2026-09-28T06:19:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "b43a4ac4c204c00c560cbfc61bf2ee4d4a4e444cc941944877c53e3d621ca7ff",
+      "title": "CDL to divest S$6 billion over 3 years, CEO pledges 'unwavering focus' on execution of new strategy",
+      "url": "https://www.channelnewsasia.com/singapore/cdl-kwek-family-divestments-investments-6414536",
+      "description": "If completed, the divestments would represent around one-sixth of the company's existing assets.",
+      "published_at": "2026-09-28T06:11:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "60e0435ac6feada0e085c92e23ba6232ebf35e6278116bccbec7f447b6367383",
+      "title": "Eight dead in Thailand floods since mid-September",
+      "url": "https://www.channelnewsasia.com/asia/thailand-floods-deaths-heavy-rain-disaster-6414981",
+      "description": "",
+      "published_at": "2026-09-28T06:10:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "83811d9dd1f0686ffdcf2c7d48a51244848eda25de35dbc0d83d4a15820e9a62",
+      "title": "440,000 mainland arrivals over Mid-Autumn weekend, hotels brace for National Day",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369026/440000-mainland-arrivals-over-mid-autumn-weekend-hotels-brace-national-day?utm_source=rss_feed",
+      "description": "Mainland Chinese visitors made about 440,000 trips to Hong Kong over the Mid-Autumn Festival weekend, with a tourism industry representative expecting hotel occupancy of more than 90 per cent in popular districts during the coming National Day “golden week”. Hong Kong recorded 439,532 arrivals by mainland visitors from last Friday to Sunday, according to Immigration Department figures released on Monday. The total accounted for about a quarter of the 1.73 million arrivals recorded during the...",
+      "published_at": "2026-09-28T06:07:42+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "1e3349d687780f29b7a5700563bea20f1d8a6ea23a319bacd0de0f0fdc9a9245",
+      "title": "Businessman Jason Poon, wife, granted bail over alleged HK$6 million loan fraud",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369025/businessman-jason-poon-wife-granted-bail-over-alleged-hk6-million-loan-fraud?utm_source=rss_feed",
+      "description": "Hong Kong businessman Jason Poon Chuk-hung and his wife have been granted bail after facing charges for allegedly defrauding a government financing scheme for businesses out of HK$6 million (US$765,000) during the Covid-19 pandemic. Construction businessman Poon, 56, and his 54-year-old wife, Carrie Chu Shu-fong, were told at Kowloon City Court on Monday that proceedings for their fraud and money laundering charges would be transferred to the District Court, where the maximum sentence for any...",
+      "published_at": "2026-09-28T06:06:45+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "29a58662e2b92f3ba976c11e5d227caee5e185acb64b4ff205041ce0a324a80b",
+      "title": "Singapore’s Loh Kean Yew through to Asian Games badminton final after beating South Korea’s Yoo",
+      "url": "https://www.channelnewsasia.com/sport/loh-kean-yew-asian-games-badminton-semi-final-6414736",
+      "description": "Loh Kean Yew, the first Singaporean to reach an Asian Games badminton final, will battle Thailand’s Kunlavut Vitidsarn for gold.",
+      "published_at": "2026-09-28T06:04:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
     {
       "id": "5d273f281039046cddc6ddb0ad28c9fd50eef56cfe60a5a0c222f203eb7ebb54",
       "title": "Police block Orange Order from controversial parade route",
@@ -20,7 +229,8 @@
       "published_at": "2026-09-28T06:00:25+00:00",
       "source": "BBC",
       "categories": [
-        "Northern Ireland"
+        "Northern Ireland",
+        "UK"
       ]
     },
     {
@@ -91,6 +301,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "d0676ffa000c10d6c33d03350db9fb1f1220236f6d40ec48a53596431210758e",
+      "title": "No slowing down for sweetmaker 'Toffee Ron'",
+      "url": "https://www.bbc.co.uk/news/articles/c804667dl47yo?at_medium=RSS&at_campaign=rss",
+      "description": "Ron Westhead's family have been handcrafting sweets in Wigan for more than a century.",
+      "published_at": "2026-09-28T05:38:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -238,6 +459,28 @@
       ]
     },
     {
+      "id": "2b636decba5e6b8c02f5f7a04a50f27e62a3c05422bd7b76a03b6ffd460f9af1",
+      "title": "The communities travelling miles to dispose of waste",
+      "url": "https://www.bbc.co.uk/news/articles/c61kxgygvjg4o?at_medium=RSS&at_campaign=rss",
+      "description": "People in Ilkley and Birstall share their frustrations at the loss of tip facilities.",
+      "published_at": "2026-09-28T05:16:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "bd0e9bb7573d17f07750db8ee4771de38ceb2a90cde2f1384653c10c60c147bd",
+      "title": "Could the ear replace the fingertip for oxygen monitoring?",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwexgeg99o?at_medium=RSS&at_campaign=rss",
+      "description": "A new study is investigating whether ear oxygen monitoring could be more precise than fingertip tests.",
+      "published_at": "2026-09-28T05:15:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "da2ff08d84529c0c98f03628d8e24b716f363584af5d864f4c60c3fcd4e0c81f",
       "title": "How waste food helps families through the week",
       "url": "https://www.bbc.co.uk/news/articles/cjqlw1p4pvxgo?at_medium=RSS&at_campaign=rss",
@@ -284,6 +527,17 @@
       ]
     },
     {
+      "id": "baa4a7ba51118f2ef90e1412699b2430ea64f03d4080003fbf64397692e01091",
+      "title": "Why are more towns and cities moving to 20mph?",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30p2zpp33o?at_medium=RSS&at_campaign=rss",
+      "description": "Many councils are turning to 20mph limits, but questions remain over the benefits across the UK.",
+      "published_at": "2026-09-28T05:14:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "33bfb2fed18b1b96bff697adb2831d09e4ef3428aedd8222928f66d83ad8ea41",
       "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
       "url": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
@@ -318,6 +572,17 @@
       ]
     },
     {
+      "id": "1c0265507a4adda788591ad49d8797284c02bd5d3c7bc7bd3a115b30b311d032",
+      "title": "Crash fears grow at school route junction",
+      "url": "https://www.bbc.co.uk/news/articles/cw770gpdpj03o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents say they fear someone will be seriously hurt at a junction hit by repeated crashes.",
+      "published_at": "2026-09-28T05:11:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "a0d2770711406e3406f7a4cc9d9eb409e16960b4493ea2fcbb6cb88df9ba315a",
       "title": "Billy Monger urges the young to overcome self-doubt",
       "url": "https://www.bbc.co.uk/news/articles/cqj3d6xpk6d5o?at_medium=RSS&at_campaign=rss",
@@ -341,7 +606,29 @@
       ]
     },
     {
+      "id": "599558f2cc82d4f07febfe5669a76354fa32a9becdc8d8101fe20127e2855147",
+      "title": "Aid volunteer moved by stories from Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zr3vrydvo?at_medium=RSS&at_campaign=rss",
+      "description": "Iain Penning has completed his second aid convoy with the charity Pickups for Peace.",
+      "published_at": "2026-09-28T05:09:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "2a646c667006e5431b27aa8dd0cfc9de61c3336022e4ed2686b4e2ab529be110",
+      "title": "South East freshers offered meningitis jabs on campus",
+      "url": "https://www.bbc.co.uk/news/articles/ckgjqe1d2j30o?at_medium=RSS&at_campaign=rss",
+      "description": "Clinics are being held during Freshers Week at universities including Surrey, Kent and Chichester",
+      "published_at": "2026-09-28T05:08:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b137c8f920d33aaae85d2d112463282bada074336e0164714462a4abfda65864",
       "title": "South East freshers offered meningitis jabs on campus",
       "url": "https://www.bbc.co.uk/news/articles/ckgjqe1d2j30o?at_medium=RSS&at_campaign=rss",
       "description": "Clinics are being held during Freshers Week at universities including Surrey, Kent and Chichester",
@@ -363,6 +650,17 @@
       ]
     },
     {
+      "id": "b832bb45c02faa3ca70183010e3ed84db5035dc889888f67a56d71478cff58ad",
+      "title": "Barn owl chick numbers 'exceed expectations'",
+      "url": "https://www.bbc.co.uk/news/articles/cmly4r4pkk0do?at_medium=RSS&at_campaign=rss",
+      "description": "Wildlife volunteers celebrate a bumper year after ringing 541 owlets, as compared to 270 in 2025.",
+      "published_at": "2026-09-28T05:07:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "7611fc2a75a2a281bc173b02dc80b97d4d0810a9033183b5018d3c2b7f9d6dd7",
       "title": "Uni student living at home 'wasn't ready' to move away",
       "url": "https://www.bbc.co.uk/news/articles/cmwyzjgw7q6zo?at_medium=RSS&at_campaign=rss",
@@ -374,6 +672,17 @@
       ]
     },
     {
+      "id": "a7d0ab03ce86514f9f00b34a92004da90b06bbfb232e5e97d3624c6c33ce6009",
+      "title": "Skateboarders complete 500km charity challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy68dq3e0o?at_medium=RSS&at_campaign=rss",
+      "description": "Two lifelong friends push from London to the Dutch capital in a charity fundraising challenge.",
+      "published_at": "2026-09-28T05:06:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "35cc919aa84920ab53a5881aab8795be7d717e20c350691bc6054849b1b0ccc6",
       "title": "Getting river pollution investigated like 'pulling teeth'",
       "url": "https://www.bbc.co.uk/news/articles/c95y4ejvl655o?at_medium=RSS&at_campaign=rss",
@@ -382,6 +691,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "6b1f6316982e5b5238694640aab211bc3946cb90d8bca2fd891b36a5378a0e29",
+      "title": "Pumpkin patches feel the heat after summer drought",
+      "url": "https://www.bbc.co.uk/news/articles/ckyvz0r797zyo?at_medium=RSS&at_campaign=rss",
+      "description": "What impact have the extreme heat and dry conditions over summer had on Halloween's pumpkin crops?",
+      "published_at": "2026-09-28T05:02:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -403,7 +723,8 @@
       "published_at": "2026-09-28T05:01:06+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -430,7 +751,30 @@
       ]
     },
     {
+      "id": "5c3bb351cceb581a68bfa603062437f1294c6ce0535c8f5a2138ce27b8fe6761",
+      "title": "'All options' considered for Banksy's flag statue",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgy8pkykgxo?at_medium=RSS&at_campaign=rss",
+      "description": "Westminster City Council says it is the statue's custodian and is responsible for its safety.",
+      "published_at": "2026-09-28T04:56:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "79a07a153c63467b3c9db94a185c37597e5e0c56135cb68b7a134eda4cec364b",
+      "title": "Stock car driver, 18, inspired by dad in world title bid",
+      "url": "https://www.bbc.co.uk/news/articles/c6m277e920ydo?at_medium=RSS&at_campaign=rss",
+      "description": "Brooke Kitson says her part in Saturday's World Championship in Northampton is a \"great achievement\".",
+      "published_at": "2026-09-28T04:54:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "2beae04c079e8389ea250d116553dc6d6a4571a5e2f1664105b6a4a4121012a1",
       "title": "Stock car driver, 18, inspired by dad in world title bid",
       "url": "https://www.bbc.co.uk/news/articles/c6m277e920ydo?at_medium=RSS&at_campaign=rss",
       "description": "Brooke Kitson says her part in Saturday's World Championship in Northampton is a \"great achievement\".",
@@ -653,6 +997,29 @@
       ]
     },
     {
+      "id": "f461eb57f99b377e70ee78b4ff0158e0e6016e4e2032c0e9086a54361886cd25",
+      "title": "Avanti West Coast services to be nationalised from March",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+      "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "published_at": "2026-09-28T03:05:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland",
+        "UK"
+      ]
+    },
+    {
+      "id": "7705fdaf983dae485c97a692d3bc5415019de6800d307682df772cedeee64866",
+      "title": "Avanti West Coast services to be nationalised from March",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+      "description": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "published_at": "2026-09-28T03:05:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "90aef3f13e38baa7d768693659807fe94da8d08ce46fe45c951c94d38386fdf5",
       "title": "Fireworks, free rides and dining deals: how to celebrate National Day in Hong Kong",
       "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368962/fireworks-free-rides-and-dining-deals-how-celebrate-national-day-hong-kong?utm_source=rss_feed",
@@ -775,7 +1142,7 @@
       "id": "e56df3aabf9d89ed7dc6ec5aec8283e2cce3f5b11f66c681b2bea3e1957a4eb1",
       "title": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
       "url": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
-      "description": "Taylor Swift became the most-awarded artist in MTV Video Music Awards history on Sunday, receiving the inaugural Artist Director Honors and moving past Beyoncé with 31 awards. Swift, who said she had written and directed 18 music videos, also premiered her self-directed video for “Patient Zero,” starring Colin Farrell and Dakota Johnson.",
+      "description": "Taylor Swift became the most-awarded artist in MTV Video Music Awards history on Sunday, receiving the inaugural Artist Director Honors and moving past Beyoncé with her 31 awards. Swift, who said she had written and directed 18 music videos, also premiered her self-directed video for “Patient Zero”, starring Colin Farrell and Dakota Johnson.",
       "published_at": "2026-09-28T02:07:35+00:00",
       "source": "France 24",
       "categories": [
@@ -1264,6 +1631,7 @@
       "published_at": "2026-09-27T23:05:53+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -1279,6 +1647,18 @@
       ]
     },
     {
+      "id": "7adced855183ebd5e91ff69c895cedab47edbd5747ebbd9b083177b64f2fad67",
+      "title": "My hometown shows that high streets have to change or die",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "published_at": "2026-09-27T23:05:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Scotland"
+      ]
+    },
+    {
       "id": "c44dc37495745ca9f5f70633e0c43c540bf8988732dd0fce8df3a570baf44b82",
       "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
       "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
@@ -1287,6 +1667,7 @@
       "source": "BBC",
       "categories": [
         "Business",
+        "Politics",
         "UK"
       ]
     },
@@ -1591,7 +1972,7 @@
       "id": "62b0897b2d955426d2a13195faf9d5f98cb7d3a4657f407038358b29e2e43712",
       "title": "House for sale for £17k - but it doesn't have a roof",
       "url": "https://www.bbc.co.uk/news/articles/cmpwl090yxpyo?at_medium=RSS&at_campaign=rss",
-      "description": "It's been home to north Wales' strongest man and poet Dewi Arfon, the auctioneers say.",
+      "description": "It's been home to north Wales' strongest man Dewi Arfon near Yr Wyddfa, also known as Snowdon.",
       "published_at": "2026-09-27T20:55:32+00:00",
       "source": "BBC",
       "categories": [
@@ -1617,6 +1998,7 @@
       "published_at": "2026-09-27T20:54:32+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Wales"
       ]
     },
@@ -1647,7 +2029,7 @@
       "id": "fc968c4446b0e7bc2d4d345beab882f9828cecfceabfc568186579629944ef1e",
       "title": "Plaid Cymru 'holding up investment' in Wales, claims Welsh Secretary",
       "url": "https://www.bbc.co.uk/news/articles/crgjq9ldx95eo?at_medium=RSS&at_campaign=rss",
-      "description": "He accuses Plaid Cymru Welsh government of \"sitting on your hands\" at Labour conference.",
+      "description": "He accuses the Plaid Cymru Welsh government of \"sitting on your hands\" at the Labour conference.",
       "published_at": "2026-09-27T20:06:01+00:00",
       "source": "BBC",
       "categories": [
@@ -2870,6 +3252,17 @@
       ]
     },
     {
+      "id": "65d492d748951a528e8ac258fde4a2d2b1d3638d00cccb1c88eb8d2ccefc58cd",
+      "title": "Our Friends in the North still relevant - writer",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yl06l576po?at_medium=RSS&at_campaign=rss",
+      "description": "Peter Flannery says a new stage version of the classic TV show will resonate with modern audiences.",
+      "published_at": "2026-09-27T10:58:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "4e5960d4bdfaccf56ea825e241705e20d66b28af65081767244a41cf089f6f37",
       "title": "Bangkok flood warnings ‘came too late’ Thais say, worst flood in 15 years",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3368955/bangkok-flood-warnings-came-too-late-thais-say-worst-flood-15-years?utm_source=rss_feed",
@@ -3355,6 +3748,17 @@
     },
     {
       "id": "7bdaf43d37884ac7df87cc17e337a0f84ca939252d81ba59368c4d6f7c3f0278",
+      "title": "Wheelchair users hit by shortage of accessible taxis",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rey58yw80o?at_medium=RSS&at_campaign=rss",
+      "description": "The high cost of buying and maintaining accessible taxis is impacting on wheelchair users.",
+      "published_at": "2026-09-27T08:09:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "35628ba09771835327838db317195de0ef71d36366ac70e37e3c77cd8fedfcb2",
       "title": "Wheelchair users hit by shortage of accessible taxis",
       "url": "https://www.bbc.co.uk/news/articles/ck3rey58yw80o?at_medium=RSS&at_campaign=rss",
       "description": "The high cost of buying and maintaining accessible taxis is impacting on wheelchair users.",
@@ -3883,6 +4287,7 @@
       "source": "BBC",
       "categories": [
         "England",
+        "Entertainment & Arts",
         "UK"
       ]
     },
@@ -4707,6 +5112,17 @@
       "source": "BBC",
       "categories": [
         "Politics"
+      ]
+    },
+    {
+      "id": "4db18234d9181104b5925e77d978ead5246dabbfa5bc179399f09cfd6ed3c5fd",
+      "title": "Faisal Islam: The two big decisions the chancellor must make",
+      "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "published_at": "2026-09-26T23:00:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -6869,6 +7285,17 @@
       ]
     },
     {
+      "id": "bfceb5032b25916b712a74ffcc065716242fe1281d9aba57c69ca65207feb74c",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "published_at": "2026-09-26T10:05:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "397c89ded9278a05e501a57aeca02b78f67f68ce51e5f10dfafa2541dc6188d9",
       "title": "Chinese doctor with PhD leaves medical career to deliver food, pursue music part-time",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368901/chinese-doctor-phd-leaves-medical-career-deliver-food-pursue-music-part-time?utm_source=rss_feed",
@@ -7449,6 +7876,7 @@
       "published_at": "2026-09-26T07:59:43+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -10520,6 +10948,17 @@
       ]
     },
     {
+      "id": "37d02162bb7465f30eef7881e152aa9682ee008c4d3753ad68f5115db0661fe7",
+      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
+      "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
+      "description": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
+      "published_at": "2026-09-25T15:51:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "97b160c3b6f36bc18ae34daa8b525d6eba443ba6c93986340594a7667e8d0e3f",
       "title": "87 mlynedd o garchar i bum aelod gang am fanteisio ar ferched ifanc yn rhywiol",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cw770g1xgne4o?at_medium=RSS&at_campaign=rss",
@@ -12503,6 +12942,7 @@
       "published_at": "2026-09-25T10:51:28+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "World"
       ]
     },
@@ -145543,17 +145983,6 @@
       "url": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
       "description": "Niger's ​defense ​ministry said the armed forces were ​progressively ‌retaking ⁠control ‌of sites targeted in ⁠an overnight attack on ​the ‌capital Niamey, according to a ‌statement read ​on state television, which resumed broadcasting ​on ​Saturday after ​temporarily going ​offline.",
       "published_at": "2026-08-29T12:33:03+00:00",
-      "source": "France 24",
-      "categories": [
-        "Africa"
-      ]
-    },
-    {
-      "id": "9566eda9362691f2d68e37b99715e8cf6d9ab6f5d62493bda8812c580bc9f6a2",
-      "title": "Niger junta regains control after mutiny with help from Russian paramilitary forces",
-      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "description": "Niger's junta said Saturday it was back in control after mutineers held soldiers hostage at a military base next to the capital's airport. Russian Africa Corps paramilitary forces helped members of Niger's presidential guard recapture the air base, killing some of the mutineers, according to diplomatic and security sources.",
-      "published_at": "2026-08-29T06:33:07+00:00",
       "source": "France 24",
       "categories": [
         "Africa"
