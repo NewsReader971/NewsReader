@@ -1,6 +1,202 @@
 {
-  "last_updated": "2026-09-28T17:04:13.158212+00:00",
+  "last_updated": "2026-09-28T18:03:33.673467+00:00",
   "articles": [
+    {
+      "id": "b09bee1acfd0cc14cb3cdd5f0543d142125a07d620c9df282d1b8385d5f9be88",
+      "title": "Trump announcing new Iowa steel plant the White House says will be biggest in US",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369110/trump-announcing-new-iowa-steel-plant-white-house-says-will-be-biggest-us?utm_source=rss_feed",
+      "description": "US President Donald Trump is announcing a new US$15 billion steel plant in Iowa being built with backing from an Indian conglomerate, creating what the White House says will become the largest steel plant in US history. The White House said Trump will announce the project on Monday afternoon alongside steel industry executives and commerce officials. It comes as Trump is trying to energise voters ahead of difficult midterm races including in Iowa, where governor and Senate seats have become...",
+      "published_at": "2026-09-28T18:02:58+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "e83eace84ec78f082d1fa955a2296edada694874becc2276ddb422f834f27646",
+      "title": "US deportations are triggering a 'cascade' of rights abuses, UN experts warn",
+      "url": "https://www.france24.com/en/americas/20260928-us-trump-deportations-triggering-cascade-of-rights-abuses-un-experts-warn-forbidden-stories",
+      "description": "The Trump administration's policy of deportating thousands of people to countries with which they have no links is \"increasing risks of torture and ill-treatment and enforced disappearance\", a panel of independent UN experts warned on Monday. An investigation by an international consortium of journalists including FRANCE 24 reporters determined last week that more than 25,000 third-country nationals had been deported by the end of August.",
+      "published_at": "2026-09-28T18:01:17+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "e8141d7e93c041589e282595ee57159883bbbb423029bccadc531b2cb684df65",
+      "title": "Iran supreme leader says US will be forced out of Middle East: state TV",
+      "url": "https://www.channelnewsasia.com/world/iran-khamenei-us-middle-east-6416471",
+      "description": "“They have only brought harm upon themselves,” Iran’s Supreme Leader Mojtaba Khamenei said, claiming the United States will eventually be forced out of the Middle East.",
+      "published_at": "2026-09-28T17:49:20+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "2125082d8aaee57a150e8a4ef32bb8d4b482bbf7b933176df38e2107fffb1d94",
+      "title": "Aldi boss says some loyalty discounts 'dupe' customers",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+      "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "published_at": "2026-09-28T17:45:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "14be877e435012367fdd0ba321ff84529c6d565b1bef36969892d5a8d601d392",
+      "title": "Passports needed for ferries between Wales and Republic of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/c8750pyl1pl5o?at_medium=RSS&at_campaign=rss",
+      "description": "Operators have brought in new rules if you are travelling by ferry from Britain to the Republic of Ireland.",
+      "published_at": "2026-09-28T17:43:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "1dd777675f7c6582b07c8b4f79dceaf95cabf3af19ebdcf0a7bf1ccc8c865394",
+      "title": "Man City CEO tells EFC board financial case still not public",
+      "url": "https://www.channelnewsasia.com/sport/man-city-ceo-tells-efc-board-financial-case-still-not-public-6416496",
+      "description": "",
+      "published_at": "2026-09-28T17:39:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "a17764f371b4df26e597dbc03d7b7adab4eb26a4660d594bcb67144b24193657",
+      "title": "Norris apologised to Colapinto after Baku race over ban comment",
+      "url": "https://www.channelnewsasia.com/sport/norris-apologised-colapinto-after-baku-race-over-ban-comment-6416476",
+      "description": "",
+      "published_at": "2026-09-28T17:37:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "96519fd9b9eea67c06caa90bd7e32ea2c9f14e4445c77631bb54232fd4021744",
+      "title": "Premier League set for long wait as Man City face prospect of sanctions",
+      "url": "https://www.channelnewsasia.com/sport/premier-league-set-long-wait-man-city-face-prospect-sanctions-6416481",
+      "description": "",
+      "published_at": "2026-09-28T17:35:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "53d4c59470b9fd7c555514efb0119160255d5aaee13ce2fcc4e679e7af5ae869",
+      "title": "Leics get partial points reprieve but stay in limbo",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+      "published_at": "2026-09-28T17:34:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8e9eb366c821a27ef630ff16d18584115de126d517a93e0bea1bd093dabe8d1d",
+      "title": "🔴 Pope Leo leaves France after ending four-day visit with plea for Europe to foster global dialogue",
+      "url": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "description": "",
+      "published_at": "2026-09-28T17:34:10+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "020cc4f6298b41fdbd195778449765f0231cbc10cffeeebed009f791a1d977c8",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "published_at": "2026-09-28T17:26:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d4d8d8930c3affac9793f19d66ab3365cbc6d75d535efb9bfebe84987220924",
+      "title": "FBI deputy chief Andrew Bailey to resign after a little more than a year with agency",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369109/fbi-deputy-chief-andrew-bailey-resign-after-little-more-year-agency?utm_source=rss_feed",
+      "description": "Andrew Bailey, one of the FBI’s two deputy directors, said on Monday he is resigning his position, leaving the most prominent US law enforcement agency after a little more than a ‌year. Bailey, a Republican ally of US President Donald Trump who left his job as Missouri attorney general to join the FBI (Federal Bureau of Investigation), said he was leaving to return to his family. Bailey, serving under FBI Director Kash Patel, helped oversee election-related investigations and was present earlier...",
+      "published_at": "2026-09-28T17:26:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "ec1a02b9634f2edf8ac4333233880b32a9be37416bfb0320e446da62f1040a76",
+      "title": "Rare snow leopard cub with incurable bone condition put to sleep",
+      "url": "https://www.bbc.co.uk/news/articles/cmd943wgpq9lo?at_medium=RSS&at_campaign=rss",
+      "description": "Indra and his twin sister Tama were born at the Highland Wildlife Park in June.",
+      "published_at": "2026-09-28T17:23:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4a7e079c2a4b6a9e709bc032f2e4d8f0427a8244dd5eb06f52a18776082bac89",
+      "title": "US deportations triggering 'cascade' of rights abuses: UN experts",
+      "url": "https://www.channelnewsasia.com/world/us-deportations-third-country-un-rights-abuse-6416356",
+      "description": "The experts said the US has agreements with more than 35 countries and has deported at least 23,000 third-country nationals.",
+      "published_at": "2026-09-28T17:22:59+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "7f500a304ded9f0029c3e6f97f3c4aa9ffe0b7c25724673d001ae7a229489e84",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "published_at": "2026-09-28T17:15:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "5b42c1f474efb10261bfe0dc33ac491e4af481a567394f0b24bc8eb55ef08a98",
+      "title": "People escape historic Kyiv building hit by Russian drone",
+      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+      "published_at": "2026-09-28T17:04:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "90da717e6fa4197b4dd308cec8b929cae73cbf379372667875ca9dcb26270042",
+      "title": "UK tries to stop Trump's diesel export ban",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "published_at": "2026-09-28T17:00:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Politics"
+      ]
+    },
     {
       "id": "c5c18f00bd5d85d4bc4439edd9b9a006d211e2ac5923266f6a370f4d89dec4da",
       "title": "Here's how record UK diesel prices could get worse",
@@ -21,6 +217,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "fa895dbafcba0b8438e9d1bf8d7e57bca203c8ec764a538348c4632277e0d98a",
+      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
+      "url": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds",
+      "description": "With a month to go until Israel goes to the polls on October 27th, a new opinion poll shows the opposition bloc led by Gadi Eisenkot's Yashar party in a dead heat with Prime Minister Benyamin Netanyahu's coalition. It comes as the leaders of the four main opposition parties pledged to work together.",
+      "published_at": "2026-09-28T16:55:29+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -91,6 +298,17 @@
       ]
     },
     {
+      "id": "5a823d58ea430262d47a76d82a37c8e34722637852655e02cfc79d90d342135b",
+      "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
+      "description": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear.",
+      "published_at": "2026-09-28T16:47:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "b26fc62a29767b345d1d535919852751a977bbc29bc4779ef68871bf1c03e124",
       "title": "Five suspects arrested in explosives case near UK airbase were British nationals",
       "url": "https://www.france24.com/en/video/20260928-five-suspects-arrested-in-explosives-case-near-uk-airbase-were-british-nationals",
@@ -141,6 +359,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
       "description": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
       "published_at": "2026-09-28T16:25:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba7c511c37dd4372a33cb7ce3a123fd28c9ca8b9552f92fa77e30a37fdf91b3a",
+      "title": "Women protest in the streets of Delhi after string of sexual assaults",
+      "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+      "description": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+      "published_at": "2026-09-28T16:15:57+00:00",
       "source": "BBC",
       "categories": [
         "World"
@@ -272,10 +501,21 @@
       ]
     },
     {
+      "id": "4e775fd08579f0b414fe9bc8157a285d0938011f9b5ab7d729a410f236e515b3",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+      "published_at": "2026-09-28T15:39:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "efe8cf9ddf87485f940152324f196b489cce2131178c657331a3f47996187139",
       "title": "Man arrested for murder after body found by coast",
       "url": "https://www.bbc.co.uk/news/articles/cqpvegx2ll7eo?at_medium=RSS&at_campaign=rss",
-      "description": "Police arrest a 44-year-old man after a woman's body is found in Alderney in the early hours.",
+      "description": "A 44-year-old man arrested on suspicion of murder after a woman was found dead is taken to Guernsey.",
       "published_at": "2026-09-28T15:33:16+00:00",
       "source": "BBC",
       "categories": [
@@ -754,7 +994,7 @@
       "id": "bd30904219083fedb2e6da849aa0dba13e527600ee810b478f03420e599acd64",
       "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
       "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "description": "Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.",
+      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
       "published_at": "2026-09-28T13:59:06+00:00",
       "source": "BBC",
       "categories": [
@@ -765,11 +1005,22 @@
       "id": "1ce677805314cd90df021d7f3add554ca76d2828f649c25dd78eb6e8e514ea65",
       "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
       "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "description": "Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.",
+      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
       "published_at": "2026-09-28T13:59:06+00:00",
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "0a80e097381270f14e61e49e0b8d34fe5f94e3665e09956d9b605573893ec590",
+      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+      "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+      "published_at": "2026-09-28T13:59:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1280,6 +1531,17 @@
       ]
     },
     {
+      "id": "f17123659461b9fb9ed3bc8042f3a7661557b852ff3406d43b6c66184e4d49e4",
+      "title": "Man, 79, charged over fatal crash outside supermarket",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyzdjqdvxgo?at_medium=RSS&at_campaign=rss",
+      "description": "Bill Hepburn was struck by a car in the car park of Tesco Extra on Meadow Place Road, Corstorphine, on 18 February and died at the scene.",
+      "published_at": "2026-09-28T12:22:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "591fb1073efbd27a55afb17111b579054cd8418993a34ee3683eaec03016c591",
       "title": "Stolen dog reunited with owners after a year",
       "url": "https://www.bbc.co.uk/news/articles/ck87vzwyx4xwo?at_medium=RSS&at_campaign=rss",
@@ -1612,6 +1874,17 @@
       ]
     },
     {
+      "id": "17c9b71ee6e4353f5d217b6a59db8e395bbb75855efcce727befaedc5c55f27c",
+      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+      "description": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "published_at": "2026-09-28T11:16:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "0ac670a3567b97ef558db93ba68a1aac49c64541a8d69cb2ada5833ff8fc2279",
       "title": "Man pleads not guilty to murdering woman",
       "url": "https://www.bbc.co.uk/news/articles/cxnvl0850z2ro?at_medium=RSS&at_campaign=rss",
@@ -1699,6 +1972,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment",
+        "World"
+      ]
+    },
+    {
+      "id": "aeed6344cf4c9330fdc25c85312ca60c15817d8a5ed6e7e44efe9e5da462cb1b",
+      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "published_at": "2026-09-28T11:05:49+00:00",
+      "source": "BBC",
+      "categories": [
         "World"
       ]
     },
@@ -2758,6 +3042,17 @@
       ]
     },
     {
+      "id": "5cb2408d661473d34dbb6accf171f30fa37f08a65cc77fb66fc63322a50cd2fd",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "description": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "published_at": "2026-09-28T07:52:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "aa2461953c19165b56e6bf62a2bd44ba2c6136c286456d2be077db9e93e9ba04",
       "title": "What comes next for North Korea soldiers transferred from Ukraine to South Korea?",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-soldiers-transferred-ukraine-south-korea-6415071",
@@ -3629,6 +3924,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "cc3d025616183a716a2f135c0f4f4df6c5f364e0a1f38d80ca664e1925bedf4f",
+      "title": "House up for auction for £17k - but it doesn't have a roof",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwl090yxpyo?at_medium=RSS&at_campaign=rss",
+      "description": "It's been home to north Wales' strongest man Dewi Arfon near Yr Wyddfa, also known as Snowdon.",
+      "published_at": "2026-09-28T05:10:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -5266,6 +5572,17 @@
       ]
     },
     {
+      "id": "ab009016c0213cd6de8e0c6282e84906151d0d6f13dbc97d9bb9373edf5f8452",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+      "published_at": "2026-09-27T20:04:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "252b5e41d4ee41c8f99cc1b6a01ccef9b1295fd1c8271d876781ba65cf653a59",
       "title": "More than 50 arrested at Palestine Action support rally",
       "url": "https://www.bbc.co.uk/news/articles/c933kx42np4xo?at_medium=RSS&at_campaign=rss",
@@ -5816,6 +6133,17 @@
       ]
     },
     {
+      "id": "c63e6a8263b8d31801bf8975b7ed907d4e43844d43d19a94dcfa6616a956cc1b",
+      "title": "Social care reform could mean big risks and big rewards for Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss",
+      "description": "The state of the social care system in England is a topic that's made Andy Burnham angry for decades - but will his plans for reform work?",
+      "published_at": "2026-09-27T15:23:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "58ba56b74073b6cfdbaf123ea8e82e5ae9e65dd34b6a18569066a887049bbe7d",
       "title": "Sailing-Italy dominate to win America's Cup run-up regatta in Naples",
       "url": "https://www.channelnewsasia.com/sport/sailing-italy-dominate-win-americas-cup-run-up-regatta-in-naples-6413896",
@@ -6312,7 +6640,7 @@
       "id": "ab4675c58410dd5b89ccd47a5bdc3c66877800e60d4c175abbefe153c0c6a4c7",
       "title": "Ten climbers missing after avalanche hits Himalayan base camp",
       "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "description": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
       "published_at": "2026-09-27T12:36:57+00:00",
       "source": "BBC",
       "categories": [
@@ -13981,6 +14309,7 @@
       "published_at": "2026-09-25T16:52:10+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "Northern Ireland"
       ]
     },
