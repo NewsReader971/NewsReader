@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-09-28T00:03:39.773485+00:00",
+  "last_updated": "2026-09-28T01:03:52.061608+00:00",
   "articles": [
+    {
+      "id": "633b18fe898d0def7bb5c01bf2410b88965de77e5d4fad1b65f9370e17f13f1a",
+      "title": "Bank of Japan debated need for faster rate hikes, July minutes show",
+      "url": "https://www.channelnewsasia.com/business/bank-japan-debated-need-faster-rate-hikes-july-minutes-show-6414456",
+      "description": "",
+      "published_at": "2026-09-28T00:57:54+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6cb84596d46136b096e30ed7432a912ab81d43935447360a92984243df803632",
+      "title": "Stocks cautious in Asia as oil gains, yields rise",
+      "url": "https://www.channelnewsasia.com/business/stocks-cautious-in-asia-oil-gains-yields-rise-6414451",
+      "description": "",
+      "published_at": "2026-09-28T00:53:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "2cad311ecbdd854f6c155702f5bed22ca322d40a4f0f36746fe223916a7ca281",
+      "title": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+      "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+      "description": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
+      "published_at": "2026-09-28T00:52:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "617dcc3411c46c311efe66ccd375fa3db4b1762d0e27b67102b1d7fc111802df",
+      "title": "Japanese carp farm loses 100,000 Nishikigoi in Typhoon Dujuan flood",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3368986/japanese-carp-farm-loses-100000-nishikigoi-typhoon-dujuan-flood?utm_source=rss_feed",
+      "description": "Around 100,000 Nishikigoi ornamental carp ready for sale were swept away after heavy rain caused by a typhoon breached some levees at a lake in Chiba prefecture near Tokyo, it has been revealed as authorities assess the widespread damage to local farming and fisheries. Typhoon Dujuan, which approached the region about a week ago, inundated rice paddy fields and other farmland while flooding facilities where carp and eels were being cultivated near Lake Imbanuma in northern Chiba. Kenji Tani, who...",
+      "published_at": "2026-09-28T00:49:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "5821010efd668878980b8c5baefb53b1b139b4475423a2ffb2ca19f92e761202",
+      "title": "Thai court to rule on challenge to 2026 election legality",
+      "url": "https://www.channelnewsasia.com/asia/thailand-court-election-legality-barcode-qr-code-6414426",
+      "description": "",
+      "published_at": "2026-09-28T00:32:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5c74ef3cbe304dd6e9b12d93918a663d3dcb6c410ba40dbc4e097eb67293d51a",
+      "title": "China-US dialogue will ease concerns, but competition will remain, Paul Chan says",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368975/china-us-dialogue-will-ease-concerns-competition-will-remain-paul-chan-says?utm_source=rss_feed",
+      "description": "Competition between China and the US will persist, but increased dialogue between the two economic superpowers will provide greater global certainty and ease geopolitical concerns, with Hong Kong positioned to play a unique role, the city’s financial secretary has told the South China Morning Post. In a wide-ranging interview, Paul Chan Mo-po said more communication and dialogue between the two nations would be “good for everyone”, as Chinese President Xi Jinping and his US counterpart, Donald...",
+      "published_at": "2026-09-28T00:30:14+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "46745b6e1d2c3c71e914a0209b40792c34b0c8e8d12c349beeecc2b997e42d17",
+      "title": "The Papers: 'Iran link to RAF bomb plot' and 'Tax rise talks at No 10'",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk5vd636m5o?at_medium=RSS&at_campaign=rss",
+      "description": "Almost every front page on Monday is dominated by the what the Telegraph suggests is an \"Iran link\" to a \"bomb plot\" at RAF Fairford.",
+      "published_at": "2026-09-28T00:30:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1d1aee4a93ec97e82d0bee51027859966b364a0bfc8b421eee5d2316f53b4ed3",
+      "title": "Japan's corporate services inflation hits 2-year high",
+      "url": "https://www.channelnewsasia.com/business/japans-corporate-services-inflation-hits-2-year-high-6414446",
+      "description": "",
+      "published_at": "2026-09-28T00:29:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "4e121789c7080c1f05afba6f957e1fa3d1cd5be69c87f56c37391ab6212a227b",
       "title": "Italy attracts wealthy Chinese property buyers with food, fashion – and flat tax",
@@ -2535,7 +2629,8 @@
       "published_at": "2026-09-27T06:46:26+00:00",
       "source": "BBC",
       "categories": [
-        "Northern Ireland"
+        "Northern Ireland",
+        "UK"
       ]
     },
     {
