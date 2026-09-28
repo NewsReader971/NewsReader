@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-09-28T22:02:59.313937+00:00",
+  "last_updated": "2026-09-28T23:02:44.888670+00:00",
   "articles": [
+    {
+      "id": "6ea99e0f38ebd4ff4aaa35a0d9b8d228d9ab73bd3405c4e957cf3dae9c3e2f9b",
+      "title": "‘Missed opportunity’: US soybean farmers question exclusion from China tariff cuts",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3369119/missed-opportunity-us-soybean-farmers-question-exclusion-china-tariff-cuts?utm_source=rss_feed",
+      "description": "US soybean farmers have described the exclusion of US soybeans from China’s import list under the newly announced Board of Trade mechanism as a “missed opportunity”, even as Beijing ramped up purchases of the crop ahead of last week’s summit between Chinese President Xi Jinping and US President Donald Trump. The trade forum, unveiled by both sides on Sunday, covered a range of US agricultural products for export to China, including meat, dairy, corn, wheat, sorghum and vegetable oils, but...",
+      "published_at": "2026-09-28T22:48:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "5d438a564eb67ff35c76182a60166e092def742f730ddd0baab95cc56f90a9b7",
+      "title": "Evicted 87-year-old Spanish pensioner to return home after deal",
+      "url": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
+      "description": "An 87-year-old Madrid pensioner whose eviction became a rallying point for Spain’s housing protests will be able to return home after reaching a deal with the property’s owners, her lawyer said Monday. The agreement comes as demonstrations across the country pile pressure on Prime Minister Pedro Sanchez’s government to address soaring rents, a shortage of affordable homes and weak tenant protections.",
+      "published_at": "2026-09-28T22:34:14+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "7f8e7099dafacfc68a1b78f46cb3138074067df30089b61a2d377f8171afce16",
+      "title": "OpenAI shelves new AI model after internal safety tests, WSJ reports",
+      "url": "https://www.channelnewsasia.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-6416906",
+      "description": "",
+      "published_at": "2026-09-28T22:34:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "eb9f6d15d1e7a5e2df2a8bd804ac6bf1b3ff0a11ce5bbef8125c2b5875b19f36",
+      "title": "Israel security agency files complaint over TV report that Netanyahu visited UAE",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3369118/israel-security-agency-files-complaint-over-tv-report-netanyahu-visited-uae?utm_source=rss_feed",
+      "description": "Israel’s domestic security service filed a complaint against a television channel that reported Prime Minister Benjamin Netanyahu visited the UAE, his office said on Monday, the government’s first acknowledgement of the trip despite not naming the destination. “This evening the Shin Bet filed a complaint with the Chief Military Censor, demanding that Channel 12 be prosecuted to the fullest extent of the law following a severe censorship violation,” read a statement from Netanyahu’s office, which...",
+      "published_at": "2026-09-28T22:25:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
     {
       "id": "7457095fc64af3692a13f00330aa1c14e3ea6d8e5d7c53ce669a3138f59578db",
       "title": "Stroke patient, 80, could be placed in care 100 miles from home",
@@ -32,6 +80,67 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "c11d80e8e94e21fd2cff8b9bb48c8e2d82078257e28f5396e70ba36a476e27ae",
+      "title": "Commentary: What happens after retrenchment may matter more than the headline number",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-retrenchments-jobs-pmet-pay-cut-career-conversion-6415396",
+      "description": "How quickly displaced workers find another job, and what happens to their earnings afterwards, may offer a fuller picture of Singapore’s labour market adjustment, says NTU’s Chua Yeow Hwee.",
+      "published_at": "2026-09-28T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "8b83a550f6a93296cd0bc5a8e7ec9286886bdfdc47252e4629ecdbfe3ba640d6",
+      "title": "Sold for S$5 per post: Inside the persistent scourge of fake positive reviews online",
+      "url": "https://www.channelnewsasia.com/singapore/fake-reviews-online-google-carousell-supplier-6415126",
+      "description": "CNA found six businesses that have commissioned two suppliers to solicit fake reviews to improve their online presence, including a law firm, funeral home and a private investigator.",
+      "published_at": "2026-09-28T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "24c978464273aa774e23e70a40f783a8046f049c11e0e95749bcbd13c99f44df",
+      "title": "‘We don’t have to repeat the 30 years’: India taps Asia’s chip hubs to fast-track semiconductor ambitions",
+      "url": "https://www.channelnewsasia.com/asia/india-asia-chip-hubs-fast-track-semiconductor-ambitions-6409171",
+      "description": "In the first of a series on India’s chipmaking ambitions, CNA speaks to industry players about what India can learn from Asia’s established chip hubs - and where it can carve out a role of its own.",
+      "published_at": "2026-09-28T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "2ccec7a23a4ee3dfefeb36cf82b0fd3ce0f33a5556e9e9745b397bb8cb5cd454",
+      "title": "Commentary: Japan could redraw the global oil map",
+      "url": "https://www.channelnewsasia.com/commentary/japan-oil-import-market-iran-war-6415551",
+      "description": "Tokyo isn’t waiting for the end of the war to reassess its supply sources, says Javier Blas for Bloomberg Opinion.",
+      "published_at": "2026-09-28T21:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0e9364646b1bb4a7b25f6914c0e9cd2932f0acf0a5174c723659332ea472c4e9",
+      "title": "Commentary: Football’s enduring controversies show why journalism matters",
+      "url": "https://www.channelnewsasia.com/commentary/fifa-world-cup-investigation-sale-journalism-6415526",
+      "description": "Without professional journalism, the world wouldn’t have known about FIFA president Gianni Infantino's proposal to sell off the World Cup until it was too late, says Stig Orskov, CEO of the World Association of News Publishers.",
+      "published_at": "2026-09-28T21:58:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
       ]
     },
     {
@@ -77,6 +186,17 @@
       "source": "SCMP",
       "categories": [
         "News",
+        "World"
+      ]
+    },
+    {
+      "id": "518c05926f658ee837b9c50cd75f13cb1a6bd2e68822069c56b872c30d408633",
+      "title": "Nations League: Italy rebound in Turkey as France snatch late win in Belgium",
+      "url": "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
+      "description": "Italy bounced back in style on Monday, thumping Turkey 4-1 in the rain to revive their Nations League campaign, while France edged Belgium 1-0 in Brussels with a late winner from Michael Olise. Elsewhere, Sweden beat Poland 3-1, Bosnia and Herzegovina overcame Romania 4-2, and Northern Ireland held Hungary to a goalless draw.",
+      "published_at": "2026-09-28T21:38:08+00:00",
+      "source": "France 24",
+      "categories": [
         "World"
       ]
     },
@@ -1507,6 +1627,17 @@
       ]
     },
     {
+      "id": "57a0ffecd8c8db76f04e701a5df862e7c440715777dd19387fd1e317e303a0a1",
+      "title": "Police confirm death of 24-year-old Muay Thai fighter hospitalised after Singapore tournament",
+      "url": "https://www.channelnewsasia.com/singapore/muay-thai-fight-hope-inspire-fitness-6394246",
+      "description": "The fighter was taken unconscious to hospital after participating in the AMC 13 Fight for Hope tournament at the National Stadium on Sep 12.",
+      "published_at": "2026-09-28T14:20:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
       "id": "2fda8d9484cc9caf6d21bab3c79e0a7962f0551deec47c3a4e0b7b7b4cf31dd1",
       "title": "Shein reports sharp drop in Europe sales after price hikes",
       "url": "https://www.channelnewsasia.com/business/shein-reports-sharp-drop-in-europe-sales-after-price-hikes-6415966",
@@ -2312,6 +2443,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "4454a8b39943a8b7abd92d2e4c655a32e51b4268dc500a6c08b3cda0b028c230",
+      "title": "Air quality in four Singapore regions in unhealthy range",
+      "url": "https://www.channelnewsasia.com/singapore/air-quality-haze-unhealthy-regions-sep-29-6413481",
+      "description": "As of 6am on Tuesday, the PSI readings for the central, southern, western and eastern regions were 151, 128, 135 and 125, respectively.",
+      "published_at": "2026-09-28T12:10:00+00:00",
+      "source": "CNA",
+      "categories": [
         "Singapore"
       ]
     },
@@ -129364,7 +129506,7 @@
       "id": "e1517a4800899c674fed2b99807108287ba14e5fd66bc1c93b9ad05b0f5841a5",
       "title": "Scotcast: How big is the Jackdaw decision?",
       "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "description": "The story behind the Possilpark tenement fire and who gets priority for social housing.",
+      "description": "Glasgow City Council has agreed to pause plans to fire and rehire some members of staff.",
       "published_at": "2026-09-07T16:02:00+00:00",
       "source": "BBC",
       "categories": [
