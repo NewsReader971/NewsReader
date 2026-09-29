@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-29T18:05:07.258630+00:00",
+  "last_updated": "2026-09-29T19:04:34.575445+00:00",
   "articles": [
+    {
+      "id": "eafcb82b70604420768990b0f08e49c1de51e9e8f304dbc7cd3bad3d378d90a6",
+      "title": "William and Kate surprise Sinfield on MND run",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgw54er9l4o?at_medium=RSS&at_campaign=rss",
+      "description": "The royal couple greeted the rugby league legend as he finished up day three of his charity challenge.",
+      "published_at": "2026-09-29T19:03:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "f3ea2cf0ef4984e4570bed0e3af88607dc0eb90ed840dbb96678897a4587cea8",
+      "title": "Spain aims to ban evictions until 2030 amid housing protests",
+      "url": "https://www.channelnewsasia.com/world/spain-eviction-ban-housing-protests-madrid-6419546",
+      "description": "The ban follows protests over the eviction of an 87-year-old woman in Madrid and is part of several proposals that still need parliamentary approval.",
+      "published_at": "2026-09-29T18:56:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "a1eb966616e875c7ecdb3d1903de7a69dcda89d272844ff2181dab353db76349",
+      "title": "Former director admits multi-million pound theft at elite Cardiff college",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7mzzlpd3o?at_medium=RSS&at_campaign=rss",
+      "description": "Nadeem Sarwar, 50, faces a \"substantial chance\" of going to prison, judge says.",
+      "published_at": "2026-09-29T18:53:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "17f35823b8200ece88bf977206f099c27df1f61b1e666462e8203a520e3a54c7",
+      "title": "Explainer-Five things to know about the college sports bill that passed the US Senate",
+      "url": "https://www.channelnewsasia.com/sport/explainer-five-things-know-about-college-sports-bill-passed-us-senate-6419531",
+      "description": "",
+      "published_at": "2026-09-29T18:30:59+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "3cc18f0c626e966ff34bcc15b213022213f8b6af175ea0e645e488559fe8fede",
+      "title": "Three teenagers die after car enters river",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
+      "description": "The bodies of two teenage boys and a teenage girl have been recovered from the water, police say.",
+      "published_at": "2026-09-29T18:29:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "2b6b6941f68f69a3dc8f0e6d58237705dde4949b266ff81f30be51751e6a584a",
+      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-6419526",
+      "description": "",
+      "published_at": "2026-09-29T18:26:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e8173f909b57ea4c9f63875f995d18b62ac461356bb72e30e09134ec46b720e8",
+      "title": "Mystery over UK airbase scare as police find petrol, not explosives",
+      "url": "https://www.scmp.com/news/world/europe/article/3369251/mystery-over-uk-airbase-scare-police-find-petrol-not-explosives?utm_source=rss_feed",
+      "description": "A UK probe into a suspected bomb plot at an airbase used by the US was mired in confusion Tuesday, as police said no explosives but a “quantity of petrol” was found in vehicles seized nearby. Police were called to the Royal Air Force Fairford base in southwest England on Sunday after a resident saw several vans “acting suspiciously”, triggering an evacuation of the nearby village and the declaration of a “major incident”. “Those vehicles have been subject to extensive examination … and we can...",
+      "published_at": "2026-09-29T18:21:50+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "4370ad17523fe1b80c9cbe51b85982f7083e51a62c0166b5f4ddfa319782d2b9",
+      "title": "Officer acquitted of sex assault to face police misconduct hearing",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjzr4g32nzo?at_medium=RSS&at_campaign=rss",
+      "description": "The police officer faces misconduct proceedings after being acquitted of sex assault charges at trial.",
+      "published_at": "2026-09-29T18:04:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
     {
       "id": "19e7e9e05e58055414c1e977e174f718b396630fbca212fa965b8ed30829948e",
       "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
@@ -9,6 +101,7 @@
       "published_at": "2026-09-29T18:02:13+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -21,6 +114,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
+      ]
+    },
+    {
+      "id": "956f14804140e8747a46e2fdda0dea1d65d21990b6ec5adbddf1ffd1a2cfd819",
+      "title": "Fury & Joshua in London for news conference as doubts ease",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
+      "description": "Tyson Fury and Anthony Joshua arrive in London for Wednesday’s launch news conference, with their December fight now expected to take place as scheduled.",
+      "published_at": "2026-09-29T17:57:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -76,7 +180,7 @@
       "id": "289106dcd559a117ab9a25d2e3861b433fbbb67289175621cbd267e229cfec95",
       "title": "Eiffel Tower chief stepping down over removal of women staff for Hindu group’s visit",
       "url": "https://www.scmp.com/news/world/europe/article/3369249/eiffel-tower-chief-stepping-down-over-removal-women-staff-hindu-groups-visit?utm_source=rss_feed",
-      "description": "The operating company that runs the Eiffel Tower said Tuesday its chief would step down at the end of this year in the wake of a controversy over the removal of women staff during a visit by a Hindu religious group. Patrick Branco Ruivo, who has been director general of the Paris landmark since 2018, would leave his job at the end of the year after an internal probe revealed that “operational flaws and shortcomings” in organising the visit led to the “unacceptable” removal of women staff, the...",
+      "description": "The operating company that runs the Eiffel Tower said on Tuesday its chief would step down at the end of this year in the wake of a controversy over the removal of women staff during a visit by a Hindu religious group. Patrick Branco Ruivo, who has been director general of the Paris landmark since 2018, would leave his job at the end of the year after an internal probe revealed that “operational flaws and shortcomings” in organising the visit led to the “unacceptable” removal of women staff, the...",
       "published_at": "2026-09-29T17:36:21+00:00",
       "source": "SCMP",
       "categories": [
@@ -117,6 +221,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "83a9b0f5bdca8e4d04689fd6a82b4800803a3f9312a28ad61bcf7fcc9611150d",
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+      "description": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "published_at": "2026-09-29T17:31:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -179,6 +294,28 @@
       ]
     },
     {
+      "id": "a4ddcce588154bc48f8fd0ab68dbefcefb99b3ca9a805a0ee6fe932867d6b451",
+      "title": "Tata Steel talks ongoing amid reports Port Talbot electric furnace faces grid delays",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dw7g452qeo?at_medium=RSS&at_campaign=rss",
+      "description": "The Welsh secretary says UK ministers would carefully consider any request for financial support.",
+      "published_at": "2026-09-29T17:01:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "737f3a027a74d3d55b74744e901b5b6c97f881d7fec949b558b28e7e2d85d411",
+      "title": "'Biggest' Punch and Judy collection sells for £20k",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxv5e8rl03o?at_medium=RSS&at_campaign=rss",
+      "description": "The collection featured puppets, booths and props amassed by entertainer Frank Turvey.",
+      "published_at": "2026-09-29T17:01:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "b7912ae9d199dfacd73e0007f6b90b638e302c777cd90a4ff0359ec039bca0d7",
       "title": "Michael Sheen says being an actor will be a disadvantage on Celebrity Traitors",
       "url": "https://www.bbc.co.uk/news/articles/cky9z31yj8ggo?at_medium=RSS&at_campaign=rss",
@@ -221,6 +358,17 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "01a1a1ca35838ee0af6d78d3e257d5f0b52eb4095fd61c2e0476e1c1400beace",
+      "title": "Man guilty of murder after victim dies 15 years on",
+      "url": "https://www.bbc.co.uk/news/articles/cm207qwvrwp5o?at_medium=RSS&at_campaign=rss",
+      "description": "Jordan Burton caused a serious head injury to Daniel Allright in 2006, which led to fatal epilepsy years later.",
+      "published_at": "2026-09-29T16:52:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -270,6 +418,17 @@
       ]
     },
     {
+      "id": "45fa4fde05a4568d979b9e337a6da58b89e94ec5190dfcee03ccd9cad2058f4b",
+      "title": "Man guilty of keeping dogs in squalor at his home",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xmv1pe7ko?at_medium=RSS&at_campaign=rss",
+      "description": "David Parkes, from Doncaster, will be sentenced in December along with his wife and son.",
+      "published_at": "2026-09-29T16:44:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "a0dff9a936222c09ffb2e18dd8958bd978bea26c92d1f9b6f7f5a7496a9eadfa",
       "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
       "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
@@ -304,6 +463,17 @@
       ]
     },
     {
+      "id": "1e717369ef745a9d8caf1bc282477b5340a2cf2680ed860a3f12036f7c4ce694",
+      "title": "Man found dead after 'explosion' in Rotherham",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyz862pjz5o?at_medium=RSS&at_campaign=rss",
+      "description": "Emergency services headed to Clifton Mount on Tuesday afternoon, with a man found dead at the scene.",
+      "published_at": "2026-09-29T16:33:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "7b414ed3e75e7b907e5499240b0a5cfa8d31016c904cadff5632f220b6525e55",
       "title": "Murder scene after mum was beaten to death by son was like 'horror film'",
       "url": "https://www.bbc.co.uk/news/articles/c3y0zx8dqerdo?at_medium=RSS&at_campaign=rss",
@@ -312,6 +482,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "ece3f9e2c369e1940d2b0a5a44fc536e6dd473871c5913ca338ff3b8e1e913aa",
+      "title": "Police dog wins crimefighting duo award with handler",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30d9023xgo?at_medium=RSS&at_campaign=rss",
+      "description": "Boss, the German shepherd, is said to have assisted with more than 100 arrests before retiring.",
+      "published_at": "2026-09-29T16:25:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -347,6 +528,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "de577af115567a5cb2bd9ed606ef7fbc25073353f3a15ac5eb7d8a233e6b9778",
+      "title": "PC denies confrontation with care home amputee",
+      "url": "https://www.bbc.co.uk/news/articles/cm93e0y2lllyo?at_medium=RSS&at_campaign=rss",
+      "description": "PC Smith drew his incapacitating Pava spray and issued an ultimatum to amputee Donald Burgess.",
+      "published_at": "2026-09-29T16:11:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -506,6 +698,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "0f1488fa89d993e31bcd2038310f88c7c645ccb73bf3bef4bf83f84f20743f56",
+      "title": "Jail for 80mph driver who killed man on seafront",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e30p0p4yro?at_medium=RSS&at_campaign=rss",
+      "description": "Zack Garrido, 25, is sentenced after earlier admitting causing death by dangerous driving.",
+      "published_at": "2026-09-29T15:56:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -813,11 +1016,12 @@
       "id": "67bfe076bfaf9462af8b1b89c797e7dedd09e620cb398e75e2b59f33b02c5ad3",
       "title": "Car enters river triggering large rescue effort",
       "url": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
-      "description": "Police, ambulance, the fire service and rescue boats are at the scene at the River Wear.",
+      "description": "The bodies of two teenage boys and a teenage girl have been recovered from the water, police say.",
       "published_at": "2026-09-29T14:46:55+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -2180,7 +2384,8 @@
       "published_at": "2026-09-29T11:14:46+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -2244,6 +2449,17 @@
     },
     {
       "id": "65e858fda618479fb6612fc67236f965e0ee6315ae3012937b4d6adc0060c6ff",
+      "title": "Couple's 'slightly mad' new life farming on remote Welsh island",
+      "url": "https://www.bbc.co.uk/news/articles/cm87v989835lo?at_medium=RSS&at_campaign=rss",
+      "description": "Gwyndaf Hughes and Georgina Rannard grabbed the chance for a career break on the \"unique\" island.",
+      "published_at": "2026-09-29T10:58:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "f05c4824a2fec10f5b7ffd19ededa24592e30863c16a56c3a7b6c3d6a432f89e",
       "title": "Couple's 'slightly mad' new life farming on remote Welsh island",
       "url": "https://www.bbc.co.uk/news/articles/cm87v989835lo?at_medium=RSS&at_campaign=rss",
       "description": "Gwyndaf Hughes and Georgina Rannard grabbed the chance for a career break on the \"unique\" island.",
@@ -3616,7 +3832,7 @@
       "id": "cf7c75dda201d84aac1c25af11fdccf125f9676f4f70ea50238980fbe6cd737a",
       "title": "Drumcree stalemate continues as protesters remain overnight",
       "url": "https://www.bbc.co.uk/news/articles/ck0j30yg8j9do?at_medium=RSS&at_campaign=rss",
-      "description": "Sir Chris Bryant is meeting the Orange Orange and a residents' group at Hillsborough Castle amid the ongoing stalemate over a contentious parade.",
+      "description": "Members of the Orange Order are still waiting to begin a parade, which was due to take place on Sunday, and walk down the mainly-nationalist Garvaghy Road in Portadown.",
       "published_at": "2026-09-29T07:01:53+00:00",
       "source": "BBC",
       "categories": [
@@ -3627,7 +3843,7 @@
       "id": "3de95c643d43492849e52bd1640b6287971ec548957517c697ce42515619ac66",
       "title": "Drumcree stalemate continues as protesters remain overnight",
       "url": "https://www.bbc.co.uk/news/articles/ck0j30yg8j9do?at_medium=RSS&at_campaign=rss",
-      "description": "Sir Chris Bryant is meeting the Orange Orange and a residents' group at Hillsborough Castle amid the ongoing stalemate over a contentious parade.",
+      "description": "Members of the Orange Order are still waiting to begin a parade, which was due to take place on Sunday, and walk down the mainly-nationalist Garvaghy Road in Portadown.",
       "published_at": "2026-09-29T07:01:53+00:00",
       "source": "BBC",
       "categories": [
