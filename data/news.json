@@ -1,6 +1,488 @@
 {
-  "last_updated": "2026-09-29T10:04:00.620596+00:00",
+  "last_updated": "2026-09-29T11:03:25.690951+00:00",
   "articles": [
+    {
+      "id": "a06c4b9e12f1a04db28ffab7f25276d10e10ca4f5862f44a253420b3fae616dc",
+      "title": "India-Europe trade corridor gets Trump’s backing, but can IMEC survive war?",
+      "url": "https://www.scmp.com/week-asia/politics/article/3369219/india-europe-trade-corridor-gets-trumps-backing-can-imec-survive-war?utm_source=rss_feed",
+      "description": "US President Donald Trump’s recent endorsement of a trade corridor connecting India to Europe via the Middle East has renewed focus on the three-year-old project, but analysts warn it must expand to withstand ongoing geopolitical conflicts. The India-Middle East-Europe Economic Corridor (IMEC) was first unveiled at the G20 summit in 2023 as an alternative to existing routes and China’s Belt and Road Initiative. Backed by India, the United States, Saudi Arabia, the United Arab Emirates, Israel...",
+      "published_at": "2026-09-29T11:01:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "a42e5b49f06d6aa4a8c621cdea9d7b1293744ea65bb646f2c38345aa20c0813d",
+      "title": "Xi urges universities to help drive China’s tech and innovation ambitions",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369194/xi-urges-universities-help-drive-chinas-tech-and-innovation-ambitions?utm_source=rss_feed",
+      "description": "President Xi Jinping has urged a major university to harness its interdisciplinary strengths in the humanities, sciences, engineering and medicine to support China’s national strategy, as Beijing looks to higher education institutions to help advance hi-tech development. Xi made the remarks in a letter released on Tuesday congratulating Sichuan University on its 130th anniversary and responding to faculty members and students at the prominent public university in Chengdu, the capital of Sichuan...",
+      "published_at": "2026-09-29T11:00:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "65e858fda618479fb6612fc67236f965e0ee6315ae3012937b4d6adc0060c6ff",
+      "title": "Couple's 'slightly mad' new life farming on remote Welsh island",
+      "url": "https://www.bbc.co.uk/news/articles/cm87v989835lo?at_medium=RSS&at_campaign=rss",
+      "description": "Gwyndaf Hughes and Georgina Rannard grabbed the chance for a career break on the \"unique\" island.",
+      "published_at": "2026-09-29T10:58:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "9afca3e003ca2c0ab3745fa564771cead0de4ec8a86c7a7341649bcf3c52c6ad",
+      "title": "South West Water fined almost £8m for sewage spills",
+      "url": "https://www.bbc.co.uk/news/articles/cx2mjkll24xo?at_medium=RSS&at_campaign=rss",
+      "description": "South West Water previously entered guilty pleas to pollution offences spanning six years.",
+      "published_at": "2026-09-29T10:54:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "a1d040efc10cc4a9c1fe969ad77abf78c295fda3e0dd145970e9773cde8b5cea",
+      "title": "Loh Kean Yew falls to Kunlavut Vitidsarn in Asian Games final, ends campaign with silver",
+      "url": "https://www.channelnewsasia.com/sport/loh-kean-yew-asian-games-badminton-final-kunlavut-vitidsarn-6417656",
+      "description": "Loh's silver is the best result by a Singaporean badminton player at the Asian Games.",
+      "published_at": "2026-09-29T10:51:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "2a8c94e06071012b797996842f9ad98213f0bc5dbd70db7999cbb1d13f460795",
+      "title": "Singapore Writers Festival 2026: Amitav Ghosh, Silvia Moreno-Garcia and Rachel Smythe among highlights",
+      "url": "https://www.channelnewsasia.com/living/singapore-writers-festival-2026-swf-authors-programmes-highlights-6417681",
+      "description": "Running from Nov 13 to 22, this year's Singapore Writers Festival will feature more than 300 writers, speakers and moderators in over 200 programmes, including a new Crime & Mystery Spotlight, literary walks and multilingual events.",
+      "published_at": "2026-09-29T10:50:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "e1f3c7733faad8a8595c39ed4abe643f1a31b93d3de023e479b5f3d3943e6efc",
+      "title": "Petrol bombers attack police for second night running in Londonderry",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgw5nnrwe0o?at_medium=RSS&at_campaign=rss",
+      "description": "Riot police were deployed when trouble flared in the Top Of The Hill area of Derry on Monday night.",
+      "published_at": "2026-09-29T10:47:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "9c668d01f3c5e7d6ea7b51bcf0595adbcd8f94064e5c1185489c450c339dbb32",
+      "title": "Philippine coastguard battles funding cuts amid bigger South China Sea role",
+      "url": "https://www.scmp.com/week-asia/politics/article/3369216/philippine-coastguard-battles-funding-cuts-amid-bigger-south-china-sea-role?utm_source=rss_feed",
+      "description": "The Philippines is preparing to give its coastguard more responsibilities in the contested South China Sea even as the agency faces a more basic problem: whether it has enough ships, aircraft and personnel to carry them out. The proposed overhaul comes as the coastguard is being stretched by increasingly demanding operations around Philippine-claimed waters, while funding constraints threaten to limit its ability to keep its existing assets at sea. That tension is evident in the 2027 budget. The...",
+      "published_at": "2026-09-29T10:45:28+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "342c7927ea8788a1f45a44d48599e6c0329e7c8a1afe780b099478442b11b1d9",
+      "title": "Families separated by 2,000 miles help track down tiny science boat",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e30we0jwno?at_medium=RSS&at_campaign=rss",
+      "description": "The families from the Hebrides played a part in finding the boat after its crossing of the Atlantic.",
+      "published_at": "2026-09-29T10:44:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "265c0fb8b072bedf5427075439c7057a8c8d211373faca7038930753c20fbe92",
+      "title": "Man charged over AI image of crocodile at Singapore reservoir that led to search",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369215/man-charged-over-ai-image-crocodile-singapore-reservoir-led-search?utm_source=rss_feed",
+      "description": "A 30-year-old man was charged on Tuesday over an AI-generated image of a crocodile at Pandan Reservoir in Singapore that prompted authorities to search for the reptile and suspend water activities there. Ye Lin, a Myanmar national, was handed two charges – one count of communicating a false message and one count of obstructing the course of justice. Speaking through an interpreter, he told the court that he intended to plead guilty, and would not be engaging a lawyer. On August 20, Ye Lin...",
+      "published_at": "2026-09-29T10:37:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "8dac87a4a7bf69b924cd37613c8d059af86cfda03a6de876a3dfe49eabe99550",
+      "title": "'Gift from God': Rain brings relief from Indonesia toxic haze",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-haze-rain-pontianak-wildfires-6418366",
+      "description": "The thick smog had limited outdoor activities in Pontianak, a city of about 700,000 people on Borneo island, with schools forced to shutter and thousands of respiratory cases recorded in the region since last month, according to officials.",
+      "published_at": "2026-09-29T10:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f2f61d229b1be7c7090aed1d443463246f8844c614940a3ed4bdc7f462f4d66f",
+      "title": "Deal for evicted Spanish pensioner as PM seeks new housing law",
+      "url": "https://www.france24.com/en/video/20260929-deal-for-evicted-spanish-pensioner-as-pm-seeks-new-housing-law",
+      "description": "A Madrid pensioner whose eviction sparked nationwide protests that have piled pressure on the government to resolve Spain's housing crisis can return home after a deal with the property's owners, her lawyer said on Monday. Unaffordable housing has been a running sore for years in Spain, but the outcry over last Wednesday's eviction of 87-year-old Maricarmen Abascal thrust the crisis to the forefront of the political debate. Demonstrators have set up roughly 100 tents in Madrid's emblematic Puerta del Sol square since Saturday night, while tens of thousands of people have protested across the country.",
+      "published_at": "2026-09-29T10:36:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1504efb7d823e38bf77315c26d0d02044c45ab5c907607af6be66eba9d48a60d",
+      "title": "Russia strikes two Kyiv data centres, cargo vessels in the Black Sea",
+      "url": "https://www.france24.com/en/europe/20260929-russia-strikes-two-kyiv-data-centres-cargo-vessels-in-the-black-sea",
+      "description": "Ukrainian President Volodymyr Zelensky said Tuesday that Russia launched a wave of overnight strikes across Ukraine, hitting two foreign-flagged vessels in the Black Sea and targets in Kyiv. The strikes come as Russia ramps up its pressure campaign intended to make Ukraine buckle under near-constant bombardment of its capital and other cities.",
+      "published_at": "2026-09-29T10:35:57+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "a6032d3cbac8934566c89d97be99571c590da30268b1001cdff093e46f52f4a4",
+      "title": "Spain's housing crisis: Protests continue, keep heat on government",
+      "url": "https://www.france24.com/en/video/20260929-spain-s-housing-crisis-protests-continue-keep-heat-on-government",
+      "description": "Protesters angered by Spain's chronic housing crisis and the eviction of a pensioner camped in central Madrid for a third night on Monday, maintaining pressure on the government ahead of a key cabinet meeting. In Barcelona, which has seen several demonstrations in recent years linking housing costs to overtourism, around 2,000 protesters gathered on Monday night to demand ambitious measures during a visit by Sanchez. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
+      "published_at": "2026-09-29T10:35:22+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "8712b4aac42ea69d0f13b7bf16689296f93a9c4b4b641a53b44dffa8c8d4c810",
+      "title": "Meta expands Muse AI agent for small businesses",
+      "url": "https://www.channelnewsasia.com/business/meta-expands-muse-ai-agent-small-businesses-6418406",
+      "description": "",
+      "published_at": "2026-09-29T10:35:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5ef3826090d898d704499607e4335a7c5427101d6de361df29287a8035805731",
+      "title": "Controversial Northern Ireland Protestant parade hits stalemate amid fresh talks",
+      "url": "https://www.france24.com/en/video/20260929-controversial-northern-ireland-protestant-parade-hits-stalemate-amid-fresh-talks",
+      "description": "The UK's Northern Ireland minister Monday admitted that talks to overcome a dispute about a contentious pro-British Protestant parade through a mainly Catholic area had so far failed to resolve one of the region's worst crises in decades. Thousands of people occupied a road in Portadown, southwest of Belfast, on Sunday to prevent the parade by 35 members of the Orange Order taking place.",
+      "published_at": "2026-09-29T10:33:21+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "09527e5080ec4041faf22923e37f3c22007f97a4572e6133785f373c41e7f464",
+      "title": "Daniel Thomas refused bail over alleged boat damage",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kwlx2jg3do?at_medium=RSS&at_campaign=rss",
+      "description": "Daniel Thomas is remanded in custody after appearing at Portsmouth Crown Court.",
+      "published_at": "2026-09-29T10:32:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "26513d7a1d6fdd178c136265790ab3cf25ef4cf3e6c29e14dde0df44cac9d935",
+      "title": "Investigation 'ongoing': UK police release on bail five men held over airbase incident",
+      "url": "https://www.france24.com/en/video/20260929-investigation-ongoing-uk-police-release-on-bail-five-men-held-over-airbase-incident",
+      "description": "British police said Monday five men arrested near an airbase used by the United States were released on bail, as Washington asserted a \"foreign actor\" was involved in the suspected bomb plot. US President Donald Trump, speaking in Washington, said he was \"surprised that they released them\". The release of the five came as British Prime Minister Andy Burnham announced an emergency meeting of top officials to ensure they have \"the full picture\". FRANCE 24's International Affairs Commentator Douglas Herbert tells us more.",
+      "published_at": "2026-09-29T10:31:56+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "afdc23a0fc6c938f3386713bb32281e49cf20335c128050c83a66fa80311c18d",
+      "title": "Bank cash machines ripped out and taken away on a horsebox",
+      "url": "https://www.bbc.co.uk/news/articles/cw7702j25gyro?at_medium=RSS&at_campaign=rss",
+      "description": "Two cash machines are taken away in a horsebox from the Royal Bank of Scotland in Peebles.",
+      "published_at": "2026-09-29T10:31:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c83321596b090a6c5286c647a8c94d70ae4b154506d26c47744895acbc76d992",
+      "title": "FRANCE 24 report: Anxious Ukrainian arms makers wait to sell abroad",
+      "url": "https://www.france24.com/en/video/20260929-france-24-report-anxious-ukrainian-arms-makers-wait-to-sell-abroad",
+      "description": "Volodymyr Zelensky is in New York, pleading with Ukraine’s allies for more military aid to fend off Russia. But Ukrainian arms producers say the country could be bringing in significant revenue of its own, if only they were allowed to export their products: they say their production capacity far exceeds what Ukraine can afford to buy. A year ago already, the president said he agreed – in theory. But in practice little has changed, and Ukrainian firms are growing impatient and anxious, as FRANCE 24’s Gulliver Cragg reports.",
+      "published_at": "2026-09-29T10:30:51+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "bf83e21176a111ba09dd60401ac2d7ffe6498da87808404f944626b8c75a0ba4",
+      "title": "Olise wonder strike gives Zidane's France win in Belgium",
+      "url": "https://www.france24.com/en/video/20260929-olise-wonder-strike-gives-zidane-s-france-win-in-belgium",
+      "description": "Michael Olise's magnificent late strike gave France a 1-0 victory in Belgium in the UEFA Nations League on Monday as Zinedine Zidane made it two wins out of two since being named coach. The win follows a 1-0 success away to Turkey last Friday in Zidane's first game at the helm after succeeding Didier Deschamps as coach following the World Cup.",
+      "published_at": "2026-09-29T10:29:33+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "8ad59f254133447a8a7105d0efd051506a94f7488bbc44ffbf764d6e640943b3",
+      "title": "Big crowds a boost to Cymru Premier, say Penybont",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddv1yenyd7o?at_medium=RSS&at_campaign=rss",
+      "description": "A ticket giveaway saw record numbers watch Penybont, which director David Zeeman claims signals the league's growth",
+      "published_at": "2026-09-29T10:29:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6aa94de9c3c062b59c5e5ea2b9f0bc198522ffe863b8a922d6c239f026c0ce93",
+      "title": "French firefighters join nationwide protests after devastating summer wildfires",
+      "url": "https://www.france24.com/en/video/20260929-french-firefighters-join-nationwide-protests-after-devastating-summer-wildfires",
+      "description": "French firefighters went on strike on Monday to demand additional resources and staff, after the country experienced its worst wildfires in decades this summer. They're also expected to join public sector workers in Tuesday's nationwide protest, and could continue to strike until October to put pressure on the government before it approves the 2027 budget.",
+      "published_at": "2026-09-29T10:28:25+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "a9b2ac67d589dd7137d187ba5c6f7d5f6b85854c605788f41e6b8bfa828d68d8",
+      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments",
+      "url": "https://www.france24.com/en/video/20260929-french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments",
+      "description": "A French investigative website on Monday alleged that far-right National Rally leader Jordan Bardella made anti-Semitic comments in writing in 2013, but the close ally of presidential frontrunner Marine Le Pen dismissed the claims as fake. According to the report by Mediapart, Bardella wrote, among other comments, in a chat: \"The Jew has to dominate other peoples, crush them, and rob them; a Zionist is necessarily a Jew, and fundamentally so.\"",
+      "published_at": "2026-09-29T10:27:25+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "2a3af29dd8d2288b1e2bd00fe01c4320c98219ca547f979091928d1832078527",
+      "title": "Tri dyn yn gwadu llofruddiaeth wedi gwrthdrawiad difrifol",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c60m3dw99y72o?at_medium=RSS&at_campaign=rss",
+      "description": "Bu farw Ceiran Evans, 18, o Abertawe ar ôl gwrthdrawiad rhwng car a beic modur ym mis Gorffennaf.",
+      "published_at": "2026-09-29T10:26:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "daba43996caf6291b60ea7669da632bfe0f9c976b7ad166c2eac357ae72eb15a",
+      "title": "Gaza’s humanitarian crisis deepens as new satellite images show scale of destruction",
+      "url": "https://www.france24.com/en/video/20260929-gaza-s-humanitarian-crisis-deepens-as-new-satellite-images-show-scale-of-destruction",
+      "description": "Google Maps has updated its satellite imagery of the territory for the first time since the Israel-Hamas war began nearly three years ago. The images show vast areas reduced to rubble, highlighting the extent of the devastation caused by the conflict. Meanwhile, the humanitarian situation in Gaza remains dire, with Israeli strikes continuing across the territory.",
+      "published_at": "2026-09-29T10:25:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e79f89f592c574895ebd012779b5f3611a50535523009a0c6d1d49e985ea379c",
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
+      "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
+      "description": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "published_at": "2026-09-29T10:20:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "8026c2371aea2947618cf3b486f111ee25c4a7a4f08b425f2da5baa0d62d8817",
+      "title": "Singapore or bust: how Indonesian student’s crowdfunding plea shows degree of desirability",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369210/singapore-or-bust-how-indonesian-students-crowdfunding-plea-shows-degree-desirability?utm_source=rss_feed",
+      "description": "For 28-year-old Indonesian professional Evelyn Clarissa Siregar, asking strangers to help fund her MBA in Singapore was a gamble: she knew the request was unconventional but hoped putting her dream out in public might open a door. Instead, her appeal for more than S$100,000 (US$78,000) to fund her business programme at Singapore Management University (SMU) drew fierce online criticism, with some labelling her entitled and questioning her plans. “I never expected the backlash to become this big,”...",
+      "published_at": "2026-09-29T10:18:04+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "1a72e8ac4b1a30d5d91fdfccff7d9875f096aa5dfe6313824cf2c93aea206e7b",
+      "title": "Early birds for Wang Fuk Court buy-back get first pick of subsidised houses",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3369209/early-birds-wang-fuk-court-buy-back-get-first-pick-subsidised-houses?utm_source=rss_feed",
+      "description": "Residents who lost their homes in Hong Kong’s deadly Tai Po fire started choosing their replacement flats on Tuesday, with some calling on authorities to introduce stamp duty waivers to help ease their financial burden. After last November’s blaze at Wang Fuk Court, authorities rolled out a HK$7.8 billion (US$994 million) plan to buy back flats at the eight-block subsidised housing estate. Under the scheme, participants can use the cash compensation to buy a flat on the private open market or...",
+      "published_at": "2026-09-29T10:17:55+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "44224825c69521300d9987d837060683bf9b2bde842f17c7350fcb6ceae6b557",
+      "title": "Chris Mason: Burnham opens debate on huge issue of social care reform",
+      "url": "https://www.bbc.co.uk/news/articles/ckp840qp85l2o?at_medium=RSS&at_campaign=rss",
+      "description": "The pitch from Andy Burnham is that there needs to be a willingness to say \"the things politicians usually avoid\", the BBC's political editor writes.",
+      "published_at": "2026-09-29T10:16:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "26d31a24adb2b99fc4932108bb0b540599b5bb9ccffdb5783a6991625a1ca741",
+      "title": "Chris Mason: Burnham opens debate on huge issue of social care reform",
+      "url": "https://www.bbc.co.uk/news/articles/ckp840qp85l2o?at_medium=RSS&at_campaign=rss",
+      "description": "The pitch from Andy Burnham is that there needs to be a willingness to say \"the things politicians usually avoid\", the BBC's political editor writes.",
+      "published_at": "2026-09-29T10:16:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "b563ae037c699e0772de8e45dea1abba275c26ab8ab5e8340efff9bebf382a17",
+      "title": "Andy Burnham: Northern PM's long journey to power",
+      "url": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+      "description": "The former mayor of Greater Manchester has had designs on the top job since 2010 when he first ran to be Labour leader.",
+      "published_at": "2026-09-29T10:15:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "d7bdc62a41ad71c3e0940dea9b5aaa4169e607cec8d29bd0501f4a3117c310a4",
+      "title": "Oura delays US IPO as fall market jitters deepen",
+      "url": "https://www.channelnewsasia.com/business/oura-delays-us-ipo-fall-market-jitters-deepen-6418336",
+      "description": "",
+      "published_at": "2026-09-29T10:15:45+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5cc9b457e69c90159b40ccf3dc8c917607ddc9a4818a382f16b506fe5960d7b9",
+      "title": "F1 rookie Lindblad wants to take his own path to the top",
+      "url": "https://www.channelnewsasia.com/sport/f1-rookie-lindblad-wants-take-his-own-path-top-6418341",
+      "description": "",
+      "published_at": "2026-09-29T10:13:56+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "a3fdbfa9b65387ebc283abb6d7dd4687eae8f022e58583126102caf9eac2f5bd",
+      "title": "Ebola a 'terrifying disease': Conflict-ravaged DRC faces overburdened healthcare system",
+      "url": "https://www.france24.com/en/video/20260929-ebola-a-terrifying-disease-as-drc-faces-decades-of-conflict-and-overburdened-healthcare-system-1",
+      "description": "Eve Irvine is pleased to welcome Stephanie Hoffmann, Project Coordinator for Butembo, North Kivu, Doctors Without Borders. The Ebola outbreak is hitting a region already ravaged by decades of armed conflict, insecurity, and an overwhelmed health system. As the epidemic's epicenter shifts from Ituri to North Kivu, the disease is spreading and the transmission is accelerating. In Butembo, a densely populated city of around 2 million, health workers themselves are being placed in an impossible position, often caring for their neighbors and relatives without adequate protective equipment.",
+      "published_at": "2026-09-29T10:09:02+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "2a5e869ef9a275d54f7d928fe60d968c5b86273178f0736472edea4a5c0dd09d",
+      "title": "UPS signs exclusive deal with TikTok Shop for label-free returns",
+      "url": "https://www.channelnewsasia.com/business/ups-signs-exclusive-deal-tiktok-shop-label-free-returns-6418301",
+      "description": "",
+      "published_at": "2026-09-29T10:08:12+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "129bf501d81f804c956fa1cb4559f4ab44ec88b92e5556d658514a5db2ffade5",
+      "title": "Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows",
+      "url": "https://www.channelnewsasia.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-cannot-be-canceled-filing-shows-6418306",
+      "description": "",
+      "published_at": "2026-09-29T10:07:55+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "48afb3744df1b2ec15d92267506c4c04e09f7c22d43a573760f68f44f06b2fc8",
+      "title": "Nepal suspends search after 16 swept away by avalanche",
+      "url": "https://www.channelnewsasia.com/asia/nepal-avalanche-expedition-disaster-himalayas-6418191",
+      "description": "\"The conditions are very challenging,\" said Tul Singh Gurung, president of the Nepal National Mountain Guide Association.",
+      "published_at": "2026-09-29T10:05:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b42718b347733c492d61ae5d3690e6f4a825d1d94c66678869e89ea844ce60b8",
+      "title": "‘I didn’t expect her to die’: Ex-Malaysia PM Mahathir says wife 'quite well' the night before death",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-mahathir-mohamad-hasmah-wife-died-6418171",
+      "description": "Siti Hasmah Mohamad Ali died at the National Heart Institute on Sep 28. She was 100.",
+      "published_at": "2026-09-29T10:04:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "8e4ebe84c17bcdf9870e86a0439cfb27f0df89be8906a3c3e64b9605eb3d569a",
+      "title": "Snooker-Former world champion Dott jailed for historical sexual abuse",
+      "url": "https://www.channelnewsasia.com/sport/snooker-former-world-champion-dott-jailed-historical-sexual-abuse-6418266",
+      "description": "",
+      "published_at": "2026-09-29T10:03:51+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "da079f6b0cf2de9c015aa2080ed9a9467686e001a201bd4e852e7e91defd8df7",
+      "title": "Toone and Kelly miss out on Lionesses squad",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying matches this month.",
+      "published_at": "2026-09-29T10:00:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "cc6e2663b6b85d61a07fc8fb7e52b933b8d5d2997b6987a8566d6dd33db7f28a",
+      "title": "Youth offending rate rises in Singapore, driven by jump in cheating offences",
+      "url": "https://www.channelnewsasia.com/singapore/msf-youth-offending-rate-rises-rehab-report-6402291",
+      "description": "The number of young people committing cheating and related offences rose by 37 per cent in 2025, with many involved in scams as mules.",
+      "published_at": "2026-09-29T10:00:29+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
     {
       "id": "f0a9131ce494df67eb348d2ce0167f47768ccffdc0589baa1b7cda70b71d1353",
       "title": "China mourns death of music legend Liu Huan, voice of 2008 Beijing Olympic theme song",
@@ -57,6 +539,17 @@
       "categories": [
         "Latest News",
         "Singapore"
+      ]
+    },
+    {
+      "id": "ef0b446b5c53a16ff013e545b5cf505e065d091337a70b80af0afa1723824a6d",
+      "title": "Husband charged with murder of wife in her 60s",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq849lwp97o?at_medium=RSS&at_campaign=rss",
+      "description": "Geoffrey Billett, 68, is due to appear at Bristol Magistrates' Court on Tuesday.",
+      "published_at": "2026-09-29T09:48:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -340,7 +833,7 @@
       "id": "7ede1b20a112bd9261c72facc12e1081a62ac1071244a92d5b8af7fe6ed7cd78",
       "title": "Bank cash machines ripped out in overnight raid",
       "url": "https://www.bbc.co.uk/news/articles/cw7702j25gyro?at_medium=RSS&at_campaign=rss",
-      "description": "Two cash machines are targeted at the Royal Bank of Scotland in Peebles town centre.",
+      "description": "Two cash machines are taken away in a horsebox from the Royal Bank of Scotland in Peebles.",
       "published_at": "2026-09-29T08:41:02+00:00",
       "source": "BBC",
       "categories": [
@@ -351,7 +844,7 @@
       "id": "2bb038111318cfc4758ad3a9bc4d145ed489d6337e77cc34e96e3233cebf90b2",
       "title": "Bank cash machines ripped out in overnight raid",
       "url": "https://www.bbc.co.uk/news/articles/cw7702j25gyro?at_medium=RSS&at_campaign=rss",
-      "description": "Two cash machines are targeted at the Royal Bank of Scotland in Peebles town centre.",
+      "description": "Two cash machines are taken away in a horsebox from the Royal Bank of Scotland in Peebles.",
       "published_at": "2026-09-29T08:41:02+00:00",
       "source": "BBC",
       "categories": [
@@ -909,7 +1402,7 @@
       "id": "bee98fc78894c74b0f143f43c3a5797567f3f04bf79f1759cac4da2107342abb",
       "title": "One Bangkok flood battle after another as Thai Airways races to clear baggage backlog",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369161/one-bangkok-flood-battle-after-another-thai-airways-races-clear-baggage-backlog?utm_source=rss_feed",
-      "description": "Standing water ⁠in Thailand’s capital is expected ⁠to clear within three days if there is no additional rainfall, the government said on Tuesday, as flag carrier Thai Airways struggled to resume regular services following heavy rain and flooding. The ‌cabinet will discuss long-term plans to address flooding and recovery measures on Tuesday, government spokesperson Ekkapob Pianpises told a news briefing. Bangkok was hit by around 320mm (12.6 inches) of rain over two to three days last week,...",
+      "description": "Standing water ⁠in Thailand’s capital is expected ⁠to clear within three days if there is no additional rainfall, the government has said, as flag carrier Thai Airways struggled to resume regular services following heavy rain and flooding. The ‌cabinet would discuss long-term plans to address flooding and recovery measures on Tuesday, government spokesman Ekkapob Pianpises told a news briefing on Tuesday. Bangkok was hit by around 320mm (12.6 inches) of rain over two to three days last week,...",
       "published_at": "2026-09-29T06:33:42+00:00",
       "source": "SCMP",
       "categories": [
@@ -1646,7 +2139,7 @@
       "id": "fb5a060a1ca4a0b7f3e71c68ef162e4fc7a5732227fa7cf6cb872303b6d7c590",
       "title": "Chinese deep-ocean drilling ship brings home ‘precious’ South China Sea samples",
       "url": "https://www.scmp.com/news/china/science/article/3369137/chinese-deep-ocean-drilling-ship-brings-home-precious-south-china-sea-samples?utm_source=rss_feed",
-      "description": "The ocean drilling ship Mengxiang has returned from its first expedition in the South China Sea, where it set a national depth record and obtained basalt core samples that could help to unravel the region’s tectonic history. The 30-day expedition organised by the China Geological Survey tested the operational capabilities of the world’s most powerful deep-ocean drilling ship, according to a report published on Monday by the official ministry newspaper Science and Technology Daily. During the...",
+      "description": "China’s ocean drilling ship Mengxiang has returned from its first expedition in the South China Sea, where it set a national depth record and obtained basalt core samples that could help to unravel the region’s tectonic history. The 30-day expedition organised by the China Geological Survey tested the operational capabilities of the world’s most powerful deep-ocean drilling ship, according to a report published on Monday by the official ministry newspaper Science and Technology Daily. During the...",
       "published_at": "2026-09-29T04:11:17+00:00",
       "source": "SCMP",
       "categories": [
@@ -2213,6 +2706,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "2526a7d58da8ab20b39e0df41f52a7509f8822466310dd4840c0ac3f55e59f5b",
+      "title": "Migrants using longer, more dangerous routes across Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+      "description": "The government says it is bearing down on dangerous small boat crossings.",
+      "published_at": "2026-09-29T00:42:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -2981,7 +3485,7 @@
       "id": "f320c9e835228c88ca170bd88918b686d5866be0e1994e20087fa09d6fe3aa7c",
       "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
       "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-      "description": "Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as investigations continue. Meanwhile, AI-enhanced images purporting to show their faces have gone viral, with some users claiming it ‘proves’ the men are Muslim. SynthID confirms the sharpened images were created using OpenAI tools, meaning the AI has suggested different facial features. UK police have not disclosed any names or religion, only that the men are all British nationals. Vedika Bahl explains.",
+      "description": "Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as investigations continue. Meanwhile, AI-enhanced images purporting to show their faces have gone viral, with some users claiming this \"proves\" the men are Muslim. SynthID confirms the sharpened images were created using OpenAI tools, meaning the AI has suggested different facial features. UK police have not disclosed any names or religion, only that the men are all British nationals. Vedika Bahl explains.",
       "published_at": "2026-09-28T20:55:42+00:00",
       "source": "France 24",
       "categories": [
@@ -3055,6 +3559,7 @@
       "published_at": "2026-09-28T20:39:31+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -4030,6 +4535,17 @@
       ]
     },
     {
+      "id": "d3e570cae7f766fe65f2d677c02d7921e0fe64da54f33ead1afb3250c4a3dab9",
+      "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss",
+      "description": "Fossilised teeth across Europe had been wrongly identified until the latest find in south Wales.",
+      "published_at": "2026-09-28T16:04:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "069857e1f1201d95fc0a6f97251cdbb7e4646349be58b40660af3df772e9bf4e",
       "title": "Scotland's Donaldson stuns Zhao at Shenzhen Open",
       "url": "https://www.bbc.co.uk/sport/snooker/articles/cmkgwk04e2g7o?at_medium=RSS&at_campaign=rss",
@@ -4654,6 +5170,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "125b713d6240085cc4d2e7cbfe96ec4be26f0ceb61461bad3a6b51bed5a610af",
+      "title": "Council dropped initial investigation into sex abuse teacher",
+      "url": "https://www.bbc.co.uk/news/articles/ck980zr67j7do?at_medium=RSS&at_campaign=rss",
+      "description": "Martin Gallacher was convicted last week of sexually abusing a dozen youngsters at a Paisley school over an 11-year period.",
+      "published_at": "2026-09-28T14:17:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -12646,6 +13173,17 @@
     },
     {
       "id": "e23fa73c8e4421557d98cc369cdbe879bfbb7d2b5dcb31e76a023ce0d2f8e251",
+      "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
+      "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
+      "published_at": "2026-09-26T23:01:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "48d9b4055d47e50ef801eb9768ceec068cc7e665d9652f1d1bf5bf4f0a9ad82f",
       "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
       "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
       "description": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
