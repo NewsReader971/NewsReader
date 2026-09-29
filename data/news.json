@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-09-29T22:03:08.795946+00:00",
+  "last_updated": "2026-09-29T23:02:21.205142+00:00",
   "articles": [
     {
+      "id": "0d0226d0cf4dd22e529edf5ecba458f32b8f38a9431a33c1994b9d4c2dd8a615",
+      "title": "Trump says AI companies sign voluntary accord on safety controls",
+      "url": "https://www.france24.com/en/technology/20260929-trump-says-ai-companies-sign-voluntary-accord-on-safety-controls",
+      "description": "President Donald Trump and leaders of major artificial intelligence companies signed a voluntary accord Tuesday to strengthen safety reviews as the technology faces growing public concern. The agreement calls for internal controls, independent audits and board oversight, while Trump rejected calls for government restrictions and urged rapid AI development.",
+      "published_at": "2026-09-29T22:48:07+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1a03be93a51e97d8ada13893d1b77e821f8b7999f664ebb1ac6d1aa17950471b",
+      "title": "Morocco’s king appoints El Mansouri as first woman prime minister",
+      "url": "https://www.scmp.com/news/world/africa/article/3369259/moroccos-king-appoints-el-mansouri-first-woman-prime-minister?utm_source=rss_feed",
+      "description": "King Mohammed VI appointed Fatima Ezzahra El Mansouri on Tuesday as Morocco’s first woman prime minister after her liberal-centrist party came out on top in a September 23 parliamentary election, the royal palace said. The king asked El Mansouri to form a new government, the palace said in a ‌statement. El Mansouri’s Authenticity and Modernity Party (PAM) was created in 2008 by an adviser to the king and has since positioned itself as a counterweight to the Islamist Justice and Development Party...",
+      "published_at": "2026-09-29T22:37:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "41a6296c1b66eed997de094b4246f572e6360328130e5735d7fba82d0598a456",
+      "title": "South Africa to clean up high-risk areas after 12 women killed",
+      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "description": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+      "published_at": "2026-09-29T22:33:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "dc9637405a59a683d4277db82c288ffeae789525ddb9a95e5cf359f5fb050b35",
+      "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+      "description": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+      "published_at": "2026-09-29T22:33:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f8f03957ba6998be8d3772b062a2419b05099b9c2e26ac7d38cb4a73569acd10",
+      "title": "New coach, new players, but same old failings hamper Scotland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+      "description": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
+      "published_at": "2026-09-29T22:30:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ec06fc8eabd61de459fc7c46b1dfd406211e1d0996ee8aba73ac4f2c30743c82",
+      "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland head coach Sebastien Pocognoli hopes \"we will remember this night differently later on\" as his Hampden bow ends with a 3-0 defeat by Switzerland.",
+      "published_at": "2026-09-29T22:12:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "31112ff502a2039657aa142ba7c7daea3d7f738fc90c3c19c73048990bec5ad1",
+      "title": "Trump releases AI accord with tech executives",
+      "url": "https://www.channelnewsasia.com/business/trump-releases-ai-accord-tech-executives-6419886",
+      "description": "",
+      "published_at": "2026-09-29T22:02:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "91bd7dff7e9ac8823c76fafffd25536f9a1467485da9b195cd2a773293589496",
+      "title": "Care homes with bars - coping with an ageing prison population",
+      "url": "https://www.bbc.co.uk/news/articles/cmew9vd8vqrko?at_medium=RSS&at_campaign=rss",
+      "description": "A special area at HMP Edinburgh has been set aside for older prisoners or those who have dementia.",
+      "published_at": "2026-09-29T22:01:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "a184a9b42b19ea17782eba7cd1a4aae2887f388eb9cd18f546490e656ec444f7",
       "title": "Care homes with bars - coping with an ageing prison population",
       "url": "https://www.bbc.co.uk/news/articles/cmew9vd8vqrko?at_medium=RSS&at_campaign=rss",
       "description": "A special area at HMP Edinburgh has been set aside for older prisoners or those who have dementia.",
@@ -69,6 +159,54 @@
       ]
     },
     {
+      "id": "b90fe91dd0b25cff8c64c41c2c26da753e816d5ef2f6f54ad7fa6afb47aac0d1",
+      "title": "From serial collectors to reluctant recyclers: How Singapore’s beverage container return scheme is shifting habits",
+      "url": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-changing-recycling-habits-6418401",
+      "description": "As the transition period for the Beverage Container Return Scheme draws to a close, how has the scheme changed consumer behaviour, and will this translate into better recycling habits in the long run?",
+      "published_at": "2026-09-29T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "683b0ffb6528d084300c3c74a49474e24f488127742ea659eafc1ae639e53147",
+      "title": "Commentary: Forget another big US-Iran deal. They need to start small",
+      "url": "https://www.channelnewsasia.com/commentary/iran-war-us-trump-deal-strait-hormuz-power-6418116",
+      "description": "Safe passage through the Strait of Hormuz remains the obvious first test. It is easy to observe and hard to fake, says international security professor Stefan Wolff.",
+      "published_at": "2026-09-29T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b349244f04a1d5a2a38222b0b6e8c0fcf2eaf111d5502c401b1bceec2c59a84b",
+      "title": "From cameras to cars, India’s chip startups chase an edge in AI",
+      "url": "https://www.channelnewsasia.com/asia/cameras-cars-indias-chip-startups-chase-edge-in-ai-6415791",
+      "description": "In the second of a two-part series on India’s chipmaking ambitions, CNA looks at how homegrown startups are developing specialised AI chips for cameras, cars and other devices.",
+      "published_at": "2026-09-29T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e2ee260da7f0ea2f3140cb67055aa5d29d72913bdd22e5f7185bae4579a8fe8a",
+      "title": "‘Everything is clear now’: What Jokowi’s Indonesian Solidarity Party membership means for his family",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-jokowi-psi-politics-election-6415441",
+      "description": "Ending months of speculation over his political affiliations, former Indonesian President Joko Widodo revealed last Saturday (Sep 26) that he has been a member of the Indonesian Solidarity Party (PSI) since October 2025.",
+      "published_at": "2026-09-29T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
       "id": "78ba71d8f940ba6513584e979c555cb5705aa36af8fc1181cd431829197f8201",
       "title": "Man dragged to death by New York subway train after bag gets caught in door",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369258/man-dragged-death-new-york-subway-train-after-bag-gets-caught-door?utm_source=rss_feed",
@@ -78,6 +216,18 @@
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "b381e9b13c916388e4f5c5053d7827d5e835aa5a64008c3a048ff61edf659db5",
+      "title": "Commentary: A meeting a day keeps the robots away",
+      "url": "https://www.channelnewsasia.com/commentary/ai-jobs-meeting-office-white-collar-role-6418136",
+      "description": "Predictions that white-collar work will soon be automated reveal an underappreciation of what other people’s jobs entail, says Sarah O’Connor for Financial Times.",
+      "published_at": "2026-09-29T21:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -133,6 +283,7 @@
       "published_at": "2026-09-29T21:47:12+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "Scotland",
         "Wales"
       ]
@@ -217,6 +368,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "0d53b91fabe9be871f0337a7adac4e3c1b73cb53f44f34831d8a5f2d3c0b1808",
+      "title": "Trump says doesn't want to work with China on AI safety",
+      "url": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
+      "description": "US President Donald Trump discussed AI development with dozens of tech bosses at the White House. Ahead of his \"superintelligence\" luncheon, Trump launched a new AI-powered website for government services vowing not to stifle the technology's growth. He also said he didn't want to work with Chinese President Xi Jinping on AI oversight. Plus, dozens of dogs were rescued from a breeding farm in South Korea as the country prepares for a complete phaseout of the dog meat industry.",
+      "published_at": "2026-09-29T21:05:00+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1401,6 +1563,17 @@
       ]
     },
     {
+      "id": "55dc64c7d3ef12c2a33e6cf52628d2ebee744e5537c278fa0537bab57cc5e252",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "published_at": "2026-09-29T15:40:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "0699d082cf45f98ea441a3cacd0bc65ead0cb3354829e9ab7c24ac86bd90cdf1",
       "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
       "url": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
@@ -1817,7 +1990,7 @@
       "id": "09d8ea162b24051d3b2549a9958821dfd9a373cdd3c626256bc11ef13ddc1b56",
       "title": "Spotify, Anthropic's Claude down for some users in US, Singapore: Downdetector",
       "url": "https://www.channelnewsasia.com/world/spotify-claude-down-us-downdetector-6418981",
-      "description": "Spotify said on X it was aware of \"some issues\" and was investigating, while Anthropic said it was probing \"elevated error rates\" across Claude services.",
+      "description": "An Anthropic spokesperson said issues affecting Claude services had been mitigated, while Spotify said earlier on X it was aware of \"some issues\" and was investigating.",
       "published_at": "2026-09-29T14:33:00+00:00",
       "source": "CNA",
       "categories": [
@@ -2760,6 +2933,17 @@
     },
     {
       "id": "236d86a563fdc3b2855c8e77fef705f7f5bf603341545660ad39df7272989fe1",
+      "title": "Drumcree parade resolution not going to be easy - NI secretary",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ye12l94g3o?at_medium=RSS&at_campaign=rss",
+      "description": "Sir Chris Bryant says the situation is \"tense\" and that \"nobody wants Northern Ireland to return to the 1990s\".",
+      "published_at": "2026-09-29T11:51:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "a74537fb3c307d32ff2489b05f44953896d8f43c62abea58d4c057149cde6961",
       "title": "Drumcree parade resolution not going to be easy - NI secretary",
       "url": "https://www.bbc.co.uk/news/articles/cr5ye12l94g3o?at_medium=RSS&at_campaign=rss",
       "description": "Sir Chris Bryant says the situation is \"tense\" and that \"nobody wants Northern Ireland to return to the 1990s\".",
