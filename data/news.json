@@ -1,6 +1,195 @@
 {
-  "last_updated": "2026-09-29T04:03:20.403458+00:00",
+  "last_updated": "2026-09-29T05:04:01.426457+00:00",
   "articles": [
+    {
+      "id": "1d53d2c0787f3467fb6fa4f173db85fdf8f0e81c5df32680ab0946e768932b19",
+      "title": "Channel Islands fuel prices set to rise again",
+      "url": "https://www.bbc.co.uk/news/articles/cm70dp7kk7gdo?at_medium=RSS&at_campaign=rss",
+      "description": "The increases could mean mean diesel costing more than £2 per litre.",
+      "published_at": "2026-09-29T05:00:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "4b99ce935f1bbbae45c20d7b9d076447130345bafc37d3a3ec1594b32afe61d0",
+      "title": "Former farmland to be restored to boost wildlife",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7j3p3jv3o?at_medium=RSS&at_campaign=rss",
+      "description": "The 30-year project aims to enhance existing grassland with specialist wildflower and herb mixes.",
+      "published_at": "2026-09-29T04:55:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "d1f72fc70957f7b41f19e6c87a814fd8e3caac22fe2a5e4769d51a5befd6b02e",
+      "title": "Shoppers rejoice, farmers fume as Japan’s rice crisis turns into a surplus",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3369145/shoppers-rejoice-farmers-fume-japans-rice-crisis-turns-surplus?utm_source=rss_feed",
+      "description": "Last year, Japan was flooding its rice market with emergency stockpiles in a bid to mollify voters angered by the soaring price of its staple grain. Now, it has the opposite problem: a glut. That is welcome news for shoppers, but the whiplash is hurting people like Hiroshi Asano, 59, who farms a relatively large 38 hectares (93 acres) of rice fields in Chiba, close to Tokyo. He expects to make a loss this year, and he is worried smaller-scale farmers would not be able to survive. “I’ve been...",
+      "published_at": "2026-09-29T04:51:32+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "63523071852483fce3897931693d6eab684e92771441aa6aa608ea73f776dc28",
+      "title": "Bangkok flood disaster, Indonesian victim of fake cash scam: 7 Asia highlights",
+      "url": "https://www.scmp.com/news/asia/article/3369142/bangkok-flood-disaster-indonesian-victim-fake-cash-scam-7-asia-highlights?utm_source=rss_feed",
+      "description": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Bangkok declares flood disaster across city as thousands flee from homes Entire Bangkok neighbourhoods were inundated on Saturday as the city government declared a flood disaster after the worst rains in years overwhelmed the Thai capital, submerging roads, cars and...",
+      "published_at": "2026-09-29T04:45:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "eb9f2ec6ba1c41f15baf1e2511309ddc0f0cc1d7e034be5c74937b0d3cbaaf1c",
+      "title": "Family of British explorer Sir Ranulph Fiennes say they don't know where he is",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
+      "description": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
+      "published_at": "2026-09-29T04:41:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "97974e395bcbec262ca5732957c1ea8216171a684de93defd05f2f0562af88a4",
+      "title": "Man charged over AI-generated image of crocodile that led to search operations at Pandan Reservoir",
+      "url": "https://www.channelnewsasia.com/singapore/ai-generated-crocodile-image-pandan-reservoir-man-charged-6417156",
+      "description": "The man allegedly deleted the AI-generated images of the crocodile and the log history on an AI app from his mobile phone.",
+      "published_at": "2026-09-29T04:34:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "669b1331a7c13cfa27a727579920250f7cfd73fbf0185c9a82f7bc8170e3a50e",
+      "title": "Australia's Codan jumps to record high on robust forecast",
+      "url": "https://www.channelnewsasia.com/business/australias-codan-jumps-record-high-robust-forecast-6417546",
+      "description": "",
+      "published_at": "2026-09-29T04:33:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "835d9a0f85d3ed947d8e025e83863be5380ba20c53115ec06dca4c016adb9c53",
+      "title": "Signal faults, communication problems caused Indonesia's April deadly train collision: Investigators",
+      "url": "https://www.channelnewsasia.com/asia/signal-faults-communication-problems-bekasi-train-crash-indonesia-6415666",
+      "description": "The driver of the long-distance train that crashed into a commuter train had not received training in situations which require emergency braking, said a report.",
+      "published_at": "2026-09-29T04:32:58+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "44dc0ddca7932a0c8af8650a6b17bc81783e01511efa7de7919299fd65448f62",
+      "title": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik",
+      "url": "https://www.channelnewsasia.com/travel/singapore-airlines-sia-new-dishes-chefs-selection-6417341",
+      "description": "The dishes are being introduced under the airline's new in-flight menu category: SIA Chefs' Selection.",
+      "published_at": "2026-09-29T04:32:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "35a320c8dc21fed426c4fa18aea5b0506f489131376556b022ebc71d825704bd",
+      "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+      "url": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+      "description": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia. The acquisition, expected to close by the end of this year, would integrate World Labs’ research team and spatial-intelligence model expertise into AMD, according to an announcement on Monday. Li, a Stanford University professor...",
+      "published_at": "2026-09-29T04:30:18+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "96f8673a1ee43925c397a75a07be8f5dfb2bacbe2ea780e8ba5ce8e2f8cbc5b3",
+      "title": "Tata stocks slip after Trusts propose move to prevent holding company listing",
+      "url": "https://www.channelnewsasia.com/business/tata-stocks-slip-after-trusts-propose-move-prevent-holding-company-listing-6417496",
+      "description": "",
+      "published_at": "2026-09-29T04:27:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d2799b42cfc023bbe41b345c30fc9cf069711daa8b823fffc939a3bc62784c7b",
+      "title": "Man who allegedly hid 3 pinhole cameras in Hong Kong gym changing rooms out on bail",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369143/man-who-allegedly-hid-3-pinhole-cameras-hong-kong-gym-changing-rooms-out-bail?utm_source=rss_feed",
+      "description": "A Hong Kong man who allegedly installed pinhole cameras in the changing rooms of a popular gym chain has been released on bail pending the identification of victims. Construction site foreman Fung Kwok-wang, 34, was not required to answer a count of voyeurism in his first appearance at Sha Tin Court on Tuesday, as prosecutors sought an eight-week adjournment for further police inquiries. Acting Principal Magistrate Cheang Kei-hong granted the defendant HK$2,000 (US$255) bail on condition that he...",
+      "published_at": "2026-09-29T04:26:53+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "c064d98039903f48f4bbde5782961e92a9ac4a67d42cc734fe60d0688be90f10",
+      "title": "Stocks drop and oil rises as Hormuz hopes fade",
+      "url": "https://www.channelnewsasia.com/business/stocks-drop-and-oil-rises-hormuz-hopes-fade-6417441",
+      "description": "",
+      "published_at": "2026-09-29T04:12:58+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "fb5a060a1ca4a0b7f3e71c68ef162e4fc7a5732227fa7cf6cb872303b6d7c590",
+      "title": "Chinese deep-ocean drilling ship brings home ‘precious’ South China Sea samples",
+      "url": "https://www.scmp.com/news/china/science/article/3369137/chinese-deep-ocean-drilling-ship-brings-home-precious-south-china-sea-samples?utm_source=rss_feed",
+      "description": "The ocean drilling ship Mengxiang has returned from its first expedition in the South China Sea, where it set a national depth record and obtained basalt core samples that could help to unravel the region’s tectonic history. The 30-day expedition organised by the China Geological Survey tested the operational capabilities of the world’s most powerful deep-ocean drilling ship, according to a report published on Monday by the official ministry newspaper Science and Technology Daily. During the...",
+      "published_at": "2026-09-29T04:11:17+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "6ea3e128206e063bd3bea35bdc98a43705781c105c5a7ed7c2471684373d2c83",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "description": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "published_at": "2026-09-29T04:10:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "World"
+      ]
+    },
+    {
+      "id": "9d964ba5d7c4c2b31b30f0f1ea9c79841108b86a3d8257c09aab1444c5bbdee6",
+      "title": "Thailand expects to clear Bangkok floodwater in two to three days",
+      "url": "https://www.channelnewsasia.com/asia/thailand-bangkok-clear-floodwater-two-three-days-6417366",
+      "description": "",
+      "published_at": "2026-09-29T04:07:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
     {
       "id": "587836b411a64ffcd00d8f4a210a5bd657b862002c0449e33701f45f3bc71a4f",
       "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
@@ -75,7 +264,7 @@
       "id": "a6955151dee008daceb8d2c6ad982f48cbebc65a6cbe6edf04e43bb1e514299a",
       "title": "Elderly in-laws arrested in California shooting death of New York Times employee",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369132/elderly-laws-arrested-california-shooting-death-new-york-times-employee?utm_source=rss_feed",
-      "description": "A 77-year-old couple gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter. Jonathan McKinsey, a 40-year-old gaming engineer for The New York Times, was shot to death Saturday afternoon in the car park of a sports complex in Dublin, east of San Francisco. A police sergeant was driving nearby and saw him on the ground as witnesses began calling 911 and pointing out...",
+      "description": "A couple in their late 70s gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter. Jonathan McKinsey, a 40-year-old gaming engineer for The New York Times, was shot to death Saturday afternoon in the car park of a sports complex in Dublin, east of San Francisco. A police sergeant was driving nearby and saw him on the ground as witnesses began calling 911 and pointing...",
       "published_at": "2026-09-29T03:14:09+00:00",
       "source": "SCMP",
       "categories": [
@@ -604,6 +793,17 @@
     },
     {
       "id": "a0ff9e13fe7ada683962b8938de39a3aed05a1870109681d53fd816fed143ce0",
+      "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+      "description": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
+      "published_at": "2026-09-28T23:39:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "efe814a49b33e4a38de8ce9b170e487e4ec18866be83f3b2fcfa626a313f18e6",
       "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
       "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
       "description": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
@@ -1539,7 +1739,7 @@
       "id": "b09bee1acfd0cc14cb3cdd5f0543d142125a07d620c9df282d1b8385d5f9be88",
       "title": "Trump announcing new Iowa steel plant the White House says will be biggest in US",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369110/trump-announcing-new-iowa-steel-plant-white-house-says-will-be-biggest-us?utm_source=rss_feed",
-      "description": "US President Donald Trump is announcing a new US$15 billion steel plant in Iowa being built with backing from an Indian conglomerate, creating what the White House says will become the largest steel plant in US history. The White House said Trump will announce the project on Monday afternoon alongside steel industry executives and commerce officials. It comes as Trump is trying to energise voters ahead of difficult midterm races including in Iowa, where governor and Senate seats have become...",
+      "description": "US President Donald Trump on Monday announced a new US$15 billion steel plant being built in Iowa, highlighting an economic victory in a key battleground state where Republicans face competitive midterm races. Trump announced the new plant at an Oval Office event alongside steel executives and Iowa Republicans, including two running for office. The event highlighted Iowa’s elevated status for Republicans and for Trump, who on Monday pledged to campaign there in coming weeks. “We’re going to do a...",
       "published_at": "2026-09-28T18:02:58+00:00",
       "source": "SCMP",
       "categories": [
@@ -1598,6 +1798,17 @@
     {
       "id": "2125082d8aaee57a150e8a4ef32bb8d4b482bbf7b933176df38e2107fffb1d94",
       "title": "Aldi boss says some loyalty discounts 'dupe' customers",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+      "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "published_at": "2026-09-28T17:45:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "7bd70c935376316c1a38c8f35940fb36cc981c5424b1b1ae36d85c32d253d6b2",
+      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
       "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
       "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
       "published_at": "2026-09-28T17:45:52+00:00",
@@ -2369,6 +2580,17 @@
     },
     {
       "id": "820f3eb019cc3ffdb6402de9ed5809d7e1f6d2d55105b2c2824f806961f2489b",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "published_at": "2026-09-28T14:57:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "4020aff5402f1f64273df73e7d390e0d314bf541680e728e1ed5c3197fb353a8",
       "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
       "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
