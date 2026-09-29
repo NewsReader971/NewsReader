@@ -1,6 +1,120 @@
 {
-  "last_updated": "2026-09-29T19:04:34.575445+00:00",
+  "last_updated": "2026-09-29T20:03:59.619902+00:00",
   "articles": [
+    {
+      "id": "9f029ff0f32840e278f4b815e5e6928cb14fdd0602f61ed791209747cc60a523",
+      "title": "AI sector signed 'accord' with on technology standards, US House speaker says",
+      "url": "https://www.channelnewsasia.com/business/ai-sector-signed-accord-technology-standards-us-house-speaker-says-6419651",
+      "description": "",
+      "published_at": "2026-09-29T19:51:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "d8ceb44a942728142ee9300377f1cfb7bd76a72ba15c0aa691a16dd0341e7660",
+      "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369254/trump-rejects-calls-work-china-ai-safety-despite-xi-summit-progress?utm_source=rss_feed",
+      "description": "US President Donald Trump said on Tuesday he does not want to work with China on addressing artificial intelligence (AI) risks, arguing that cooperation could undermine America’s lead in the fast-moving technology. “Whoever wins superintelligence wins. You’re gonna have a winner and a loser, and you’re probably not gonna have a second place,” Trump said at the launch event for America.gov, a new AI-powered federal government portal. “We’re leading now over China and everyone else, and I want to...",
+      "published_at": "2026-09-29T19:32:03+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "a681038a073f2ba55e0491c3c2d2663bfa24ce66e4418490f7bc53957b164034",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+      "description": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+      "published_at": "2026-09-29T19:30:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "49273124966a62ecf1acfcb96203433aebb29718fac4d59536651fc29c47a82a",
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "description": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+      "published_at": "2026-09-29T19:17:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "4b46a75e348d933c6437c7cbe8a871173f6539e80992199bb15e71a65b4f1a8e",
+      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+      "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+      "description": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+      "published_at": "2026-09-29T19:13:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "931042c624a7d1340d8c72251cdad7360e0db126d30a893e485f30b6cd47be96",
+      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+      "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+      "description": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+      "published_at": "2026-09-29T19:13:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "7cd3900d490998926a8a2106a92682222b7659934b33f4659c1a0aa301578d6e",
+      "title": "Soho House venue under investigation for food safety",
+      "url": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+      "description": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
+      "published_at": "2026-09-29T19:10:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "de3b0c0fbcd06de9f5db167be70d57efb15f3e883b067b0afd4b260a1672115e",
+      "title": "Soho House venue under investigation for food safety",
+      "url": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+      "description": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
+      "published_at": "2026-09-29T19:10:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e373699250db8b0e30ae750a5e5c2d73800069da99e1be84af66b2920a7adc9f",
+      "title": "China expands overseas military presence with new Laos air force centre",
+      "url": "https://www.scmp.com/news/china/military/article/3369253/china-expands-overseas-military-presence-new-laos-air-force-centre?utm_source=rss_feed",
+      "description": "China has launched a rare air force support and training centre in Laos, the Ministry of Defence announced on Tuesday. The China-Laos Joint Support and Training Centre and the China-Laos Friendship Aviation Academy are now in operation at the Ban Keun Airport, aiming to help the Laotian Air Force train its pilots, the ministry said in a statement. The two institutions will be jointly maintained and operated by both sides, the statement said, without providing details on what personnel or...",
+      "published_at": "2026-09-29T19:08:41+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "4b2344f56a2887d3bce2a3d7b29f95989d72f3dc38a5bd89cbcb4349268a9351",
+      "title": "Mystery over UK airbase scare as police find 'quantity of petrol' but no explosives",
+      "url": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
+      "description": "Britain's counter-terrorism police said ​on Tuesday that no improvised explosive devices had been found as part of an ​investigation ‌into a suspected plot targeting ⁠a British airbase used by US forces to ‌strike Iran, deepening uncertainty over the incident a day after five UK-based suspects were released on bail.",
+      "published_at": "2026-09-29T19:05:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
     {
       "id": "eafcb82b70604420768990b0f08e49c1de51e9e8f304dbc7cd3bad3d378d90a6",
       "title": "William and Kate surprise Sinfield on MND run",
@@ -10,6 +124,18 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "b414fdf3222cc24da3d1413cc9d3bbeb42fbccde3155d77493fc93f401f7c100",
+      "title": "Australian regulator to review banking sector AI use and customer impacts",
+      "url": "https://www.channelnewsasia.com/business/australian-regulator-review-banking-sector-ai-use-and-customer-impacts-6419576",
+      "description": "",
+      "published_at": "2026-09-29T19:00:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -171,6 +297,7 @@
       "published_at": "2026-09-29T17:39:06+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Health",
         "Politics",
         "UK"
@@ -190,6 +317,17 @@
     },
     {
       "id": "522022e63007360e4710c5c45abc49d1bf9f500291de84935c479b4a6fe736e2",
+      "title": "Prince William and Catherine's surprise visit to Kevin Sinfield's charity run",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdv7x5r8e1o?at_medium=RSS&at_campaign=rss",
+      "description": "The rugby league star is on the third day of his endurance challenge to raise funds for Motor Neurone Disease charities.",
+      "published_at": "2026-09-29T17:35:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "f05e53d6ed520e8953de00a4cb263581f3b2bafa38040f89bc24cb7fe6a76e83",
       "title": "Prince William and Catherine's surprise visit to Kevin Sinfield's charity run",
       "url": "https://www.bbc.co.uk/news/articles/c6jdv7x5r8e1o?at_medium=RSS&at_campaign=rss",
       "description": "The rugby league star is on the third day of his endurance challenge to raise funds for Motor Neurone Disease charities.",
@@ -260,6 +398,18 @@
       ]
     },
     {
+      "id": "5f3453d1581cd64bfc74bd9a4f6341622ea20c066a06874f955baaa0d578cf40",
+      "title": "OpenAI takes on Meta with dots agent in enterprise AI push",
+      "url": "https://www.channelnewsasia.com/business/openai-takes-meta-dots-agent-in-enterprise-ai-push-6419386",
+      "description": "",
+      "published_at": "2026-09-29T17:17:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "8b09c44e6c54fea4869fd4d4ec293e2e44e0d7e3ceab39da974e94d43f540631",
       "title": "Israel kills senior Hamas commander in Gaza strike",
       "url": "https://www.channelnewsasia.com/world/israel-gaza-hamas-commander-killed-strike-6419301",
@@ -280,6 +430,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "31afb791705cc8fc78df69f03023ef6f522b7a8cf717b89c4b8218d8d47acf27",
+      "title": "What is the triple lock and why are people talking about it?",
+      "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+      "description": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+      "published_at": "2026-09-29T17:09:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -757,6 +918,18 @@
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "c07182252d70d2eb2ee32ce80dd20aa4a1a60cef4d0af22af193073ecf27253e",
+      "title": "Ghana and Nigeria stunned in Cup of Nations qualifiers",
+      "url": "https://www.channelnewsasia.com/sport/ghana-and-nigeria-stunned-in-cup-nations-qualifiers-6419211",
+      "description": "",
+      "published_at": "2026-09-29T15:47:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
       ]
     },
     {
@@ -3215,6 +3388,17 @@
       ]
     },
     {
+      "id": "80d28fe79b6d391a082fc1275ff46431b3390060c51d7ef371d08a3d0220c125",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "published_at": "2026-09-29T09:14:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "5a77d6b76e6d304a28dc8062397b59616bcf2874880c7ba67e860f7cb1ddfb36",
       "title": "Mahathir ‘lonely’ as family and Malaysia mourn Siti Hasmah",
       "url": "https://www.scmp.com/week-asia/people/article/3369197/mahathir-lonely-family-and-malaysia-mourn-siti-hasmah?utm_source=rss_feed",
@@ -3281,7 +3465,8 @@
       "published_at": "2026-09-29T09:01:23+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "UK"
       ]
     },
     {
@@ -4829,6 +5014,7 @@
       "published_at": "2026-09-29T04:10:33+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "World"
       ]
     },
@@ -6598,6 +6784,17 @@
     },
     {
       "id": "5c9e7882e3a10a9bc77505230c4de3f2b0c125d072a85950fa693e1c1c86f861",
+      "title": "What a US diesel export ban could mean for you",
+      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+      "description": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+      "published_at": "2026-09-28T18:18:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "3824d0135ff45a564c0ca46a16eecc78952154bbb89f7d2bc6b0122e554741f4",
       "title": "What a US diesel export ban could mean for you",
       "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
       "description": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
