@@ -1,6 +1,138 @@
 {
-  "last_updated": "2026-09-29T01:05:08.599985+00:00",
+  "last_updated": "2026-09-29T02:02:53.049896+00:00",
   "articles": [
+    {
+      "id": "c2aa34297de6791219c48bb268cdfa55548cc010aca8f1273088667924399244",
+      "title": "China wife donates kidney to husband, defying sub 10% match rate for non-blood relatives",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368965/china-wife-donates-kidney-husband-defying-sub-10-match-rate-non-blood-relatives?utm_source=rss_feed",
+      "description": "A young Chinese wife selflessly donated her kidney to her husband suffering from uraemia because she “did not want to lose him,” despite the success rate being less than 10 per cent. In September, Liang, 25, donated her left kidney to her husband, Chung, at the Third Affiliated Hospital of Guangzhou Medical University. Chung, 33, has congenital megaureter, a condition present from birth that involves an abnormally enlarged ureter. He underwent regular treatment for his condition, which...",
+      "published_at": "2026-09-29T02:00:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "9d1c2b22ea674a0b6afc4d5c479159ded63887dabb000a109f55907a5d8823ea",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "description": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+      "published_at": "2026-09-29T01:51:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology",
+        "World"
+      ]
+    },
+    {
+      "id": "110ec944208957d1cce98bf1c9599e009d0d8c7a1f2fcd8ac4d665e77086450a",
+      "title": "Pope says concerns about AI 'should be taken seriously'",
+      "url": "https://www.channelnewsasia.com/world/pope-leo-xiv-concerns-ai-taken-seriously-6417136",
+      "description": "",
+      "published_at": "2026-09-29T01:46:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "8dc4f33bf95368213676ba6ddebe4684a581b2d9e7055caf8c118fd982d0b441",
+      "title": "Shares of fast-fashion platform Shein fall 6% after quarterly profit slides 67%",
+      "url": "https://www.channelnewsasia.com/business/shares-fast-fashion-platform-shein-fall-6-after-quarterly-profit-slides-67-6417151",
+      "description": "",
+      "published_at": "2026-09-29T01:46:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b8db571f95955d32fe7458340fe7770d4743c262be9b73ea132f1eef285c96aa",
+      "title": "Japan enlists royal visit, subsidies to revive tourism in quake-hit Kyushu",
+      "url": "https://www.scmp.com/week-asia/economics/article/3369071/japan-enlists-royal-visit-subsidies-revive-tourism-quake-hit-kyushu?utm_source=rss_feed",
+      "description": "Travel companies in southern Japan are pinning their hopes on a business revival following a planned visit by Emperor Naruhito and Empress Masako to the areas hardest hit by a major earthquake this summer. The imperial couple, who were scheduled to meet communities in Kumamoto prefecture on Tuesday, postponed the trip due to poor weather. On Wednesday, they will speak with families currently living in temporary accommodation after losing their homes and businesses. The prefecture was at the...",
+      "published_at": "2026-09-29T01:30:15+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "05674552aa37e96b89760747af28075b7b5391906250b5d7d907232bc98c5d65",
+      "title": "Hong Kong mustn’t miss the boat on the Pinglu Canal and Asean trade",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3368947/hong-kong-mustnt-miss-boat-pinglu-canal-and-asean-trade?utm_source=rss_feed",
+      "description": "The official opening of the Pinglu Canal on September 16 is a milestone in modern Chinese history. More than an infrastructural feat, it signals a strategic recalibration of how China’s inland economies connect with the sea and Southeast Asia, and augurs the next phase of regional growth. Designed for vessels of up to 5,000 tonnes, the 134.2km (83.4 mile) waterway stretches from the Xijin reservoir in Hengzhou, an emerging city in Guangxi, to the Gulf of Tonkin (known as the Beibu Gulf in...",
+      "published_at": "2026-09-29T01:30:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "b6abdedeece939e01ac1e25cf488aeb3376535b37849ad7b7bda50098eda5edd",
+      "title": "OpenAI says AI models accessed Australian government systems without authorisation",
+      "url": "https://www.channelnewsasia.com/business/openai-says-ai-models-accessed-australian-government-systems-without-authorisation-6417116",
+      "description": "",
+      "published_at": "2026-09-29T01:28:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "3d9d3ca195a86e4e8e218c0e18fb48d2d335fc67e1f5537edcfa82e3ef10ef1b",
+      "title": "Australian firm drops US$842 million Sydney data centre plan after public fury",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3369125/australian-firm-drops-us842-million-sydney-data-centre-plan-after-public-fury?utm_source=rss_feed",
+      "description": "Australian industrial property developer Goodman Group has withdrawn an application to develop a 24-hour data centre on Sydney’s north shore following public push back. Goodman said it would not proceed with its Project Mars development application after considering evolving federal and state policy and community feedback. Policy and regulation around large artificial intelligence data centres had “evolved significantly” since planning began in March 2025, the company said in a statement. The...",
+      "published_at": "2026-09-29T01:28:20+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "c5bd0eff78b19b16de463ef371381de65bf5fa36d5372f5dbea83f6647d3263e",
+      "title": "Are Trump's US government funded ads illegal?",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+      "description": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
+      "published_at": "2026-09-29T01:12:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "f9b8f8322036f5075e8640f6fb6d2e37af2160fa75adf487d1d95b0907320f6e",
+      "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
+      "url": "https://www.channelnewsasia.com/business/south-korean-exports-seen-rising-16th-month-solid-ai-chip-demand-reuters-poll-6417096",
+      "description": "",
+      "published_at": "2026-09-29T01:08:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "bde3a422a396e2680023f0dc4a8151f89be4e6519fea303b12867f8628b08a85",
+      "title": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-says-hbm-account-nearly-30-industry-dram-capacity-next-year-6417091",
+      "description": "",
+      "published_at": "2026-09-29T01:07:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "0c34ddc1a0c73960608560076f7ad45f24e68b68929cf31f1815f2b228abe5c9",
       "title": "The Papers: 'Labour split on triple lock' and 'Plot's going on, PM?'",
@@ -22,6 +154,17 @@
       "categories": [
         "China",
         "News"
+      ]
+    },
+    {
+      "id": "0c3a99df83e71a1113ede745ec3e257c2d63ede7fb0cc166e7aba207527986ff",
+      "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&at_campaign=rss",
+      "description": "Could hallucinogenic drugs become part of mainstream NHS care to treat depression?",
+      "published_at": "2026-09-29T00:59:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -95,6 +238,19 @@
       ]
     },
     {
+      "id": "c6cb978e6a47cca3b993d2bb2e0b7cf41b0db72f84ea58b99117701c64665b80",
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+      "url": "https://www.channelnewsasia.com/business/anthropic-ai-existential-risks-humanity-ipo-filing-6417036",
+      "description": "",
+      "published_at": "2026-09-29T00:17:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
       "id": "f10cf9b2c4d37cb91ac46f2c1d808ef47bef8e0ef0ca5efcc80724a3ecf9ba50",
       "title": "Exclusive-Anthropic leaders to control AI lab via 'Founder LLC' to promote public good over market forces",
       "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-leaders-control-ai-lab-founder-llc-promote-public-good-over-market-forces-6417026",
@@ -155,6 +311,18 @@
       ]
     },
     {
+      "id": "1656bcb4d211c15410ba5c1f45b531b9671b81e70af110b4129e98571e09ceb9",
+      "title": "Samsung, affiliates commit $1 billion to KKR-backed Helix Digital AI buildout",
+      "url": "https://www.channelnewsasia.com/business/samsung-affiliates-commit-1-billion-kkr-backed-helix-digital-ai-buildout-6417001",
+      "description": "",
+      "published_at": "2026-09-28T23:57:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "9c50e6fcacf17f2c958ad1128883ec1047f804b82e6a88be336ebad6a5ff53f8",
       "title": "French student protests fuel political clash ahead of Presidential vote",
       "url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
@@ -186,6 +354,17 @@
       "source": "BBC",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "a0ff9e13fe7ada683962b8938de39a3aed05a1870109681d53fd816fed143ce0",
+      "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+      "description": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
+      "published_at": "2026-09-28T23:39:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -693,6 +872,7 @@
       "published_at": "2026-09-28T20:42:56+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "UK"
       ]
     },
@@ -1366,6 +1546,17 @@
       ]
     },
     {
+      "id": "2246db9d5ce4e3faf963b32f5f6c3a19f78a7277b93ee3cdf0e0a57907d76a91",
+      "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+      "description": "The heavy metal band will be joined by the US rock musician during their London show.",
+      "published_at": "2026-09-28T17:00:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "f5852a406c13c03b95d2a89be0814c7dd85c529e130fe5e494e09648fb39dd2d",
       "title": "France puts out massive fire that torched 42,000 hectares and smouldered for 69 days",
       "url": "https://www.france24.com/en/france/20260928-france-puts-out-massive-fire-that-torched-42-000-hectares-and-smouldered-for-69-days",
@@ -1727,6 +1918,17 @@
     },
     {
       "id": "4e775fd08579f0b414fe9bc8157a285d0938011f9b5ab7d729a410f236e515b3",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+      "published_at": "2026-09-28T15:39:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "3776c3905c8fc8870ad8801a18f6605c216986826f7f47158c00f5ebcef05287",
       "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
       "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
       "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
