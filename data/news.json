@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-09-30T16:05:51.806074+00:00",
+  "last_updated": "2026-09-30T17:04:37.929068+00:00",
   "articles": [
+    {
+      "id": "41d826751a1687a049db5084f4adfbfb1cf8a05657c27a6acf2950eafb03904e",
+      "title": "MacIntyre calls for Opens at Carnoustie & Muirfield",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cm93vr3dywe5o?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland's number one golfer, Robert MacIntyre, calls for Carnoustie and Muirfield to become regular venues again for the Open.",
+      "published_at": "2026-09-30T16:53:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "89b0038aac82f223f7d8be5001693a9002bfc85050239005c5c1907786324d68",
+      "title": "UK PM says ‘strong indications’ Iran involved in bomb scare at US-run airbase",
+      "url": "https://www.scmp.com/news/world/europe/article/3369387/uk-pm-says-strong-indications-iran-involved-bomb-scare-us-run-airbase?utm_source=rss_feed",
+      "description": "British Prime Minister Andy Burnham on Wednesday said there were “strong indications” that Iran was involved in suspicious activity at a UK airbase that triggered a major security incident this weekend. “There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford,” Burnham told the BBC, referring to Sunday’s bomb scare near the airbase in southwest England, which is used by the US military in its war against Iran. “Of course it remains an ongoing,...",
+      "published_at": "2026-09-30T16:51:39+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "c3d57f5f18b7139a9594452ef63f2000da62715acaeb0101a288d50815e17b64",
+      "title": "Teens who died in car that entered river named",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the Wear.",
+      "published_at": "2026-09-30T16:51:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "7ac935b4e85f8d684002a93ee068b412a4cce93594c6f367dc0072d06d888bc5",
+      "title": "Teens who died in car that entered river named",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+      "description": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the Wear.",
+      "published_at": "2026-09-30T16:51:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d5259ace64e2403be4c464c9728618d81de07d17647bddc0c0aeb6ef3a8c1486",
+      "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+      "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
+      "description": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
+      "published_at": "2026-09-30T16:11:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1f09126947513ae79d59f32d436af22addadd5c5c89546d3a6cdbb24edce53f9",
+      "title": "Singer Lola Young says vaping has made breathing feel like a 'chore'",
+      "url": "https://www.bbc.co.uk/news/articles/c617j41x7jvpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping.",
+      "published_at": "2026-09-30T16:11:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "f2fc1165df61bf01c30f0b272b0984cb0bd67bf003610677ebc5defbc67b0c3b",
+      "title": "Singer Lola Young says vaping has made breathing feel like a 'chore'",
+      "url": "https://www.bbc.co.uk/news/articles/c617j41x7jvpo?at_medium=RSS&at_campaign=rss",
+      "description": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping.",
+      "published_at": "2026-09-30T16:11:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "f8cb52fbb2d779bde2f2b763bc6974138db71dc52af332878ab2d3713c4280f1",
+      "title": "Almost 50 arrests in operation targeting cross-border people smugglers",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4keelzw1mo?at_medium=RSS&at_campaign=rss",
+      "description": "The arrests are part of Operation Comby, a multi-agency crackdown targeting individuals who have illegally passed from Ireland to the UK.",
+      "published_at": "2026-09-30T16:09:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
     {
       "id": "e33f2de773f70b74915004aa78e14cf3319b28bafcd0eb9bfbc84615054262b9",
       "title": "‘Attempted terror attack’: What happened on board the rerouted Flydubai flight?",
@@ -55,7 +144,8 @@
       "published_at": "2026-09-30T16:01:16+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -68,6 +158,41 @@
       "categories": [
         "News",
         "World"
+      ]
+    },
+    {
+      "id": "1a741a110a2e0332050e5055d8495ff089bafa2b2ab3a0757afdf6bb725fe882",
+      "title": "Scotcast: Rape - are men getting a fair trial?",
+      "url": "https://www.bbc.co.uk/sounds/play/m003249h?at_medium=RSS&at_campaign=rss",
+      "description": "Why criminal defence lawyers are worried about changes to corroboration.",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7349bef3e7781e46c1ce21883e8a19d69bc601d86b3c0bd1576feab8e25f416d",
+      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+      "published_at": "2026-09-30T15:59:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "bbb6d37a83dd52384e0fd14d9f099ecd1de76315289edeb1423d1430065e1e8d",
+      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+      "published_at": "2026-09-30T15:59:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -135,7 +260,8 @@
       "published_at": "2026-09-30T15:33:25+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -262,6 +388,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "b858087dd832695b998025b9e8d3a88adf3c744fe211ac032d8f2d19d65885b4",
+      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+      "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
+      "published_at": "2026-09-30T15:04:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -596,6 +733,17 @@
       ]
     },
     {
+      "id": "2a6b5638135507c5128dfccef669f1a7f572645b30214c919ec6ed18eecedf9a",
+      "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+      "description": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
+      "published_at": "2026-09-30T13:49:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "f0791b2dc7cc0f24490e3bb77afbc96ed4cc216cf3ff3f038a87ba2fcf6a26e0",
       "title": "How much money do clubs get for Nations League players?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo?at_medium=RSS&at_campaign=rss",
@@ -874,6 +1022,17 @@
       ]
     },
     {
+      "id": "c9313de23aabce23272c44cc48bfb2935f6fa100142cfb0a71566d56bf80996b",
+      "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+      "description": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer.",
+      "published_at": "2026-09-30T12:50:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "a739700b87f80761f6613a368d16fbceea62c47306afc279d62df9879cdc0c40",
       "title": "Hong Kong’s Pansy Ho wins permanent injunction against woman who harassed her",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369365/hong-kongs-pansy-ho-wins-permanent-injunction-against-woman-who-harassed-her?utm_source=rss_feed",
@@ -905,6 +1064,7 @@
       "published_at": "2026-09-30T12:46:42+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "Entertainment & Arts"
       ]
     },
@@ -962,7 +1122,8 @@
       "published_at": "2026-09-30T12:33:22+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "UK"
       ]
     },
     {
@@ -3721,7 +3882,7 @@
       "id": "9879dae364284303d86473543f1643449eb8e17f9471b57daf26e90c9f7064f9",
       "title": "Move to rejoin EU among options for UK, says Burnham",
       "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-      "description": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+      "description": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future.",
       "published_at": "2026-09-30T05:00:05+00:00",
       "source": "BBC",
       "categories": [
@@ -4736,7 +4897,8 @@
       "published_at": "2026-09-29T23:15:29+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "World"
       ]
     },
     {
@@ -5230,6 +5392,7 @@
       "published_at": "2026-09-29T21:32:31+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -8943,6 +9106,17 @@
     },
     {
       "id": "e79f89f592c574895ebd012779b5f3611a50535523009a0c6d1d49e985ea379c",
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
+      "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
+      "description": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "published_at": "2026-09-29T10:20:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "992fc745d5336125a0f1e1c6e4a23b8e9c765e99374a364df7088cfd5ba0baa0",
       "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
       "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
       "description": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
@@ -163338,17 +163512,6 @@
       "source": "France 24",
       "categories": [
         "Asia/Pacific"
-      ]
-    },
-    {
-      "id": "77185d42eeec3c9bf33037faac4328b0945bcfe25e67eb0f1536f2f1633c5366",
-      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
-      "url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
-      "description": "A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ago off the coast of Tel Aviv at the orders of Israel’s founders. The discovery of its wreckage last week has given the country’s right-wing government ammunition to target the left and attempt to redirect the campaign for legislative elections in October.",
-      "published_at": "2026-08-31T16:54:13+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East"
       ]
     }
   ]
