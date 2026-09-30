@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-09-30T19:05:44.875921+00:00",
+  "last_updated": "2026-09-30T20:04:49.145610+00:00",
   "articles": [
+    {
+      "id": "605784b007431a075518ec8a116c77ff665633c0418305a57237d278def253a6",
+      "title": "Exclusive-Anthropic's IPO pitch embraces AI's promise and peril",
+      "url": "https://www.channelnewsasia.com/business/exclusive-anthropics-ipo-pitch-embraces-ais-promise-and-peril-6422566",
+      "description": "",
+      "published_at": "2026-09-30T19:52:45+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0e5bbdbee45ae24382e2d72669f90ed2bf42dbda1da87abfb3b6aa0ebcfce7b7",
+      "title": "Respect and laughs as Fury and Joshua face off",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+      "description": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+      "published_at": "2026-09-30T19:37:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "feaf8edcb5ee0ea38a26e7ca9bdd16ca8a2b0f916c9b3813cd6fed21d923645a",
+      "title": "The moment police catch drug dealer posing as fast food delivery driver",
+      "url": "https://www.bbc.co.uk/news/videos/cmjrxer41g9xo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the moment a drug dealer tries to evade police while posing as a fast food delivery courier.",
+      "published_at": "2026-09-30T19:34:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e8025dfee47386be4f2e2d656c135f14d1aaba7a77aabd2ff820421db1cd7aa5",
+      "title": "UK-France Channel migrant exchange deal scrapped: London",
+      "url": "https://www.channelnewsasia.com/world/uk-france-one-in-one-out-migrant-deal-end-6422506",
+      "description": "The UK-France “one in, one out” migrant deal has ended after a year, according to the UK interior ministry.",
+      "published_at": "2026-09-30T19:34:24+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "badf9ef82870587f8f3327a832a45135d77d661aeabcf8981e9f7461948f9de3",
       "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
@@ -10,6 +56,18 @@
       "source": "France 24",
       "categories": [
         "Africa"
+      ]
+    },
+    {
+      "id": "9553f3a88814d8f5666d596ee833b5cc71893d3816c2c6bdfe968fb176256425",
+      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
+      "url": "https://www.channelnewsasia.com/business/synopsys-openai-strike-deal-develop-ai-model-chip-design-work-6422481",
+      "description": "",
+      "published_at": "2026-09-30T19:01:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -43,6 +101,7 @@
       "published_at": "2026-09-30T18:55:22+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Sports"
       ]
     },
@@ -142,6 +201,18 @@
       "id": "8917a24a6e9b2589de584c132255a1a3609ec127ae4816ccb0e045ab5ffd7435",
       "title": "Ronaldo misses Portugal training after Jesus denies rift",
       "url": "https://www.channelnewsasia.com/sport/ronaldo-misses-portugal-training-after-jesus-denies-rift-6422376",
+      "description": "",
+      "published_at": "2026-09-30T17:58:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "bc445c8265563df9abf30ac7e54fa0eacc70d1a269749a327e8c895bf4594f1a",
+      "title": "UPDATE 1-Ronaldo leaves Portugal camp after coach Jesus confirms rift",
+      "url": "https://www.channelnewsasia.com/sport/update-1-ronaldo-leaves-portugal-camp-after-coach-jesus-confirms-rift-6422376",
       "description": "",
       "published_at": "2026-09-30T17:58:46+00:00",
       "source": "CNA",
@@ -1178,6 +1249,17 @@
       ]
     },
     {
+      "id": "d1af9e9b52b6b36a6f23dd3bc9e11bba0dc9fa7fead3eb1c0cba7418b27d63f7",
+      "title": "The volunteers baking birthday cakes for children",
+      "url": "https://www.bbc.co.uk/news/articles/cm74k2kkld3eo?at_medium=RSS&at_campaign=rss",
+      "description": "The Hampshire group says it has seen a rise in demand and it needs more volunteer bakers.",
+      "published_at": "2026-09-30T14:14:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "c7ed8d92e4ef48d4bd6adc3f046764690db6ce01056dd0537c624e433d9ab6da",
       "title": "After the US-China tariff deal, will Chinese factories still need Southeast Asia?",
       "url": "https://www.scmp.com/economy/global-economy/article/3369373/has-us-china-tariff-deal-eroded-southeast-asias-tariff-edge?utm_source=rss_feed",
@@ -2147,7 +2229,8 @@
       "published_at": "2026-09-30T11:23:14+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
@@ -164162,17 +164245,6 @@
       "source": "France 24",
       "categories": [
         "Africa"
-      ]
-    },
-    {
-      "id": "8f153831a0bec9f3aeb2a11efb7f66dc424abd6c52129ee767c00d916bc06856",
-      "title": "Nepal disaster: Fake and AI images flood social media as deaths mount",
-      "url": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
-      "description": "As deadly floods hit the Nepal-China border, social media is being inundated with fake and misleading footage. In Truth or Fake, Vedika Bahl goes through viral videos falsely linked to the disaster, including AI-generated content and old recycled footage from India, Chile and Alaska. Some posts have racked up millions of views online, exploiting the tragedy to drive engagement for easy clicks or further perpetuate conspiracy theories.",
-      "published_at": "2026-08-31T20:00:12+00:00",
-      "source": "France 24",
-      "categories": [
-        "Asia/Pacific"
       ]
     }
   ]
