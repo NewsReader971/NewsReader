@@ -1,6 +1,415 @@
 {
-  "last_updated": "2026-09-30T05:04:19.790626+00:00",
+  "last_updated": "2026-09-30T06:03:57.538463+00:00",
   "articles": [
+    {
+      "id": "4bc68f42d8d43ab67d0435b4bade3a15c025e689fe513f9fc9acc3fec865209f",
+      "title": "China’s R&D spending hits record 2.8% of GDP, beating OECD average for the first time",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369296/chinas-rd-spending-hits-record-28-gdp-beating-oecd-average-first-time?utm_source=rss_feed",
+      "description": "For the first time, China’s spending on research and development as a share of gross domestic product has surpassed the average for Organisation for Economic Cooperation and Development (OECD) members – a trend one analyst expects to continue as Beijing seeks to strengthen technological self-reliance amid intensifying global competition. R&D expenditure exceeded 3.92 trillion yuan (US$584.8 billion) in 2025, accounting for 2.8 per cent of GDP, Science and Technology Minister Yin Hejun said at a...",
+      "published_at": "2026-09-30T06:01:56+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "051ad86563ced8a22b49b318254b74f73ff33f0288238f0f707198c629b2cdb2",
+      "title": "Healthcare worker abuse, harassment cases nearly double to 4,200 in two years",
+      "url": "https://www.channelnewsasia.com/singapore/nurse-healthcare-workers-abuse-harassment-6420091",
+      "description": "The rise reflects greater awareness and confidence among healthcare workers to speak up, says the tripartite workgroup behind the findings.",
+      "published_at": "2026-09-30T06:00:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "7331bc15314cd63a1c7e9904fa4b58165d63af84f128ca023477ddd21c54de31",
+      "title": "Hong Kong urged to boost private housing supply as student demand jumps 45%",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3369295/hong-kong-urged-boost-private-housing-supply-student-demand-jumps-45?utm_source=rss_feed",
+      "description": "Hong Kong authorities are facing calls to increase the proportion of private housing in selected districts and work more closely with developers to expand accommodation for non-local students. The government forecasts annual demand for non-local student housing at 2,310 flats over the next decade, 45 per cent higher than last year’s estimate, according to the latest Long-Term Housing Strategy progress report, released on Monday. The Housing Bureau attributed the projection to an average annual...",
+      "published_at": "2026-09-30T05:46:46+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "5b8cfca35c4ae77a9e4ab84deb0311b69b8fa86f39c2a29c83bfab6a068fd525",
+      "title": "Live: Several people killed as Russia launches new round of strikes on Kyiv",
+      "url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
+      "description": "At least three people, including a child, have died after Russia launched another round of strikes on Kyiv and its surrounding regions overnight to Wednesday, officials said. Several people were also wounded in the attacks. In Poland, two airports, in Lublin and Rzeszow, were briefly shut over “military aviation activity” during Russian attacks on Ukraine. Follow our liveblog for all the latest updates.",
+      "published_at": "2026-09-30T05:35:15+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "43d53690f67d58f9bf6729910d4afb5442a1b8fed079486693583b9c212fb6f9",
+      "title": "Scotland's papers: Burnham axes triple lock and Murrell's legal aid withdrawn",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgwvk87ew1o?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-09-30T05:33:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0df5cfe240fee73735e5ab6a6e61881110c4c1fe274314ef41c81b19e16b99c2",
+      "title": "The Irish international rugby 'trailblazer' and her legacy of cancer awareness",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwek13y2no?at_medium=RSS&at_campaign=rss",
+      "description": "Rosie Stewart played for Ireland and was a founding member of Ulster Women's Rugby but died after being diagnosed with breast cancer.",
+      "published_at": "2026-09-30T05:33:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "eaccaa65e71f8db3550d737e41c6fb6a2fe24dc40122dbf06e560d505331b643",
+      "title": "The Irish international rugby 'trailblazer' and her legacy of cancer awareness",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwek13y2no?at_medium=RSS&at_campaign=rss",
+      "description": "Rosie Stewart played for Ireland and was a founding member of Ulster Women's Rugby but died after being diagnosed with breast cancer.",
+      "published_at": "2026-09-30T05:33:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "920ce1a4001e8d8c2f1fea58c930f42daa5b660b81df047cccbc24c6baeb0581",
+      "title": "'They disgust me': The fight for smaller breasts",
+      "url": "https://www.bbc.co.uk/news/articles/cm624v28plz7o?at_medium=RSS&at_campaign=rss",
+      "description": "Charlotte Howard has been turned down for breast reduction surgery by the NHS, despite daily pain.",
+      "published_at": "2026-09-30T05:32:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "41a3e7c920fa75316effbb77685dfde1e67b31e8c21517d453f386fd89fd9c75",
+      "title": "Man City's leadership cannot continue, says former chairman",
+      "url": "https://www.channelnewsasia.com/sport/man-citys-leadership-cannot-continue-says-former-chairman-6420606",
+      "description": "",
+      "published_at": "2026-09-30T05:29:34+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "b0647c55e5c83e4f056e8176ca096bdfeeaf4991f802cd5859590ff252e73a0f",
+      "title": "Drop in donations puts community pantry at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+      "description": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+      "published_at": "2026-09-30T05:25:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0907ea636dc502ccf74d14598997e4d4cb9b341d33c966b370e3fce504f5f52f",
+      "title": "Drop in donations puts community pantry at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+      "description": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+      "published_at": "2026-09-30T05:25:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0644b63b403e102c9f9f43cdab6d89833b5d0f9185068f06e2e61c1588b84b9a",
+      "title": "'It's like living in the woods' - residents call for cull of 60ft trees",
+      "url": "https://www.bbc.co.uk/news/articles/ck0j3xne9n12o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents in the Staffordshire Moorlands village say the towering trees \"block out the sky\"",
+      "published_at": "2026-09-30T05:25:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "2e98c2d595bca9f99cb98df46d8a4b3a3cdb146d5a99d696ed220efe91558a58",
+      "title": "From 999 fears to failed payments - life in UK's phone signal 'blackspots'",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdn91j98o?at_medium=RSS&at_campaign=rss",
+      "description": "Most of the UK has access to 4G and 5G signal, but in some places the lack of it causes serious disruption.",
+      "published_at": "2026-09-30T05:22:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "81b777cc82590022ba260ea615280864af43af148e3d931569683bf73d828e91",
+      "title": "Endometriosis trial gives hope to millions of women in pain like me",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r9ny2p4xo?at_medium=RSS&at_campaign=rss",
+      "description": "A £2.3m study will look at whether a personalised pain management plan can improve the quality of life of women who have the debilitating condition.",
+      "published_at": "2026-09-30T05:21:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "6e9a7d36e1b538fafba3237d42c282f3a03fa17b03df94c57633aae371814707",
+      "title": "Endometriosis trial gives hope to millions of women in pain like me",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r9ny2p4xo?at_medium=RSS&at_campaign=rss",
+      "description": "A £2.3m study will look at whether a personalised pain management plan can improve the quality of life of women who have the debilitating condition.",
+      "published_at": "2026-09-30T05:21:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4054cd69c1f859ee491243e6ddfcf49a53d7ce4817d80b9ba5b02b688c412a47",
+      "title": "Uncapped Macpherson called up to Wallabies squad for Bledisloe tests",
+      "url": "https://www.channelnewsasia.com/sport/uncapped-macpherson-called-up-wallabies-squad-bledisloe-tests-6420576",
+      "description": "",
+      "published_at": "2026-09-30T05:21:02+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "d553fae068f341793b9aa9dae9d02d18dd54a30927774ccbf94f3e8b858b4c85",
+      "title": "Heart hospital worker has heart attack on shift",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7z4ezn9dqo?at_medium=RSS&at_campaign=rss",
+      "description": "Pat Ward suffered a heart attack as she arrived for work at Liverpool Heart and Chest Hospital.",
+      "published_at": "2026-09-30T05:20:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "aeb687e967b0e7b012e0776f4969ef49c031fad1a9d5573e5e3f9c1636dda1be",
+      "title": "Thai August factory output rises 4.44% on year, beating forecast",
+      "url": "https://www.channelnewsasia.com/business/thai-august-factory-output-rises-444-year-beating-forecast-6420581",
+      "description": "",
+      "published_at": "2026-09-30T05:19:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f563d04f7316f8f65a56a4e0b3099a40e4a05e6ea2dae30d9987b850d5dc7c89",
+      "title": "Pensioners divided over plans to axe triple lock",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyk43rzv76o?at_medium=RSS&at_campaign=rss",
+      "description": "Prime Minister Andy Burnham intends to water it down from 2030 to help fund a national care service.",
+      "published_at": "2026-09-30T05:18:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "6c2407a4fb3b3fc480981c34b941384b0fcfc94aea8f107b4723f3d8910fb758",
+      "title": "South Korea made no military aid pledge to Ukraine over transfer of North Koreans, lawmaker says",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-pows-ukraine-military-aid-6420471",
+      "description": "",
+      "published_at": "2026-09-30T05:16:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "d74769df7dc278090b3e95cd7628bd80ac5b4318632089b4ee83cdd81d665d6b",
+      "title": "US social media users urge Koreans to unmask Cornell sexual assault suspect Winston Lee",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3369293/us-social-media-users-urge-koreans-unmask-cornell-sexual-assault-suspect-winston-lee?utm_source=rss_feed",
+      "description": "The sprawling online hunt for information about Winston Lee, a Korean student who is among seven defendants in a Cornell University sexual assault lawsuit, is increasingly crossing borders, with English-speaking social media users calling on their Korean counterparts to help uncover more information about him. As the “Cornell 7” case continues to draw intense attention across the United States, Lee has become the subject of a parallel search focused on his Korean identity and background....",
+      "published_at": "2026-09-30T05:13:51+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "6a57c4d5ed24af066a763e4068f78d45dc9edf1f34018f0c194e105d60300da3",
+      "title": "Dead animals found in canal where children row",
+      "url": "https://www.bbc.co.uk/news/articles/cq783py14ry3o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents in Brentford raise concerns about sewage flowing into the local canal network.",
+      "published_at": "2026-09-30T05:11:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "3c1fe8c15f540580aebf772be7043aa560a920cfd9c37e0fcbc355eaaba24ea4",
+      "title": "Leaseholders without hot water threatened with losing homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgx58yernpo?at_medium=RSS&at_campaign=rss",
+      "description": "George Ainsworth says he has been threatened with his flat being repossessed by the freeholder.",
+      "published_at": "2026-09-30T05:10:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "18e38471b961c0831bc21dc24cd37147d51c8ed92dc40c8e851c3181f0b4153e",
+      "title": "'Why I'm donating 100 pints of my breast milk'",
+      "url": "https://www.bbc.co.uk/news/articles/cr624y4d00peo?at_medium=RSS&at_campaign=rss",
+      "description": "The Human Milk Bank in Birmingham supplies breast milk to sick and premature babies in the region.",
+      "published_at": "2026-09-30T05:10:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "36d050ca39caba153afed01e808ceee87d52fcff62cfa8adca75a20823ab17ad",
+      "title": "Driver charged after 600 etomidate vape pods found hidden in car at Woodlands Checkpoint",
+      "url": "https://www.channelnewsasia.com/singapore/etomidate-vape-pods-hsa-woodlands-checkpoint-6420486",
+      "description": "The vape pods were found wrapped in black plastic packaging and concealed within the frame of the car's centre console, says the Health Sciences Authority.",
+      "published_at": "2026-09-30T05:08:34+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "2e7ab3215ec2e2dd44177ea1b52302f014b48fa85cf19b02b5e8f8b6ce457954",
+      "title": "Risks being taken with heating oil orders, firm says",
+      "url": "https://www.bbc.co.uk/news/articles/crd68d96zeq8o?at_medium=RSS&at_campaign=rss",
+      "description": "Customers in Berkshire and Hampshire are leaving it late to refill their tanks, an oil firm says.",
+      "published_at": "2026-09-30T05:08:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "07eea9fe21ac2003f0818f0f9fb689bd80a387c27b0b1febbfbf77d04b21e4d8",
+      "title": "Farmer 'thankful to be alive' after falling through roof in workplace accident",
+      "url": "https://www.bbc.co.uk/news/articles/cmy9z2r79v7zo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 80 people have died and over 1,800 people have suffered workplace injuries since 2020.",
+      "published_at": "2026-09-30T05:06:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "c247d12fbe51252dd23383193e9894ae26dc3f88e3bd2fe6013d990a96db3ba4",
+      "title": "Crystal Jade holding companies placed under receivership; restaurants remain open",
+      "url": "https://www.channelnewsasia.com/singapore/crystal-jade-restaurants-singapore-hong-kong-business-receivership-6420451",
+      "description": "Financial and risk advisory firm Kroll is reviewing the restaurant group's finances and operations, including potential restructuring.",
+      "published_at": "2026-09-30T05:06:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "a5b31741957be48d57733c26a82dc85b8e7dd35d8850b548dac27d1db9d156d9",
+      "title": "Former Malaysia PM Mahathir admitted to hospital for observation following wife’s passing",
+      "url": "https://www.channelnewsasia.com/asia/mahathir-admitted-ijn-hospital-wife-death-malaysia-6420436",
+      "description": "According to his son Mokhzani Mahathir, there was “no cause of concern” over his father’s condition.",
+      "published_at": "2026-09-30T05:04:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "bda09841fe404d715066703175eeaa2938d632b226907779d1102e01adbbf4e4",
+      "title": "Former cancer patient,12, campaigns for healthier hospital food",
+      "url": "https://www.bbc.co.uk/news/articles/cwyvzldgzv15o?at_medium=RSS&at_campaign=rss",
+      "description": "Audrina, 12, launched a petition after spending time in hospital with cancer.",
+      "published_at": "2026-09-30T05:03:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "85e91540fe2d72804a8aa7055c5f2ee68ff4553ea262087834883b8ff84b0561",
+      "title": "Worry for farmers after 'worst harvest in years'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z7ved1z8o?at_medium=RSS&at_campaign=rss",
+      "description": "One farmer describes it as \"horrendous\", another says there will be \"struggles ahead\".",
+      "published_at": "2026-09-30T05:03:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "60cdd6775f937c3fb28f7aedbf26620ad03bcaf0f347551a3cbb54154caadd43",
+      "title": "Guests still waiting for belongings after hotel fire",
+      "url": "https://www.bbc.co.uk/news/articles/c60e3vg14z4po?at_medium=RSS&at_campaign=rss",
+      "description": "About 280 guests were forced to leave Folkestone's Grand Burstin Hotel due to the blaze 11 days ago.",
+      "published_at": "2026-09-30T05:02:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "622851d1b66a90f29f7e9aa16901eb8b2dd5c19195036e6dae2b44423a4b802f",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "published_at": "2026-09-30T05:02:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "60dafccc76cad4fab09d74d99328077814e67c872481ecab649c1dcc5301c917",
+      "title": "What will get unsure cyclists back on the saddle?",
+      "url": "https://www.bbc.co.uk/news/articles/cq7705epl8e3o?at_medium=RSS&at_campaign=rss",
+      "description": "The local transport authority is hoping to encourage more cycling, but some recall being hit by cars.",
+      "published_at": "2026-09-30T05:01:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5a25ecfe76f7d1da2654999f6cde678f17230f25ae38ab00f57d70f4ebd1fb6a",
+      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+      "url": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
+      "description": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
+      "published_at": "2026-09-30T05:01:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1fdd1c7644de29444471145a7dcb3677cb01d197f512593ccb76da805d708290",
+      "title": "Parents patrol school crossing after children hit by cars",
+      "url": "https://www.bbc.co.uk/news/articles/cw4grn9d0dkdo?at_medium=RSS&at_campaign=rss",
+      "description": "Joanne is among the worried parents taking action as police confirm children have been injured.",
+      "published_at": "2026-09-30T05:00:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "8ea2424892f4de4be807528098626babf785198db8349c1afe987df163c05c8c",
       "title": "Over 1 million HDB households to receive U-Save, S&CC rebates in October",
@@ -37,6 +446,39 @@
       ]
     },
     {
+      "id": "75707f7b05047ee2bc764478a5179342490e2e126aaf9a2c5b57697fd1b8a36e",
+      "title": "Hospice cuts could deprive people of dignity, charity chiefs warn",
+      "url": "https://www.bbc.co.uk/news/articles/c5kg0l487z43o?at_medium=RSS&at_campaign=rss",
+      "description": "End-of-life care leaders warn that increasing costs and rising demand mean services will suffer.",
+      "published_at": "2026-09-30T04:59:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "2d13a7614b4bee617409129e35b60e5bed2df98916441aa157dbf83f471b10e9",
+      "title": "Why charities are still clinging to a giant cheque",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r90z3d6xo?at_medium=RSS&at_campaign=rss",
+      "description": "Despite bank transfer and internet banking, the giant cheque photo opportunity refuses to die.",
+      "published_at": "2026-09-30T04:58:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8d3312cc766bca5f446c9c8ea0753419550ec439429b51263ba30b839648800a",
+      "title": "Leader dined at CEO's hotel before £215k hiring",
+      "url": "https://www.bbc.co.uk/news/articles/cw20v32ry5zjo?at_medium=RSS&at_campaign=rss",
+      "description": "Reform UK's David Bick says he cannot recall meeting Dennis Bacon at the luxury venue.",
+      "published_at": "2026-09-30T04:58:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "4a1f63fdcd64f4b7db11b9daaa88bc7906d2475870eba9b84a8e207425fc6686",
       "title": "Family told to call locksmith over mental health fears",
       "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
@@ -44,7 +486,19 @@
       "published_at": "2026-09-30T04:57:25+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "Health"
+      ]
+    },
+    {
+      "id": "a3e5770f36e7e89df5bc4a5442cacdb5a1c922878b258f8f07540996dc4cf4c5",
+      "title": "Police criticised for telling family with mental health fears to call locksmith",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
+      "description": "A force should have flagged mental health services after a family called about their son, IOPC says.",
+      "published_at": "2026-09-30T04:57:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -55,7 +509,8 @@
       "published_at": "2026-09-30T04:56:57+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "England"
       ]
     },
     {
@@ -351,6 +806,17 @@
       ]
     },
     {
+      "id": "498d813356e5ccc14c0d0053b3befda76e9b97b497b5224a1db523096a73f830",
+      "title": "Student: Uni strikes 'not what we signed up for'",
+      "url": "https://www.bbc.co.uk/news/articles/c6804zm7xpg3o?at_medium=RSS&at_campaign=rss",
+      "description": "The University of Nottingham said it was \"disappointed\" by the timing of industrial action.",
+      "published_at": "2026-09-30T03:00:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "959fd9753296c31e9447bbbf6393524effe7bed891327a8ad86dee64513efa29",
       "title": "Boom News founder Tang Ho-wing arrested by Hong Kong national security police",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369271/boom-news-founder-tang-ho-wing-arrested-hong-kong-national-security-police?utm_source=rss_feed",
@@ -570,7 +1036,7 @@
       "id": "142d5619592485c32f32a8983c7c5e0e6f6d176b2c93e223c9a9dff9223d86e7",
       "title": "US forces leave Iraq, raising fears of Iran-backed militias amid power vacuum",
       "url": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
-      "description": "US forces are withdrawing from their remaining bases in Iraq on Wednesday, completing a pullout agreed under former president Joe Biden as fears grow over the security vacuum it could leave. Iraqi officials and analysts warn the departure could embolden Iran-backed militias and give Islamic State fighters room to rebuild their capabilities.",
+      "description": "US forces are withdrawing from their remaining bases in Iraq on Wednesday, completing a pullout agreed under former president Joe Biden as fears grow over the security vacuum it could leave. Iraqi officials and analysts warn the departure could embolden Iran-backed militias and give Islamic State group fighters room to rebuild their capabilities.",
       "published_at": "2026-09-30T01:04:01+00:00",
       "source": "France 24",
       "categories": [
@@ -993,6 +1459,17 @@
       ]
     },
     {
+      "id": "edee59f2bba062e39b2009ff559cfb06fd93b8a37cedd4f4faa248d0a297dbed",
+      "title": "New coach, new players, but same old failings hamper Scotland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+      "description": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
+      "published_at": "2026-09-29T22:30:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "ec06fc8eabd61de459fc7c46b1dfd406211e1d0996ee8aba73ac4f2c30743c82",
       "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o?at_medium=RSS&at_campaign=rss",
@@ -1254,7 +1731,8 @@
       "published_at": "2026-09-29T21:47:12+00:00",
       "source": "BBC",
       "categories": [
-        "Scotland"
+        "Scotland",
+        "UK"
       ]
     },
     {
@@ -1443,6 +1921,18 @@
     },
     {
       "id": "ac17e7055521c19a27709bc736ff20b613740d23ab4dd29b5c620e973e851c9d",
+      "title": "Village team triumphs in FA Cup row replay",
+      "url": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
+      "description": "The controversial replay follows the FA ruling a referee had made a mistake in the initial match.",
+      "published_at": "2026-09-29T20:51:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "5c18f932c8fb5be33ef38e5e4f88ae07daa5248fde0e86cecd7683b5269cdb31",
       "title": "Village team triumphs in FA Cup row replay",
       "url": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
       "description": "The controversial replay follows the FA ruling a referee had made a mistake in the initial match.",
@@ -2211,6 +2701,17 @@
       ]
     },
     {
+      "id": "e89f95f8d49c4e3f1611e5e0813472f376e1eadf87b3874b95ca0c82cd86bcce",
+      "title": "Burnham's plan to end pension triple lock a bad idea, Swinney says",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9zdkkj7xvo?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland's first minister has also renewed calls for an independence referendum after Burnham's conference speech.",
+      "published_at": "2026-09-29T16:56:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "01a1a1ca35838ee0af6d78d3e257d5f0b52eb4095fd61c2e0476e1c1400beace",
       "title": "Man guilty of murder after victim dies 15 years on",
       "url": "https://www.bbc.co.uk/news/articles/cm207qwvrwp5o?at_medium=RSS&at_campaign=rss",
@@ -2700,6 +3201,17 @@
       ]
     },
     {
+      "id": "a54c1c566cb680c1a451a4d06d0ef52fd9ad7cfb2c079b2d92e3cfed56f800f3",
+      "title": "CCTV footage of suspected Omagh bombers' car missing, inquiry hears",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx01gjxlypo?at_medium=RSS&at_campaign=rss",
+      "description": "Twenty-nine people, including a woman pregnant with twins, died in the bombing in the County Tyrone town on 15 August 1998.",
+      "published_at": "2026-09-29T15:30:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "9f66b7ca69816df69976ec6a3ad26ff6990bb7f122c830b0211c3ff36777de42",
       "title": "'The emperor is naked': UEFA's Ceferin takes aim at FIFA boss Infantino",
       "url": "https://www.channelnewsasia.com/sport/emperor-naked-uefas-ceferin-takes-aim-fifa-boss-infantino-6419161",
@@ -3148,6 +3660,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "bfddbd9f10e9dcfda70eea64fb8a5f1b48d1663f3e178f76602cc0cf1b68f756",
+      "title": "Police appeal for calm after two nights of trouble in Londonderry",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgw5nnrwe0o?at_medium=RSS&at_campaign=rss",
+      "description": "Riot police were deployed when trouble flared in the Top Of The Hill area of Derry on Monday night.",
+      "published_at": "2026-09-29T14:22:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -3666,6 +4189,17 @@
     },
     {
       "id": "67bf87598518f0a83141a748477eadd1485f8abc53a8a94f200603d53e3cb90b",
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+      "published_at": "2026-09-29T12:43:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "191e29f718ee316ba643c8cd43095e032a0228555b4b9057b3918c156b5c3570",
       "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
       "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
       "description": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
@@ -4659,6 +5193,7 @@
       "published_at": "2026-09-29T10:31:41+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -159187,17 +159722,6 @@
       "source": "BBC",
       "categories": [
         "Health"
-      ]
-    },
-    {
-      "id": "93ef217f71c4a1d6e3822c92fb7d96af39f369fc26d6f31f9bd4d622703510b5",
-      "title": "The druid, the weather presenter and the astronomer - when does autumn start?",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxv1dpldo?at_medium=RSS&at_campaign=rss",
-      "description": "Why are there three different dates for the start of autumn and who follows which date?",
-      "published_at": "2026-08-31T05:31:42+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
       ]
     }
   ]
