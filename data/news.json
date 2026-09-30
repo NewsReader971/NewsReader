@@ -1,6 +1,406 @@
 {
-  "last_updated": "2026-09-30T21:03:22.327527+00:00",
+  "last_updated": "2026-09-30T22:03:27.404655+00:00",
   "articles": [
+    {
+      "id": "049b6a2e1b9f832a9ec3b7d6cfad5cb3ed030b81eefbd977b9f4d60fa5c346e4",
+      "title": "Watch - Feast of Football",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "description": "Carl Roberts and guests preview Wales's home clash against Norway.",
+      "published_at": "2026-09-30T22:14:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "1547431289ba933f6ac534b7f5a70bb0f22f45daf4706d30d2782d5b5cbeb5d1",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "published_at": "2026-09-30T22:01:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "92e9d7edd4d93d2c6ea1e08d81c0384cab52376bc556e13ae3e991799508baa8",
+      "title": "Three unions to strike at once over Glasgow Caledonian job cuts",
+      "url": "https://www.bbc.co.uk/news/articles/ck24jev5e8l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Lecturers and support staff say the action by the UCU, the EIS and Unison on Thursday will effectively close the university.",
+      "published_at": "2026-09-30T22:01:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "fcb19ecd296ae0f4ad52b39260e2fc54bf8ea64c296a562da7d9d904031a86ae",
+      "title": "Three unions to strike at once over Glasgow Caledonian job cuts",
+      "url": "https://www.bbc.co.uk/news/articles/ck24jev5e8l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Lecturers and support staff say the action by the UCU, the EIS and Unison on Thursday will effectively close the university.",
+      "published_at": "2026-09-30T22:01:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "2080806d832e6c2649ce165bff5f6260cc6ee24aa878e0d6dc72ddf50b0e0fbc",
+      "title": "US sanctions forced Xinjiang cotton to adapt, but survival comes at a cost",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369294/us-sanctions-forced-xinjiang-cotton-adapt-survival-comes-cost?utm_source=rss_feed",
+      "description": "The fields in Xinjiang’s Awati county – a cotton hub hit by US sanctions – were nearly ready for the October harvest. Yusup Molamaiti, a 36-year-old technician, recalled what it was like manually planting and harvesting 37 mu (about 2.5 hectares or 6 acres) of scattered plots of land. “Planting a single mu took up to three hours with two people laying plastic film by hand,” he said. Harvesting would lock his family into year-round labour, yielding just 250-300kg (551-661lbs) per mu. Today, his...",
+      "published_at": "2026-09-30T22:00:13+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "2aac8b4ddc0748c414bbff86c44acee8a65c031b654f10914d28b7f446c3c55f",
+      "title": "‘Neither feasible nor desirable’: Why AI slowdown debate looks different in India",
+      "url": "https://www.channelnewsasia.com/asia/ai-slowdown-safety-india-development-economy-6421396",
+      "description": "Fears that increasingly powerful artificial intelligence could pose an existential threat have fuelled calls for a slowdown. India, however, is not yet pushing the AI frontier, making wider adoption - and managing its consequences - a more immediate concern, say analysts.",
+      "published_at": "2026-09-30T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "02fd4ce8e51bf1e707cca75d4998c2377b76808f0d599e8c0a1742a6a8b71488",
+      "title": "Retailers race to label or remove unmarked stock as beverage container return scheme’s transition period ends",
+      "url": "https://www.channelnewsasia.com/singapore/bcrs-transition-ends-supermarkets-coffee-shops-clear-unmarked-stock-6420961",
+      "description": "Despite offering steep discounts and having six months of lead time, some retailers say they have struggled to offload non-compliant products in time.",
+      "published_at": "2026-09-30T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a103efaa86f263b1fe82e8b48cacd3bf7272f1efbe92e44706960e0e37a60d00",
+      "title": "Commentary: Why do Trump and Xi keep meeting if the hard issues remain unresolved?",
+      "url": "https://www.channelnewsasia.com/commentary/trump-xi-meeting-trade-truce-ai-taiwan-g2-6420796",
+      "description": "Presidents Donald Trump and Xi Jinping's personal ties are doing real work, more than the modest outcomes suggest, says former SCMP editor-in-chief Wang Xiangwei.",
+      "published_at": "2026-09-30T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "c8d4aed308ddb1d1c46e47b8e19fb15c909ab155098018b6a469fad78c74b2b9",
+      "title": "No nitrites added? Why some processed meats in Singapore contain them despite the claim",
+      "url": "https://www.channelnewsasia.com/cna-insider/nitrite-free-no-nitrates-added-processed-meats-singapore-tests-6420726",
+      "description": "Bacon, ham and sausages may be marketed as “nitrite-free” or “no nitrite added”, but the labels can get complicated. Talking Point tests nine of these products and gets dietary advice.",
+      "published_at": "2026-09-30T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1f33d62250d35e4ca4a4b765570a9084dafffb5cc6c8fbea08245a6fc1b52985",
+      "title": "Commentary: UN’s Antonio Guterres steps down with a mixed legacy",
+      "url": "https://www.channelnewsasia.com/commentary/un-antonio-guterres-step-down-legacy-6421216",
+      "description": "The verdict of history will be harsh on Guterres’ record of protecting civilians and halting atrocities, says this professor.",
+      "published_at": "2026-09-30T21:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "d1db592b388323807d8527c19dcc025a82aa8cded4faebcd29c36a901b03fb6f",
+      "title": "'Special surprise' as rare moth found in nature reserve for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+      "published_at": "2026-09-30T21:58:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "Wales"
+      ]
+    },
+    {
+      "id": "60580b146b7b08d6b6f98b5d088d079ac991a8c67fd4e252041f4f771fe9816d",
+      "title": "'Special surprise' as rare moth found in nature reserve for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+      "published_at": "2026-09-30T21:58:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "9fdb271f1092136bf1268b12aa8326fc5b67508dcb0f8334cabd67ea7eaff81d",
+      "title": "ShinyHunters website goes offline after FBI deadline expires",
+      "url": "https://www.channelnewsasia.com/business/shinyhunters-website-goes-offline-after-fbi-deadline-expires-6422816",
+      "description": "",
+      "published_at": "2026-09-30T21:57:30+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "426a1ea9c63810b4cbe011df2824d9fbb14badf61a84e9f4bc70095cf6c37525",
+      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
+      "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
+      "description": "The annual event is marking its 17th year and draws visitors from all over the world.",
+      "published_at": "2026-09-30T21:47:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7dbe6ef847402be82aff5751f0912874d0e6615b1c1d029ba28ae857b41b025b",
+      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
+      "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
+      "description": "The annual event is marking its 17th year and draws visitors from all over the world.",
+      "published_at": "2026-09-30T21:47:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7dba46b2aa37dd28546a0314bf3256d3341e713400e5b6d23fd9309bf9b012ce",
+      "title": "Row over sex shop plan and ex-boss fleeces school of £5m",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dld71v1lno?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Wales.",
+      "published_at": "2026-09-30T21:47:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "c2050ca22a2c1aeb3e8ba1a122be9e578c471564aae5557f4ffb33243263be70",
+      "title": "What are the Great Scottish Run routes and what roads are closed?",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjk5kn948ko?at_medium=RSS&at_campaign=rss",
+      "description": "A record number of runners are expected to hit the streets of Glasgow this weekend as Scotland's biggest running event returns.",
+      "published_at": "2026-09-30T21:45:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "cd7b8a4976f2121a0cd61bb441e0e7ad0cc87a8eae6f4d1dd73f20ab987e4278",
+      "title": "Celebrity Traitors: Can I visit the castle, ride the train and see the unusual monument?",
+      "url": "https://www.bbc.co.uk/news/articles/c4njdj4kxw2o?at_medium=RSS&at_campaign=rss",
+      "description": "A brief guide to the Scottish Highlands' \"Traitors Territory\".",
+      "published_at": "2026-09-30T21:45:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "4ef6e2274351912fd06c3357132354833b82bafd3b87ee2b198359a532252303",
+      "title": "Trump defence chief says US slashed number of generals and admirals by 20%",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369394/trump-defence-chief-says-us-slashed-number-generals-and-admirals-20?utm_source=rss_feed",
+      "description": "US Defence Secretary Pete Hegseth announced on Wednesday that the United States has slashed the number of its generals and admirals by 20 per cent, in a move he said is aimed at “accountability”. Hegseth suggested the cuts targeted officers who failed to get on board with his efforts to ensure the military is focused on war-fighting rather than the “woke” policies of previous administrations, describing the reductions as an “accomplishment.” “The number-crunchers say we fired 10 per cent of the...",
+      "published_at": "2026-09-30T21:42:41+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "9fd3f5296aa508b28c98c19a7fbfd1fdb719de3750f0b8b157beaec9d3151af5",
+      "title": "'Welcome back,' says Macron, as UK PM opens door to EU return",
+      "url": "https://www.channelnewsasia.com/world/macron-uk-eu-return-welcome-back-6422766",
+      "description": "French President Emmanuel Macron welcomed the idea after British Prime Minister Andy Burnham said the UK could consider rejoining the EU.",
+      "published_at": "2026-09-30T21:42:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b954af8891d1e676f3b96dd69c4111e298900ac067625011923fe3f911d095f3",
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "description": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+      "published_at": "2026-09-30T21:40:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family"
+      ]
+    },
+    {
+      "id": "7ef0ed29f857d38ea7f7e33fb4570bdeb2dad8964a2a47c695fc2b82a3b37aa8",
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "description": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+      "published_at": "2026-09-30T21:40:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family"
+      ]
+    },
+    {
+      "id": "5079d4e358dca7342e6ca287d0d64d490821681eb2b146eee608a61c29bc23f0",
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "description": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "published_at": "2026-09-30T21:38:54+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d0104ea9258c0461329cafb834058b1628d3670bbc65306a134cc36e803e12d1",
+      "title": "Like a 'rollercoaster': passengers describe harrowing flydubai flight",
+      "url": "https://www.france24.com/en/like-a-rollercoaster-passengers-describe-harrowing-flydubai-flight",
+      "description": "As flight FZ 1073 from Dubai to Tel Aviv approached the Jordanian border on Wednesday, passengers knew in an instant that something was wrong when the plane began plummeting from the sky in a rapid dive. It was like \"we were having very big turbulence, but there was no turbulence\", passenger Almog Italie told AFP, describing the sensation of losing thousands of feet of altitude in seconds as similar to riding a \"rollercoaster\". FRANCE 24's August Hakansson reports.",
+      "published_at": "2026-09-30T21:31:34+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East"
+      ]
+    },
+    {
+      "id": "fa7923869d97301293a40d1a93e9667e2a667056a805f307163a5e9efa9ff550",
+      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+      "description": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+      "published_at": "2026-09-30T21:30:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "30da6e050de734c03eeb99c2827845ec937d9bcd330d26b34300960b8f52f3dc",
+      "title": "US targets China’s steel capacity at G20 days after Xi’s state visit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369393/us-targets-chinas-steel-capacity-g20-days-after-xis-state-visit?utm_source=rss_feed",
+      "description": "US Trade Representative Jamieson Greer on Wednesday proposed a new global framework to tackle excess steel production capacity on the sidelines of the ongoing Group of 20 Trade Ministers’ meeting, just days after Chinese President Xi Jinping’s state visit to the United States. “The United States has taken robust measures, and it probably makes sense for other countries to do that too,” Greer said after a meeting of the Global Forum on Steel Excess Capacity (GFSEC) in Milwaukee, Wisconsin. “Well,...",
+      "published_at": "2026-09-30T21:30:34+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "2aa22c323a3b9befdac91888918bb44cca544fb33c2f016a475bea8255fa664d",
+      "title": "How Hong Kong’s foreign carer scheme aims to get ahead of ageing city",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369140/how-hong-kongs-foreign-carer-scheme-aims-get-ahead-ageing-city?utm_source=rss_feed",
+      "description": "When I first heard about the Hong Kong government’s plans to allow the importation of specially qualified carers to look after the elderly, my mind turned to some colloquial English expressions. The first was “set the cat among the pigeons”, which basically means to say or do something that causes a good deal of trouble, alarm, anger or controversy in a peaceful situation. The immediate trigger for this thinking was a brief reference in Chief Executive John Lee Ka-chiu’s policy address to the...",
+      "published_at": "2026-09-30T21:30:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "d838acabb90d803b365859e3b6df7523a156f8a67051ae730756c97cfa824688",
+      "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
+      "url": "https://www.channelnewsasia.com/business/constellation-amazon-sign-20-year-power-deal-support-maryland-nuclear-plant-6422776",
+      "description": "",
+      "published_at": "2026-09-30T21:24:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d6773e538add8758dabfa5272cbe6d78d2da6da5545f1c70be7b4862593626cc",
+      "title": "What's in Trump's AI deal and who has reacted?",
+      "url": "https://www.channelnewsasia.com/world/trump-ai-deal-tech-ceos-whats-in-it-6422686",
+      "description": "US President Donald Trump has signed a deal with tech companies to create voluntary rules for AI safety, including cybersecurity and biosecurity measures.",
+      "published_at": "2026-09-30T21:17:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "5622d3e445e6c45ceaf304af175a460a129f8fb05c7a62d06a26c6d67ecefbbc",
+      "title": "Brazil's Nubank says it is not pursuing deal with Monzo",
+      "url": "https://www.channelnewsasia.com/business/brazils-nubank-says-it-not-pursuing-deal-monzo-6422741",
+      "description": "",
+      "published_at": "2026-09-30T21:10:23+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "80e49b64afcb48be9adb8c3097f41ca4ca8e28887d9e04058c40ef0ef6b03dac",
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "description": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at the University of Cambridge, says that Burnham \"is sending the message that actually it's been pretty cold being on the outside of the EU so we're now looking at the alternatives\".",
+      "published_at": "2026-09-30T21:08:39+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "b12fb478a46e3c529d35a377ff5e0468033796d3270734fde448a80a79222203",
+      "title": "Black Sabbath film difficult to watch, says Iommi",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyzy47wd77o?at_medium=RSS&at_campaign=rss",
+      "description": "The legendary band's Back To The Beginning concert at Villa Park will be released next month.",
+      "published_at": "2026-09-30T21:08:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "1a5e6cb889469cf1e5b9d79484f481594c1f1160f7e41d5f7bfcf68a3009896b",
+      "title": "Trading Day: Shrugging off a volatile September, markets shuffle into Q4",
+      "url": "https://www.channelnewsasia.com/business/trading-day-shrugging-volatile-september-markets-shuffle-q4-6422726",
+      "description": "",
+      "published_at": "2026-09-30T21:05:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e32835b1f5566156d916d3b3e9a143aa0d9fd38956c3bd96609e43712e2e3e23",
+      "title": "Meet the only Scot managing a national team in world football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo?at_medium=RSS&at_campaign=rss",
+      "description": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side.",
+      "published_at": "2026-09-30T21:01:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "39cca89635331c63c8646ffc65904f97fba6a8d1a77959c069fdfd311684ff58",
+      "title": "Mickelson sought treatment at addiction center, TMZ reports",
+      "url": "https://www.channelnewsasia.com/sport/mickelson-sought-treatment-addiction-center-tmz-reports-6422716",
+      "description": "",
+      "published_at": "2026-09-30T21:01:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
     {
       "id": "1a4cae158d3fee497fd4d205c7809134408053b35f39e031c2dc9078b4ae5e94",
       "title": "Etihad to seek legal advice after Premier League’s Man City findings",
@@ -9,6 +409,7 @@
       "published_at": "2026-09-30T20:57:53+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Sports"
       ]
     },
@@ -71,6 +472,17 @@
       ]
     },
     {
+      "id": "352900179c3d9d07c2b254541fc2aa4b865ff7282ea6aebd31c2c4dafb905666",
+      "title": "Punish Man City this season, say other club chiefs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+      "published_at": "2026-09-30T20:38:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "1ca4db85b6e6e3ca216cf089f920a124c61b74b143a0c6a1157a7de33cb716da",
       "title": "Smiles and respect as Fury and Joshua have first face off ahead of December fight",
       "url": "https://www.channelnewsasia.com/sport/smiles-and-respect-fury-and-joshua-have-first-face-ahead-december-fight-6422671",
@@ -98,6 +510,18 @@
       "id": "32a6842294085b0e5c372c301f69b75ed725e1ccd9b7ebc308b682e2ee0911f8",
       "title": "Micron forecasts quarterly revenue, profit above estimates on AI memory demand",
       "url": "https://www.channelnewsasia.com/business/micron-forecasts-quarterly-revenue-profit-above-estimates-ai-memory-demand-6422616",
+      "description": "",
+      "published_at": "2026-09-30T20:08:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0bc7b77ed4853588a830b71f5d662f8464d67df4a8f356c7057f0744b10c7cda",
+      "title": "Micron's AI-fueled revenue forecast blows past estimates, backlog swells",
+      "url": "https://www.channelnewsasia.com/business/microns-ai-fueled-revenue-forecast-blows-past-estimates-backlog-swells-6422616",
       "description": "",
       "published_at": "2026-09-30T20:08:18+00:00",
       "source": "CNA",
@@ -165,6 +589,17 @@
       ]
     },
     {
+      "id": "609b9b6775b03b75744ade1fa631126c3f4f6e6be97eb9f84c41409023cf4a09",
+      "title": "Respect and laughs as Fury and Joshua face off",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+      "description": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+      "published_at": "2026-09-30T19:37:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "feaf8edcb5ee0ea38a26e7ca9bdd16ca8a2b0f916c9b3813cd6fed21d923645a",
       "title": "The moment police catch drug dealer posing as fast food delivery driver",
       "url": "https://www.bbc.co.uk/news/videos/cmjrxer41g9xo?at_medium=RSS&at_campaign=rss",
@@ -185,6 +620,17 @@
       "categories": [
         "Latest News",
         "World"
+      ]
+    },
+    {
+      "id": "3663f884ac4ceccf3ed1fa4fac4df7da0921dfc6d74d8e4400bfa0c1e5aa0418",
+      "title": "Impossible for England to find another Kane - Tuchel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr1e5ep101wdo?at_medium=RSS&at_campaign=rss",
+      "description": "England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as his free-scoring captain continues to break new ground.",
+      "published_at": "2026-09-30T19:25:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -1947,7 +2393,8 @@
       "published_at": "2026-09-30T12:45:56+00:00",
       "source": "BBC",
       "categories": [
-        "UK"
+        "UK",
+        "Wales"
       ]
     },
     {
@@ -2318,6 +2765,17 @@
       ]
     },
     {
+      "id": "d46a91dc4a65795b217e444b8ce039bfbc165638a142e61a654fbd14745e9fc2",
+      "title": "Swinney to introduce misogyny education in every school in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm9gr02z30o?at_medium=RSS&at_campaign=rss",
+      "description": "The first minister says he wants to challenge misogynistic behaviour in young boys and strengthen and support young girls.",
+      "published_at": "2026-09-30T11:38:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "7c61d00d9ae89277372ea92e5fb6f62b947166f9682f794b9c7945a9d10fc52f",
       "title": "Lorry driver convicted after village bridge wrecked",
       "url": "https://www.bbc.co.uk/news/articles/c8vgy2y93ed1o?at_medium=RSS&at_campaign=rss",
@@ -2472,6 +2930,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "99ad96da573b9ac4d9eb50465fa4009855df13e97f8ff75bc55ca26b96eb13d4",
+      "title": "Giant data centre plans lodged for old nuclear plant site",
+      "url": "https://www.bbc.co.uk/news/articles/c3ew9vdknv1wo?at_medium=RSS&at_campaign=rss",
+      "description": "Developers say it could create more than 500 full-time jobs on the Chapelcross site near Annan.",
+      "published_at": "2026-09-30T11:16:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -3796,6 +4265,17 @@
       ]
     },
     {
+      "id": "df5308e5f8820966cadd1a920a597b099e46b96707d3a1d284d7b5558ab92e38",
+      "title": "Care homes behind bars - coping with an ageing prison population",
+      "url": "https://www.bbc.co.uk/news/articles/cmew9vd8vqrko?at_medium=RSS&at_campaign=rss",
+      "description": "A special area at HMP Edinburgh has been set aside for older prisoners or those who have dementia.",
+      "published_at": "2026-09-30T07:33:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "5b7137c11c2cd5ca94a41ec95621bb0e4b5105a2c2540956befbd35a3a3ceb52",
       "title": "Hong Kong to expand IP financing sandbox after 7 firms secure cheaper loans",
       "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369312/hong-kong-expand-ip-financing-sandbox-after-7-firms-secure-cheaper-loans?utm_source=rss_feed",
@@ -4477,6 +4957,7 @@
       "published_at": "2026-09-30T05:16:47+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
