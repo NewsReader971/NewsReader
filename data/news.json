@@ -1,12 +1,70 @@
 {
-  "last_updated": "2026-09-30T22:03:27.404655+00:00",
+  "last_updated": "2026-09-30T23:02:25.043369+00:00",
   "articles": [
+    {
+      "id": "f05e1f3b761bd918d4455979015e9d798533cdf39a780cd7bd94bf11fa95fd42",
+      "title": "US criticises China’s WTO compliance as industry groups mount complaints",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369395/us-criticises-chinas-wto-compliance-industry-groups-mount-complaints?utm_source=rss_feed",
+      "description": "At a hearing reviewing China’s compliance with its World Trade Organization (WTO) commitments, a senior US trade official said Beijing was targeting entire industrial sectors for global dominance while retaining a non-market economic system. Terry McCartin, Assistant US Trade Representative (USTR) for China, Mongolia and Taiwan Affairs, said China’s anticompetitive behaviour posed a major challenge to the global trading system. “More critically, after 25 years of WTO membership, China still...",
+      "published_at": "2026-09-30T22:43:04+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "fab19bf6ecbab5f1c85549c77a88d533da3ce23660cb389688de817fa4babf9e",
+      "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+      "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+      "description": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
+      "published_at": "2026-09-30T22:38:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "0ea94122be9a91c6c9adf6875569588945599076550db162dd41158e44f925ee",
+      "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+      "url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+      "description": "A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at least 30 films a year for its first two years.",
+      "published_at": "2026-09-30T22:19:23+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
     {
       "id": "049b6a2e1b9f832a9ec3b7d6cfad5cb3ed030b81eefbd977b9f4d60fa5c346e4",
       "title": "Watch - Feast of Football",
       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
       "description": "Carl Roberts and guests preview Wales's home clash against Norway.",
       "published_at": "2026-09-30T22:14:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "ec103b7ef47f21bb5155c1f3e666e486d2a8f4b2690302e92de7d9d3161eb05a",
+      "title": "Catching scabies in hospital meant my husband was labelled an environmental hazard when he died",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrz5vkz47go?at_medium=RSS&at_campaign=rss",
+      "description": "Kate Baxter says the infection \"cast a shadow over\" her husband Paul's final days.",
+      "published_at": "2026-09-30T22:02:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c270b57405122f918b9a42d89b5d9da650c79360e3e23de88ecb7a524e7f1653",
+      "title": "Catching scabies in hospital meant my husband was labelled an environmental hazard when he died",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrz5vkz47go?at_medium=RSS&at_campaign=rss",
+      "description": "Kate Baxter says the infection \"cast a shadow over\" her husband Paul's final days.",
+      "published_at": "2026-09-30T22:02:14+00:00",
       "source": "BBC",
       "categories": [
         "Wales"
@@ -20,7 +78,8 @@
       "published_at": "2026-09-30T22:01:16+00:00",
       "source": "BBC",
       "categories": [
-        "Science & Environment"
+        "Science & Environment",
+        "World"
       ]
     },
     {
@@ -65,6 +124,7 @@
       "published_at": "2026-09-30T22:00:00+00:00",
       "source": "CNA",
       "categories": [
+        "Asia",
         "Latest News"
       ]
     },
@@ -76,7 +136,8 @@
       "published_at": "2026-09-30T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -87,6 +148,7 @@
       "published_at": "2026-09-30T22:00:00+00:00",
       "source": "CNA",
       "categories": [
+        "Asia",
         "Latest News",
         "World"
       ]
@@ -99,7 +161,8 @@
       "published_at": "2026-09-30T22:00:00+00:00",
       "source": "CNA",
       "categories": [
-        "Latest News"
+        "Latest News",
+        "Singapore"
       ]
     },
     {
@@ -145,6 +208,7 @@
       "published_at": "2026-09-30T21:57:30+00:00",
       "source": "CNA",
       "categories": [
+        "Business",
         "Latest News"
       ]
     },
@@ -268,7 +332,8 @@
       "published_at": "2026-09-30T21:31:34+00:00",
       "source": "France 24",
       "categories": [
-        "Middle East"
+        "Middle East",
+        "World"
       ]
     },
     {
@@ -313,6 +378,18 @@
       "url": "https://www.channelnewsasia.com/business/constellation-amazon-sign-20-year-power-deal-support-maryland-nuclear-plant-6422776",
       "description": "",
       "published_at": "2026-09-30T21:24:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "36a85b39ca3a555ca930f7329cb613ea695ca82c55fe1a0e80b686c0fee2777c",
+      "title": "South Korea unveils major energy investment plans in US",
+      "url": "https://www.channelnewsasia.com/business/south-korea-unveils-major-energy-investment-plans-in-us-6422746",
+      "description": "",
+      "published_at": "2026-09-30T21:18:14+00:00",
       "source": "CNA",
       "categories": [
         "Business",
@@ -540,6 +617,18 @@
       "categories": [
         "Americas",
         "World"
+      ]
+    },
+    {
+      "id": "dbbf52a7c20d56d8b50646a911c45b52077ab52baa0527f475bc8bb51c73d4a3",
+      "title": "Google announces Gemini 4 flagship AI model after months of delays",
+      "url": "https://www.channelnewsasia.com/business/google-announces-gemini-4-flagship-ai-model-after-months-delays-6422621",
+      "description": "",
+      "published_at": "2026-09-30T20:03:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -1172,6 +1261,17 @@
       ]
     },
     {
+      "id": "f6d007e9c72e4cf503a5ce4cea268c1c3c091185b13bc2ad17a9475f15a8cc22",
+      "title": "Bonds post worst month in years; stocks decline for September and oil gains",
+      "url": "https://www.channelnewsasia.com/business/bonds-post-worst-month-in-years-stocks-decline-september-and-oil-gains-6420151",
+      "description": "",
+      "published_at": "2026-09-30T16:45:24+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "354690bded85a0966638e65a41fd9064d37c444c3b84c51194a36fcd35ed4e76",
       "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces",
       "url": "https://www.france24.com/en/video/20260930-syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces",
@@ -1377,6 +1477,17 @@
       ]
     },
     {
+      "id": "c24a5b1fe684e228769b309f4e0e669584f6e0427ca68ba64a07ddc07e2ad7c2",
+      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
+      "published_at": "2026-09-30T16:01:16+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "39de524ee5c14d2750fd9361729a5367f0038286103db1ef210a0fe666bdca4f",
       "title": "US Tennessee’s first execution of a woman in 200 years halted",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369385/us-tennessees-first-execution-woman-200-years-halted?utm_source=rss_feed",
@@ -1425,6 +1536,17 @@
     },
     {
       "id": "9a9bce42bae05f740d6325d1316072b1f5003e0b57f01aff26f2486f83378299",
+      "title": "Concerns over proposed sex shop next to domestic abuse centre",
+      "url": "https://www.bbc.co.uk/news/articles/crgjq3yd0n89o?at_medium=RSS&at_campaign=rss",
+      "description": "Concerns have been raised about proposals to open a sex shop next to a domestic abuse support centre.",
+      "published_at": "2026-09-30T15:59:43+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "2c30d40968041091519df3630c52363afb9584c1a3adb720564a252511984ab7",
       "title": "Concerns over proposed sex shop next to domestic abuse centre",
       "url": "https://www.bbc.co.uk/news/articles/crgjq3yd0n89o?at_medium=RSS&at_campaign=rss",
       "description": "Concerns have been raised about proposals to open a sex shop next to a domestic abuse support centre.",
@@ -2799,6 +2921,17 @@
     },
     {
       "id": "7c1eedc72677b788ce9925fa2dd946cdab9742a00d3ac1e5316ec3e50ccb932f",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "published_at": "2026-09-30T11:36:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d9cdacb49bc9616fa382277edfda15f22d7b693b200315885e4232cbf6f209ea",
       "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
       "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
       "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
@@ -7495,6 +7628,7 @@
       "source": "BBC",
       "categories": [
         "Business",
+        "Politics",
         "UK"
       ]
     },
