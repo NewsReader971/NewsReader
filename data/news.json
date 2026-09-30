@@ -1,6 +1,336 @@
 {
-  "last_updated": "2026-09-30T11:04:06.597672+00:00",
+  "last_updated": "2026-09-30T12:04:51.156315+00:00",
   "articles": [
+    {
+      "id": "4be214840cc6e0f2558d724c05b8db564ae88d75c821c2cf228ad042f812dfef",
+      "title": "Did Beijing and Washington agree on a crisis prevention deal, or not?",
+      "url": "https://www.scmp.com/news/china/military/article/3369359/did-beijing-and-washington-agree-crisis-prevention-deal-or-not?utm_source=rss_feed",
+      "description": "Disagreement over how to prevent conflicts could account for differences in how Chinese and US accounts have characterised discussion on the topic during last week’s summit, analysts said. Speaking at a White House arrival ceremony, Chinese President Xi Jinping said the two militaries should maintain regular dialogue and “improve mechanisms for crisis communication and prevention.” China’s foreign ministry said in a statement issued after the summit that the countries’ militaries had agreed “to...",
+      "published_at": "2026-09-30T12:01:04+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "6b6fd8f696d85bd22ee1fd97c28d5c9bac5f002dc5c824c804c0649060875035",
+      "title": "Price controls may look attractive, but costs often only emerge later: PM Wong",
+      "url": "https://www.channelnewsasia.com/singapore/price-rent-control-food-price-caps-6420821",
+      "description": "Consumers may benefit from price controls initially, but over time, suppliers may have less incentive to produce or invest, says the prime minister.",
+      "published_at": "2026-09-30T12:00:21+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "ad81acb4bedba187773cc6f37cd6fe44b97f7bdc4ee7c536df56971a61e614d6",
+      "title": "Anthropic raises alarm over elite hacking ability of Chinese firm Z.ai’s GLM-5.3",
+      "url": "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
+      "description": "The US artificial intelligence giant Anthropic has warned of the potential danger posed by Chinese firm Z.ai’s GLM-5.3, with the open-weight model showing a troubling mix of powerful hacking abilities but weak safety constraints. GLM-5.3 almost matches Anthropic’s most advanced model in terms of its cyber capabilities, but has far weaker safeguards, meaning there is greater potential for the model to be co-opted by bad actors, according to the San Francisco-based firm. In a report released on...",
+      "published_at": "2026-09-30T12:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "f4c061ab9ba60a67f18eaaf5ae2c33ca8173e8cef3703b01213470e891061b9c",
+      "title": "Thai floods disrupt factories, capital still at risk, PM says",
+      "url": "https://www.channelnewsasia.com/asia/thai-floods-capital-still-risk-6421491",
+      "description": "Prime Minister Anutin Charnvirakul said Bangkok, its metropolitan area and Thailand's central region were still at risk from floodwaters flowing in from the north.",
+      "published_at": "2026-09-30T11:59:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a420166823efc56b685e13f064d72f8ad3f086255b9225ae8bd0c3c4a1c35e0c",
+      "title": "Comisiynydd y Gymraeg yn 'bryderus' am doriadau BBC Cymru",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c34gdnkld9ywo?at_medium=RSS&at_campaign=rss",
+      "description": "Mae gwasanaethau darlledu Cymraeg, yn wahanol i rai Saesneg, yn dibynnu'n llwyr ar arian y pwrs cyhoeddus, medd Efa Gruffudd Jones.",
+      "published_at": "2026-09-30T11:55:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "254ad17a69ca4acc6096c6e1e4cbff3cd302093af94424514203afde878f3e90",
+      "title": "Live: Macron, Sanchez hold joint press conference during French president’s visit to Spain",
+      "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
+      "description": "French President Emmanuel Macron on Wednesday met Spanish Prime Minister Pedro Sanchez at the Moncloa Palace in Madrid on the second day of a two-day state visit. Watch the press conference live with the player above.",
+      "published_at": "2026-09-30T11:49:56+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "c58604204d0e4d0b877d185edd8466b82e8f9436661ccf621d4c694465c05189",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "description": "At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
+      "published_at": "2026-09-30T11:47:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "6d6a2d73850b6eac62872ce626ab43be7e454ed545a46663c37445327d8dc7b6",
+      "title": "From robots to cancer screenings, Asia’s next wave of AI startups is moving into the real world",
+      "url": "https://www.channelnewsasia.com/singapore/nextgen-tech-30-sgx-granite-asia-startups-artificial-intelligence-6421421",
+      "description": "More than half of the 30 companies showcased at the NextGen Tech 30 event are applying AI to physical industries, marking a shift from the software-focused firms in previous cohorts.",
+      "published_at": "2026-09-30T11:43:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "1645eb4b3789f5d9aa2d6d53602727bf74706831d3ac4dc334872d1309ef0453",
+      "title": "Bowel cancer screening expanded - but 50 year olds face five year wait",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4vgvx3g30o?at_medium=RSS&at_campaign=rss",
+      "description": "From November, 59 year olds will begin to be invited to take part, with the age limit gradually reducing until everyone aged 50 to 74 is eligible by 2031.",
+      "published_at": "2026-09-30T11:39:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "ae4d5dbdc4ccb1d0025d2fdcc4fc988f0488d5f34d6d8aa7b28e6a25823b53d1",
+      "title": "Swinney to introduce misogyny education in every school in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm9gr02z30o?at_medium=RSS&at_campaign=rss",
+      "description": "The first minister says he wants to challenge misogynistic behaviour in young boys and strengthen and support young girls.",
+      "published_at": "2026-09-30T11:38:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1961b8766d5c1c709c55832cc2557a31173f0dd741533cf3419880614ab91225",
+      "title": "Swinney to introduce misogyny education in every school in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm9gr02z30o?at_medium=RSS&at_campaign=rss",
+      "description": "The first minister says he wants to challenge misogynistic behaviour in young boys and strengthen and support young girls.",
+      "published_at": "2026-09-30T11:38:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7c1eedc72677b788ce9925fa2dd946cdab9742a00d3ac1e5316ec3e50ccb932f",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "published_at": "2026-09-30T11:36:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e9fd5f71fc30f939d93526858abee10ae5e851ca4fa99b7e5644384bb59aeec4",
+      "title": "Sêr Hollywood ym Mangor yn gwneud ffilm am The Beatles",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6zxzvqxw1y2o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae ffilm am The Beatles, un o fandiau mwyaf poblogaidd y byd yn cael ei ffilmio ym Mangor ar hyn o bryd.",
+      "published_at": "2026-09-30T11:32:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "276d587c5f30499294ce741a8c74bb5d19a2a42a0879ed6134898a178ef28060",
+      "title": "Forced landing of Israel-bound flight: What we know so far",
+      "url": "https://www.france24.com/en/video/20260930-forced-landing-of-israel-bound-flight-what-we-know-so-far",
+      "description": "The Israeli government believes an incident on a flight from the United Arab Emirates to Israel, which diverted to Saudi Arabia after transmitting emergency signals on Wednesday, may have been an attempted \"terror attack\" by one of the pilots. France 24’s Shirli Sitbon takes a look at what we know about the incident so far, with many of the details still emerging.",
+      "published_at": "2026-09-30T11:29:51+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "fc63ff8451c05e83a7b578eff32629c1d9ba2d1b89daa3eb74855e25c273f5b2",
+      "title": "'Lions Women can learn from darts and 1997'",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0e3v39jx00o?at_medium=RSS&at_campaign=rss",
+      "description": "Whitney Hansen and Jo Yapp, coaches of New Zealand Women and the British and Irish Lions Women respectively, sit down for joint interview with Rugby Union Weekly",
+      "published_at": "2026-09-30T11:29:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7d1b4c06f396da98194ed1ff906f43c481bcd2b00a6fbb3883cea3e2585b9d3c",
+      "title": "Mixed reactions in Iraq on final day of US-led coalition withdrawal",
+      "url": "https://www.france24.com/en/video/20260930-mixed-reactions-in-iraq-on-final-day-of-us-led-coalition-withdrawal",
+      "description": "The US military announced on Wednesday that it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last US troops left an air base in northern Iraq under a deal between Baghdad and Washington.",
+      "published_at": "2026-09-30T11:27:38+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "77ff3c3dd92dde29cc010d466b6c7966ab53d601e52e97a9f9d6f3b4332b57ef",
+      "title": "Detective admits 'upskirting' sex offences against a child",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wkwvw90o?at_medium=RSS&at_campaign=rss",
+      "description": "He was a lead investigator in the case of two-year-old Ethan Ives-Griffiths who was murdered.",
+      "published_at": "2026-09-30T11:23:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "a35fd89ba0aa48e67cc2cc8a996900cb3c35201250f0d9a40420ce86acaaf3cc",
+      "title": "Detective admits 'upskirting' sex offences against a child",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wkwvw90o?at_medium=RSS&at_campaign=rss",
+      "description": "He was a lead investigator in the case of two-year-old Ethan Ives-Griffiths who was murdered.",
+      "published_at": "2026-09-30T11:23:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c2b03ecd0f4ef455b582c7cb1be8701685bfd9d0e41eb845527692b546ed065b",
+      "title": "Detective admits 'upskirting' sex offences against a child",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wkwvw90o?at_medium=RSS&at_campaign=rss",
+      "description": "He was a lead investigator in the case of two-year-old Ethan Ives-Griffiths who was murdered.",
+      "published_at": "2026-09-30T11:23:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "c281abae4e32b00ec4057b6c41434b49ee0930e9b9ab2e5601ce7d55fae09651",
+      "title": "‘Who wants McDonald’s?’: mainland tourist shares HK$10,000 prize in Hong Kong",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3369357/who-wants-mcdonalds-mainland-tourist-shares-hk10000-prize-hong-kong?utm_source=rss_feed",
+      "description": "A mainland Chinese tourist who won a HK$10,000 (US$1,275) McDonald’s voucher in Hong Kong has turned her last 24 hours in the city into a whirlwind giveaway to the elderly, cleaners and the homeless. The woman, who shared her spree on Chinese social media platform RedNote, said she won the “Hong Kong McDonald’s HK$10,000 subsidy” through Alipay on Saturday. According to a screenshot of her post, the voucher was valid for only one week and allowed up to 10 transactions, each capped at HK$1,000...",
+      "published_at": "2026-09-30T11:19:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "9b8c84c8e1d192e541b109deb71b344fa8632a22906e63255d15e16d454b2b71",
+      "title": "Why is the US withdrawing its troops from Iraq?",
+      "url": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
+      "description": "A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes a look at the security challenges facing the country and why the US has chosen this moment to take its troops out.",
+      "published_at": "2026-09-30T11:18:55+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "a041cb2abc12ea018ba4869ffc582aa87d4d69fdf7ea9648d85ae800b8515e67",
+      "title": "Giant data centre plans lodged for old nuclear plant site",
+      "url": "https://www.bbc.co.uk/news/articles/c3ew9vdknv1wo?at_medium=RSS&at_campaign=rss",
+      "description": "Developers say it could create more than 500 full-time jobs on the Chapelcross site near Annan.",
+      "published_at": "2026-09-30T11:16:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "10a196a896b7ce29fc5d1c29feb8a2bbd7c2464f591a1f8e681850cc0f90e395",
+      "title": "Woman and children escape injury after petrol bomb attack",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgy2yevyz5o?at_medium=RSS&at_campaign=rss",
+      "description": "It happened before 20:30 BST on Tuesday evening at a property on Struell Avenue in Downpatrick.",
+      "published_at": "2026-09-30T11:15:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "78020456588eea62dd4c157d74982a3bb40fce9baa96fe9fc30d6a4b7b87349c",
+      "title": "Eiffel Tower chief to step down after female staff scandal",
+      "url": "https://www.france24.com/en/video/20260930-eiffel-tower-chief-to-step-down-after-female-staff-scandal",
+      "description": "The head of the company that runs the Eiffel Tower will step down at the end of the year after female staff at the landmark building in Paris were excluded during a visit by a Hindu religious group. The incident sparked outrage in France and prompted a staff walkout that saw the Eiffel Tower forced to close for a day.",
+      "published_at": "2026-09-30T11:11:41+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "8cbd0fe6ded3e0d3c69b0ecdaf7e1a1501184e8076b3987c5a42b7141e2a40fa",
+      "title": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260930-cornell-won-t-we-will-student-journalists-relentlessly-reporting-on-university-rape",
+      "description": "PRESS REVIEW – Wednesday, September 30: The Cornell University gang rape investigation reopens. But first: students and prisoners protest in Iran \"in a rare show of dissent\". Journalist Evan Gershkovich speaks about his 16 months in a Russian prison. Bonus: what can we do to be less lonely? Finally, Fat Bear Week has chosen its winner.",
+      "published_at": "2026-09-30T11:06:57+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "d62368f0da7d336d507ca7ef95e01af682e2e8bd23d6b6e29ac29c15e4b522b1",
+      "title": "Committee formed to review child safeguards in Islamic religious settings after sexual assault case",
+      "url": "https://www.channelnewsasia.com/singapore/committee-islamic-religious-settings-mosques-children-safeguards-sex-assault-6420921",
+      "description": "This comes after a religious influencer sexually abused two young brothers, including one at a mosque, while on bail for another offence.",
+      "published_at": "2026-09-30T11:06:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "ad138dc9083f2065b9f75e9daa237c05220ac029c331cc2464e00351dc90aaac",
+      "title": "'Rock, paper, scissors' decides London Marathon dates",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o?at_medium=RSS&at_campaign=rss",
+      "description": "A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.",
+      "published_at": "2026-09-30T11:05:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "6742c168215d99600b609ab54bc31764d0176976480c68e666516fa5631a40d0",
+      "title": "Union calls for public transport workers to get better wages, bonuses following fare hikes",
+      "url": "https://www.channelnewsasia.com/singapore/public-transport-fare-hikes-better-wages-workers-union-6421231",
+      "description": "The National Transport Workers’ Union urged public transport operators and tripartite partners to ensure that the benefits from fare adjustments are shared fairly with workers.",
+      "published_at": "2026-09-30T11:05:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "1d17b345122786b71a99974030347ed51620807dceb6ed824c2cca5e484e78d7",
+      "title": "Couple describes relief at rescue after whale destroys their yacht",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
+      "description": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
+      "published_at": "2026-09-30T11:01:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "c98d879514b44e6640188d644f6397ee9251371f1a3bea1ab21dc00ed1960b72",
       "title": "Indonesia targets free public schooling amid funding concerns",
@@ -39,7 +369,7 @@
       "id": "b9592b5b5cff7017969679d6dace8d9cf222fcb9a38338e07a10609856163cde",
       "title": "'People have been buying into the detoxification of the National Rally.' says Andrew Smith",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260930-people-have-been-buying-into-the-detoxification-of-the-national-rally-says-andrew-smith",
-      "description": "A French politics observers says the allegations of antisemitism against the President of France’s National Rally have really really damaged the party. Andrew Smith from Queen Mary University of London says people have been buying into the detoxification of the party, despite its legacy as an antisemitic and racist party. But that makes the allegations against Bardella this week even more shocking. Bardella accused by the investigative news site Mediapart of sending a series of antisemitic remarks from 2013 to 2015. Andrew Smith spoke to us in Perspective.",
+      "description": "A French politics observer says the allegations of anti-Semitism against the head of France's National Rally have really damaged the party. Andrew Smith from Queen Mary University of London says people have been buying into the detoxification of the party, despite its legacy as an anti-Semitic and racist outfit. But that makes this week's allegations against Jordan Bardella even more shocking. Bardella is accused by the investigative news website Mediapart of sending a series of anti-Semitic remarks from 2013 to 2015. Andrew Smith spoke to us in Perspective.",
       "published_at": "2026-09-30T10:58:31+00:00",
       "source": "France 24",
       "categories": [
@@ -77,6 +407,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "9f2aa8cd570d7c19991c4e0ea5f6b20880a7570f4e97ed916c815d339ebf5684",
+      "title": "'Retracing Jay's steps has given more closure'",
+      "url": "https://www.bbc.co.uk/news/articles/cq7702gvzyrxo?at_medium=RSS&at_campaign=rss",
+      "description": "Debbie Duncan went to Tenerife to trace her son Jay's final steps before his death in 2024.",
+      "published_at": "2026-09-30T10:55:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -180,6 +521,29 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "15be6a3fdaf25a6cc210765f9d5a6aea9551911d9aa7a809dda250a9ca8adf66",
+      "title": "Apple plans to launch new smart-home hub on Oct 13, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/apple-plans-launch-new-smart-home-hub-oct-13-bloomberg-news-reports-6421341",
+      "description": "",
+      "published_at": "2026-09-30T10:42:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f3187f9209ddf5a01f16f33c72baf2122e607815c733e6fec1c362ef9c72f9a2",
+      "title": "Luxury prison in Indonesia demolished after public outcry",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+      "description": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
+      "published_at": "2026-09-30T10:41:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -369,7 +733,7 @@
       "id": "3ee182412576ccf929483b1bc47282a7eb03d71e7131f6aff7f898bdf75e649b",
       "title": "Hong Kong route linking Yau Ma Tei and Tseung Kwan O to fully open in December",
       "url": "https://www.scmp.com/news/hong-kong/transport/article/3369342/hong-kong-route-linking-yau-ma-tei-and-tseung-kwan-o-fully-open-december?utm_source=rss_feed",
-      "description": "A new route connecting Yau Ma Tei and Tseung Kwan O in Hong Kong will fully open in December this year with the completion of a key section of the long-awaited Central Kowloon Route, the city’s transport chief has said. Secretary for Transport and Logistics Mable Chan said on Wednesday at a Legislative Council meeting that the Kowloon Bay section of the Central Kowloon Route would open to traffic on December 6. The Central Kowloon Route is a key part of Route 6, with construction beginning in...",
+      "description": "The final section of Route 6 will open in December, cutting travel times from Yau Ma Tei to Tseung Kwan O from about 65 minutes to roughly 12 minutes, Hong Kong’s transport chief has said. Secretary for Transport and Logistics Mable Chan said on Wednesday at a Legislative Council meeting that the Kowloon Bay section of the Central Kowloon Route would open to traffic on December 6. The Central Kowloon Route is a key part of Route 6, with construction beginning in 2017. “Together with the Yau Ma...",
       "published_at": "2026-09-30T09:56:38+00:00",
       "source": "SCMP",
       "categories": [
@@ -673,7 +1037,8 @@
       "published_at": "2026-09-30T08:59:14+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "Scotland"
       ]
     },
     {
@@ -760,6 +1125,18 @@
       "id": "e1a4a0cad556fd61332fd558f1ffa8ce73ee7277d6d7d240e40f3f99315fa0c0",
       "title": "Dollar set for big rise in September, mainly at euro's expense",
       "url": "https://www.channelnewsasia.com/business/dollar-set-big-rise-in-september-mainly-euros-expense-6420106",
+      "description": "",
+      "published_at": "2026-09-30T08:38:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6c28e541aa6715cf793975a051b2a95903ec8e39eaf1a9cd5ce6d15fff2f7059",
+      "title": "Dollar surges in September, leaving euro lagging",
+      "url": "https://www.channelnewsasia.com/business/dollar-surges-in-september-leaving-euro-lagging-6420106",
       "description": "",
       "published_at": "2026-09-30T08:38:50+00:00",
       "source": "CNA",
@@ -991,6 +1368,17 @@
       "source": "BBC",
       "categories": [
         "Politics"
+      ]
+    },
+    {
+      "id": "891312fa9e6cc30c1552d2514a41dbf7ddc88319c56c032f70e1960955a25c39",
+      "title": "Care homes behind bars - coping with an ageing prison population",
+      "url": "https://www.bbc.co.uk/news/articles/cmew9vd8vqrko?at_medium=RSS&at_campaign=rss",
+      "description": "A special area at HMP Edinburgh has been set aside for older prisoners or those who have dementia.",
+      "published_at": "2026-09-30T07:33:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -1538,6 +1926,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "ecd1f6a01314854aca77b7df296e5438666f5f1628353dbf658bd19a056ffb43",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+      "published_at": "2026-09-30T05:24:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -2162,6 +2561,17 @@
       "categories": [
         "Latest News",
         "Singapore"
+      ]
+    },
+    {
+      "id": "ce1d845a72cb68636c6850bf58ca182f46da0e054bf40438afe5bd5d157bedc6",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "published_at": "2026-09-30T04:01:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -3993,6 +4403,17 @@
       ]
     },
     {
+      "id": "09dc312f9aa661740e20d2750c5aacb3b6bff29ae31b7d7750714eb542c22825",
+      "title": "Officer acquitted of sex assault to face police misconduct hearing",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjzr4g32nzo?at_medium=RSS&at_campaign=rss",
+      "description": "The police officer faces misconduct proceedings after being acquitted of sex assault charges at trial.",
+      "published_at": "2026-09-29T18:04:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "19e7e9e05e58055414c1e977e174f718b396630fbca212fa965b8ed30829948e",
       "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
       "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
@@ -4544,7 +4965,7 @@
       "id": "af90ce0c99db68c528e9f395dca26210b8a2a6a201f4ddb8d3ea0d0e049b0304",
       "title": "Wales' future in the UK not for Kremlin to exploit, says first minister",
       "url": "https://www.bbc.co.uk/news/articles/cmx2zrqn3kero?at_medium=RSS&at_campaign=rss",
-      "description": "Rhun ap Iorwerth distances himself from Russian politician who speculated the UK does not have a future.",
+      "description": "Rhun ap Iorwerth distances himself from a Russian politician who speculated the UK does not have a future.",
       "published_at": "2026-09-29T16:23:47+00:00",
       "source": "BBC",
       "categories": [
@@ -6056,6 +6477,17 @@
     {
       "id": "11cdca8abe5a004fd063902f0a19941c427993989159f691b112b9365e89ac4a",
       "title": "'Generous' Zuckerberg gifts GAA clubs €150k after castle purchase",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w495vlndzo?at_medium=RSS&at_campaign=rss",
+      "description": "The Facebook founder will clubs €50,000 (£42,000) with donations to be paid over a two-year period.",
+      "published_at": "2026-09-29T12:28:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "dc81ada9c662386bb714ffef1713188154328bbf342273951ab19e0c0aa25837",
+      "title": "Zuckerberg gifts GAA clubs €150k after castle purchase",
       "url": "https://www.bbc.co.uk/news/articles/cm9w495vlndzo?at_medium=RSS&at_campaign=rss",
       "description": "The Facebook founder will clubs €50,000 (£42,000) with donations to be paid over a two-year period.",
       "published_at": "2026-09-29T12:28:59+00:00",
@@ -8415,6 +8847,17 @@
     {
       "id": "9c45baeff873cd8622b414e6518f7b8a40121ae929f7150163b1444ac634fb45",
       "title": "'Distressing for our daughter to be treated on adult ward'",
+      "url": "https://www.bbc.co.uk/news/articles/c6n45ed7l421o?at_medium=RSS&at_campaign=rss",
+      "description": "Karen and Anthony Kelly have criticised the Northern Trust for not allowing their daughter Regan to be cared for on a children's ward.",
+      "published_at": "2026-09-29T05:28:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "97b21c9a475743eef83cdc2ee1af4c3431322002e6f1361f17f3876e79c44060",
+      "title": "Family 'devastated' after daughter told she cannot stay on children's ward",
       "url": "https://www.bbc.co.uk/news/articles/c6n45ed7l421o?at_medium=RSS&at_campaign=rss",
       "description": "Karen and Anthony Kelly have criticised the Northern Trust for not allowing their daughter Regan to be cared for on a children's ward.",
       "published_at": "2026-09-29T05:28:48+00:00",
@@ -161451,17 +161894,6 @@
       "source": "France 24",
       "categories": [
         "Middle East"
-      ]
-    },
-    {
-      "id": "ca291340b351e521b257e0628c37954fcbd4863c5a5b78978b7130f1a8373d4a",
-      "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
-      "url": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices.",
-      "published_at": "2026-08-31T11:56:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
