@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-09-30T00:03:42.673471+00:00",
+  "last_updated": "2026-09-30T01:05:39.528296+00:00",
   "articles": [
+    {
+      "id": "142d5619592485c32f32a8983c7c5e0e6f6d176b2c93e223c9a9dff9223d86e7",
+      "title": "US forces leave Iraq, raising fears of Iran-backed militias amid power vacuum",
+      "url": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
+      "description": "US forces are withdrawing from their remaining bases in Iraq on Wednesday, completing a pullout agreed under former president Joe Biden as fears grow over the security vacuum it could leave. Iraqi officials and analysts warn the departure could embolden Iran-backed militias and give Islamic State fighters room to rebuild their capabilities.",
+      "published_at": "2026-09-30T01:04:01+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East"
+      ]
+    },
+    {
+      "id": "f994044d4b637231ffca901a616fdad444127df7939b95ed98cad858103ea49e",
+      "title": "‘Hold the status quo?’ US Congress reviews Xi-Trump summit outcomes",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369261/hold-status-quo-us-congress-members-review-xi-trump-summit?utm_source=rss_feed",
+      "description": "Chinese President Xi Jinping’s three-day state visit to Washington is over, but China watchers in Congress and the US-China policy community are still parsing a wide range of outcomes, with two more leadership summits expected before the end of the year. The talks between Xi and US President Donald Trump produced a series of joint announcements, including an extension of the US-China trade truce, investment commitments, an agreement to continue an AI dialogue and high-level engagement, as well...",
+      "published_at": "2026-09-30T01:01:52+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "147c01593450f9e8822938753b8e9418eac86e430bb79d9e86c91c11f13f8722",
+      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
+      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "published_at": "2026-09-30T00:46:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9fb632355ce6bde07352a6b0360555f2437c5ea6bd5d56338b280027e7e701ce",
+      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
+      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "published_at": "2026-09-30T00:46:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "a4ae3a4706801a0e76a3cee3a07bbbc1173bba30d0e7a9cd1092b2a17fd41e79",
+      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
+      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "published_at": "2026-09-30T00:46:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "a1fd6eef24f303ac1dc8cb839c9d8da438b9b7190998d3d79bc038bc4aa64e7c",
+      "title": "Hidden habits that make your social anxiety worse - and how to break them",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+      "description": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+      "published_at": "2026-09-30T00:44:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "cbea2338dfc638e67110063bc505b188ab5b3c3763873931df289c6af9300cc2",
+      "title": "Hidden habits that make your social anxiety worse - and how to break them",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+      "description": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+      "published_at": "2026-09-30T00:44:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "f759d42e1c62a10d564419db0dc44ee4a1b687d5d2d2ce7e490bc8b388150ec2",
+      "title": "Antisemitism on the rise at universities, charity warns",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
+      "description": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
+      "published_at": "2026-09-30T00:36:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family",
+        "UK"
+      ]
+    },
+    {
+      "id": "d2e3046ec592cfc81d71febea0b3dbf303077c3c0c72fe842dc21466e106c56c",
+      "title": "Cheap and illegal: mainland Chinese post social media adverts for services in Hong Kong",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3369247/cheap-and-illegal-mainlanders-post-social-media-adverts-services-hong-kong?utm_source=rss_feed",
+      "description": "Hong Kong’s crackdown on visitors abusing visas to illegally offer tour guide, photography and other services has failed to deter adverts for such unlicensed work on mainland Chinese social media ahead of the National Day “golden week” break, the South China Morning Post has found. A search of RedNote by the SCMP turned up accounts listing themselves as Shenzhen-based photographers offering their services in Hong Kong. Many of them also asked clients to reimburse their travel expenses between...",
+      "published_at": "2026-09-30T00:35:54+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
     {
       "id": "c296fd60cd759d35cf249e69bdc78ae8733f38fd6f41bb568881f663360b4be4",
       "title": "Gaza on stage: concert activism meets Malaysia, Singapore red lines",
@@ -23,6 +125,18 @@
       "categories": [
         "Hong Kong",
         "News"
+      ]
+    },
+    {
+      "id": "32b50bf8db4537d0ae193c4213aef83ee38f1dd9b1f5973044bd3ca33df06121",
+      "title": "Japan August factory output unexpectedly falls",
+      "url": "https://www.channelnewsasia.com/business/japan-august-factory-output-unexpectedly-falls-6419986",
+      "description": "",
+      "published_at": "2026-09-29T23:54:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -175,6 +289,17 @@
       "source": "BBC",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "c3ef25e81ab91a6accc1ca4315ecf46e73923b83545dcf41c0acc63ad495d0f9",
+      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+      "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+      "published_at": "2026-09-29T23:06:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -534,6 +659,17 @@
       ]
     },
     {
+      "id": "7926000f56be22a7e15bcb61fbdc155ad6a15ba816963b630cc2d29842f317e9",
+      "title": "Burnham to fight next election on pledge to change voting system",
+      "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+      "description": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
+      "published_at": "2026-09-29T21:32:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "6fe2072ac9a3b371e6d7a97b46a0b18c9476b114b4b78f8648fb5bf2d47eaa08",
       "title": "America’s foreign policy of coercion must end",
       "url": "https://www.scmp.com/opinion/world-opinion/article/3368546/americas-foreign-policy-coercion-must-end?utm_source=rss_feed",
@@ -672,6 +808,17 @@
       ]
     },
     {
+      "id": "ac17e7055521c19a27709bc736ff20b613740d23ab4dd29b5c620e973e851c9d",
+      "title": "Village team triumphs in FA Cup row replay",
+      "url": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
+      "description": "The controversial replay follows the FA ruling a referee had made a mistake in the initial match.",
+      "published_at": "2026-09-29T20:51:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "78df7573db2131cb30132b35028fbb3e20359b60a92068f041c076fdf603d22b",
       "title": "Former American Idol contestant and pastor found guilty of murdering wife",
       "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
@@ -784,6 +931,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "f544a89d015876eb984402f2cdc1b47db6f4e3251b0b4ed244d5e9e35d7cb84e",
+      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+      "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
+      "published_at": "2026-09-29T19:58:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -1017,6 +1175,17 @@
       ]
     },
     {
+      "id": "a92448e2295c9aa20f2c8fc2d0925de57f8d5c016a917eb2ce9c89587fab41d1",
+      "title": "Man City guilty of 'sham' contracts and misleading accounts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+      "description": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "published_at": "2026-09-29T18:12:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "4370ad17523fe1b80c9cbe51b85982f7083e51a62c0166b5f4ddfa319782d2b9",
       "title": "Officer acquitted of sex assault to face police misconduct hearing",
       "url": "https://www.bbc.co.uk/news/articles/c6zjzr4g32nzo?at_medium=RSS&at_campaign=rss",
@@ -1031,7 +1200,7 @@
       "id": "19e7e9e05e58055414c1e977e174f718b396630fbca212fa965b8ed30829948e",
       "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
       "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-      "description": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
+      "description": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
       "published_at": "2026-09-29T18:02:13+00:00",
       "source": "BBC",
       "categories": [
