@@ -1,6 +1,275 @@
 {
-  "last_updated": "2026-10-01T11:04:47.866734+00:00",
+  "last_updated": "2026-10-01T12:06:17.010928+00:00",
   "articles": [
+    {
+      "id": "ed3c97e23eaabe06b3523e862c01c2534b58920e5cbf5715b212f6d8e197f259",
+      "title": "Edinburgh's Castle of Light event cancelled after six years",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwgllypqko?at_medium=RSS&at_campaign=rss",
+      "description": "The huge light show has taken place at Edinburgh Castle during the festive period since 2019.",
+      "published_at": "2026-10-01T12:01:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "196606ab831cc2e85aa231ee8df6eb054c2e1e3d8a88f8756f86a9e97fda0740",
+      "title": "Chinese start-up behind laser mosquito killer plans to start shipping orders this month",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369440/chinese-start-behind-laser-mosquito-killer-plans-start-shipping-orders-month?utm_source=rss_feed",
+      "description": "People have been trying to fend off mosquitoes for thousands of years – using methods ranging from physical barriers to chemical insecticides – but a Chinese start-up is now taking pre-orders on a hi-tech solution that uses lidar detection and lasers to zap them out of the air. Photon Matrix Lab, based in Changzhou, in eastern China’s Jiangsu province, said it expected initial monthly production of the device – which became a breakout hit in overseas crowdfunding – to be between 3,000 and 5,000...",
+      "published_at": "2026-10-01T12:00:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "9b5afeaa2719f0b8d4e5071f5a236eb9027cdd1377ec3d4b29e72cf7b8125c23",
+      "title": "UAE probes possible 'terror' link in attack on flydubai flight to Israel",
+      "url": "https://www.channelnewsasia.com/world/uae-probes-israel-flydubai-flight-possible-terror-link-6423726",
+      "description": "",
+      "published_at": "2026-10-01T11:59:33+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b13f309af4faf8ccf92fef49c188200a714b0fee5897f418d898c482988ae282",
+      "title": "Dau beilot 'yn ôl adref' ar ôl i awyren ddisgyn ar Ynys Môn",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckvgygv72wnvo?at_medium=RSS&at_campaign=rss",
+      "description": "Fe gafodd y ddau beilot o'r awyrlu driniaeth ysbyty ar ôl dianc o'u hawyren cyn iddi ddisgyn mewn cae ar Ynys Môn.",
+      "published_at": "2026-10-01T11:59:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "8182537f39e3c4eb505c4cafd4c487b2f9b8135bf9c5335ffa3b078be21d5f19",
+      "title": "Boy arrested after river deaths released on bail",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjgy1x2jlo?at_medium=RSS&at_campaign=rss",
+      "description": "Jackson Duke, 17, and Luke Etheridge and Zara Shaw, both 16, died when a car entered the water.",
+      "published_at": "2026-10-01T11:57:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9924bd62685a83eaa1e6071552a4c235c09736fd3ea11efd70c0fb42ce49af8d",
+      "title": "Boy arrested after river deaths released on bail",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjgy1x2jlo?at_medium=RSS&at_campaign=rss",
+      "description": "Jackson Duke, 17, and Luke Etheridge and Zara Shaw, both 16, died when a car entered the water.",
+      "published_at": "2026-10-01T11:57:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "1f5d1c880922ed52696acade1928de23fdb62415c6cff1d323932c148d5b900b",
+      "title": "Boy arrested after river deaths released on bail",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjgy1x2jlo?at_medium=RSS&at_campaign=rss",
+      "description": "Jackson Duke, 17, and Luke Etheridge and Zara Shaw, both 16, died when a car entered the water.",
+      "published_at": "2026-10-01T11:57:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "74d2f72a235e099ea4427b4416ae93c9421bb2d8095eec7530b17fbbc743a0da",
+      "title": "Man jailed for abusing teenage girls in Tayside over five years",
+      "url": "https://www.bbc.co.uk/news/articles/c62kwkz3eknjo?at_medium=RSS&at_campaign=rss",
+      "description": "Kyle Buchan began committing the offences when he was 15 and continued until he was 20.",
+      "published_at": "2026-10-01T11:55:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ef95dba41782f925d806bc33aa7ba3d287e397231f69390b9c166366ff5a4951",
+      "title": "Man jailed for abusing teenage girls in Tayside over five years",
+      "url": "https://www.bbc.co.uk/news/articles/c62kwkz3eknjo?at_medium=RSS&at_campaign=rss",
+      "description": "Kyle Buchan began committing the offences when he was 15 and continued until he was 20.",
+      "published_at": "2026-10-01T11:55:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "6501c91f8017d5803c732b48528d9e9d4adc43911b6e5947c9adf40761836972",
+      "title": "Naomi Campbell wins appeal over charity ban",
+      "url": "https://www.bbc.co.uk/news/articles/c90klkz8j06vo?at_medium=RSS&at_campaign=rss",
+      "description": "A tribunal rules that the model was unaware of misconduct at her charity Fashion for Relief.",
+      "published_at": "2026-10-01T11:54:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "b2a523e3d7aac8ea9d4c7489892fd8b40df143c338eb533c51c893efe6d7cf48",
+      "title": "Ghana part ways with coach Queiroz after poor start to AFCON qualifiers",
+      "url": "https://www.channelnewsasia.com/sport/ghana-part-ways-coach-queiroz-after-poor-start-afcon-qualifiers-6424366",
+      "description": "",
+      "published_at": "2026-10-01T11:54:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "4c171f04ea42917a2a83ba1da02f9ed02fff3222cdd81ed08276aaf622f33b03",
+      "title": "Seventeen rescued after fishing boat runs aground off Orkney",
+      "url": "https://www.bbc.co.uk/news/articles/cm20901e530zo?at_medium=RSS&at_campaign=rss",
+      "description": "The Genesis fishing boat struck rocks off the west coast of the island of Hoy and issued a mayday call at about 06:30.",
+      "published_at": "2026-10-01T11:46:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9ccbf5127a57eb99487b05b3b53fff7fd09058b32b62bd7bda8c14742edf875c",
+      "title": "Tennessee death row inmate Christa Pike survives two lethal injections",
+      "url": "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
+      "description": "A Tennessee woman convicted of a murder three decades ago survived two lethal injection doses on Wednesday, marking the state's second failed execution this year. Christa Pike, 50, had been set to become the first woman to be executed in the southern US state in 200 years. The botched execution prompted the state’s governor to halt the one remaining execution for the rest of the year and launch a “comprehensive review”.",
+      "published_at": "2026-10-01T11:41:36+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "9f87d0f46a1ae8f4f1022c8ef169a33a9c0584bb871dab7b8276906d48dba11c",
+      "title": "NBA closes sole training academy in Africa in blow to young players",
+      "url": "https://www.channelnewsasia.com/sport/nba-closes-sole-training-academy-in-africa-in-blow-young-players-6424351",
+      "description": "",
+      "published_at": "2026-10-01T11:41:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "4c6ec0a555c509da46d54deca79383f5a49af67194a0058be59f56c20231f749",
+      "title": "Glasgow City Council begins fresh pay talks with union and Gilruth",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yeyx6qj95o?at_medium=RSS&at_campaign=rss",
+      "description": "On Wednesday a council statement said talks had broken down and suggested Unison members could face being sent letters over fire and rehire.",
+      "published_at": "2026-10-01T11:39:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "2992b536160294b6de1094bd33e0d16d7385cbaf419f4d05b59515022b5140b7",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "published_at": "2026-10-01T11:37:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "5a6c43ffcb923ed33410cf8158b4664e1e7c9a607135231bea483ff79e107bfa",
+      "title": "Troubled Gateshead fail to pay September wages",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck86x60nv5z0o?at_medium=RSS&at_campaign=rss",
+      "description": "Gateshead's players and staff do not receive their September wages on time in the same week major funding is withdrawn from the club.",
+      "published_at": "2026-10-01T11:35:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "dee5a0756b56569994a2f99bef1f8100da330660b546a7ec8f53895f1b42ca88",
+      "title": "The Bottom Line",
+      "url": "https://www.bbc.co.uk/sounds/play/m00325cs?at_medium=RSS&at_campaign=rss",
+      "description": "How does the antiques industry work and is it accurately portrayed on television shows?",
+      "published_at": "2026-10-01T11:30:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1965e0e5f9224406bbf09ecd004dc750073716e8735db0114e5f3932c55f5286",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "published_at": "2026-10-01T11:25:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "3fcd039e87586232e07c567234c9b633b922090fdf7d9a379a238481a3412ce9",
+      "title": "Three unions to strike at same time over Glasgow Caledonian job cuts",
+      "url": "https://www.bbc.co.uk/news/articles/ck24jev5e8l3o?at_medium=RSS&at_campaign=rss",
+      "description": "Lecturers and support staff say the action by the UCU, the EIS and Unison on Thursday will effectively close the university.",
+      "published_at": "2026-10-01T11:13:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f11ef15f94fd3d5f5942049a2c5c2767ead93b7ca52ce436c0297387c276b016",
+      "title": "Man admits posing as medical student at hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxnk4zj4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Stephen Simpson, 22, wore medical scrubs and NHS branded clothing at Aberdeen Royal Infirmary.",
+      "published_at": "2026-10-01T11:08:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland",
+        "UK"
+      ]
+    },
+    {
+      "id": "ca4144a7fdc00a623abb26fa052b374480fbdaec79f198ac90ad319ddc592c95",
+      "title": "Man admits posing as medical student at hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxnk4zj4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Stephen Simpson, 22, wore medical scrubs and NHS branded clothing at Aberdeen Royal Infirmary.",
+      "published_at": "2026-10-01T11:08:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "0a335dbd018558073aaa97a77b2702104266e6db9808d0faead95932103ce130",
+      "title": "Man admits posing as medical student at hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxnk4zj4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Stephen Simpson, 22, wore medical scrubs and NHS branded clothing at Aberdeen Royal Infirmary.",
+      "published_at": "2026-10-01T11:08:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "dd2f98e980732e6cd3a46466b523c98d3b1d711fad7c135da94876b0cf5695f7",
+      "title": "Russell says his 'confidence is back and growing'",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv1j4jn5nxxlo?at_medium=RSS&at_campaign=rss",
+      "description": "George Russell says he \"doesn't feel lost any more\" as he seeks to end a difficult season on a high and chase down team-mate Kimi Antonelli's championship lead.",
+      "published_at": "2026-10-01T11:07:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "057f5eba0ed3e3da35eb444ac70ec616f46d4db2e408d6869ba9a39945a9bfd2",
       "title": "Drumcree policing operation has cost £3m so far, says Boutcher",
@@ -39,7 +308,7 @@
       "id": "892d2132978f395ef4340dfe632c301ca0d3a5e23948964e01b498b11bff0532",
       "title": "Travelodge failed sex assault victim 'at every stage'",
       "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "description": "The review comes after a woman spoke out after being assaulted in a Maidenhead hotel.",
+      "description": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
       "published_at": "2026-10-01T10:48:36+00:00",
       "source": "BBC",
       "categories": [
@@ -137,6 +406,17 @@
       "categories": [
         "Asia",
         "News"
+      ]
+    },
+    {
+      "id": "e722fb0408dc2b5b3f65b67fda8d006121bb072e688603ff90577619a634b365",
+      "title": "Woman's Hour",
+      "url": "https://www.bbc.co.uk/sounds/play/m00325cj?at_medium=RSS&at_campaign=rss",
+      "description": "We find out more about a rape investigation at a US university that's sparked rage online.",
+      "published_at": "2026-10-01T10:35:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
       ]
     },
     {
@@ -623,6 +903,17 @@
     },
     {
       "id": "b9c77cd184b81ef3fb15dafec75286abb92a6d045daae061059df0fd36843236",
+      "title": "Man dies in hospital following two-car crash in North Uist",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r37enz7yo?at_medium=RSS&at_campaign=rss",
+      "description": "Police say the man was taken to hospital in Glasgow where he died a short time laer.",
+      "published_at": "2026-10-01T09:28:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b602d8145ed25330f44cf4085a8face1e85a228dfe41de61234367f07a3c5ec6",
       "title": "Man dies in hospital following two-car crash in North Uist",
       "url": "https://www.bbc.co.uk/news/articles/cme3r37enz7yo?at_medium=RSS&at_campaign=rss",
       "description": "Police say the man was taken to hospital in Glasgow where he died a short time laer.",
@@ -1270,6 +1561,17 @@
       ]
     },
     {
+      "id": "edb7b679e3bc05eb80ffb0acbb6359671acfb3601d5e6fc0576bca5e8c987fa8",
+      "title": "JERA teams up with Dell, RHAELM on Japan's AI infrastructure, building data centre near Tokyo",
+      "url": "https://www.channelnewsasia.com/business/jera-teams-up-dell-rhaelm-japans-ai-infrastructure-building-data-centre-near-tokyo-6423691",
+      "description": "",
+      "published_at": "2026-10-01T06:31:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "b7e4d090637e6e7f588205e7d329ad7d1997d10cd624d2ec9cf92119bed582cd",
       "title": "Klopp reluctant to weigh in on City fallout out of respect for Guardiola",
       "url": "https://www.channelnewsasia.com/sport/klopp-reluctant-weigh-in-city-fallout-out-respect-guardiola-6423686",
@@ -1591,6 +1893,17 @@
       ]
     },
     {
+      "id": "869d6acb01d50b85490ad73118c2b8d8ab06d7208df4ed41684267214d17d5ba",
+      "title": "Celebrity Traitors: Can I visit the castle, ride the train and see the unusual monument?",
+      "url": "https://www.bbc.co.uk/news/articles/c4njdj4kxw2o?at_medium=RSS&at_campaign=rss",
+      "description": "A brief guide to the Scottish Highlands' \"Traitors Territory\".",
+      "published_at": "2026-10-01T05:23:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "e375d10cd624b19d9e5b6107ff18269f4b8271a75c27e8f8fd5eddd0a251e78e",
       "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
       "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
@@ -1600,6 +1913,17 @@
       "categories": [
         "Scotland",
         "UK"
+      ]
+    },
+    {
+      "id": "591f9294e790a02255316e4f3d671ffe391b227dabec1606981448f84c5dc9cc",
+      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
+      "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
+      "description": "The annual event is marking its 17th year and draws visitors from all over the world.",
+      "published_at": "2026-10-01T05:23:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -1811,6 +2135,18 @@
       "published_at": "2026-10-01T05:08:30+00:00",
       "source": "BBC",
       "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "a75b61eef83a7246d6c4824b4f32a1110efd0f948c2f649f8d96b813a3fa4b0c",
+      "title": "Liverpool Street roof revamp nears completion",
+      "url": "https://www.bbc.co.uk/news/videos/cqwyz0dxgd4wo?at_medium=RSS&at_campaign=rss",
+      "description": "The project is designed to bring more natural light into the Grade II-listed station.",
+      "published_at": "2026-10-01T05:07:43+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -1823,6 +2159,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "ba075fa150d6bc29aa0be012a18e644aa0f78c1f082d0db3f7b565d65fc3f420",
+      "title": "Meet the robot looking after Vera, 74, in her own home",
+      "url": "https://www.bbc.co.uk/news/articles/cmlylxprwkjzo?at_medium=RSS&at_campaign=rss",
+      "description": "At least a thousand people across England use the droids, health tech company Cera says.",
+      "published_at": "2026-10-01T05:06:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -2077,7 +2424,7 @@
       "id": "3e85649fca30bb9b5071217511fbe0a770428602c1fa721421c1ea5c81f85e4f",
       "title": "Chinese research ship near the Batanes sparks undersea cable concerns in Manila",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3369334/chinese-research-ship-near-batanes-sparks-undersea-cable-concerns-manila?utm_source=rss_feed",
-      "description": "A Chinese civilian research vessel has spent more than a week conducting operations in waters off the Philippines’ Batanes Islands, an area that has become a new geopolitical battleground as Beijing ramps up pressure against Manila-Tokyo delimitation efforts. Data recorded via the vessel’s Automatic Identification System (AIS) for September, tracked by MarineTraffic, revealed that the Jia Hai Ke 7 research ship departed from Xiamen on China’s southeastern coast on September 19, arrived near...",
+      "description": "China and the Philippines have launched a war of words after their coastguards challenged each other in the waters off the Batanes Islands, an area that has become the latest maritime flashpoint as Beijing ramps up pressure against Manila-Tokyo delimitation efforts. The Philippine coastguard said on Thursday it had sent one of its biggest vessels and an aircraft to “disrupt and drive away” a Chinese research ship – the Jia Hai Ke 7 – which has been operating in the waters off the islands over...",
       "published_at": "2026-10-01T04:00:15+00:00",
       "source": "SCMP",
       "categories": [
@@ -2585,7 +2932,7 @@
       "id": "f01df5d07cdaceccdec288d84535479d940168bcce87c0f5f28bf90968ce8cba",
       "title": "Hundreds of students detained, dozens of officers injured in French school protests",
       "url": "https://www.france24.com/en/france/20261001-hundreds-of-students-detained-dozens-of-officers-injured-in-french-school-protests",
-      "description": "More than 600 people, most of them students, have been detained and dozens of police officers injured amid increasingly violent school protests in France. The protests began last week, when secondary school students started mobilising against a shortage of teachers, over-crowded classrooms and what they argued were unreasonable timetables.",
+      "description": "French students staged a new round of protests on Thursday against understaffing, onerous schedules and overheated classrooms, with public transport affected in several French cities and a headteacher doused in petrol. More than 600 people, most of them students, have been detained and dozens of police officers injured amid the increasingly violent protests.",
       "published_at": "2026-10-01T00:14:36+00:00",
       "source": "France 24",
       "categories": [
@@ -3286,7 +3633,8 @@
       "published_at": "2026-09-30T21:40:31+00:00",
       "source": "BBC",
       "categories": [
-        "Education & Family"
+        "Education & Family",
+        "UK"
       ]
     },
     {
@@ -3731,6 +4079,17 @@
       "source": "BBC",
       "categories": [
         "Wales"
+      ]
+    },
+    {
+      "id": "37d024f4b2143b9ca79014954e65c9d9950856bf38aa34e1907f57e1b68d93a6",
+      "title": "The moment police catch drug dealer posing as food delivery driver",
+      "url": "https://www.bbc.co.uk/news/videos/cmjrxer41g9xo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the moment a drug dealer tries to evade police while posing as a fast food delivery courier.",
+      "published_at": "2026-09-30T19:34:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -6652,6 +7011,7 @@
       "published_at": "2026-09-30T10:47:49+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "Politics",
         "UK"
       ]
@@ -168108,39 +168468,6 @@
       "source": "BBC",
       "categories": [
         "Science & Environment"
-      ]
-    },
-    {
-      "id": "a4fec50ec70970709ee0050866a280447d442b419fc83985e5b5e82535564e80",
-      "title": "Rare butterfly spotted in Cornwall",
-      "url": "https://www.bbc.co.uk/news/articles/cq63gnj8e76o?at_medium=RSS&at_campaign=rss",
-      "description": "It is believed to be one of only a handful of sightings recorded in England this year.",
-      "published_at": "2026-09-01T11:49:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "43335bafd17e0add5b88ffc031b754ec3ea182db506b912b2fb56d813da88cff",
-      "title": "Boy, 16, appears in court charged with murder of man",
-      "url": "https://www.bbc.co.uk/news/articles/cm279d43m9lo?at_medium=RSS&at_campaign=rss",
-      "description": "Sidi Djalo, who was 61, was found alongside his injured eight-year-old daughter at a house in Dungannon on Saturday morning.",
-      "published_at": "2026-09-01T11:42:39+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "d50aceb311c4831d58022982e2511d198410a10d42f0252faf37016fd948ae17",
-      "title": "Tice defends Reform UK-led councils over tax rises and cuts",
-      "url": "https://www.bbc.co.uk/news/articles/ckg87dlejqlo?at_medium=RSS&at_campaign=rss",
-      "description": "Reform UK's deputy leader says the party has been \"financially prudent\" in local government.",
-      "published_at": "2026-09-01T11:37:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
