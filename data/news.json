@@ -1,6 +1,77 @@
 {
-  "last_updated": "2026-10-01T19:03:53.025059+00:00",
+  "last_updated": "2026-10-01T20:03:08.462152+00:00",
   "articles": [
+    {
+      "id": "881bf687b236d5601ffc5a622f21a16626f21496c6a6f4249642168772bd78b5",
+      "title": "UK police arrest dual UK-Iranian national over Fairford air base incident",
+      "url": "https://www.france24.com/en/europe/20261001-uk-police-arrest-dual-uk-iranian-national-over-fairford-air-base-incident",
+      "description": "British police on Thursday arrested a British-Iranian dual national in connection with the security incident at the Fairford airbase Wednesday. Five other men initially arrested over the incidence were later released without charge on bail.",
+      "published_at": "2026-10-01T19:40:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "7870446add20537ba595fb75dd854dc7961a88a0f895643b43771eba344625fe",
+      "title": "Christa Pike gets \"life-saving medical care\" after surviving Tennessee execution",
+      "url": "https://www.channelnewsasia.com/world/christa-pike-hospital-execution-tennessee-6425326",
+      "description": "Christa Pike survived a failed execution attempt in Tennessee and is receiving “life-saving medical care” in hospital, according to her lawyers.",
+      "published_at": "2026-10-01T19:38:47+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "374b361f251fa2b9fef497b765f63e0a2f2c4148d35ef626e77aa3169aba8fd1",
+      "title": "Ireland v Austria game briefly halted by Stop the Game protesters",
+      "url": "https://www.channelnewsasia.com/sport/ireland-v-austria-game-briefly-halted-stop-game-protesters-6425351",
+      "description": "",
+      "published_at": "2026-10-01T19:35:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "50c00746a01abe222def74858360cca400f37a0531267f40c5f412419b5e76dc",
+      "title": "France’s purchasing power crisis: Navigating the pinch",
+      "url": "https://www.france24.com/en/economy/20261001-france-s-purchasing-power-crisis-navigating-the-pinch",
+      "description": "With looming elections and a draft budget that aims to address a €305.7bn financing requirement, French households are increasingly in the red. Will wages ever manage to outpace energy inflation?",
+      "published_at": "2026-10-01T19:26:18+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "0721030de74192ac77d1cb2445240f888514a7e86dec47b9c5e6d22e12515ec1",
+      "title": "Xi has left Washington, but remains in Trump’s photos on White House walls",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369485/xi-leaves-washington-keeps-least-two-places-white-house-walls?utm_source=rss_feed",
+      "description": "Chinese President Xi Jinping has left Washington, but he still has a place at the White House. At least two, in fact. Two different photographs of Xi with US President Donald Trump feature on its walls: a handshake image that Trump showed his guest during last week’s state visit, and another beside a Palm Room doorway showing the presidents standing side by side. Journalist Jacqueline Alemany shared an image of the Palm Room display on social media, noting that photographs of Trump with Xi and...",
+      "published_at": "2026-10-01T19:10:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "8c6926ca8fdacb524d172d4ac6dd2d67063f117d90ed2b67bb70b10706ce6785",
+      "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+      "url": "https://www.channelnewsasia.com/business/softbank-completes-final-phase-30-billion-investment-in-openai-6425316",
+      "description": "",
+      "published_at": "2026-10-01T19:07:56+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "e14010c11eb8796b7eca3b1c581cb3123a03c0d691a3339d8771293f2b21bbd7",
       "title": "WBC heavyweight champion Kabayel's first defence confirmed for Duesseldorf on November 28",
@@ -88,7 +159,7 @@
       "id": "386a4370b7a404fa41b9b9e2f6c000f4378fb57971e3a9ee56794051e9148238",
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "description": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
       "published_at": "2026-10-01T18:09:03+00:00",
       "source": "BBC",
       "categories": [
@@ -269,6 +340,17 @@
       ]
     },
     {
+      "id": "081bb36f3dee19eff18c5307a3dc3a7f84c64cd7f87d57152d6abce9e9a4729c",
+      "title": "'I took Fairford pic - then all hell broke loose'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dwdn9e74lo?at_medium=RSS&at_campaign=rss",
+      "description": "The man who took the famous arrest image says the military is not doing enough to reassure locals.",
+      "published_at": "2026-10-01T17:00:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "73e263b8fd1d5b1b791c53faffb4c82187d686c558a07cc16f7f2f8cad81a37e",
       "title": "Yields fall after US 10-year hits highest since 2002; stocks, euro also decline",
       "url": "https://www.channelnewsasia.com/business/yields-fall-after-us-10-year-hits-highest-2002-stocks-euro-also-decline-6423111",
@@ -282,6 +364,17 @@
     },
     {
       "id": "dc833684b0f5181c8d2840333bc1d197eee61e1734b3c3b15fbc456364546f2d",
+      "title": "Two boys caught riding e-scooters the wrong way on motorway slip road",
+      "url": "https://www.bbc.co.uk/news/articles/cmgl7l63gexdo?at_medium=RSS&at_campaign=rss",
+      "description": "The boys, who were wearing balaclavas, were spotted by police patrol officers at the Hillington junction in Glasgow on Tuesday.",
+      "published_at": "2026-10-01T16:52:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "39ab6a157f47560b89b63ce5fde481f876c100004bb969645fbd5ad1baad301c",
       "title": "Two boys caught riding e-scooters the wrong way on motorway slip road",
       "url": "https://www.bbc.co.uk/news/articles/cmgl7l63gexdo?at_medium=RSS&at_campaign=rss",
       "description": "The boys, who were wearing balaclavas, were spotted by police patrol officers at the Hillington junction in Glasgow on Tuesday.",
@@ -329,7 +422,7 @@
       "id": "8efeda0e232b1aa72b64e74d5864595d4ab6282ff595c6d29977f5309ce4b4ae",
       "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
       "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "published_at": "2026-10-01T16:45:35+00:00",
       "source": "BBC",
       "categories": [
@@ -1550,7 +1643,8 @@
       "published_at": "2026-10-01T13:19:47+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -170562,39 +170656,6 @@
       "source": "BBC",
       "categories": [
         "Technology"
-      ]
-    },
-    {
-      "id": "2850815a0bb65a174d9055af7a453591e710c8895da8a830b6499aca90844517",
-      "title": "Google Maps changes Lake Ontario to 'Lake America' as MapQuest downloads surge",
-      "url": "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america",
-      "description": "Lake Ontario is now appearing as \"Lake America\" on Google Maps for US users, following US President Donald Trump's executive order to rename the lake. Canadians still see \"Lake Ontario\", while users elsewhere see both names. But the change is far from universal: Apple Maps and MapQuest continue to use Lake Ontario. MapQuest has remained defiant against the move and since surged to the top of the US App Store download charts.",
-      "published_at": "2026-09-01T19:37:48+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas"
-      ]
-    },
-    {
-      "id": "7f45893f379b71caf67e182701ddf8692e57a1ecc52d9ad7aa597326e023482c",
-      "title": "AI data centers become surprise issue in US midterm elections",
-      "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
-      "description": "The boom of data centers to power artificial intelligence was a topic of discussion at the G20 summit on Tuesday in North Carolina. Elon Musk told member countries that US companies need to find new energy sources outside of China to power these massive data centers. That same issue is also creating a backlash in the United States ahead of the midterm elections in November. Donald Trump is doubling down, calling those who are against the data centers, “backwards and poor.” FRANCE 24's Monte Francis explains.",
-      "published_at": "2026-09-01T19:35:25+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas"
-      ]
-    },
-    {
-      "id": "f9de3b5f10d3f95ba5103b3f1b353c85c07e27e622579b8e986d15efce254663",
-      "title": "Israel warns it will retaliate if UK imposes sanctions",
-      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
-      "description": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
-      "published_at": "2026-09-01T19:27:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
       ]
     }
   ]
