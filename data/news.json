@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-10-01T21:03:02.296139+00:00",
+  "last_updated": "2026-10-01T22:03:11.035245+00:00",
   "articles": [
+    {
+      "id": "b1745e5afb8bf9d70bdc9d2fea3dfe4121479fc0f7b7bfd8459150801ba3e958",
+      "title": "Villagers reach 'forgotten Einstein' church goal in just four weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d8y1elx0o?at_medium=RSS&at_campaign=rss",
+      "description": "The group looking to buy the historic church had reached its goal in four weeks, well ahead of schedule.",
+      "published_at": "2026-10-01T22:00:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "5aea9f875e19abd25583624558ea53298d56deea97d5f458e1f066f3ed33ba67",
+      "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+      "description": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election.",
+      "published_at": "2026-10-01T22:00:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "03e90ffae3e20418f131bddcd5e67f42224e9f0bcb13309fc7f4c19c31e66748",
+      "title": "Panda diplomacy: all the countries currently hosting China’s beloved ambassadors",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369456/panda-diplomacy-all-countries-currently-hosting-chinas-beloved-ambassadors?utm_source=rss_feed",
+      "description": "Two giant pandas arrived in the US following Chinese President Xi Jinping’s visit to Washington, continuing a decades-old tradition in which the beloved fuzzy ambassadors have become symbols of China’s ties with countries around the world. Zoo Atlanta announced the arrival of giant pandas Ping Ping and Fu Shuang on Sunday, saying it was “overjoyed” to welcome the pair after the zoo’s previous 25-year partnership with China ended in 2024. Xi said during his US visit that the pandas would be sent...",
+      "published_at": "2026-10-01T22:00:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "518fd6d16885fd99ccc7d400a49f08976599cab2487e61962e27ffd7aed45946",
+      "title": "'Potential crime' probe into death of Scots wingsuit flyer dropped",
+      "url": "https://www.bbc.co.uk/news/articles/crz6zqgpl86eo?at_medium=RSS&at_campaign=rss",
+      "description": "British champion Liam Byrne, 24, was fatally injured on the Gitschen mountain in June last year.",
+      "published_at": "2026-10-01T21:59:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "6e5a8028eb275e050d954d58828da4c1354b5c92cc845ecad0e4a70e92ac1e93",
+      "title": "Rescuers say TikTok and Instagram posts don't prepare hikers for dangers",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8e5l7gvkgo?at_medium=RSS&at_campaign=rss",
+      "description": "Rescues of 18 to 24-year-olds more than double in Wales and England since 2019, rescuers say.",
+      "published_at": "2026-10-01T21:53:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "b01ae807fe5e6cb62bc2de9cd9c88eacd01a550623774a244dd58ed689e200fa",
+      "title": "French school protests spread as fires, blockades deepen unrest",
+      "url": "https://www.channelnewsasia.com/world/french-schools-protest-fire-arrests-students-6425516",
+      "description": "Police said 1,949 people were arrested and 305 officers injured as protests spread to more than 1,000 high schools across France.",
+      "published_at": "2026-10-01T21:51:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "9cfca3fdc40af42016b0b07dff563764ed641252907c69fc7e224d9fd715dc3e",
+      "title": "SDLP deselects MLA Justin McNulty as Newry and Armagh assembly candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cq0klkr540nxo?at_medium=RSS&at_campaign=rss",
+      "description": "Crossmaglen councillor Pete Byrne won the vote at a selection convention in Newry on Thursday night.",
+      "published_at": "2026-10-01T21:41:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "4731ceb5878d3909271c64742da39a6d965ba106a0d349713358b53022a4d7c3",
+      "title": "Bachgen chwe oed wedi marw mewn gwrthdrawiad yn Llanfairfechan",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqy7z7my2k50o?at_medium=RSS&at_campaign=rss",
+      "description": "Mae bachgen chwe oed wedi marw ar ôl gwrthdrawiad rhwng cerbyd a phlentyn yn Llanfairfechan",
+      "published_at": "2026-10-01T21:40:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "a34a2faa44b605f5a4477f720c2167a6466b7057e5ff6fd5fbe1b043db391e6e",
+      "title": "Tung Chee-hwa’s task as Hong Kong’s chief executive was without precedent",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369327/tung-chee-hwas-task-hong-kongs-chief-executive-was-without-precedent?utm_source=rss_feed",
+      "description": "The farewell to former chief executive Tung Chee-hwa was moving because it marked the passing of a figure who stood at the beginning of a wholly new chapter for Hong Kong, a city to which he devoted so much of himself. For many, Tung will always be associated with the formidable demands of the early years after the return to the motherland – the Asian financial crisis, the bursting of the property bubble, severe acute respiratory syndrome (Sars) and sharp social divisions. The institutions of...",
+      "published_at": "2026-10-01T21:30:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "e128cd84d1805fc1a5736c932059ac3c8105afdd8fb2ff88f44076c91c08cc71",
+      "title": "Cymru yn sicrhau buddugoliaeth gyntaf yn 2026 yn erbyn Norwy",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cv0lr3303p5do?at_medium=RSS&at_campaign=rss",
+      "description": "Mae Cymru wedi curo Norwy 2-1 yn Stadiwm Dinas Caerdydd",
+      "published_at": "2026-10-01T21:23:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "090a93d8e057e611cabb16a999c6081c59c879e2b5e5017612b95975a0f612e1",
+      "title": "Family of woman killed by US immigration agent sues Trump administration",
+      "url": "https://www.channelnewsasia.com/world/renee-good-family-sue-trump-administration-us-6425471",
+      "description": "The family of Renee Good, a US citizen killed by an immigration agent in Minneapolis, filed two lawsuits against the US government and members of the Trump administration.",
+      "published_at": "2026-10-01T21:22:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "9047f0a3bf4a538f08e4f3332561828275e139d2a0f2c701588cfe6646922b18",
+      "title": "Man arrested after boy, 6, dies in crash",
+      "url": "https://www.bbc.co.uk/news/articles/cj0464xev5kpo?at_medium=RSS&at_campaign=rss",
+      "description": "An investigation into the circumstances surrounding the incident in Llanfairfechan, Conwy, is ongoing.",
+      "published_at": "2026-10-01T21:21:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b071cdb2e33c0366819570f015b5893f95b22a70a696021cc56a57bfb06ae24d",
+      "title": "Man arrested after boy, 6, dies in crash",
+      "url": "https://www.bbc.co.uk/news/articles/cj0464xev5kpo?at_medium=RSS&at_campaign=rss",
+      "description": "An investigation into the circumstances surrounding the incident in Llanfairfechan, Conwy, is ongoing.",
+      "published_at": "2026-10-01T21:21:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "d8bdc97dbbf6634672e9b80f6e6e59dd17b7f9762793e2e02db2a0722f867c7c",
+      "title": "Fake BBC report falsely implicates Indian passenger and pilot in Flydubai hijacking attempt",
+      "url": "https://www.france24.com/en/fake-bbc-report-falsely-implicates-indian-passenger-and-pilot-in-flydubai-hijacking-attempt",
+      "description": "False videos are circulating after the attempted hijacking of a Flydubai flight between Dubai and Tel Aviv. One fake “BBC” report falsely claims an Indian passenger was behind the incident and links him to the stabbed pilot, Smit Machchhar. The video though, is an AI-generated deepfake: the BBC never broadcast it, and its footage and audio were doctored. A second clip was also misrepresented and filmed in Dubai, not over where the incident occurred. Vedika Bahl fact-checks in Truth or Fake.",
+      "published_at": "2026-10-01T21:11:44+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "032eb35d48d386656f972e9d35ff4d85d7ae8d70320a7ed2e3a134b2a2a00c84",
+      "title": "Putin warns Russia will use ‘all weapons’ in arsenal if any of its territory is attacked",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369487/putin-warns-russia-will-use-all-weapons-arsenal-if-any-its-territory-attacked?utm_source=rss_feed",
+      "description": "Russian President Vladimir Putin on Thursday reiterated Moscow’s long-held position that Russia is not planning to attack European countries but will respond to aggression with “all weapons” in its arsenal. In remarks at a foreign policy forum, Putin accused the West and Europe of escalating tensions by talking about preparing for a war with Moscow in the coming years, conducting military drills in the Baltic Sea, and seizing Russian vessels. His remarks followed Moscow’s warning to Nato that it...",
+      "published_at": "2026-10-01T21:09:10+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0f99835aabc4a545efd47282b18a8a1e3de60e16b95abbcbecd84a719547cd73",
+      "title": "'Fundamental demand': Saint-Denis students seek same opportunity as those in 'more privileged areas'",
+      "url": "https://www.france24.com/en/fundamental-demand-saint-denis-students-seek-same-opportunity-as-those-in-more-privileged-areas",
+      "description": "Erin Ogunkeye is pleased to welcome a high school teacher who agreed to speak with us anonymously as protests intensify at a high school in a northern Paris suburb. The protests are shining a cruel light on major problems that have existed for years. All the while, police are cracking down on students, using teargas and strongarm tactics as students blockade entrances. For this high school teacher, the protests reflect concerns about everyday conditions in which students are expected to learn. Their demands are not abstract political claims. They are asking for an environment that allows them to learn effectively.",
+      "published_at": "2026-10-01T21:02:33+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "4851c7afd855f795bba97145e6e53f1dee3cb6cbc2719fa4403010cb98ac3e05",
       "title": "Travelodge working hard on room security, says CEO",
@@ -20,6 +202,7 @@
       "published_at": "2026-10-01T20:53:45+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Sports"
       ]
     },
@@ -66,7 +249,20 @@
       "published_at": "2026-10-01T20:28:30+00:00",
       "source": "France 24",
       "categories": [
-        "Africa"
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "d74bda952cb8c427f0c85586144256c1082939eaaedc82856f9e9f81397c5942",
+      "title": "Wall Street regulator proposes rules on investment adviser crypto asset custody",
+      "url": "https://www.channelnewsasia.com/business/wall-street-regulator-proposes-rules-investment-adviser-crypto-asset-custody-6425406",
+      "description": "",
+      "published_at": "2026-10-01T20:19:27+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
       ]
     },
     {
@@ -94,6 +290,17 @@
     },
     {
       "id": "f95ffc79e6b5a921274faf30c45fd295b455797c673b7cd21b32214edb47ec79",
+      "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss",
+      "description": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
+      "published_at": "2026-10-01T19:49:02+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "a1f062654b7ae28ba032f4f053692e0690cd40dd13c8896c7f90ccb57f295b25",
       "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
       "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss",
       "description": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
@@ -147,6 +354,7 @@
       "published_at": "2026-10-01T19:35:32+00:00",
       "source": "CNA",
       "categories": [
+        "Latest News",
         "Sports"
       ]
     },
@@ -220,6 +428,17 @@
       ]
     },
     {
+      "id": "c26dd4cddb7cfafabdefba8ef73e2f7fbe04e2943afac397fe807266403fb78c",
+      "title": "Teen jailed again for machete-point Rolex robbery",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5kdgn700o?at_medium=RSS&at_campaign=rss",
+      "description": "Boulares used \"extreme intimidation\" on the latest two victims, who each wore a Rolex watch.",
+      "published_at": "2026-10-01T18:39:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "6da5d9dc2acd6b6cef9fcf18a65784f3969fb706837533a26ecea592777b75e9",
       "title": "PM warned Rosebank oil field could breach West Bank sanctions",
       "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
@@ -258,6 +477,17 @@
     },
     {
       "id": "43126be54b3fb42586ddb8661d81f804c1a22ea5c99dbcc8d61e346d78b367ae",
+      "title": "Beer and wine in Wales costs more as minimum alcohol price rises by 30%",
+      "url": "https://www.bbc.co.uk/news/articles/cxr505v5g0gvo?at_medium=RSS&at_campaign=rss",
+      "description": "The Welsh government says it could prevent more than 900 deaths across the next two decades.",
+      "published_at": "2026-10-01T18:21:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6ed100a67cfb2e3ce6308323432a118e5940c4ac83313045868ff67dab94d024",
       "title": "Beer and wine in Wales costs more as minimum alcohol price rises by 30%",
       "url": "https://www.bbc.co.uk/news/articles/cxr505v5g0gvo?at_medium=RSS&at_campaign=rss",
       "description": "The Welsh government says it could prevent more than 900 deaths across the next two decades.",
@@ -813,6 +1043,17 @@
       ]
     },
     {
+      "id": "bfeab53909eba6d359ca9e9b7793ff480c3eb521df6d7ac1147c78fafd080d55",
+      "title": "Justice minister says lessons must be learned from on-the-run killer case",
+      "url": "https://www.bbc.co.uk/news/articles/c6m272wx0jzzo?at_medium=RSS&at_campaign=rss",
+      "description": "Naomi Long publishes the terms of reference for an independent review into the circumstances relating to the compassionate temporary release of Gary Anderson.",
+      "published_at": "2026-10-01T16:02:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "8235981be359da76cd93483d871103331e52a93c5bee5f2f1a376e672c0a26cd",
       "title": "Hong Kong invests billions to accelerate innovation of impactful solutions as an AI-powered future comes into focus",
       "url": "https://www.scmp.com/presented/news/hong-kong/topics/impactful-aiss-approved-projects/article/3369190/hong-kong-invests-billions-accelerate-innovation-impactful-solutions-ai-powered-future-comes-focus?utm_source=rss_feed",
@@ -849,6 +1090,17 @@
     {
       "id": "5de728ee2239db0a2a69d2e49c73e218fcff08a1c66d10c4e2889d53844df48a",
       "title": "Badenoch leaves door open to Tory support for Plaid government's budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck2090327x9zo?at_medium=RSS&at_campaign=rss",
+      "description": "In July, Plaid's mid-year spending plans were rejected after not getting enough opposition support.",
+      "published_at": "2026-10-01T15:59:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "4f62fab22f4499922e5f6f6ad5fce48d9f5f0bfd2dd7ea1bb3ceb938f5098bd4",
+      "title": "Tory support for Plaid government budget not ruled out by Badenoch",
       "url": "https://www.bbc.co.uk/news/articles/ck2090327x9zo?at_medium=RSS&at_campaign=rss",
       "description": "In July, Plaid's mid-year spending plans were rejected after not getting enough opposition support.",
       "published_at": "2026-10-01T15:59:40+00:00",
@@ -914,6 +1166,17 @@
     },
     {
       "id": "7669b976ecf64cc1cc7374132cfceeadd74182d8320fb34af2328edf3fddbb7a",
+      "title": "Man jailed for killing 86-year-old during break-in",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgxgkjgvlyo?at_medium=RSS&at_campaign=rss",
+      "description": "John Burke suffered a \"devastating and irreversible\" brain injury after he was headbutted.",
+      "published_at": "2026-10-01T15:51:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "6402f95d1db3dd63bdc2bad2776cbc2b25dda0ddcec23634f205be5682833ace",
       "title": "Man jailed for killing 86-year-old during break-in",
       "url": "https://www.bbc.co.uk/news/articles/cwkgxgkjgvlyo?at_medium=RSS&at_campaign=rss",
       "description": "John Burke suffered a \"devastating and irreversible\" brain injury after he was headbutted.",
@@ -3253,6 +3516,17 @@
     },
     {
       "id": "1c439537e880563360cc1b8d086e08aa39bb5a7b4906a65722326da1919b754a",
+      "title": "Luke Evans 'selfishly' found himself a leading role in new TV drama",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl7r0dgkd2o?at_medium=RSS&at_campaign=rss",
+      "description": "Actor Luke Evans came up with the idea to adapt the acclaimed novel by Elizabeth Day into a TV drama.",
+      "published_at": "2026-10-01T09:32:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "d29ebdee6b7994d76c237e2dbd2822622cf933aac1e04aada8bf44055d3621df",
       "title": "Luke Evans 'selfishly' found himself a leading role in new TV drama",
       "url": "https://www.bbc.co.uk/news/articles/cvgl7r0dgkd2o?at_medium=RSS&at_campaign=rss",
       "description": "Actor Luke Evans came up with the idea to adapt the acclaimed novel by Elizabeth Day into a TV drama.",
@@ -170769,39 +171043,6 @@
       "source": "BBC",
       "categories": [
         "Technology"
-      ]
-    },
-    {
-      "id": "e71d0e3587c5c2618d5bc37cd1d1e3232ed27c087abfbdd4131ad7bbbe8d6116",
-      "title": "Burnham promises more devolution and public control of essential services",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
-      "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
-      "published_at": "2026-09-01T21:48:44+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "4bf1b949faf050b2cb299395bd2f5569833d42f4ca2820e4e93ca9a9f7c1a096",
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-      "published_at": "2026-09-01T21:41:05+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "0214793018cb75659bcd93f7ce9740751cb9893feddb7cf8cf7fc8d461597b49",
-      "title": "Watch: Astronauts set out on rare all-female spacewalk",
-      "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
-      "description": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
-      "published_at": "2026-09-01T21:08:48+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
       ]
     }
   ]
