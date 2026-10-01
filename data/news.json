@@ -1,6 +1,99 @@
 {
-  "last_updated": "2026-10-01T03:03:42.082958+00:00",
+  "last_updated": "2026-10-01T04:04:37.404031+00:00",
   "articles": [
+    {
+      "id": "2108d57223118991145f3dfab20b025a6e54b72fdaee05b5c8867f199749b76f",
+      "title": "Hong Kong’s 5-year-plan underlines ‘DNA’ as a global city, market economy: John Lee",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3369412/hong-kongs-5-year-plan-underlines-dna-global-city-market-economy-john-lee?utm_source=rss_feed",
+      "description": "Hong Kong’s inaugural five-year plan highlighted its DNA as an international city while emphasising the market economy, the chief executive has said. Speaking at a National Day reception on Thursday, Chief Executive John Lee Ka-chiu said the city needed a blueprint with strategic vision amid the rapidly changing geopolitical landscape and accelerated growth of AI, as he highlighted three features of the plan that was unveiled last month. “[It] adheres to the ‘one country, two systems’ principle....",
+      "published_at": "2026-10-01T04:03:58+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "cb76b130b3c5007df417e37abbd53f43732175e840385cf5b04f3155179bf9cd",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "description": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "published_at": "2026-10-01T04:03:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "23d8b25c7ea3ed62dfcceac6528ecee9d426c80df6258c790000bc19a280d3cb",
+      "title": "New BCRS refund portal for transaction issues as scheme enters full rollout",
+      "url": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-bcrs-portal-refunds-wait-times-6421361",
+      "description": "The service will first be available at SG Recycle machines in the north and west of Singapore before expanding islandwide.",
+      "published_at": "2026-10-01T04:00:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "3e85649fca30bb9b5071217511fbe0a770428602c1fa721421c1ea5c81f85e4f",
+      "title": "Chinese research ship near the Batanes sparks undersea cable concerns in Manila",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369334/chinese-research-ship-near-batanes-sparks-undersea-cable-concerns-manila?utm_source=rss_feed",
+      "description": "A Chinese civilian research vessel has spent more than a week conducting operations in waters off the Philippines’ Batanes Islands, an area that has become a new geopolitical battleground as Beijing ramps up pressure against Manila-Tokyo delimitation efforts. Data recorded via the vessel’s Automatic Identification System (AIS) for September, tracked by MarineTraffic, revealed that the Jia Hai Ke 7 research ship departed from Xiamen on China’s southeastern coast on September 19, arrived near...",
+      "published_at": "2026-10-01T04:00:15+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "b1c09ffe90ff806fbad67040aa79b77a414794cea4bcc4e1961004b86a64e59d",
+      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+      "description": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
+      "published_at": "2026-10-01T03:52:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e241a1f6f37a2fa2140a6f2512c55d1451dcbca436163ed64052958750881b37",
+      "title": "PropertyGuru’s Home Run: Singapore returns with Tyler Ten, The Muttons and 12 property agents",
+      "url": "https://www.channelnewsasia.com/entertainment/propertyguru-home-run-singapore-mediacorp-6423136",
+      "description": "The property reality competition returns on Oct 8 with 12 agents battling it out in creative challenges, plus celebrity appearances by Tyler Ten, The Muttons, Annette Lee and more.",
+      "published_at": "2026-10-01T03:44:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "ae83188651d244bbe53d0f20ba6c6d519314883c209382f1173ff203dcd34668",
+      "title": "South Korea president urges Pyongyang dialogue after DMZ blasts",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-north-dialogue-demilitarised-zone-6423281",
+      "description": "",
+      "published_at": "2026-10-01T03:31:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "937d6031d8d763c2be642c46f3e9d4101a540108a5d851c14d4dca940ae455c4",
+      "title": "Vietnam extends fuel tax relief measures until end-2026",
+      "url": "https://www.channelnewsasia.com/business/vietnam-extends-fuel-tax-relief-measures-until-end-2026-6423271",
+      "description": "",
+      "published_at": "2026-10-01T03:22:49+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "0a00f0b3f06947a7d0bc4910c9ec322ac06d7c94df4316787bcdc79d246f7e4c",
       "title": "Huawei steps up Tau chip roll-out, with Mate XT 2 on track for 1 million sales",
@@ -136,7 +229,7 @@
       "id": "690ecbb42adb4feb26cf5d72ddcb806798027b0451a6460690fa51d65d751b4d",
       "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "description": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
       "published_at": "2026-10-01T01:59:11+00:00",
       "source": "BBC",
       "categories": [
@@ -429,6 +522,18 @@
       ]
     },
     {
+      "id": "91c60cd1d41c251c4c212d1058626188272afdb3bc165b634a809a32c122b57d",
+      "title": "Japan's patchy business mood takes pressure off BOJ for immediate hike",
+      "url": "https://www.channelnewsasia.com/business/japans-patchy-business-mood-takes-pressure-boj-immediate-hike-6422946",
+      "description": "",
+      "published_at": "2026-10-01T00:12:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
       "id": "02f00fa034f6949d21464eaa109ef200b92aaede9b7689dc747b1d28fa63eb93",
       "title": "Felt like ‘massive turbulence’: Passengers recount chaos on flydubai flight",
       "url": "https://www.channelnewsasia.com/world/flydubai-flight-passengers-pilot-attack-israel-uae-saudi-arabia-6422941",
@@ -502,7 +607,7 @@
       "id": "ccc47a6a0d3f2682405698e7059c91cba823b3947f902cd5d310f57e5c14d0c5",
       "title": "US Supreme Court allows execution of Christa Pike to go ahead",
       "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+      "description": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered.",
       "published_at": "2026-09-30T23:55:17+00:00",
       "source": "BBC",
       "categories": [
@@ -1970,7 +2075,7 @@
       "id": "89b0038aac82f223f7d8be5001693a9002bfc85050239005c5c1907786324d68",
       "title": "UK PM says ‘strong indications’ Iran involved in bomb scare at US-run airbase",
       "url": "https://www.scmp.com/news/world/europe/article/3369387/uk-pm-says-strong-indications-iran-involved-bomb-scare-us-run-airbase?utm_source=rss_feed",
-      "description": "British Prime Minister Andy Burnham on Wednesday said there were “strong indications” that Iran was involved in suspicious activity at a UK airbase that triggered a major security incident this weekend. “There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford,” Burnham told the BBC, referring to Sunday’s bomb scare near the airbase in southwest England, which is used by the US military in its war against Iran. “Of course it remains an ongoing,...",
+      "description": "British Prime Minister Andy Burnham on Wednesday said there were “strong indications” Iran was involved in suspicious activity at a UK airbase that triggered a major security incident this weekend. “There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford,” Burnham told the BBC, referring to Sunday’s bomb scare near the airbase in southwest England, which is used by the US military in its war against Iran. “Of course it remains an ongoing, complex,...",
       "published_at": "2026-09-30T16:51:39+00:00",
       "source": "SCMP",
       "categories": [
@@ -165804,17 +165909,6 @@
       "source": "BBC",
       "categories": [
         "Wales"
-      ]
-    },
-    {
-      "id": "3b02927787cedaec2bc149cee7d9fae0f29238681f0f165ba985f864f32e3285",
-      "title": "US military striking targets in Iran after attempted attacks on shipping",
-      "url": "https://www.france24.com/en/middle-east/20260901-middle-east-live-oil-prices-extend-gains-as-us-iran-tensions-flare-again",
-      "description": "The US military said on Tuesday it is striking new targets in Iran as hostilities flare again after a month without military action. US Central Command said that the strikes follow recent attempted attacks by the Iranian government against commercial shipping in the Strait of Hormuz. Follow our liveblog to see how the day's events unfolded.",
-      "published_at": "2026-09-01T03:38:18+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East"
       ]
     }
   ]
