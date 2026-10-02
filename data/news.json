@@ -1,6 +1,99 @@
 {
-  "last_updated": "2026-10-02T18:04:41.683589+00:00",
+  "last_updated": "2026-10-02T19:04:41.833572+00:00",
   "articles": [
+    {
+      "id": "0c4629bbaea45d827a378a2ad933c411df4154b763166985909abba72fbab6c8",
+      "title": "US FAA finds Boeing 737 MAX software glitch does not pose safety issue",
+      "url": "https://www.channelnewsasia.com/business/us-faa-finds-boeing-737-max-software-glitch-does-not-pose-safety-issue-6428111",
+      "description": "",
+      "published_at": "2026-10-02T18:50:20+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "128574ffc7c381ddffedc2719772d28f10e4d56b24a8230bb11aea16a2e9dffe",
+      "title": "Widdecombe suspect charged with planning terror act against Farage",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+      "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+      "published_at": "2026-10-02T18:46:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
+      ]
+    },
+    {
+      "id": "cc8929760a5bf4922765f2386b9c109d7b6ceb248ec1181079ebb2a891a4d49e",
+      "title": "Taiwan coastguard uses water cannons to warn off mainland Chinese fishing vessel",
+      "url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel?utm_source=rss_feed",
+      "description": "Taiwan’s Coast Guard Administration (CGA) used water cannons to expel a mainland Chinese fishing vessel near Dongsha Island, authorities said on Friday. The incident occurred on October 1, 27 nautical miles east of the Taiwanese-controlled Dongsha Island, also called Pratas Island, in the South China Sea, the agency revealed. The CGA’s patrol vessel Yunlin directed its water cannon towards the fishing boat Jin Sha’s wheelhouse for about 90 seconds after initially spraying water into the air for...",
+      "published_at": "2026-10-02T18:33:28+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "0b87cbe1c844baa2afc3d5f1459228b07dbd126937885df035b0a48e0cb673c8",
+      "title": "MacIntyre makes strong move at Alfred Dunhill Links",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/crwyd3p5dxzxo?at_medium=RSS&at_campaign=rss",
+      "description": "Defending champion Robert MacIntyre shoots a second-round 65 to move into contention at the Alfred Dunhill Links Championship, three strokes behind halfway leader Casey Jarvis of South Africa.",
+      "published_at": "2026-10-02T18:27:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "5959e31bd5a79a9543c8e7e5d4a5bbbe28d03d48d55910c08a2963bcc8deccd4",
+      "title": "Pakistan says Mecca pact members to hold emergency talks on engaging Houthis",
+      "url": "https://www.channelnewsasia.com/world/pakistan-mecca-defence-pact-houthis-6427571",
+      "description": "Pakistan says Iran has suggested political talks with Yemen’s Houthis, which Saudi Arabia, Türkiye and Pakistan will discuss at an emergency meeting.",
+      "published_at": "2026-10-02T18:15:58+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "3e27eab16b91970ab69f3307604bb333336cdf962c8548fd68f0340c3a399593",
+      "title": "King Charles to acknowledge ‘darkest days’ of colonial rule on Caribbean tour",
+      "url": "https://www.scmp.com/news/world/europe/article/3369633/king-charles-acknowledge-darkest-days-colonial-rule-caribbean-tour?utm_source=rss_feed",
+      "description": "King Charles will acknowledge the “darkest days” of colonial rule and slavery while touring Caribbean countries on a visit beginning this month, a Buckingham Palace spokesman said on Friday. The king will first visit the Bahamas and Guyana alone, followed by a trip to Antigua and Barbuda with Queen Camilla, where Charles will give a speech at a meeting of Commonwealth heads of government, the palace said. Charles, 77, who is still receiving treatment for cancer, will visit former colonies that...",
+      "published_at": "2026-10-02T18:11:53+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d094073a6dabc712c9e2427f9bb93618b316d21f7befb87d868aad57559651b6",
+      "title": "Jealous husband who strangled wife in bed given life sentence",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygg8wn0ko?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Davies, 58, was found guilty of murdering Tracey Davies at their home in Cefn Cribwr.",
+      "published_at": "2026-10-02T18:10:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e2878999570310ea7561af430ff99f52cc93236ad0f9cdd96b006d02eed9378c",
+      "title": "'Cold-blooded' teens jailed for restaurant arson",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7yrn5p8gro?at_medium=RSS&at_campaign=rss",
+      "description": "The pair are sentenced to 10 years for an attack that left customers with life-changing injuries.",
+      "published_at": "2026-10-02T17:50:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
     {
       "id": "e207cfcbe53fea1f55818650c6868b5e756fea99ebc983aaa4cbdac1896fff7d",
       "title": "Rhun ap Iorwerth yn galw am 'fargen newydd' i Gymru gyda Llywodraeth y DU",
@@ -13,6 +106,18 @@
       ]
     },
     {
+      "id": "82eecb2690daf67cb56f1cc708bc8b48acff190d3169e9cc4fcd2eff417b3aba",
+      "title": "Daniel Thomas in court accused of entering migrant site",
+      "url": "https://www.bbc.co.uk/news/articles/cqd095e5x127o?at_medium=RSS&at_campaign=rss",
+      "description": "Thomas, also known as Danny Tommo, is accused of multiple offences in Dover in the spring.",
+      "published_at": "2026-10-02T17:33:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
       "id": "d7028d9f081c4bd714f039299794125f76f40d1a957fa83069f44f0b524c895b",
       "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
@@ -21,6 +126,17 @@
       "source": "BBC",
       "categories": [
         "Business"
+      ]
+    },
+    {
+      "id": "901186439a47c384515b3286715c439dfc9c3d980159bdb425d777e4e400d1f0",
+      "title": "Man arrested as university buildings cordoned off",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y841mx7yo?at_medium=RSS&at_campaign=rss",
+      "description": "Northumbria Police says it was called out to reports of a suspicious item at Newcastle University.",
+      "published_at": "2026-10-02T17:28:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -195,6 +311,17 @@
       ]
     },
     {
+      "id": "4fd5f13980c0dae2d1551ebce43bb2204f31c90aed7b98eb4dd25c060b21e38c",
+      "title": "Gang behind £30m cash-smuggling operation jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c370l00gyrgdo?at_medium=RSS&at_campaign=rss",
+      "description": "The judge said the cash-smuggling gang 'revelled in spending obscene amounts of money'.",
+      "published_at": "2026-10-02T16:13:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "e87d305cf2ba7f3d23b5edddcd5db0db38568176cc99d217b7c18625591f251f",
       "title": "Is UK politics 'boomer-centric'?",
       "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
@@ -236,7 +363,8 @@
       "published_at": "2026-10-02T16:00:18+00:00",
       "source": "BBC",
       "categories": [
-        "Entertainment & Arts"
+        "Entertainment & Arts",
+        "UK"
       ]
     },
     {
@@ -363,6 +491,17 @@
       ]
     },
     {
+      "id": "b5e28d3f5437f716e4e725b7d109e7d95aeb3a972b39a620242f8ec114df44dc",
+      "title": "'I wanted an ambulance for my 70th - not a spa day'",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj11n280jo?at_medium=RSS&at_campaign=rss",
+      "description": "Sharon Maxted, from Kenilworth, is driving the ambulance, packed with medical supplies, to Ukraine.",
+      "published_at": "2026-10-02T15:26:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "d3204397116b85653482eec9afc67f451358acdc3f0ef9414f79c709501f1e1f",
       "title": "Killer teen who adopted 'gangster personality' jailed",
       "url": "https://www.bbc.co.uk/news/articles/c39w4wwkr75go?at_medium=RSS&at_campaign=rss",
@@ -382,6 +521,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "7565a511a9c759ec0ccadd8a79e3e4726ab2b148d782f37295a085c191db95e2",
+      "title": "Bishop suspended following complaints",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kejj7lxqgo?at_medium=RSS&at_campaign=rss",
+      "description": "The Bishop of Salisbury position covers most of Wiltshire, Dorset and the Channel Islands.",
+      "published_at": "2026-10-02T15:17:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -628,6 +778,17 @@
     },
     {
       "id": "f778f59217724d697c847375be1adbf46d90b91cbc106e0e227ef12c2ae0c91a",
+      "title": "Burglar who attacked pensioner, 79, during 'sustained assault' jailed",
+      "url": "https://www.bbc.co.uk/news/articles/c32l41nr995zo?at_medium=RSS&at_campaign=rss",
+      "description": "The court hears that the elderly man and his wife have been left terrified and have left their home of 45 years following the brutal attack",
+      "published_at": "2026-10-02T14:43:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "2fd45fe0478449594fd4777d7ea5d09fdc6f0d14a5650bc626bb89a397a70193",
       "title": "Burglar who attacked pensioner, 79, during 'sustained assault' jailed",
       "url": "https://www.bbc.co.uk/news/articles/c32l41nr995zo?at_medium=RSS&at_campaign=rss",
       "description": "The court hears that the elderly man and his wife have been left terrified and have left their home of 45 years following the brutal attack",
@@ -997,7 +1158,7 @@
       "id": "d925f174dc09ab22c20fea70c21d560bc9bad94cfffcf5b350dc6980b1166ed7",
       "title": "Polanski calls for 'national fair rent guarantee'",
       "url": "https://www.bbc.co.uk/news/videos/cqlyeg7rx4rjo?at_medium=RSS&at_campaign=rss",
-      "description": "Polanski says we need to tackle the \"scandalous cost of private rents\".",
+      "description": "Polanski says we need to tackle the \"scandalous cost of private rents\" as he speaks at the Green conference.",
       "published_at": "2026-10-02T13:33:57+00:00",
       "source": "BBC",
       "categories": [
@@ -1219,6 +1380,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "8d59a7ba44180e306e66a8110bc01c5df97a72d4d2bd97eb82530c60e8d132dc",
+      "title": "Teddies and flowers left at scene where six-year-old boy died in crash",
+      "url": "https://www.bbc.co.uk/news/articles/cj0464xev5kpo?at_medium=RSS&at_campaign=rss",
+      "description": "An investigation into the circumstances surrounding the incident in Llanfairfechan, Conwy, is ongoing.",
+      "published_at": "2026-10-02T12:44:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
       ]
     },
     {
@@ -2178,6 +2350,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "3bd702d2c0160fed3ab7e6b3c7eb36acacae7c50805bb8689494f12ef5fd8aac",
+      "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
+      "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+      "description": "The star's record label is sued over similarities between her song I've Seen It and Withers' classic.",
+      "published_at": "2026-10-02T09:51:23+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -4498,7 +4681,8 @@
       "published_at": "2026-10-01T23:45:06+00:00",
       "source": "BBC",
       "categories": [
-        "Business"
+        "Business",
+        "UK"
       ]
     },
     {
@@ -5027,7 +5211,7 @@
       "id": "4d3be0f1373840afceddf4ceb9c05f1d080679cea6f45d769fa32fd2bd7e0bd4",
       "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
       "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-      "description": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election.",
+      "description": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay.",
       "published_at": "2026-10-01T22:00:08+00:00",
       "source": "BBC",
       "categories": [
@@ -175397,28 +175581,6 @@
       "source": "France 24",
       "categories": [
         "Africa"
-      ]
-    },
-    {
-      "id": "ccd989ce6bec74e176f25ff415cc1a163dda23cc5d7739207c2326b90d6ba528",
-      "title": "What famous scenes are in the epic Bayeux Tapestry?",
-      "url": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
-      "description": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
-      "published_at": "2026-09-02T18:40:57+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "b0eb7c9a7995a33a0919af81ea8fdfdf67ebc509156a1a6dd94bcf27f73f42af",
-      "title": "Dutch shift 86 tonnes of gold from US and Canada to London, citing ‘geopolitical unrest’",
-      "url": "https://www.scmp.com/news/world/europe/article/3366158/dutch-shift-86-tonnes-gold-us-and-canada-uk-over-geopolitical-unrest?utm_source=rss_feed",
-      "description": "The Dutch central bank said Wednesday it had moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”. The DNB bank said gold reserves held in London could be traded more easily than those held in New York and Ottawa. “This makes it the quickest for DNB to deploy in a crisis situation,” the bank said in a statement. “With this step, we have improved the deployability of the gold reserves. We assume that we will never need to deploy the...",
-      "published_at": "2026-09-02T18:31:29+00:00",
-      "source": "SCMP",
-      "categories": [
-        "World"
       ]
     }
   ]
