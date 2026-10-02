@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-10-02T22:02:41.390025+00:00",
+  "last_updated": "2026-10-02T23:02:13.712608+00:00",
   "articles": [
+    {
+      "id": "ade391903b7871fe48a05c852d88700ac73804cf75ae4c621000a57944428531",
+      "title": "BBC Radio Ulster wins four gold IMRO awards",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9lz8117k3o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Radio Ulster has won four gold awards at the Irish Music Rights Organisation (IMRO) Awards 2026.",
+      "published_at": "2026-10-02T22:56:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "e4ea479b834716b915d7e5ece0a13986be33a81399ce1787f8676347f2605cfd",
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+      "url": "https://www.channelnewsasia.com/business/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-6428346",
+      "description": "",
+      "published_at": "2026-10-02T22:42:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "4f59b192edb16a7f195faf6b8eeada58943c2f20ac8eacfc4639a30f5720e7a3",
+      "title": "Trump expected to name Jay Clayton as AI tsar",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369639/trump-expected-name-jay-clayton-ai-tsar?utm_source=rss_feed",
+      "description": "US ⁠President Donald Trump is expected to name Director of National Intelligence Jay Clayton to be his top adviser on AI, a position the president has called “AI tsar” in ‌the past, according to a source familiar with the decision. Clayton already oversees 18 US intelligence agencies as the nation’s top spy and is expected to keep that role. “Any personnel announcement will be announced directly by the president,” a White ⁠House official said in a statement when asked about Clayton ‌being...",
+      "published_at": "2026-10-02T22:41:49+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d596e07a0cd128f9f7e0bab90531ecb86561d21f5f6ba54534d7cd7cd4f282d8",
+      "title": "US blast simulation targets China’s alleged secret nuclear testing",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+      "description": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies. The US Department of Energy announced on Wednesday that the National Nuclear Security Administration (NNSA) conducted a “subsurface, non-nuclear chemical high-explosive” experiment at the Nevada National Security Site, which it said aimed to “increase the...",
+      "published_at": "2026-10-02T22:38:41+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "748c66c44d3b8b25a9170b6aa14c3a24d768a984d98963e14dbbc06726f7673c",
+      "title": "What's a golden spurtle and why do so  many people want one?",
+      "url": "https://www.bbc.co.uk/news/articles/cqd0800mlnjzo?at_medium=RSS&at_campaign=rss",
+      "description": "The World Porridge Championships are back with the biggest field yet and a fight for the Golden Spurtle.",
+      "published_at": "2026-10-02T22:01:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
     {
       "id": "b332a417d6b3a1a54cb755d380b841bd5eee5131d177bd5c63ec7824215944b7",
       "title": "Plaid aim for new Wales-based FTSE 100 company within 10 years",
@@ -25,6 +83,29 @@
       ]
     },
     {
+      "id": "74844cb9713a700bc736abd9fcc5505395dd9a217f2c4d59785d89143164d02a",
+      "title": "Commentary: Russia’s new jet‑powered drones mark latest evolution in air war above Ukraine",
+      "url": "https://www.channelnewsasia.com/commentary/russia-ukraine-air-war-drone-6426651",
+      "description": "The air war over Ukraine has become more stand-off in nature, say academics.",
+      "published_at": "2026-10-02T22:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "eaa8af93e9ff85f0237d06d497aaad87fa8a4e4ae64a2dfe88963b01e2e70db2",
+      "title": "I scaled up my garage home cinema to a 470-seat movie theatre",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgygr0zxzjo?at_medium=RSS&at_campaign=rss",
+      "description": "Tristan Campbell has been working for two years on his dream to reopen the cinema in Dumfries.",
+      "published_at": "2026-10-02T21:58:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "14d5c448560675fdfccce134a14dcf9e57397cb8965dbd9fd466dbe13654e7d9",
       "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
       "url": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
@@ -42,6 +123,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo?at_medium=RSS&at_campaign=rss",
       "description": "A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination.",
       "published_at": "2026-10-02T21:56:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b9196233a3236008afeda2d001067a330c0b5fa78476b75b3033a247afb95722",
+      "title": "Why thousands of couples are choosing Scotland to say 'I do'",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo?at_medium=RSS&at_campaign=rss",
+      "description": "A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination.",
+      "published_at": "2026-10-02T21:56:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "c20f6c2e4d6bfccc2d1d3270db1ae14b9c5f50581ce773cc6f24923b675fa203",
+      "title": "Steel Queens forge ice hockey history and inspire new generation",
+      "url": "https://www.bbc.co.uk/news/articles/cm158eeknk3vo?at_medium=RSS&at_campaign=rss",
+      "description": "Elite women's ice hockey league is returning to Scotland after more than 30 years.",
+      "published_at": "2026-10-02T21:55:09+00:00",
       "source": "BBC",
       "categories": [
         "Scotland"
@@ -761,6 +864,17 @@
     },
     {
       "id": "af99328ee5c12448d267dc43f62c4310e739bb473db9693a8b1d56b326c67c46",
+      "title": "Companies fined £145k after worker killed at construction site",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqgjd5edqwo?at_medium=RSS&at_campaign=rss",
+      "description": "Father-of-two John Traynor, 41, who worked for IJ Lynn & Sons, was fatally injured on Knockagh Road in January 2022.",
+      "published_at": "2026-10-02T16:08:39+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "952abeec1d3ece30867eafe840fa116ccab52515ee1c1b719cb3ae3cb30efac1",
       "title": "Companies fined £145k after worker killed at construction site",
       "url": "https://www.bbc.co.uk/news/articles/cmpqgjd5edqwo?at_medium=RSS&at_campaign=rss",
       "description": "Father-of-two John Traynor, 41, who worked for IJ Lynn & Sons, was fatally injured on Knockagh Road in January 2022.",
@@ -1682,6 +1796,17 @@
       ]
     },
     {
+      "id": "35e08e9c47fe882d1c4a6733a4090d3c25da374f062b0811cec221aeafd18aef",
+      "title": "Waverley paddle steamer marks 80th anniversary since launch",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9dd4n9xlo?at_medium=RSS&at_campaign=rss",
+      "description": "The Waverley passed through London's Tower Bridge as part of the anniversary voyage on the Thames.",
+      "published_at": "2026-10-02T13:33:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "5bf79ff18140038b7da0bbd88b1697d46ebc7ad00d069050d1b3a3b437825ec4",
       "title": "Livestream shopping is fun and frictionless, but are there enough consumer safeguards?",
       "url": "https://www.channelnewsasia.com/cna-insider/big-read/livestream-shopping-risks-scams-consumer-protection-6423761",
@@ -2561,6 +2686,17 @@
       ]
     },
     {
+      "id": "b37125f7cb9b2278f588de9f2b1129f5aa9d741e6e801ef02c99b4c4102cb247",
+      "title": "Your pictures of Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyey1rygpyo?at_medium=RSS&at_campaign=rss",
+      "description": "A selection of photographs submitted to BBC Scotland News from around the country this week.",
+      "published_at": "2026-10-02T10:52:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "c61dd3c442f5c3ac2787a88332dc6acf8a508b579c851a37ef6fd38ee82e372c",
       "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
       "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
@@ -2568,6 +2704,7 @@
       "published_at": "2026-10-02T10:47:07+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -2626,6 +2763,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "39695b5782c6ddcc7bca38e3b333e34ea277f3da5bef82263b4fed110a4cd3b7",
+      "title": "HPV9 vaccine, or Gardasil 9, to be added to national immunisation schedules from January 2027",
+      "url": "https://www.channelnewsasia.com/singapore/hpv-vaccine-gardasil-9-subsidies-6426516",
+      "description": "The HPV9 vaccine, which offers broader protection against cervical cancer than HPV2, will be fully subsidised for eligible Singaporean children.",
+      "published_at": "2026-10-02T10:36:00+00:00",
+      "source": "CNA",
+      "categories": [
         "Singapore"
       ]
     },
@@ -3693,6 +3841,17 @@
     },
     {
       "id": "611583f42f7acebe0350cfb3d716b05e7b6578c6d3e68662f8002c2c9c4a87d0",
+      "title": "Teenager killed in Fraserburgh motorbike crash",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ymyny9yyjo?at_medium=RSS&at_campaign=rss",
+      "description": "The 18-year-old rider died in a collision between his motorbike and a VW Transporter in Fraserburgh.",
+      "published_at": "2026-10-02T07:27:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "1f7993c2dcb1b7a668cce78ae849e8464c78659ddf47b00e635cce6a2ac32ed5",
       "title": "Teenager killed in Fraserburgh motorbike crash",
       "url": "https://www.bbc.co.uk/news/articles/cw5ymyny9yyjo?at_medium=RSS&at_campaign=rss",
       "description": "The 18-year-old rider died in a collision between his motorbike and a VW Transporter in Fraserburgh.",
@@ -175988,17 +176147,6 @@
       "url": "https://www.scmp.com/news/china/diplomacy/article/3366162/trump-calls-xis-washington-visit-exciting-claims-us-leads-china-ai-race?utm_source=rss_feed",
       "description": "US President Donald Trump claimed on Wednesday that the US held a significant lead over China in artificial intelligence, touted what he termed unprecedented levels of inbound US investment and said he was thrilled about Chinese President Xi Jinping’s visit to Washington later this month. The president’s bravado comes as inflation and oil prices rise, his war of choice with Iran drags on and his polling numbers hit new lows ahead of the US midterm elections in November. “AI is going up, and...",
       "published_at": "2026-09-02T23:13:30+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China"
-      ]
-    },
-    {
-      "id": "2ccc9d3c5cc264a8bacb4750761cb606689f76a176dd17aeebc1a9de6905bd88",
-      "title": "US lawmakers target China, birth tourism as citizenship fight intensifies",
-      "url": "https://www.scmp.com/news/us/politics/article/3366161/us-lawmakers-target-china-birth-tourism-citizenship-fight-intensifies?utm_source=rss_feed",
-      "description": "US lawmakers targeted China and birth tourism on Wednesday for the second time this week during hearings on birthright citizenship, a constitutional right upheld by the Supreme Court in June but still under challenge from the Trump administration.. “The demand for US citizenship for the children of Chinese nationals has led to unscrupulous companies assisting these individuals for profit,” said Chip Roy, a Republican from Texas. Wednesday’s Judiciary hearing was called to review June’s Supreme...",
-      "published_at": "2026-09-02T22:18:42+00:00",
       "source": "SCMP",
       "categories": [
         "China"
