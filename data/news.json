@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-10-02T00:03:42.118788+00:00",
+  "last_updated": "2026-10-02T01:05:15.264356+00:00",
   "articles": [
+    {
+      "id": "405f198589f4bc946f23fd6ed2b0f9803bfa5e0a114a7ed0f3897ba8ef76bf8c",
+      "title": "Saudi coalition accuses Houthis of drone attack on Madinah",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-attack-madinah-6425761",
+      "description": "",
+      "published_at": "2026-10-02T01:01:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "3f8db6de9040be16e44aac8036d65b4acabbccf62b10ecb141150dbb234b2762",
+      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "published_at": "2026-10-02T01:01:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "7bb27d6dfd32166623110c04c156dbfb1ea2e8402ac6de81fea71f8e164591fb",
+      "title": "Online claims revive mercury mystery around tomb of first Chinese emperor",
+      "url": "https://www.scmp.com/news/china/science/article/3369469/online-claims-revive-mercury-mystery-around-tomb-first-chinese-emperor?utm_source=rss_feed",
+      "description": "Online claims that archaeologists have identified the source of mercury in the mausoleum of Qin Shi Huang – China’s first emperor, who unified the country more than 2,000 years ago – have revived interest in ancient cinnabar sites in northwestern China’s Shaanxi province. The claims, which sent related hashtags trending on social media late last month, centred on three sites in Xunyang where archaeologists last year found evidence of cinnabar mining, processing and transport during the pre-Qin...",
+      "published_at": "2026-10-02T01:00:07+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "ae141e03bd463c142fd293c0cfd35a29ad05393d5af78bcffd96a797b771f356",
+      "title": "OpenAI says three staffers fired for mishandling 'sensitive' information",
+      "url": "https://www.channelnewsasia.com/business/openai-fires-employees-mishandling-sensitive-infomation-6425721",
+      "description": "",
+      "published_at": "2026-10-02T00:13:11+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News",
+        "World"
+      ]
+    },
     {
       "id": "47f4868900a89aac25dad187c1b2ae6b0180b7104b49904c9334e99b9b3784c1",
       "title": "Philippines’ jeepney drivers ‘stuck between a rock and a hard place’ despite fare increase",
@@ -76,6 +124,18 @@
       "id": "69a00f743c749f4107a301f2709040d36d7b0818e088638282ffdf82b3f36477",
       "title": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
       "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-jumps-in-september-bolsters-case-more-boj-hikes-6425676",
+      "description": "",
+      "published_at": "2026-10-01T23:45:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "5f23bcf683e808674e0a008c5a28cdafe6d91c82e2b916262a206281d6e85b31",
+      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+      "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-rate-jumps-in-september-bolsters-case-more-boj-hikes-6425676",
       "description": "",
       "published_at": "2026-10-01T23:45:00+00:00",
       "source": "CNA",
@@ -449,6 +509,7 @@
       "published_at": "2026-10-01T22:00:08+00:00",
       "source": "BBC",
       "categories": [
+        "UK",
         "Wales"
       ]
     },
@@ -776,6 +837,17 @@
       "source": "BBC",
       "categories": [
         "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "1490259f7f0700b8dd7cad2852219e2e126480fd973bec0fa09b448c45b96e7c",
+      "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
+      "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
+      "description": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
+      "published_at": "2026-10-01T20:18:06+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -1924,7 +1996,8 @@
       "published_at": "2026-10-01T15:18:22+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "UK"
       ]
     },
     {
@@ -3863,7 +3936,8 @@
       "published_at": "2026-10-01T09:56:15+00:00",
       "source": "BBC",
       "categories": [
-        "Northern Ireland"
+        "Northern Ireland",
+        "UK"
       ]
     },
     {
@@ -171569,17 +171643,6 @@
       "source": "BBC",
       "categories": [
         "Politics"
-      ]
-    },
-    {
-      "id": "0b33be5923dd6a3f09c2131f5eb569a41c3349f6ce289cc8c249afd25abe974a",
-      "title": "Tanker, transporter, controller: China’s Y-20 family expands its Pacific reach",
-      "url": "https://www.scmp.com/news/china/military/article/3365357/tanker-transporter-controller-chinas-y-20-family-expands-its-pacific-reach?utm_source=rss_feed",
-      "description": "When six Chinese heavy transport planes entered European airspace in April 2022, it was not just their cargo that drew international attention. Bound for Serbia, the Y-20 aircraft had flown thousands of kilometres from China carrying components of the Chinese-made FK-3 surface-to-air missile system. A second wave of six aircraft followed, bringing the operation to 12 sorties in what was then China’s biggest overseas airlift involving the strategic cargo plane. Coming just weeks after Russia...",
-      "published_at": "2026-09-02T01:00:09+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China"
       ]
     }
   ]
