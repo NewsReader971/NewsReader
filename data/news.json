@@ -1,6 +1,484 @@
 {
-  "last_updated": "2026-10-03T12:48:42.979123+00:00",
+  "last_updated": "2026-10-03T16:50:11.666000+00:00",
   "articles": [
+    {
+      "id": "2ab2d9a0d1349e9bfe9c99f7d0d1ea14bd9f241204fdaf15fe7f11c04dd0e199",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
+      "published_at": "2026-10-03T16:48:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "1177a3e3c1a973f02d9caf535cad57c62a8d33188782c9f9609b26306cc60a9c",
+      "title": "Man shot dead as children gather for memorial",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "description": "The 40-year-old died at scene in west London from a gunshot wound, the Met Police said.",
+      "published_at": "2026-10-03T16:40:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "01fbb5f2cee68ebb2d24c011dc43ac9d012e8fdfcf18a32e53ec22cfe13da6f5",
+      "title": "Huge crowds turn out in support of residents over Drumcree parade dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dywn1nnvo?at_medium=RSS&at_campaign=rss",
+      "description": "A rally in support of the Orange Order is also being held in the Edgarstown area of Portadown on Saturday.",
+      "published_at": "2026-10-03T16:40:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "bde0dc92115bbc21471f8cfa24f7341c9782bdedcd62f09979ba28eb67dc61de",
+      "title": "Huge crowds turn out in support of residents over Drumcree parade dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dywn1nnvo?at_medium=RSS&at_campaign=rss",
+      "description": "A rally in support of the Orange Order is also being held in the Edgarstown area of Portadown on Saturday.",
+      "published_at": "2026-10-03T16:40:22+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "05f6c2b4f0a58dda52adfef4dbea7d831eb2867328e6140d34755c4875636da8",
+      "title": "Protests over housing flare in Spain after relief measures rejected",
+      "url": "https://www.channelnewsasia.com/world/protests-over-housing-flare-in-spain-after-relief-measures-rejected-6429581",
+      "description": "Spain housing protests swell after lawmakers reject tenant relief, with 70,000 to 500,000 marching as anger over soaring rents deepens.",
+      "published_at": "2026-10-03T16:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "1cb1c3bfd13f5de7b8b80a534412f94f0b8374e09bc597b4368a8f916a56d752",
+      "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
+      "published_at": "2026-10-03T16:24:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "d78136af3aaffc2c49ae07a27b0f07e8594dfe8b4b91049d94588d2513bae064",
+      "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
+      "published_at": "2026-10-03T16:24:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0ef4a112b150c201124cc791ddf3ef64c08e8eb1b53112afcb124540bd7dd7ac",
+      "title": "Brazil tame India in 4-0 friendly win",
+      "url": "https://www.channelnewsasia.com/sport/brazil-tame-india-in-4-0-friendly-win-6429591",
+      "description": "",
+      "published_at": "2026-10-03T16:18:55+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "a35e18cb83996e64da61f73034aa32d83db434cf1e3af4e1688fa04965305ad3",
+      "title": "Group has 'exploded' after Wales win - Bellamy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgewx77521o?at_medium=RSS&at_campaign=rss",
+      "description": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday.",
+      "published_at": "2026-10-03T16:11:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "a67102b8f7c0c9e49fc14243a8fd853936469d6c4ad437c1b7a20feb66e833b5",
+      "title": "Connah's Quay end Penybont's run as TNS hit nine",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6je522399xpo?at_medium=RSS&at_campaign=rss",
+      "description": "Penybont's unbeaten start to the season is ended by Connah's Quay Nomads, who replace them in second spot.",
+      "published_at": "2026-10-03T16:08:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7abfd93920c6254c6c61642826dfd3aa03a42e99d826ccbfd5bcc431b31df3e1",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "published_at": "2026-10-03T15:56:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "cdb6da1653f6ca86c436cb495e44eca4fd370933417fa87035878080a2931748",
+      "title": "Netherlands coach Xavi joins critics of new-look international window",
+      "url": "https://www.channelnewsasia.com/sport/netherlands-coach-xavi-joins-critics-new-look-international-window-6429556",
+      "description": "",
+      "published_at": "2026-10-03T15:42:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "a92991c77892f817d6195c393ad41db9b8252f2cbada572f79d73d95475af5b0",
+      "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
+      "url": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
+      "description": "France’s decision to share defence documents with the Italian judiciary has raised hopes of a breakthrough in investigations into the 1980 crash of a passenger jet near the island of Ustica, which a former Italian president claimed was mistakenly shot down by a French fighter jet. Sceptics caution that the files are unlikely to shed light on one of Italy’s most enduring mysteries, let alone reveal a culprit.",
+      "published_at": "2026-10-03T15:42:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "46e45fa9942b14f1bcd98cca4deb4d79a6fcea7f5720bce135b579a4136ceb35",
+      "title": "Watch the moment a landslip leaves Skye drivers facing a 40-mile diversion",
+      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
+      "description": "Highland Council says the A855 in the north of the island will have to remain closed over the weekend.",
+      "published_at": "2026-10-03T15:41:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "948769f7ec34d3e54673f52e95a1b3a8bbc2246886f92bcc3c8bd9418ca6497f",
+      "title": "Watch the moment a landslip leaves Skye drivers facing a 40-mile diversion",
+      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
+      "description": "Highland Council says the A855 in the north of the island will have to remain closed over the weekend.",
+      "published_at": "2026-10-03T15:41:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b994ac216a5ff44a8bfc54250ad2f67d13b635c0206fd705cc38a802dfa8c828",
+      "title": "Watch the moment a landslip leaves Skye drivers facing a 40-mile diversion",
+      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
+      "description": "Highland Council says the A855 in the north of the island will have to remain closed over the weekend.",
+      "published_at": "2026-10-03T15:41:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f59dcda9f5585034c3463c7f59ca6d2329c82d1bfe6a319d513328c4351cd3cc",
+      "title": "Youth charged after shopping centre attack leaves teenager in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1dq9q50xo?at_medium=RSS&at_campaign=rss",
+      "description": "The assault in the St Enoch Centre came just days after dispersal zone powers to crack down on anti-social behaviour were extended.",
+      "published_at": "2026-10-03T15:28:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "af7d65f357f65c7d02e9be405d8008da21cb70513a54d925b3959e50f207b0f2",
+      "title": "Youth charged after shopping centre attack leaves teenager in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1dq9q50xo?at_medium=RSS&at_campaign=rss",
+      "description": "The assault in the St Enoch Centre came just days after dispersal zone powers to crack down on anti-social behaviour were extended.",
+      "published_at": "2026-10-03T15:28:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c3e6a8fdb52a16e8443c6f364205185faef6bd68ba3caf137f444967c0c7a5dc",
+      "title": "Youth charged after shopping centre attack leaves teenager in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1dq9q50xo?at_medium=RSS&at_campaign=rss",
+      "description": "The assault in the St Enoch Centre came just days after dispersal zone powers to crack down on anti-social behaviour were extended.",
+      "published_at": "2026-10-03T15:28:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "62bf7ce314cf180f825f71b1c2ad381048fc70d641b2e4d29bf22e111276bf8c",
+      "title": "Air quality back to moderate across Singapore after central region hits unhealthy range",
+      "url": "https://www.channelnewsasia.com/singapore/haze-moderate-air-quality-central-region-6429496",
+      "description": "There remains a risk of smoke haze affecting Singapore, with the 24-hour PSI forecast to be in the high-moderate to low-unhealthy range, the National Environment Agency said on Saturday.",
+      "published_at": "2026-10-03T15:16:26+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "24a4b0e891e395c4bbe9eb550b8a4d42015f6106117e5c78ac712b5165528fac",
+      "title": "Police appeal to help find heavily pregnant woman",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv4k7kvl9o?at_medium=RSS&at_campaign=rss",
+      "description": "Leicestershire Police say they are \"extremely concerned\" for Charlie Ryan's welfare.",
+      "published_at": "2026-10-03T15:11:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "3e0c0f3934ddd97e00ca42b52f7ac8b8d30793e7ae130ef12c7335b703ca3785",
+      "title": "Noel Gallagher limited edition guitar sells at auction",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o?at_medium=RSS&at_campaign=rss",
+      "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
+      "published_at": "2026-10-03T14:45:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4f066a577c5596c764551a06d161495cfdb82bd5a06678d037ae5e997902dde6",
+      "title": "Noel Gallagher guitar sells for £12,000 at auction",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o?at_medium=RSS&at_campaign=rss",
+      "description": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
+      "published_at": "2026-10-03T14:45:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "97f2dbfad868894041b73ede800e044824870ef77816b2399e072aa815f9c670",
+      "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
+      "description": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “highly concerned about the incident” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it...",
+      "published_at": "2026-10-03T14:35:43+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "7b388eee45e85e7bc5d7b7b204b8839db4a719fa16fd155b880c138312a812ae",
+      "title": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+      "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
+      "description": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital, which is controlled by the Iran-backed group. In Saudi Arabia, flames and a large plume of smoke were seen rising from a facility belonging to oil giant Aramco south of the kingdom's capital, Riyadh.",
+      "published_at": "2026-10-03T14:31:30+00:00",
+      "source": "France 24",
+      "categories": [
+        "Middle East",
+        "World"
+      ]
+    },
+    {
+      "id": "5ebd406177ed4bf1eb2fe808c377adbb9f55b4747f3317008cd5ef4244f19704",
+      "title": "Tories pledge to build 50,000 new prison places",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+      "description": "The party says its proposals would stop prisoners being released early and cut crime.",
+      "published_at": "2026-10-03T14:17:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "0f71c252716bc3b1997083a630dcafbb0e1cd7dd91c18e48f5de4974cc595684",
+      "title": "Chinese art takes long march home from US museums",
+      "url": "https://www.scmp.com/news/china/article/3369654/chinese-art-takes-long-march-home-us-museums?utm_source=rss_feed",
+      "description": "Christie’s auctioneer Rupert Banner leans forward with practised showmanship as bidding stalls on a rare Yongzheng bowl near New York’s iconic Rockefeller Centre. He pauses as if willing offers from thin air, scanning dozens of in-person buyers and phone banks connecting with China, London, Texas. It will be a bad look if the frenzy abates for this delicate peach-decorated bowl highlighted on Christie’s glossy Chinese sale catalogue and online advertising. But bidding soon resumes with a...",
+      "published_at": "2026-10-03T14:00:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "b03dd0c6eae5f8a93dcd1f5395ff8fb69e99b3c730e785db27056157cd244eea",
+      "title": "Flames, smoke seen at Aramco facility south of Saudi capital",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3369667/flames-smoke-seen-aramco-facility-south-saudi-capital?utm_source=rss_feed",
+      "description": "Flames and smoke were seen rising from a facility belonging to Saudi oil giant Aramco south of the kingdom’s capital Riyadh on Saturday, an AFP journalist said. The circumstances remained unclear but in recent weeks Aramco, majority-owned by the Saudi state, has come under attack from the Houthi group targeting the kingdom as part of the war in Yemen where Riyadh is backing the internationally recognised government. Aramco remains the flagship company of the Saudi economy and one of the largest...",
+      "published_at": "2026-10-03T13:57:44+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d5329e62215522d4aef2ce0a61294156f5c8cd6cbb47aef05a61b198d5494f77",
+      "title": "Why has Brazil accused the US of election interference?",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "published_at": "2026-10-03T13:52:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f7054c02580c4565237275b0b87ca28120c6f857213cdea9b4a387bc3a8b78b7",
+      "title": "Singapore’s sailors conclude Asian Games campaign with three silvers, one bronze",
+      "url": "https://www.channelnewsasia.com/sport/singapore-sailing-asian-games-silver-bronze-6429336",
+      "description": "This marks the first Games in 24 years where the sailors have gone without a gold.",
+      "published_at": "2026-10-03T13:50:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "761ce174efc44072b06167829dc771f844da9da97eec5ca1e6de86ece6d55a6c",
+      "title": "US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan for first time",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369666/us-deploy-nmesis-anti-ship-system-japanese-island-closest-taiwan-first-time?utm_source=rss_feed",
+      "description": "The US is set to deploy one of its signature anti-ship missile systems to the Japanese island closest to Taiwan, an unprecedented move that comes as tensions in the region between Beijing and Tokyo continue to simmer. The ground-based US uncrewed missile platform known as the Navy-Marine Expeditionary Ship Interdiction System (NMESIS) will be deployed on Yonaguni Island in Japan’s Okinawa prefecture during biennial joint exercises this month, according to the regional bureau of the Japanese...",
+      "published_at": "2026-10-03T13:45:24+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "cfd36739758dffb4c3a41edf961ec3874ecae322a4190014916ef9bd88e0e600",
+      "title": "Why Chronos Chan puts seaweed, soy sauce and Sichuan pepper in gelato – and what drives his unusual creations",
+      "url": "https://www.channelnewsasia.com/cna-insider/up-close/gelato-toms-palette-ice-cream-maker-chronos-chan-6419081",
+      "description": "The 51-year-old former engineer first took up gelato-making more than 20 years ago as a side hustle. It has since become a lifelong passion, one that he continues to pursue through teaching and his home-based business, Ethos Gelato Lab.",
+      "published_at": "2026-10-03T13:30:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6e109b77768919421525b6105901d0c9c55a85a2ca08025257e8cf24259182c0",
+      "title": "What I learnt from starting my first business at age 11",
+      "url": "https://www.channelnewsasia.com/cna-insider/voices/first-business-age-11-young-entrepreneur-6418291",
+      "description": "For Hannah Mia Neo Labude, a love of craft-making has led to lessons in running her own business while in school, collaborating with partners and helping causes close to her heart.",
+      "published_at": "2026-10-03T13:30:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "46748e84c13d8de7cbc7d417e2496ee1a711759da91793c51f3444bbdd6f9937",
+      "title": "Police name two men who died in workplace incident near rural road",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy75k3xd1lo?at_medium=RSS&at_campaign=rss",
+      "description": "It happened on the Ballygowan Road in Crossnacreevy at about 10:45 BST on Friday.",
+      "published_at": "2026-10-03T13:27:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "cba8f186234babe6332bd9d5395121143f48212ff33cae0b9f08133ad3262572",
+      "title": "Alison Hammond returns home from hospital after rushing off This Morning",
+      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss",
+      "description": "The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
+      "published_at": "2026-10-03T13:21:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "fadbc227b8c30176a9801cbe8992afb78ad05e7d05e522e38077e252d66ce20f",
+      "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+      "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+      "description": "Tens of thousands of protesters marched in Madrid and other cities in Spain on Saturday to demand affordable housing, fuelled by anger at lawmakers who narrowly rejected measures put forward by the government of Prime Minister Pedro Sanchez to strengthen protection for tenants.",
+      "published_at": "2026-10-03T13:20:35+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "8cf54e16602c713d8b4219805158c389de9e98f736f9e3533a8e8aedff62e8fa",
+      "title": "Police searching for mum of baby girl found on shoreline tell her not to be afraid to call",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dzpq2zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Police searching for the mother of a newborn girl whose body was found urge her to contact them.",
+      "published_at": "2026-10-03T13:12:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "468a72ef46c5a3da3cf89ba34cfce0d08bece5ce43914614c1fff317d1bb5abd",
+      "title": "Police searching for mum of baby girl found on shoreline tell her not to be afraid to call",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dzpq2zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Police searching for the mother of a newborn girl whose body was found urge her to contact them.",
+      "published_at": "2026-10-03T13:12:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6e99e68015c1b5607d6d44438997f1b06a9b45e724fd531636b86e6da3803a4a",
+      "title": "Republic of Ireland news conference ends abruptly amid accusations",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
+      "description": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
+      "published_at": "2026-10-03T13:02:11+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "e625abf7e9c01df1932c64aa23fca926586f0bc15600a799cc25bd5dfa492947",
+      "title": "How US-China RISC-V collaboration is deepening despite chip rivalry",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3369590/how-us-china-risc-v-collaboration-deepening-despite-chip-rivalry?utm_source=rss_feed",
+      "description": "As global adoption of the open-source RISC-V chip architecture accelerates, US intellectual property provider MIPS is collaborating with Chinese firms at an unprecedented level, according to a senior executive, highlighting how cross-border cooperation persists despite intense tech rivalry between Washington and Beijing. MIPS, which was acquired by US chipmaker GlobalFoundries last year, was driving RISC-V standardisation “very closely with China”, chief technology officer Yankin Tanurhan said...",
+      "published_at": "2026-10-03T13:00:16+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "f50c92611f6b21d7332a5916412126cbbc60f370479d7406b7d47a91a1380c7f",
+      "title": "Indian police detain several people in Gen Z-led protests against voter roll changes",
+      "url": "https://www.channelnewsasia.com/asia/india-police-detain-gen-z-cockroach-janta-party-protesters-6429291",
+      "description": "About 100 demonstrators removed security barricades before police forcibly detained some of them.",
+      "published_at": "2026-10-03T12:57:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "066c568d765b17ad80cfbd0598bb02a1efc0a199924c4751dbdc6ecb08cffcab",
+      "title": "Greens would offer two-year jobs to unemployed under-24s",
+      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+      "description": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
+      "published_at": "2026-10-03T12:51:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics",
+        "UK"
+      ]
+    },
     {
       "id": "31dff98b9af8fe02583e2f69750caced72effc91c669a7ac17a69d2971a46f4c",
       "title": "Woodlands project records more trees than expected",
@@ -119,6 +597,18 @@
       "id": "126d4b45369cfd7fdcfde8806a45f2dc82c5f5ce80436f84979b6eb5a07b69ab",
       "title": "Hallgrimsson hopes Irish bonds will be stronger after tough period",
       "url": "https://www.channelnewsasia.com/sport/hallgrimsson-hopes-irish-bonds-will-be-stronger-after-tough-period-6429176",
+      "description": "",
+      "published_at": "2026-10-03T11:35:06+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "9b142fe77cbcf4cb0c9a9c340da37b8b2edb78dfd7483d2943327dd692ec7a25",
+      "title": "Ireland coach Hallgrimsson hopes squad bonds will be stronger after tough period",
+      "url": "https://www.channelnewsasia.com/sport/ireland-coach-hallgrimsson-hopes-squad-bonds-will-be-stronger-after-tough-period-6429176",
       "description": "",
       "published_at": "2026-10-03T11:35:06+00:00",
       "source": "CNA",
@@ -248,7 +738,8 @@
       "published_at": "2026-10-03T10:58:51+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -296,6 +787,17 @@
       ]
     },
     {
+      "id": "4003c473461a908bc431c8a2416863f45e1b077cfbf3c03aca0ede24d3bcd1ec",
+      "title": "Derelict 'church in the woods' sold at auction",
+      "url": "https://www.bbc.co.uk/news/articles/cxe8788j2681o?at_medium=RSS&at_campaign=rss",
+      "description": "St Mary's In The Wood United Reformed Church on Commercial Street in Morley sells for £100,000.",
+      "published_at": "2026-10-03T10:32:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "dde2a0512fbd181b23f07f0d45a653b8b66c3b5bd14f858536f2cb926401ac31",
       "title": "Animals bring budding artists out of their shells",
       "url": "https://www.bbc.co.uk/news/articles/cwgk5l3pzzd7o?at_medium=RSS&at_campaign=rss",
@@ -314,6 +816,7 @@
       "published_at": "2026-10-03T10:27:57+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -479,6 +982,17 @@
       ]
     },
     {
+      "id": "53caa761a43fedab9eb259ddbc6b0673b2beb6813418e6a27da520c10663de55",
+      "title": "Trains cancelled after bedbugs found on board",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqwyp4n12o?at_medium=RSS&at_campaign=rss",
+      "description": "Southeastern said the insects were discovered in drivers' cabs, with the trains removed for cleaning.",
+      "published_at": "2026-10-03T09:20:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "74eb6b65809292d4869cc456e7a5c3790f35c1e30fa37288b190dfd8a16dbf53",
       "title": "Boy, 6, who died in van crash was 'loved more deeply than words could ever express'",
       "url": "https://www.bbc.co.uk/news/articles/cr86zl7z50ppo?at_medium=RSS&at_campaign=rss",
@@ -488,6 +1002,17 @@
       "categories": [
         "UK",
         "Wales"
+      ]
+    },
+    {
+      "id": "3336c69075ce219b62b6ce47d87e5136ee0418f3ece007d76cb02707251772c4",
+      "title": "Boy, 6, who died in van crash was 'loved more deeply than words could ever express'",
+      "url": "https://www.bbc.co.uk/news/articles/cr86zl7z50ppo?at_medium=RSS&at_campaign=rss",
+      "description": "Harrison Jones was killed after being struck by a Ford Transit Tipper outside his home in Llanfairfechan.",
+      "published_at": "2026-10-03T09:16:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -561,6 +1086,17 @@
     },
     {
       "id": "ac0261644ad02068a7a62bb5d73944ccd5d6e0d3f9296ec6d7da80c5bb8877e7",
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "published_at": "2026-10-03T08:51:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "0a7c88de1db79c185cc06ff176eecf59d3ba3806b7fc86c219d9277e002caef9",
       "title": "Kim wins Asian Games gold to secure military exemption",
       "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
       "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
@@ -874,6 +1410,17 @@
       ]
     },
     {
+      "id": "316f5fee11b08cdf3d56346c035c04dd2e38fb8e88170b293a8ceb397ef99e94",
+      "title": "'They didn't see it coming' - what does it take to be a traitor?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z2ekjr7go?at_medium=RSS&at_campaign=rss",
+      "description": "With the return of the new series of the BBC's Traitors, Minah Shannon opens up about her experience.",
+      "published_at": "2026-10-03T06:21:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "acdcfabd9a9524bd5755090bfab39f4a9eceb67e9f36e1475f9ddbb2acbcbebe",
       "title": "Co-pilot on Flydubai flight was banned from flying by Oman for holding extremist views",
       "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
@@ -1010,6 +1557,17 @@
       ]
     },
     {
+      "id": "1b193a9c333bdc6a2e4a51424226432ac97ca7ba4231504c5e30be2951bce250",
+      "title": "Man desperate to find teen he saved 30 years ago",
+      "url": "https://www.bbc.co.uk/news/articles/c6rr4yvy1g5ro?at_medium=RSS&at_campaign=rss",
+      "description": "Lee Heyes says he was 15 when he jumped in Eccleston Delph to rescue a teenager from drowning.",
+      "published_at": "2026-10-03T06:03:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "62628cedc304b1f00184c40836e0bd9707c3123165f673fe8f3c128db250c18f",
       "title": "The rapist priest who abused his 'cult-like' congregation",
       "url": "https://www.bbc.co.uk/news/articles/ck1wv7nlg7rwo?at_medium=RSS&at_campaign=rss",
@@ -1022,6 +1580,18 @@
     },
     {
       "id": "06287ebba2453d8b8209d80efb469b1c8d3043be43fad8a0c13d4297d29ad11b",
+      "title": "How rapist priest exploited charisma to abuse his 'cult-like' congregation",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wv7nlg7rwo?at_medium=RSS&at_campaign=rss",
+      "description": "Chris Brain, who led nightclub-style services in the 1980s and 90s, is convicted of rape.",
+      "published_at": "2026-10-03T06:01:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "5892f0d5039b1476cd9d2dec4fbd4640b40d7a48daa9cb62e97313ffa1934ba5",
       "title": "How rapist priest exploited charisma to abuse his 'cult-like' congregation",
       "url": "https://www.bbc.co.uk/news/articles/ck1wv7nlg7rwo?at_medium=RSS&at_campaign=rss",
       "description": "Chris Brain, who led nightclub-style services in the 1980s and 90s, is convicted of rape.",
@@ -1092,7 +1662,7 @@
       "id": "277d397a01824044c8afcf6d4836b8e1a79e9067d801c9d98444fc7abfd1a795",
       "title": "Plaid Cymru yn anelu at gwmni Cymreig newydd ar restr FTSE 100 o fewn degawd",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6x2w8j4qry4o?at_medium=RSS&at_campaign=rss",
-      "description": "Mae Adam Price yn disgwyl cyhoeddi targed o greu 500 o gwmnïau twf uchel yng Nghymru yn ystod y degawd nesaf.",
+      "description": "Mae Liz Saville Roberts wedi dweud y byddai hi'n croesawu unrhyw ymrwymiad gan Andy Burnham i ail-ymuno gyda'r UE.",
       "published_at": "2026-10-03T05:58:01+00:00",
       "source": "BBC",
       "categories": [
@@ -1190,6 +1760,17 @@
     },
     {
       "id": "51892b3b2d0cfbf2e8595d6b76b8d4cb7290015f441b7cfa9673101ae5e4c773",
+      "title": "An uneasy peace – how a week of the Drumcree parade dispute has unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/cmd949987d9yo?at_medium=RSS&at_campaign=rss",
+      "description": "Sometimes in Northern Ireland, the definition of success is \"nobody got hurt,\" writes BBC News NI's community correspondent.",
+      "published_at": "2026-10-03T05:24:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "deae3ebbf33b2db07a15eb6361b748a06bef98c52ced652307b34823d79921d7",
       "title": "An uneasy peace – how a week of the Drumcree parade dispute has unfolded",
       "url": "https://www.bbc.co.uk/news/articles/cmd949987d9yo?at_medium=RSS&at_campaign=rss",
       "description": "Sometimes in Northern Ireland, the definition of success is \"nobody got hurt,\" writes BBC News NI's community correspondent.",
@@ -1908,7 +2489,7 @@
       "id": "b332a417d6b3a1a54cb755d380b841bd5eee5131d177bd5c63ec7824215944b7",
       "title": "Plaid aim for new Wales-based FTSE 100 company within 10 years",
       "url": "https://www.bbc.co.uk/news/articles/ck7vp53g6z10o?at_medium=RSS&at_campaign=rss",
-      "description": "There is currently only one company on the FTSE 100 index with a headquarters in Wales.",
+      "description": "Liz Saville Roberts says prime minister should not wait for general election to show \"leadership\" on EU.",
       "published_at": "2026-10-02T22:00:17+00:00",
       "source": "BBC",
       "categories": [
@@ -2004,6 +2585,7 @@
       "published_at": "2026-10-02T21:55:09+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -2355,6 +2937,7 @@
       "published_at": "2026-10-02T19:34:10+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -2513,6 +3096,17 @@
     },
     {
       "id": "d094073a6dabc712c9e2427f9bb93618b316d21f7befb87d868aad57559651b6",
+      "title": "Jealous husband who strangled wife in bed given life sentence",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygg8wn0ko?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Davies, 58, was found guilty of murdering Tracey Davies at their home in Cefn Cribwr.",
+      "published_at": "2026-10-02T18:10:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e97ca6a3e3459ace2f6440f73fffa926933da8ae0e2963157eac9aad12b3c408",
       "title": "Jealous husband who strangled wife in bed given life sentence",
       "url": "https://www.bbc.co.uk/news/articles/c3vgygg8wn0ko?at_medium=RSS&at_campaign=rss",
       "description": "Michael Davies, 58, was found guilty of murdering Tracey Davies at their home in Cefn Cribwr.",
@@ -2881,6 +3475,17 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0pdgxg9?at_medium=RSS&at_campaign=rss",
       "description": "The former First Minister on getting his in-laws out of a warzone.",
       "published_at": "2026-10-02T16:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "26942de100bae736d9fe67d4b9309db329fe0af4355e040e1fd64bb1a29ca2f9",
+      "title": "Grangemouth firm took £1m of public money months before closure announcement",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdgnykj8vo?at_medium=RSS&at_campaign=rss",
+      "description": "Syngenta says it will pay back the Scottish Enterprise funding in full if operations cease at its Grangemouth site.",
+      "published_at": "2026-10-02T15:59:31+00:00",
       "source": "BBC",
       "categories": [
         "Scotland"
@@ -4452,6 +5057,7 @@
       "published_at": "2026-10-02T11:50:36+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "UK"
       ]
     },
@@ -7321,6 +7927,7 @@
       "published_at": "2026-10-02T00:50:49+00:00",
       "source": "BBC",
       "categories": [
+        "Politics",
         "UK"
       ]
     },
@@ -9642,6 +10249,17 @@
     },
     {
       "id": "d101aff006abc90fd52d3aab321382e4ab9d4511aa1d96f02c510b56bfd4ec36",
+      "title": "Lib Dem MPs criticise Davey over pension triple lock response",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
+      "description": "Sir Ed questioned the PM's plans to change the triple lock, telling the BBC removing it \"would put more pensioners into poverty\".",
+      "published_at": "2026-10-01T15:32:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6ca31e4a8aa0980cb8e430ada0bab07a1ab9c4bb4d2984f6e8ae456c5d1ad4da",
       "title": "Lib Dem MPs criticise Davey over pension triple lock response",
       "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
       "description": "Sir Ed questioned the PM's plans to change the triple lock, telling the BBC removing it \"would put more pensioners into poverty\".",
@@ -13162,6 +13780,17 @@
       "categories": [
         "Entertainment & Arts",
         "World"
+      ]
+    },
+    {
+      "id": "46c137b5d187358de93b3abc889353b06ba9b7396b05f34120e1e77ea6fe19bd",
+      "title": "What are the Great Scottish Run routes and which roads are closed?",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjk5kn948ko?at_medium=RSS&at_campaign=rss",
+      "description": "A record number of runners are expected to hit the streets of Glasgow this weekend as Scotland's biggest running event returns.",
+      "published_at": "2026-10-01T05:24:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -176870,369 +177499,6 @@
       "source": "France 24",
       "categories": [
         "Middle East"
-      ]
-    },
-    {
-      "id": "ad17c9dc4b668e92693c272954a3e2daa43057c4f2693f861958b6523424e0ba",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "published_at": "2026-09-03T16:32:05+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "b2f28ee9a2c7a78006c274e683a8275f13ee9ed9568eb22b652042d1d699c6d5",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "published_at": "2026-09-03T16:32:05+00:00",
-      "source": "BBC",
-      "categories": [
-        "Technology"
-      ]
-    },
-    {
-      "id": "76162a71c0d46c766f5d4f32a173da4f54cd38da301c70b8603ecb5980d9c9d4",
-      "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
-      "url": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-      "description": "The Green Party leader intends to run in the Holborn and St Pancras seat following Sir Keir Starmer's resignation as MP.",
-      "published_at": "2026-09-03T16:28:24+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "c0cde86df6a32e12511d4a9b94d334f17e19e00f53414552a11c3ecb84ea95b9",
-      "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
-      "description": "Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.",
-      "published_at": "2026-09-03T16:23:16+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "0eb5c047ffe3bd24bd8f00cc314dce1dfb09e501b24291310f0e9b2e4ce3e138",
-      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
-      "published_at": "2026-09-03T16:16:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "cee520030376b43e66d3bf3b0dede214cddd11c21eca4f05cb9bc77a0f565326",
-      "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
-      "description": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
-      "published_at": "2026-09-03T16:08:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "9f4b9837af423230153586f8e562a6eb6d663762bbd085b0be392de1437117c5",
-      "title": "Burnham and Macron agree to scale up action on small boats",
-      "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-      "description": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
-      "published_at": "2026-09-03T15:46:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "5351abafe3a548d828582f619ddc869e3a4d19e43f3ce9034ec4c2b6c36cfacc",
-      "title": "Burnham and Macron agree to scale up action on small boats",
-      "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-      "description": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
-      "published_at": "2026-09-03T15:46:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "1dcc19358c078eba3d12fc16f9e409576cb4da6d8ca99b5e788175d57bf1f625",
-      "title": "US feminist icon and journalist Gloria Steinem dies aged 92",
-      "url": "https://www.france24.com/en/video/20260903-us-feminist-icon-and-journalist-gloria-steinem-dies-aged-92",
-      "description": "The co-founder of Ms. Magazine and celebrated feminist icon Gloria Steinem has died at her home at the age of 92. An internationally recognised activist in the fight for women's equality, she spoke out for the legalisation of abortion, same-sex marriage, and equal pay. She began her journalism career in New York in the 1960s. Politically, she was an outspoken critic of Donald Trump, arguing that the US had taken many steps back when it came to women's rights. FRANCE 24's Journalist and host of \"The 51%\" tells us more.",
-      "published_at": "2026-09-03T15:39:33+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas"
-      ]
-    },
-    {
-      "id": "98d1dcd5c83f2e7449bff3a54c868e14fa153cf1f4300af1f32db4bc8d08b752",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "published_at": "2026-09-03T15:35:47+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "e1b480cd80f5d245b7063ff0d1d251738c00006901f3e5ec2b608908eebdb18d",
-      "title": "Just 4 of 28 lifts at Queen Mary Hospital block set for service once repairs done",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366278/just-4-28-lifts-queen-mary-hospital-block-set-service-once-repairs-done?utm_source=rss_feed",
-      "description": "Only four of the 28 lifts at Queen Mary Hospital’s new clinical block will operate normally following minor repairs, while work must be carried out on the rest until the end of the year, according to Hong Kong’s architectural authorities. The Architectural Services Department said on Thursday only four lifts serving non‑clinical facilities at the HK$13.5 billion (US$1.72 billion) block were in acceptable condition and would undergo minor repairs later. The remaining lifts had suffered frequent...",
-      "published_at": "2026-09-03T15:34:38+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong"
-      ]
-    },
-    {
-      "id": "e37e69b35165160d46da2e63d5adaf57dd34b4d0e3dd4c9925b4ab793f1cf126",
-      "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
-      "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
-      "description": "Small groups of Russian soldiers have been inching forward through the vast, drained Kakhovka reservoir since they blew up the dam in June 2023. Russian forces are infiltrating this “no man’s land” for reconnaissance purposes rather than for a future military offensive, said a military expert.",
-      "published_at": "2026-09-03T15:34:03+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "97ca725f9c2bc51c45d400d036402a45803346a60a5f7f5af017d286f7f55c26",
-      "title": "Giorgia Meloni government becomes Italy's longest-lasting since World War II",
-      "url": "https://www.france24.com/en/video/20260903-giorgia-meloni-government-becomes-italy-s-longest-lasting-since-world-war-ii",
-      "description": "Italy's first female Prime Minister, Giorgia Meloni, has surpassed a longevity record set by the late Silvio Berlusconi. When she took office in 2022, many European allies viewed her with unease, given her party's neo-fascist roots. Yet she has governed pragmatically, working within EU institutions and even supporting Ukraine. Domestically, however, she has targeted same-sex parents and clamped down on press freedom.",
-      "published_at": "2026-09-03T15:29:48+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "a1b88f0263eece41ab57949e13e9fad19add8a54c48b9b984e666e49a63d8a65",
-      "title": "France-UK ties and humour celebrated as London receives Bayeux Tapestry",
-      "url": "https://www.france24.com/en/video/20260903-france-uk-ties-and-humour-celebrated-as-london-receives-bayeux-tapestry-1",
-      "description": "French President Emmanuel #Macron is in #London on the occasion of the #Bayeux Tapestry's exhibition at the #BritishMuseum. The 1,000-year-old work of woven art recounts the Battle of #Hastings, in which William the Conqueror – #KingCharles's ancestor – led the Norman Conquest of #England. An opportunity for the French president, the British PM Andy #Burnham and British monarch to celebrate the strong ties between the two countries.",
-      "published_at": "2026-09-03T15:27:27+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "697e5bc579210183b03fe30eceaf1a3432c93fc1e47fff25a3f5a7bf5e016f37",
-      "title": "Hong Kong Nepalese man searches for cousin missing in flood: ‘I cannot sleep’",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366277/i-cannot-sleep-hong-kong-nepalese-man-searches-cousin-missing-flood?utm_source=rss_feed",
-      "description": "A Hong Kong Nepalese man is searching for his cousin who is missing after the catastrophic flood struck the Himalayan border between Nepal and Tibet. Y.B. Gurung, a 64-year-old retiree, told the South China Morning Post that he last spoke with his tour guide cousin Raju Gurung, 40, at 8am on August 26, shortly before a massive glacial collapse triggered the flash flood that washed away villages and left at least 1,225 people dead. “I cannot sleep every night. I am praying every day that he was...",
-      "published_at": "2026-09-03T15:23:13+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong"
-      ]
-    },
-    {
-      "id": "938c4b9c3319cdc43050373ab09c7a2ceb6b3591b4c141dfb0a75d5a5ee12006",
-      "title": "Driverless robotaxis hit the streets of London",
-      "url": "https://www.france24.com/en/video/20260903-driverless-robotaxis-hit-the-streets-of-london",
-      "description": "London is entering the era of autonomous vehicles: driverless cabs are now available through Uber and British tech firm Wayve in the capital. It marks a setback for Google's Waymo and Chinese giant Baidu, which have been eyeing Europe as a largely untapped market for autonomous vehicles. But for Wayve, it is its first mass-market rollout, and the company now plans to expand to Tokyo and 10 other cities with Uber.",
-      "published_at": "2026-09-03T15:16:08+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "52e6d383c896d258b6fcfffcee54073bbde7710962c60dd3a4b1ee3f7ae69d79",
-      "title": "Murder of Daphne Caruana Galizia: Campaigner 'devastated' at tycoon's acquittal",
-      "url": "https://www.france24.com/en/i-m-devastated-by-the-verdict-says-tom-gibson-deputy-dir-for-committee-to-protect-journalists",
-      "description": "A campaigner who has worked on the case of murdered Maltese journalist Daphne Caruana Galizia since she was killed by a car bomb in 2017 has spoken of his devastation at the not guilty verdict.",
-      "published_at": "2026-09-03T15:15:00+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "4b69ee285a7707d8aec4561d1fa3d60d1b99314ad0566410d4a124ec3b723649",
-      "title": "How the brain of a fly may help explain human behaviour",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
-      "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
-      "published_at": "2026-09-03T15:01:41+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "069ba863e271219eddce9f8115cb4ff50976262963ceef48d09d02e537191733",
-      "title": "China-Singapore security team claims breakthrough in hacking Starlink terminals",
-      "url": "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals?utm_source=rss_feed",
-      "description": "A team of cybersecurity experts has announced they successfully compromised the latest Starlink user terminals, crossing the security boundaries of the world’s largest satellite constellation. In a post on its social media account on Tuesday, Darknavy, an independent cybersecurity research institute headquartered in Singapore and Shanghai, said it had used sophisticated hardware attacks to gain full administrative control over the terminals, allowing it to run any custom code on the...",
-      "published_at": "2026-09-03T15:00:08+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China"
-      ]
-    },
-    {
-      "id": "c423d6b5894d46af523a2e1860c997eb41e307a1ba7fe1683eb4f59aca8ac96e",
-      "title": "New GP and wellbeing hub 'a major milestone'",
-      "url": "https://www.bbc.co.uk/news/articles/c5y59xznyx7o?at_medium=RSS&at_campaign=rss",
-      "description": "The £21m hub brings together primary care, community wellbeing and leisure services in one location.",
-      "published_at": "2026-09-03T14:59:36+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "49fae8e40820b4a5d0481b4fabef3d607f8f88f81a8fe35b3bf25385aaca9ef3",
-      "title": "Sex offender ran into sea to escape officers during arrest",
-      "url": "https://www.bbc.co.uk/news/articles/cr7d85mmj8ro?at_medium=RSS&at_campaign=rss",
-      "description": "Gavin Bennett is jailed for more than three years after running away from police during his arrest.",
-      "published_at": "2026-09-03T14:58:15+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "1324030f225b2097f4083dbccae2ba42454a1211fec9a645a8763ba5dc4b0d4c",
-      "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-      "description": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
-      "published_at": "2026-09-03T14:23:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "c98253569e28ea33482137d941059b53131bfb1f0ffed70c7f3cf99e7078fbf3",
-      "title": "Outcry over ‘weapons of love’ forces Hong Kong charity to scrap student contest",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3366275/outcry-over-weapons-love-forces-hong-kong-charity-scrap-student-contest?utm_source=rss_feed",
-      "description": "A leading Hong Kong charity has called off a student eco-bag design contest meant to counter domestic violence following public backlash over its directive for pupils to draw inspiration from objects commonly linked to household abuse. Po Leung Kuk confirmed on Thursday that it had scrapped the competition, which was organised by its family crisis support service and funded by the Social Welfare Department. The charity said the event “might have caused misunderstanding and concern”, although its...",
-      "published_at": "2026-09-03T14:11:52+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong"
-      ]
-    },
-    {
-      "id": "5829cc220e6ef445ac9a671ef5e575d8666e58182267fa0347bb2404230d822b",
-      "title": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
-      "url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
-      "description": "Taiwan’s cabinet approved a supplementary defence budget of NT$145.7 billion (US$4.6 billion) on Thursday, pushing the island’s total defence-related spending for this year above NT$1 trillion for the first time. The additional funding is expected to raise this year’s overall defence spending from 3.32 per cent of gross domestic product (GDP) to about 3.83 per cent, the highest level in decades. The supplementary budget, which still requires legislative approval, is aimed at plugging gaps left...",
-      "published_at": "2026-09-03T14:00:08+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China"
-      ]
-    },
-    {
-      "id": "4411b383006982eee1207f02e298da77409ccf22ab0e8880facc70ad2466a2b6",
-      "title": "Over 1,700 Indonesians get food poisoning after eating state-issued free meals",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366274/above-1700-indonesians-get-food-poisoning-after-eating-state-issued-free-meals?utm_source=rss_feed",
-      "description": "Another 777 students and teachers contracted food poisoning in Indonesia’s Central Java after consuming government-issued free meals, a school principal said on Thursday, bringing the total number of people made ‌ill by the scheme to more than 1,700 in just a week. In separate incidents in three other locations this week, 950 Indonesians had fallen ill as a result of food poisoning linked to the programme, a member of a parliamentary commission overseeing health said. President Prabowo Subianto...",
-      "published_at": "2026-09-03T13:56:23+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia"
-      ]
-    },
-    {
-      "id": "dc3a292a0e939cae267e7e734feff912312cb79c5ce55677d19125eda58e55de",
-      "title": "Tunisia water crisis deepens as temperatures approach 50°C",
-      "url": "https://www.france24.com/en/video/20260903-tunisia-water-crisis-deepens-as-temperatures-approach-50%C2%B0c",
-      "description": "In Tunisia, powerful heatwaves are driving power cuts and water shortage. While the country has been dealing with structural water scarcity and recurring drought for years, the current crisis is fuelling anger against the government, even as authorities attempt to coordinate water distribution efforts to quell the crisis.",
-      "published_at": "2026-09-03T13:52:23+00:00",
-      "source": "France 24",
-      "categories": [
-        "Africa"
-      ]
-    },
-    {
-      "id": "551f815ea15da12eca103f61ad9fc40e1c37cc4ea1eb2d6d49b713b6c7ee9ae1",
-      "title": "France's Macron meets UK PM Burnham at Downing Street",
-      "url": "https://www.france24.com/en/video/20260903-france-s-macron-meets-uk-pm-burnham-at-downing-street",
-      "description": "French President Emmanuel Macron met Britain’s new Prime Minister, Andy Burnham, for official talks at 10 Downing Street. The meeting came a day after the pair were joined by King Charles and Queen Camilla at the British Museum for a preview of the Bayeux Tapestry exhibition in London. Macron is the first EU leader to meet Burnham. Talks are expected to cover relations between Britain and the European Union, support for Ukraine, and migrant crossings in the English Channel.",
-      "published_at": "2026-09-03T13:45:13+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "90c23605cc93402c54c98cac614c740d5d9a9ee53d4280d72abe66380aec8d58",
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-      "published_at": "2026-09-03T13:26:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "5005ae1d61e0e312ba0f31d6557c2ba336d5868e3fe0716d2f63a184c8bad39b",
-      "title": "Israeli attacks in West Bank at 'unprecedented' level, PNI leader Barghouti says",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says",
-      "description": "In an interview with FRANCE 24, the secretary general of the Palestinian National Initiative (PNI) party Mustafa Barghouti said the level of Israeli attacks on Palestinians in the West Bank had become \"totally unprecedented\". With tensions escalating, activists accuse settlers of operating with total impunity. \"Their goal is clear: it is ethnic cleansing,\" Barghouti stated, calling Israeli Prime Minister Benjamin Netanyahu's reaction to the attacks hypocritical.",
-      "published_at": "2026-09-03T13:26:12+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East"
-      ]
-    },
-    {
-      "id": "2eaf5b533e60c3d94c32f97040ab21ad9564b07da5134f3f56ae0945b8dd0dd2",
-      "title": "MTR Corp sues Opatra operator over HK$347,000 unpaid rent and fees at Sha Tin mall",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366272/mtr-corp-sues-opatra-operator-over-hk347000-unpaid-rent-and-fees-sha-tin-mall?utm_source=rss_feed",
-      "description": "Hong Kong’s railway operator has sued the local distributor behind embattled beauty brand Opatra London for allegedly failing to pay more than HK$347,000 (US$44,248) in rent and other fees at one of its shopping malls. A court document reviewed by the South China Morning Post on Thursday showed the MTR Corporation, as the landlord of Citylink Plaza in Sha Tin, suing Sayles Retail, the local operator for the UK-based beauty chain, for the outstanding payments. Opatra London has faced intense...",
-      "published_at": "2026-09-03T13:20:00+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong"
-      ]
-    },
-    {
-      "id": "56a6eb3daacf6b6f03e50ca736b5de30b92b5cb0e4029627079a8a21c0a20316",
-      "title": "Will El Nino bring chaos to UK weather?",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z642lq6wo?at_medium=RSS&at_campaign=rss",
-      "description": "Will El Nino bring chaos to UK weather?",
-      "published_at": "2026-09-03T13:12:44+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "31136095d43d7583bfbe3b050ad4263a20d2db786817d6a7c4f578a32ec649c9",
-      "title": "Royal Mint announces new 50p coins to celebrate Star Trek 60th anniversary",
-      "url": "https://www.bbc.co.uk/news/articles/c4gm2vy550go?at_medium=RSS&at_campaign=rss",
-      "description": "One coin features the iconic Vulcan hand salute alongside the words \"Live long and prosper\".",
-      "published_at": "2026-09-03T13:00:51+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "f74a501122884e6cad6ccca933f54bfe533ae79d7420d2f253c9cb20a39a215b",
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
-      "published_at": "2026-09-03T12:50:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
       ]
     }
   ]
