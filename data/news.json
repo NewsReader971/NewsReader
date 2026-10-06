@@ -1,6 +1,839 @@
 {
-  "last_updated": "2026-10-06T16:21:08.010931+00:00",
+  "last_updated": "2026-10-06T21:20:43.621890+00:00",
   "articles": [
+    {
+      "id": "535ad99fc4509988969c4a5d54e8b281f3cc3ed266886a9ebe4de1e926b96dff",
+      "title": "Black Hills plans $1.8 billion investment to power Google's data center",
+      "url": "https://www.channelnewsasia.com/business/black-hills-plans-18-billion-investment-power-googles-data-center-6437671",
+      "description": "",
+      "published_at": "2026-10-06T21:09:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1a1244228eaf15b18fe537e2ee9d51c3bade591565484bbf70975f15a8b5a562",
+      "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "description": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+      "published_at": "2026-10-06T21:09:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "20e836c1807db0f27befd73a943865c531755731cba537b155cbf56821e4ba12",
+      "title": "Spain rally to beat Croatia, Kane shines for England in Nations League",
+      "url": "https://www.channelnewsasia.com/sport/spain-rally-beat-croatia-kane-shines-england-in-nations-league-6437641",
+      "description": "",
+      "published_at": "2026-10-06T21:04:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "9ab1be34e9a6fda02e95ac3cd73b8af15ce1fe94e5ba65de1ef868a6a9db509e",
+      "title": "Stocks climb as oil prices retreat under US$100 per barrel",
+      "url": "https://www.channelnewsasia.com/world/stocks-climb-oil-prices-retreat-under-us100-barrel-6437626",
+      "description": "",
+      "published_at": "2026-10-06T21:01:02+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "60258fbe46a2ea3b22487df9bfe0529e9da3c02ecec4b779f45a16bc2e94d8c6",
+      "title": "Kimmins orders officials to 'get on with job' of A5 upgrade after court ruling",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z9nev326o?at_medium=RSS&at_campaign=rss",
+      "description": "Appeal court judges overturn a decision that blocked work starting on one of NI's biggest road projects.",
+      "published_at": "2026-10-06T20:31:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "9ca0748633b06fcbaddccb32149070636e76261f8997991eef6e0ee21903e95f",
+      "title": "End of an era as Messi prepares to hang up Argentina boots",
+      "url": "https://www.channelnewsasia.com/world/lionel-messi-final-game-football-argentina-6437596",
+      "description": "Lionel Messi is set to play his final match for Argentina against Benin on Tuesday (Oct 6), ending his 21-year international career.",
+      "published_at": "2026-10-06T20:29:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports",
+        "World"
+      ]
+    },
+    {
+      "id": "6b58c5eb0e13070dc3a8a144515d8687578447f7662977d9f16f928836c039eb",
+      "title": "Woman who saw male colleague view 'sexual' images at work settles case for £25k",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6lr4r52xo?at_medium=RSS&at_campaign=rss",
+      "description": "She witnessed a senior male colleague viewing provocative images of women on his computer.",
+      "published_at": "2026-10-06T20:26:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "ca11334da725db9fba3e16d06f6cd6be106b0b2f1983579d0623e9478c1c0278",
+      "title": "Saudi Arabia end 22-year wait for another Gulf Cup title",
+      "url": "https://www.channelnewsasia.com/sport/saudi-arabia-end-22-year-wait-another-gulf-cup-title-6437611",
+      "description": "",
+      "published_at": "2026-10-06T20:24:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "184d05c63ab285a2b54732b59947a692d407d61b0999c146493b9ce47e4adb43",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "published_at": "2026-10-06T20:15:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "441223e1be4e4a6961341ed36d9fa04d2b4267ca55436876006166c9973f46ab",
+      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
+      "url": "https://www.channelnewsasia.com/business/us-justice-dept-tells-staff-call-ai-super-intelligence-under-trump-order-6437591",
+      "description": "",
+      "published_at": "2026-10-06T20:12:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cf6a09b6ede391819efb19382f18f3b9ab9d0217c328bb5be1246679911fd52f",
+      "title": "Police make seventh arrest over UK airbase incident",
+      "url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
+      "description": "A seventh man was arrested Tuesday over a major incident last month at a British military airbase used by the United States to launch strikes on Iran, police said. The arrest came a day after President Donald Trump said the United States had withdrawn all B-1 bombers from RAF Fairford because of \"threats\" he believed were linked to Tehran. A 22-year-old British male was arrested in London \"on suspicion of preparation of terrorist acts\", Britain's Counter-Terrorism Policing network said in a statement. Six men in their 20s have already been arrested and released on bail after three suspicious vans were stopped near the base in southwest England on September 27. FRANCE 24's Bénédicte Paviot reports from London.",
+      "published_at": "2026-10-06T19:51:46+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "a196ae4c8a17d182e3b7199a6910235036702363068d1e16672f32fc74a81c7e",
+      "title": "Calls to block social media platforms for minors in France amid school protests",
+      "url": "https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests",
+      "description": "One factor accelerating these student protest is social media, and its being boosted even more by artificial intelligence. Some French mayors have even called for social media platforms to be temporarily blocked for minors. Our colleauges at France 2 took a look at the impact",
+      "published_at": "2026-10-06T19:47:23+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c4c701a078d57b9fe57cdc15ae888f3a03c9d16145bf0ee9802f785b4f980b72",
+      "title": "Hundreds arrested in French school protests as Macron summons ministers",
+      "url": "https://www.channelnewsasia.com/world/france-protests-arrests-macron-trump-schools-6437491",
+      "description": "The interior ministry said 256,000 people protested nationwide, while US President Donald Trump blamed the unrest in France on “mass migration.”",
+      "published_at": "2026-10-06T19:46:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f3675d0476b3864b27c52039a94cf17ca1f7c9db354b4de7ec91952ccba02d62",
+      "title": "German ex-spy chief arrested for suspected espionage, treason",
+      "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
+      "description": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and working for foreign intelligence services, federal prosecutors said. FRANCE 24's Nick Holdsworth reports from Berlin.",
+      "published_at": "2026-10-06T19:42:27+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe",
+        "World"
+      ]
+    },
+    {
+      "id": "ed2e4c8cce63eeeec124397734e8b55c81246a9140d430a3b2f3ce8f404b31ba",
+      "title": "'We're fed up': Paris students rise up in a movement that shows no sign of slowing",
+      "url": "https://www.france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing",
+      "description": "Hundreds of thousands of students and their supporters took part in nationwide protests across France on Tuesday after weeks of student barricades protesting school conditions.",
+      "published_at": "2026-10-06T19:41:11+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "452f39d7e93931bd7499bf0517cc4893d0ffb8f8dff0603d1dd384735f4aab65",
+      "title": "Students, unions and teachers in mass movement to demand better learning conditions",
+      "url": "https://www.france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions",
+      "description": "A quarter of a million demonstrators took to the streets across France on Tuesday as unions and teachers joined high school students demanding better learning conditions in protests that later descended into sporadic clashes with security forces. A French policeman was on Tuesday charged with violence over the firing of a tear gas grenade last week at close range at a 14-year-old student during the high school protests that have shaken the country, the prosecutor said. Reporting from central Paris, FRANCE 24's Claire Paccalin says the protesters are adamant that \"this is not it, this movement will continue, we want concrete actions from the government\".",
+      "published_at": "2026-10-06T19:39:39+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "ba8624874a8d76fe20c0b06a62826abceed316a671ce51723e6dabe0faa624d4",
+      "title": "'It's the way forward' - A5 crash victims' families welcome ruling",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyzv0eve3o?at_medium=RSS&at_campaign=rss",
+      "description": "Relatives say the upgrade is overdue - but others have concerns about what it means for their homes.",
+      "published_at": "2026-10-06T19:35:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "cd3a0f410b330d9e473a479aa89f8a0ef3a3eed6abc1aec648763f5d17e257e9",
+      "title": "Rival clubs want range of punishments for Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss",
+      "description": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
+      "published_at": "2026-10-06T19:30:20+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "e0f1198e2c349b1d471f726e109fab3bc37f7fc87ef1d42cc35bdc5f5b01921e",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
+      "description": "What is a supercomputer for? How does it work? And who gets to use it? We explain all.",
+      "published_at": "2026-10-06T19:30:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology"
+      ]
+    },
+    {
+      "id": "2b3b52667186a0e0778380f9ba7d769eeb66d5b418b03c4fa32dd58ba484561e",
+      "title": "Man charged with GP's murder",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1p3ry51do?at_medium=RSS&at_campaign=rss",
+      "description": "A man is charged with the murder of a GP who was found dead at her home.",
+      "published_at": "2026-10-06T19:29:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "5e96016aea68017651af1e48c164de06799b059f8af87be70ba9808b45372b6e",
+      "title": "Man charged with GP's murder",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1p3ry51do?at_medium=RSS&at_campaign=rss",
+      "description": "A man is charged with the murder of a GP who was found dead at her home.",
+      "published_at": "2026-10-06T19:29:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b48030ae3bc94bb4a750d531aa20cac243a7e7d99ac526c6409ef9c24a0d66eb",
+      "title": "Ronaldo accuses coach Jesus of broken promises but leaves Portugal return open",
+      "url": "https://www.channelnewsasia.com/sport/ronaldo-accuses-coach-jesus-broken-promises-leaves-portugal-return-open-6437526",
+      "description": "",
+      "published_at": "2026-10-06T19:27:38+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "2a5540bc4850f7a9666d46cc3a15928a9d24ca0a4f65fe8b43e9743252253054",
+      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+      "description": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+      "published_at": "2026-10-06T19:25:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b038e4d533a18baebff33d778271f452c6dcead5f92f8d66ea5b02575f73ca8f",
+      "title": "Preschool treasurer jailed for stealing £29k",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynpee830zo?at_medium=RSS&at_campaign=rss",
+      "description": "Jenny Cannon-Smith 'betrayed' her local community by stealing the funds, a court hears.",
+      "published_at": "2026-10-06T19:24:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "07fd7c0084f1f63e111c04fc918ef45e5fa79a275953f007fa9f6b442e36d460",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "description": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
+      "published_at": "2026-10-06T19:17:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "72cc43a01cf525eecc2e11a6cb41e1d652e365391f7e96a332d622f56c7af0ac",
+      "title": "What can I do to protect myself after 'Asos hacked' message?",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+      "description": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "published_at": "2026-10-06T19:17:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "e5a7c6b164fba613705a09a2f29e3d1ed363957b06a1e66aaf2e811659139959",
+      "title": "First minister to face no-confidence vote over Drumcree row",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zqwqgdk3o?at_medium=RSS&at_campaign=rss",
+      "description": "The motion comes amid a major political row over a planned Orange Order march in Portadown.",
+      "published_at": "2026-10-06T19:17:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "3747aba2bf48e41f92221cfcd8b46b0669dd4096e945a3d8226a95c377d06891",
+      "title": "Kane's rise from childhood keeper to equalling England cap record",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped Three Lions player that he has held for 36 years.",
+      "published_at": "2026-10-06T19:15:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "74589283d954143433555657050f19d898f8dbf01d18c15f071cc5e3ed670817",
+      "title": "France erupts overs schools: Why the violence surrounding surprise movement?",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
+      "description": "It’s a protest movement that a broke, lame-duck French government did not see coming. Civil servants this Tuesday joining high schoolers now in their third week of picketing over long-deteriorating classroom conditions. The usual recipe for wearing down movements in France has recently been to match eventual violence with a heavy hand, the escalation turning the silent majority against the protesters as was the case with the pre-Covid Yellow Vests movement.",
+      "published_at": "2026-10-06T19:12:08+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "49c86b2a108c7847d6eb7df114939f588894a4c5c37ea08da7b9fd57de288a2e",
+      "title": "Woman dies after being hit by Range Rover on A70 in Ayrshire",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlg5kzywro?at_medium=RSS&at_campaign=rss",
+      "description": "Jaqueline Young, from Cumnock, was taken to hospital for treatment but has since passed away.",
+      "published_at": "2026-10-06T19:09:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "eb640d5809bcd3e17e6387a6a052c4a5be7e30e69ea19154e4c02b8e7a3c7a4d",
+      "title": "Amazon wins global rights to stream Emmys in six-year deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+      "description": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+      "published_at": "2026-10-06T19:08:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "249e7a16ace26c46ec45e8845af00d830465b09fd07189825a0f26356921d4cb",
+      "title": "Anthropic opens its most powerful AI models to more security teams",
+      "url": "https://www.channelnewsasia.com/business/anthropic-opens-its-most-powerful-ai-models-more-security-teams-6437486",
+      "description": "",
+      "published_at": "2026-10-06T19:03:24+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "52fce12a26aee858189d65b824e4c3f764c09305b3d07520c25ec75671fc0893",
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
+      "url": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+      "description": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
+      "published_at": "2026-10-06T19:01:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "bafdd4f2dcf7affd07dc67a4ed5fcf0f5afca42cb87923b8e33ae2e58dc4b48c",
+      "title": "Kane matches Shilton's England appearance mark on milestone Wembley night",
+      "url": "https://www.channelnewsasia.com/sport/kane-matches-shiltons-england-appearance-mark-milestone-wembley-night-6437456",
+      "description": "",
+      "published_at": "2026-10-06T18:48:31+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "5897c263451f3de0f575c43a292fa30aaee352ca18872ad5b2aba32edded11f5",
+      "title": "Adventurer Karl Bushby completes English Channel swim",
+      "url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo?at_medium=RSS&at_campaign=rss",
+      "description": "The adventurer is nearing the end of his 28-year journey home to Hull from Chile.",
+      "published_at": "2026-10-06T18:32:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "6622f618dc6c84f1767624a35431cdede3ceb3afa01294bc6924f19c1507a8c6",
+      "title": "China warns France, Germany against 'protectionist' trade tools",
+      "url": "https://www.channelnewsasia.com/world/china-france-germany-trade-eu-economy-6437411",
+      "description": "\"We hope that France and Germany, as major economies in the world, will uphold openness, cooperation and free trade,\" China's commerce ministry said in a statement.",
+      "published_at": "2026-10-06T18:27:28+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "b6d9ea2a5fd678c2bc9bacf43b0df09b64382842420964a063e4b9d27a2af933",
+      "title": "A separatist party just won power in Quebec - what does that mean?",
+      "url": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
+      "description": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
+      "published_at": "2026-10-06T18:23:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "130b5e76dfe32d5f997c1383cb3c96627471da3b2eecd4a2ae19d699d98dd4ca",
+      "title": "Euroleague shareholders reject NBA Europe offer, door open for future talks",
+      "url": "https://www.channelnewsasia.com/sport/euroleague-shareholders-reject-nba-europe-offer-door-open-future-talks-6437431",
+      "description": "",
+      "published_at": "2026-10-06T18:19:53+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "3a8e896af4d21b7c5bc842e7fd45c5e8c9b00f309de4c22ac789d8669e8b642b",
+      "title": "Founders of elite college used £5m funds as 'personal piggy bank', court hears",
+      "url": "https://www.bbc.co.uk/news/articles/c8qlnre1ezppo?at_medium=RSS&at_campaign=rss",
+      "description": "Yasmin Sarwar is accused of stealing £5m from Cardiff Sixth Form College's accounts.",
+      "published_at": "2026-10-06T18:08:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "3876b7d67f15992c2b6667fb726f91135521c35e4d55a9d6cfd46a3c14953abf",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "published_at": "2026-10-06T18:03:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "e5df1ec27b2665a44de3ec093eacff77b48fb002e2dd023eb045a385345665b6",
+      "title": "White House denies Trump suggested Iran should 'take out' US cities",
+      "url": "https://www.channelnewsasia.com/world/trump-democrats-us-cities-la-san-diego-iran-6437256",
+      "description": "US President Donald Trump faced criticism after saying Iran could “take out” Los Angeles and San Diego, with Democrats accusing him of encouraging attacks on the US cities.",
+      "published_at": "2026-10-06T17:59:06+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "5592f16358219c553c2a7ae790c485572142107a2c344a768e945e06b84f587f",
+      "title": "'Colossal failure: Death penalty system in America is a broken process from start to finish'",
+      "url": "https://www.france24.com/en/colossal-failure-death-penalty-system-in-america-is-a-broken-process-from-start-to-finish",
+      "description": "Jean-Emile Jammine is pleased to welcome Reed Brody, international human rights lawyer and former New York assistant attorney general. According to Brody, the botched execution of Christa Pike reflects a much larger problem: the relationship between capital punishment, institutional failure, due process, and human dignity. The technical failure of lethal injection exposes weaknesses throughout the legal architecture surrounding the death penalty, from the quality and adequacy of defense representation to the profound disparities between jurisdictions and the difficulties states face in administering executions.",
+      "published_at": "2026-10-06T17:50:00+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "90b4c4bf81f511ec01facfcb5c02d1d3aa3cf5333b9a740d809d5d0e94f231d4",
+      "title": "Swinney defends claims about Scots 'losing' pensions",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29y7rpdrzo?at_medium=RSS&at_campaign=rss",
+      "description": "John Swinney has been accused of misleading MSPs after claiming Scots could lose their pensions under Labour plans.",
+      "published_at": "2026-10-06T17:48:58+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b09fc20dfedda9414a0db68e3ebc4f1fd79f8567bdd89281ff5bc89ae1126457",
+      "title": "Roll-out begins for passport-free airport e-gates",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
+      "description": "The system uses facial technology to check travellers against immigration and passport information.",
+      "published_at": "2026-10-06T17:38:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "53b516453a3050c31a9de3f687f063a25961d607d4f5dbaf4334b5ab4ea2bbbe",
+      "title": "Roll-out begins for passport-free airport e-gates",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
+      "description": "The system uses facial technology to check travellers against immigration and passport information.",
+      "published_at": "2026-10-06T17:38:29+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "England"
+      ]
+    },
+    {
+      "id": "1a8914296b06fa3704961ad96ebe4af2dd9e21f250c30314979573482a6875ab",
+      "title": "Trump says Iran could ‘take out’ Los Angeles or San Diego, drawing backlash",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369961/trump-says-iran-could-take-out-los-angeles-or-san-diego-drawing-backlash?utm_source=rss_feed",
+      "description": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm belt on Monday, discussed American wartime economic sacrifices and said he was determined to “see a tremendous victory, because it verifies all the things we did”. “And again, remember, with the ‌war,...",
+      "published_at": "2026-10-06T17:34:35+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "650e637db9cc7cc2540b4819fcdc0b26feed75c9149367323e21f307856d7fdc",
+      "title": "Man arrested following death of woman in three-car crash on A92",
+      "url": "https://www.bbc.co.uk/news/articles/cq23d81gyx73o?at_medium=RSS&at_campaign=rss",
+      "description": "A 24-year-old woman was pronounced dead at the scene of the accident which happened near the Luthrie junction at about 01:00 on Sunday.",
+      "published_at": "2026-10-06T17:34:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "cfd97d88a6a560fb1d72ca84f619f65e759227f6da54830e59b5c780f093fda5",
+      "title": "US captain Furyk says changes coming for Ryder Cup team",
+      "url": "https://www.channelnewsasia.com/sport/us-captain-furyk-says-changes-coming-ryder-cup-team-6437291",
+      "description": "",
+      "published_at": "2026-10-06T17:30:05+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "959b8c92693380cf0bcf1db03b0678c09ab572e7b575836dd971e81d052e0812",
+      "title": "Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports",
+      "url": "https://www.channelnewsasia.com/business/nvidia-backed-lambda-targets-4-billion-raise-ahead-planned-ipo-wsj-reports-6437266",
+      "description": "",
+      "published_at": "2026-10-06T17:21:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0fa96d5961e75a62bcb539df60b1d0f2b3280520d47a35c4d6bfcd1fe25208d0",
+      "title": "India beat West Indies by eight wickets in first T20",
+      "url": "https://www.channelnewsasia.com/sport/india-beat-west-indies-eight-wickets-in-first-t20-6437271",
+      "description": "",
+      "published_at": "2026-10-06T17:19:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "f731ce6f35e19e6b483ab6a00cd976428ad3779923af7a496f452e6d1cafe3f3",
+      "title": "Finland orders halt to work on two Google data centres",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "description": "The order affecting two planned data centres follows concerns over forest clearance.",
+      "published_at": "2026-10-06T17:15:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Technology",
+        "World"
+      ]
+    },
+    {
+      "id": "de72d034a9363211e3397fa450d20c542c43809527facc3607efefecb426b3e1",
+      "title": "Gardaí and RUC were 'very close' in Omagh bomb investigation - detective",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyd1l28z1yo?at_medium=RSS&at_campaign=rss",
+      "description": "The response by An Garda Síochána was \"immediate\" and \"very, very large\", says a senior Irish officer.",
+      "published_at": "2026-10-06T17:15:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "a40806aeaa2c4028f5e5c45d8e964d328cee92f89758cc66e739e37ea23af869",
+      "title": "Oil prices stable as market weighs supply risks, rising Middle East exports",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-stable-market-weighs-supply-risks-rising-middle-east-exports-6437246",
+      "description": "",
+      "published_at": "2026-10-06T17:12:26+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "a76ec62885adfc1e77ddd2912c99d902b705d6f516ae228751951e38abac9f3c",
+      "title": "Kemi Badenoch wants Reform voters to 'come back'",
+      "url": "https://www.bbc.co.uk/news/videos/cqrmyz489g38o?at_medium=RSS&at_campaign=rss",
+      "description": "Kemi Badenoch wants Reform voters to 'come back'",
+      "published_at": "2026-10-06T17:08:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "be777a60e9594a5432d20394bdbbf369bb88751dd41ee95956570e13fbc424ad",
+      "title": "Afghan men jailed for rape of teenager after being caught fleeing UK by French police",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o?at_medium=RSS&at_campaign=rss",
+      "description": "Three men tried to flee the UK in a lorry after their crimes, but were stopped by French police.",
+      "published_at": "2026-10-06T17:07:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "ea1e68287e6662a6459efeffd460dc1f9f54594a27dd888b631158e2da8e6e90",
+      "title": "Men jailed for raping girl after Snapchat grooming",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o?at_medium=RSS&at_campaign=rss",
+      "description": "Three men tried to flee the UK in a lorry after their crimes, but were stopped by French police.",
+      "published_at": "2026-10-06T17:07:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "755e46c21c263ad108e7a9e7c80d97e9293ae6b1262fed56ba5adb02fdfedf0c",
+      "title": "Brazil 'has moved to the right progressively over the last two decades', expert says",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says",
+      "description": "Senator Flavio Bolsonaro received on Monday endorsements ​from Ronaldo Caiado and Romeu Zema, two right-wing politicians who ran against him in Sunday's first-round vote, ​for ‌the runoff against President Luiz ⁠Inacio Lula da Silva later this month. Speaking with FRANCE 24's Sharon Gaffney, Anthony Pereira, Executive Director of the Stone Center for Latin American Studies at Tulane University, says that \"Lula's path to victory lies in mobilising voters who didn't vote in the first round\" while Flavio Bolsonaro \"will probably benefit from the voters who voted for other right-wing candidates and who will simply migrate to him, so it looks a lot easier for Flavio to win the second round than it does for Lula\".",
+      "published_at": "2026-10-06T17:05:39+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "f7ed572f1a76519e16953aec3d69858f40695484131ffece1e9a933d5f443191",
+      "title": "Cancer patient hit with £680 in parking charges",
+      "url": "https://www.bbc.co.uk/news/videos/crkg7d3ewd5yo?at_medium=RSS&at_campaign=rss",
+      "description": "Jeremy received four parking notices at Queen Alexandra Hospital after his free exemption expired.",
+      "published_at": "2026-10-06T17:05:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "3acb404e641ba37d2de1991a05e4e82c4499b551bf062dcc3a28fa3a0cf016e2",
+      "title": "Student who escaped mental health unit found dead by road, inquest hears",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd650n64rmo?at_medium=RSS&at_campaign=rss",
+      "description": "Anthony Whittle was admitted to the Hergest Unit in 1994 but ran off and was found dead the next day.",
+      "published_at": "2026-10-06T17:03:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e7015e2c78aa8fbd3931e59b1194e07af204795e12de038fbfa88decd939d98d",
+      "title": "Brazil 'has moved to the right progressively over the last two decades', expert says",
+      "url": "https://www.france24.com/en/brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says",
+      "description": "Senator Flavio Bolsonaro received on Monday endorsements ​from Ronaldo Caiado and Romeu Zema, two right-wing politicians who ran against him in Sunday's first-round vote, ​for ‌the runoff against President Luiz ⁠Inacio Lula da Silva later this month. Speaking with FRANCE 24's Sharon Gaffney, Anthony Pereira, Executive Director of the Stone Center for Latin American Studies at Tulane University, says that \"Lula's path to victory lies in mobilising voters who didn't vote in the first round\" while Flavio Bolsonaro \"will probably benefit from the voters who voted for other right-wing candidates and who will simply migrate to him, so it looks a lot easier for Flavio to win the second round than it does for Lula\".",
+      "published_at": "2026-10-06T17:03:02+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "0c27b02092afa2b978fa27b6c0ebabab2e6f0427bf48dcfd565bf67eece2858f",
+      "title": "Stadium ban warning to football fans carrying 'missiles or weapons'",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn0e50qj1o?at_medium=RSS&at_campaign=rss",
+      "description": "Annan Athletic say any repeat of incidents at their clash with Stirling Albion will be dealt with severely.",
+      "published_at": "2026-10-06T17:02:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "e64fd9e2c3a7b3b7508e06eff2fdca20d3d6d37d6611332236abd808dfae21af",
+      "title": "Family of woman, 24, who died after 'misread' smear test join calls for inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq5lejn9o?at_medium=RSS&at_campaign=rss",
+      "description": "Relatives of Louise Corbett Gibbons support the campaign for an inquiry into screening services.",
+      "published_at": "2026-10-06T17:00:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "acda9372f9826a948a00a68e4e1f2c078930cd8a2b32a14ff1feff1e43878793",
+      "title": "Family of woman who died after 'misread' smear test join calls for inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq5lejn9o?at_medium=RSS&at_campaign=rss",
+      "description": "Relatives of Louise Corbett Gibbons support the campaign for an inquiry into screening services.",
+      "published_at": "2026-10-06T17:00:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "18a3e916ee10327f6c383c565cff3c233c8875f114e63329d8d63f3e6317c7b6",
+      "title": "O'Neill 'just as determined' to lead Celtic after considering future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c620rnv0rpdno?at_medium=RSS&at_campaign=rss",
+      "description": "Martin O'Neill insists he is the man to lead Celtic forwards after a period of reflection during the ongoing international break.",
+      "published_at": "2026-10-06T16:56:42+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "0778bd8afd96bd737364e3848208cc1a3ac7880b005504dbdd66663c4285f327",
+      "title": "Why Tories are talking about winning the next election",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+      "description": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them.",
+      "published_at": "2026-10-06T16:49:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "3a59958c481996beca4d6ee1ff3fef6d0544d25a6e6cab58c7f1a560daa1331d",
+      "title": "Winnie-the-Pooh books to fill phone box libraries",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1v882250o?at_medium=RSS&at_campaign=rss",
+      "description": "The original publisher says it will donate Milne's classics alongside a new authorised sequel.",
+      "published_at": "2026-10-06T16:48:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0320d0ef16aa1e41493d651b8ec692d0aacf18d5631b5e74c10b054edc05735e",
+      "title": "Euro 2025 heartbreak gives Wales' Davies 'extra motivation'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&at_campaign=rss",
+      "description": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious knee injury has given her extra motivation for the World Cup play-offs.",
+      "published_at": "2026-10-06T16:47:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "13a80a73827ec448b136a08b1346dabe80c375bde754a882392dd0963dfbfa89",
+      "title": "EU wants to track potential rogue efforts to block out the sun",
+      "url": "https://www.scmp.com/news/world/europe/article/3369959/eu-wants-track-potential-rogue-efforts-block-out-sun?utm_source=rss_feed",
+      "description": "The European Union has launched a €35 million (US$39.4 million) tender to fund research and coordination on, among other things, detecting rogue efforts to alter the Earth’s atmosphere by blocking out the sun. The EU’s Horizon Europe arm, which funds research and innovation, launched the call for projects on Tuesday as part of an early stage effort to coordinate action on so-called Solar Radiation Modification, a nascent and controversial technology that could be used to cool the planet should...",
+      "published_at": "2026-10-06T16:39:43+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0bcf0412adda29398fce660a927c21243861718cc30cb25959ba1543fbae267c",
+      "title": "Russia denies imposing anti-plague measures after death of worker",
+      "url": "https://www.channelnewsasia.com/world/russia-plague-lab-worker-death-rubio-urge-info-6437211",
+      "description": "Irkutsk Regional Governor Igor Kobzev said an inspection by health watchdog Rospotrebnadzor found that the woman died of pneumonia, as US Secretary of State Marco Rubio urged Russia to provide more information.",
+      "published_at": "2026-10-06T16:37:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "7e8162f63914afc674d5cf2b551fc030a059620cc31c0b83c820e1121549930d",
+      "title": "Man, 21, who died after city centre attack named by police",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wg3d6qdxo?at_medium=RSS&at_campaign=rss",
+      "description": "Daniel Colrain died in hospital after being assaulted in Royal Exchange Square in the early hours of Sunday.",
+      "published_at": "2026-10-06T16:32:55+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "b6d5d82c6e6702cc52ce79f00bd437073da6497142c9c2edce6197ef4ae33542",
+      "title": "Scotcast: Why Scottish Greens waded into the Zionism row",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032brt?at_medium=RSS&at_campaign=rss",
+      "description": "Party's co-leader Ross Greer has said Zionism is racist.",
+      "published_at": "2026-10-06T16:30:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "36fd286377b187eade7cdb4763c82a2d31f1a65236429a76b428b1c15196a334",
+      "title": "Paramount completes takeover of Warner Bros, creating media behemoth Skydance",
+      "url": "https://www.france24.com/en/americas/20261006-paramount-completes-takeover-of-warner-bros-creating-media-behemoth-skydance",
+      "description": "Paramount completed its acquisition of Warner Bros Discover on Tuesday, after a bidding war against Netflix. The deal closed following federal approval of a settlement between Paramount and 12 US states that tried to block the transaction on antitrust grounds. Opponents in the movie industry warned of job cuts, while media groups said Warner-owned CNN's independence could be compromised.",
+      "published_at": "2026-10-06T16:23:17+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "71de2f43060ef222816a056203d84cd34ae6246badc85b9629aaa55f31c54ed2",
+      "title": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says",
+      "url": "https://www.channelnewsasia.com/business/south-korea-exports-eased-russia-fuel-crisis-caused-drone-strikes-ukraine-says-6437226",
+      "description": "",
+      "published_at": "2026-10-06T16:22:36+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
     {
       "id": "8200a6e2bdbc061613bbe92e10b7dee0d9bdc8c43156101ba6958141aac66f0b",
       "title": "Student admits murdering woman in 'Dexter' kill room",
@@ -9,6 +842,7 @@
       "published_at": "2026-10-06T16:19:56+00:00",
       "source": "BBC",
       "categories": [
+        "England",
         "UK"
       ]
     },
@@ -17,6 +851,17 @@
       "title": "Student admits murdering woman in 'Dexter' kill room",
       "url": "https://www.bbc.co.uk/news/articles/c6x2v8x72g4ko?at_medium=RSS&at_campaign=rss",
       "description": "Forensics student Benjamin William Day, 20, lured Maria Saceanu to an Airbnb to murder her.",
+      "published_at": "2026-10-06T16:19:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "514865659180e6d73b9d477175e3521de9d5b9914a8bdd2a902a40d0535dcfe2",
+      "title": "Leeds and Bristol to lose Harvey Nichols stores, say reports",
+      "url": "https://www.bbc.co.uk/news/articles/cm20rnxpq47no?at_medium=RSS&at_campaign=rss",
+      "description": "Frasers Group, the owners of the brands, has been contacted by the BBC for comment on the reports.",
       "published_at": "2026-10-06T16:19:56+00:00",
       "source": "BBC",
       "categories": [
@@ -236,6 +1081,17 @@
       ]
     },
     {
+      "id": "861b403c92a6e2e2454b29c89149aa409079d0d260887124bde78084fe4c4cfd",
+      "title": "Car crashes through railings and hits school building",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw4ze4649o?at_medium=RSS&at_campaign=rss",
+      "description": "Two fire crews were called a school in Loughborough after the car hit its gym, a spokesperson said.",
+      "published_at": "2026-10-06T15:48:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "ac9a71d42481164e5693bba78ee5f19d5584bc8e159b69ede0b56c618a7d0706",
       "title": "Court overturns decision blocking A5 road upgrade",
       "url": "https://www.bbc.co.uk/news/articles/cr86z9nev326o?at_medium=RSS&at_campaign=rss",
@@ -278,6 +1134,7 @@
       "published_at": "2026-10-06T15:41:44+00:00",
       "source": "France 24",
       "categories": [
+        "Africa",
         "World"
       ]
     },
@@ -305,6 +1162,17 @@
     },
     {
       "id": "5fd8b569f61b88015acdd4a9171a6c2cf1de530804c22344a5dd21f901a20395",
+      "title": "Knife-wielding man hit by police car admits assaulting officers",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d9evygxo?at_medium=RSS&at_campaign=rss",
+      "description": "Linus Luopas was struck twice by a police car, hit with batons, bitten by a police dog and had incapcitent spary used on him.",
+      "published_at": "2026-10-06T15:24:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ca0ff05c75cf3718b004086acee5bc1904f3a39075e3b9b329d671b80a6ca772",
       "title": "Knife-wielding man hit by police car admits assaulting officers",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d9evygxo?at_medium=RSS&at_campaign=rss",
       "description": "Linus Luopas was struck twice by a police car, hit with batons, bitten by a police dog and had incapcitent spary used on him.",
@@ -430,6 +1298,17 @@
       ]
     },
     {
+      "id": "8fa6bed9dfdf479ee5ed73cb60ca546becb7b8d01971e7a3a24ba08c0ab66f27",
+      "title": "Stormont no-confidence motion in agriculture minister fails",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgzk0kkkpo?at_medium=RSS&at_campaign=rss",
+      "description": "It received 32 votes in favour, but 38 MLAs voted against the proposal.",
+      "published_at": "2026-10-06T14:58:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "41d4f9f7354a89488f2be0fcaf028dfbd7e3c8e04d7aeaf6f0dda1ff8a2504eb",
       "title": "Alliance MLAs walk out over Muir no confidence vote",
       "url": "https://www.bbc.co.uk/news/videos/c69vzndzdglno?at_medium=RSS&at_campaign=rss",
@@ -486,6 +1365,17 @@
       ]
     },
     {
+      "id": "e91a385c8006327e1fba139ee0fc2918f0c43faa87e0658edde81783a8ec94b7",
+      "title": "Euro bounces as decline in French bond yields cools debt jitters",
+      "url": "https://www.channelnewsasia.com/business/euro-bounces-decline-in-french-bond-yields-cools-debt-jitters-6434806",
+      "description": "",
+      "published_at": "2026-10-06T14:39:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "4cc850d10cfa99b73c4bd3fd2b9fe28201be0343f9a179069980bf5ebd7b3b54",
       "title": "Google fights £1 billion UK lawsuit over app store fees in latest Big Tech case",
       "url": "https://www.channelnewsasia.com/business/google-fights-ps1-billion-uk-lawsuit-over-app-store-fees-in-latest-big-tech-case-6437021",
@@ -507,6 +1397,17 @@
       "categories": [
         "Latest News",
         "Singapore"
+      ]
+    },
+    {
+      "id": "caa86be09258f576e7cd884982078c71be4ba860e9e80ffe8a6a93a1a9eb9919",
+      "title": "Michael Flatley says 'heart is broken' after death of wife, Niamh O'Brien",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn8y7y7dvo?at_medium=RSS&at_campaign=rss",
+      "description": "She was a renowned Irish dancer who performed the lead role of Saoirse in the Lord of the Dance.",
+      "published_at": "2026-10-06T14:33:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -712,6 +1613,7 @@
       "published_at": "2026-10-06T13:53:53+00:00",
       "source": "France 24",
       "categories": [
+        "Americas",
         "World"
       ]
     },
@@ -740,6 +1642,17 @@
       ]
     },
     {
+      "id": "291dbba29b25b257fbdebf978ae23738acf1e08f83ba80db06fda8b8edd962db",
+      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
+      "description": "The bestselling author and former politician died on Monday at the age of 86.",
+      "published_at": "2026-10-06T13:48:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "180b0bf2797bb9917fae99996d5d6d83220983cd0429395f8466de84f030f66e",
       "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'",
       "url": "https://www.channelnewsasia.com/business/citigroup-bets-metas-muse-ais-front-door-internet-6436811",
@@ -761,6 +1674,17 @@
       "categories": [
         "England",
         "UK"
+      ]
+    },
+    {
+      "id": "e3d9d48eeee8ac60f56d9e98977b6d866319a28c28ccfd195102847ba449bb4a",
+      "title": "NHS supply lorry drivers to strike in pay dispute",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+      "description": "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
+      "published_at": "2026-10-06T13:43:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -799,6 +1723,17 @@
     },
     {
       "id": "b173a9b4646a7152cf25d4f7f28da176d12e75dbbae093da4537a8e1e7f3b6d1",
+      "title": "Cardiff's Bielik banned over Portsmouth incident",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw99zr4edjrzo?at_medium=RSS&at_campaign=rss",
+      "description": "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
+      "published_at": "2026-10-06T13:34:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "e28cb625404f945e6adbc4c8e17132bc850c573b3a8ab66682ad90bed3c5bfc1",
       "title": "Cardiff's Bielik banned over Portsmouth incident",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw99zr4edjrzo?at_medium=RSS&at_campaign=rss",
       "description": "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
@@ -1047,6 +1982,7 @@
       "published_at": "2026-10-06T12:55:22+00:00",
       "source": "France 24",
       "categories": [
+        "Americas",
         "World"
       ]
     },
@@ -1186,6 +2122,17 @@
       ]
     },
     {
+      "id": "9dc5535954ce659c48298ea705ceeb7df39583e6ac7fb7c5a544f96359b71383",
+      "title": "Deaf couple's unsafe home rebuilt on DIY SOS",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93j0004l8o?at_medium=RSS&at_campaign=rss",
+      "description": "The Alis' home rebuild is being shown on the BBC show after they lost £72,000 on building work.",
+      "published_at": "2026-10-06T12:23:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "6ef39ca7e62139e5d19e64345d06728c2eb66df7092e2ee4567a67e695ebe7b2",
       "title": "SAP to acquire workforce data firm TechWolf",
       "url": "https://www.channelnewsasia.com/business/sap-acquire-workforce-data-firm-techwolf-6436506",
@@ -1220,7 +2167,29 @@
       ]
     },
     {
+      "id": "5e62664a311a92fbbeb5e882c2480027df5ccde6dfac9e01f31c194857064826",
+      "title": "Catalan separatist Puigdemont cleared to return to Spain after court lifts arrest warrant",
+      "url": "https://www.france24.com/en/europe/20261006-exiled-catalan-separatist-leader-puigdemont-cleared-to-return-to-spain",
+      "description": "A Spanish Supreme Court judge on Tuesday lifted the arrest warrant for Catalan separatist leader Carles Puigdemont, clearing the way for him to return home without fear of detention ahead of a general election in November.",
+      "published_at": "2026-10-06T12:10:45+00:00",
+      "source": "France 24",
+      "categories": [
+        "Europe"
+      ]
+    },
+    {
       "id": "95742fdf1c204c75e2d0295bdb54e8b42a1835c9145915c1d40dd087dd991c17",
+      "title": "'I will decide when I retire' - McClean hits out at Derry treatment",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6pvgzkdppwvo?at_medium=RSS&at_campaign=rss",
+      "description": "Derry City player James McClean hits out at his treatment by Derry City amid an ongoing contract dispute with the club.",
+      "published_at": "2026-10-06T12:09:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "88eb688512dd08d474743e5256ad2fba34221abedcfb4671793caffa86d36c38",
       "title": "'I will decide when I retire' - McClean hits out at Derry treatment",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6pvgzkdppwvo?at_medium=RSS&at_campaign=rss",
       "description": "Derry City player James McClean hits out at his treatment by Derry City amid an ongoing contract dispute with the club.",
@@ -1503,6 +2472,17 @@
       ]
     },
     {
+      "id": "f6ff9851919f4f68166b30d7e7d934a0910b7162a00de41afda5dc4a61fa2271",
+      "title": "Man produces world's largest-ever pumpkin with 130 gallons of water a day",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd17g48xqo?at_medium=RSS&at_campaign=rss",
+      "description": "The giant squash weighs 2,856.8lbs (1,295.8kg) and measured more than 20ft (6m) in circumference.",
+      "published_at": "2026-10-06T11:24:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
       "id": "1c0583b21f3b195aa665518186d9eb71dc1fbc208448de4345f52393a93740b6",
       "title": "'Ghost particles' from space telescope wins physics Nobel",
       "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
@@ -1511,6 +2491,17 @@
       "source": "BBC",
       "categories": [
         "Science & Environment",
+        "World"
+      ]
+    },
+    {
+      "id": "896547b47e7f9dcfe74ff39207787d648d9ee4bd666e725d99ae73e901413e04",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "published_at": "2026-10-06T11:24:19+00:00",
+      "source": "BBC",
+      "categories": [
         "World"
       ]
     },
@@ -1698,12 +2689,13 @@
       "id": "0346586bde9dbce6bd4a62f8bd6ac819c95338588c7438a0e6003be632dbad34",
       "title": "ASOS app users receive push notifications apparently sent by hackers",
       "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
       "published_at": "2026-10-06T10:37:50+00:00",
       "source": "BBC",
       "categories": [
         "Business",
-        "Technology"
+        "Technology",
+        "UK"
       ]
     },
     {
@@ -1732,7 +2724,7 @@
       "id": "648977bac5b1b25510976d3ea4590ab3352a4117de24d83c1943544d5acb346e",
       "title": "Fire breaks out on rooftop of residential building in Hong Kong’s Mong Kok",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3369931/fire-breaks-out-rooftop-residential-building-hong-kongs-mong-kok?utm_source=rss_feed",
-      "description": "Firefighters battled a fierce rooftop blaze at a residential building in Hong Kong’s Mong Kok district for around an hour before dousing the flames on Tuesday. The Fire Services Department received a report at about 5.20pm that items stored on the rooftop of the 26-storey Block B at the Shun King Building on Nelson Street had caught fire. No casualties were reported, while 40 residents fled the building. Firefighters tackled the blaze with one water jet. Strong flames and thick black smoke...",
+      "description": "Firefighters battled a fierce rooftop blaze at a residential building in Hong Kong’s Mong Kok district for around an hour on Tuesday before dousing the flames. The Fire Services Department received a report at about 5.20pm that items stored on the rooftop of the 26-storey Block B of Shun King Building on Nelson Street had caught fire. No casualties were reported, while 40 residents fled the building. Firefighters tackled the blaze with one water jet. Strong flames and thick black smoke could be...",
       "published_at": "2026-10-06T10:35:24+00:00",
       "source": "SCMP",
       "categories": [
@@ -1988,6 +2980,17 @@
     },
     {
       "id": "cd7a56cba8b09bed4cbc77acc903b83f02c8e77c2ac53149d582871fa0b0e622",
+      "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wvqxjdxn5o?at_medium=RSS&at_campaign=rss",
+      "description": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
+      "published_at": "2026-10-06T09:42:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "8ed4d5426343941f524e45802116cd7795f3cd91117bcc6ed3b74c40b46357b6",
       "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm3wvqxjdxn5o?at_medium=RSS&at_campaign=rss",
       "description": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
@@ -2318,6 +3321,17 @@
     },
     {
       "id": "2685e40f21766baf7762ad9f47525c1496a059145ebe119e162eee693c258243",
+      "title": "Zionism is racist, says Scottish Green co-leader Ross Greer",
+      "url": "https://www.bbc.co.uk/news/articles/cm17k0q49nklo?at_medium=RSS&at_campaign=rss",
+      "description": "The comments have been described as \"disgusting and dangerous\" by the Scottish Conservatives.",
+      "published_at": "2026-10-06T08:53:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ef51ffe3b516fa78b6fc85d853228c14f1917907c725eed4e0a11d04edbe4a50",
       "title": "Zionism is racist, says Scottish Green co-leader Ross Greer",
       "url": "https://www.bbc.co.uk/news/articles/cm17k0q49nklo?at_medium=RSS&at_campaign=rss",
       "description": "The comments have been described as \"disgusting and dangerous\" by the Scottish Conservatives.",
@@ -2765,6 +3779,7 @@
       "published_at": "2026-10-06T07:03:35+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "UK"
       ]
     },
@@ -2810,6 +3825,7 @@
       "published_at": "2026-10-06T06:53:17+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "World"
       ]
     },
@@ -3167,6 +4183,17 @@
       ]
     },
     {
+      "id": "77c73fdd63070d857ffab1fc028f6932cda425a33593478f2c58edd406482bf0",
+      "title": "Irish budget tackles childcare and energy costs",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "description": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
+      "published_at": "2026-10-06T05:30:06+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "24678ae77f8c628c7487417f89b756e8781da634d9b1f7aaee9f19d32da2abfe",
       "title": "Last call for the mall? How shopping centres are reinventing themselves",
       "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
@@ -3190,6 +4217,17 @@
       ]
     },
     {
+      "id": "0c06cef72b91498bde17acc44211c48a0bc8fffa756baf77a9e903f01223abfc",
+      "title": "Last call for the mall? How shopping centres are reinventing themselves",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+      "description": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+      "published_at": "2026-10-06T05:28:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "97a497fb559d13f55e9fdd964ed74d00aa43806c185c47ffe4fb4e535b834348",
       "title": "DeepSeek to raise at least $12 billion in Tencent-backed funding, Bloomberg News reports",
       "url": "https://www.channelnewsasia.com/business/deepseek-raise-least-12-billion-in-tencent-backed-funding-bloomberg-news-reports-6435381",
@@ -3202,6 +4240,17 @@
     },
     {
       "id": "f452bac6fe1140cea660ae7a98dfc95ca0d601221091183a60e2150e6c36c138",
+      "title": "World's 'largest floating book fair' docks in Belfast",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzl91kp7vo?at_medium=RSS&at_campaign=rss",
+      "description": "The boat, which has a collection of over 5,000 titles, last visited Belfast in 2009.",
+      "published_at": "2026-10-06T05:27:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "66dcc5afa5c96bd9fbb61edf308e66811d9ee50dca760b82683464628168c11d",
       "title": "World's 'largest floating book fair' docks in Belfast",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzl91kp7vo?at_medium=RSS&at_campaign=rss",
       "description": "The boat, which has a collection of over 5,000 titles, last visited Belfast in 2009.",
@@ -3569,6 +4618,17 @@
     },
     {
       "id": "d713d2c700d99d052a985528d266c4d3b0ac61026833b9d3181e16ccba2409e2",
+      "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
+      "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
+      "published_at": "2026-10-06T04:57:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "bedbbf42cd6bde30189d991094daadbc34789299a38a5b5e5d018d6938ccb6e3",
       "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
       "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
@@ -3993,7 +5053,7 @@
       "id": "68172202f5af43d7e86c075d52b60c0ca6be42489a47ff61d9d560d340f68fb1",
       "title": "Hundreds of thousands demand more resources for education at French protests",
       "url": "https://www.france24.com/en/europe/20261006-gen-z-has-risen-up-tens-of-thousands-demand-better-education-in-france",
-      "description": "Students, teachers and unions took to France's streets en masse again on Tuesday to rally for better conditions in schools ahead of a hotly contested 2027 presidential election. Members of the public have accused the authorities of using disproportionate force, with one student losing a hand the day before.",
+      "description": "Mass protests over decrepit conditions at France's high schools descended into sporadic violence Tuesday, leading to nearly 500 arrests and prompting President Emmanuel Macron to call an emergency meeting. Members of the public have accused the authorities of using disproportionate force as protesters clashed with the police in several French cities.",
       "published_at": "2026-10-06T02:06:45+00:00",
       "source": "France 24",
       "categories": [
@@ -4417,6 +5477,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "162d9d9195eff8cc33312b04eef1e12926c8187704d6085120d161a7ef129693",
+      "title": "'I'm glad my miracle stroke treatment is now available 24/7'",
+      "url": "https://www.bbc.co.uk/news/articles/crp3g5n5pd1go?at_medium=RSS&at_campaign=rss",
+      "description": "An expanded service means the time of day or night a stroke occurs is no longer a barrier to treatment.",
+      "published_at": "2026-10-05T23:00:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -5416,6 +6487,17 @@
       ]
     },
     {
+      "id": "8fa401a8574d7cc2ace7d7a506ddc91c187c48061f0d2290d0e522d6816c0b32",
+      "title": "Hidden illegal poker den on industrial estate discovered by police",
+      "url": "https://www.bbc.co.uk/news/articles/c689zlnx3v9eo?at_medium=RSS&at_campaign=rss",
+      "description": "The room was fitted out with six poker tables, a large prize wheel and fridges with drinks and snacks.",
+      "published_at": "2026-10-05T17:52:37+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
       "id": "c367dd70e087bb8a36462a714e3332470f74ac6ba67c297740d556aaa430fb1b",
       "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
       "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
@@ -5754,6 +6836,17 @@
       ]
     },
     {
+      "id": "962541b3271ecea6df47c0a1f5e6f1ccda80221b23aa173987eb81ffeea16058",
+      "title": "O'Neill rejects DUP call to resign over protest",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pwp8kw6po?at_medium=RSS&at_campaign=rss",
+      "description": "Facing questions in the Stormont assembly, O'Neill said she was \"proud\" to stand with the residents and \"will continue to stand with them\".",
+      "published_at": "2026-10-05T16:28:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "09d38dcc63903de9a204d8333be07fd0a62b1c0e463be523b31a73a97f34d6bc",
       "title": "Man who killed dog walker should be deported, says judge",
       "url": "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o?at_medium=RSS&at_campaign=rss",
@@ -5883,6 +6976,17 @@
     },
     {
       "id": "77ce9e0959cbedd8b7f81078a3082ba1837250479122f443f7f918df6cf20288",
+      "title": "Omagh bombing forensic investigation was 'efficient', inquiry hears",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ldw5p6g53o?at_medium=RSS&at_campaign=rss",
+      "description": "Twenty-nine people, including a woman pregnant with twins, died when the bomb tore through Omagh town centre.",
+      "published_at": "2026-10-05T16:03:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "15e2740f5f80ade5499e2088389de429317bf77278c52fcdb24f594ec0cdf561",
       "title": "Omagh bombing forensic investigation was 'efficient', inquiry hears",
       "url": "https://www.bbc.co.uk/news/articles/cv0ldw5p6g53o?at_medium=RSS&at_campaign=rss",
       "description": "Twenty-nine people, including a woman pregnant with twins, died when the bomb tore through Omagh town centre.",
@@ -6413,6 +7517,17 @@
     },
     {
       "id": "8fb2f9eac32d29b4eea2f26330bb8707694383fb05e8800974acf78b10c9fc0b",
+      "title": "Priest pleads guilty to 109 sex offences",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgqp03z4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Edward Gallagher will be sentenced in December after pleading guilty to 109 sex offences.",
+      "published_at": "2026-10-05T14:42:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "d860a903f74ded3119337ffd3ddf1bdf6a75ec52229567d43d9c6ad326dcb629",
       "title": "Priest pleads guilty to 109 sex offences",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgqp03z4yo?at_medium=RSS&at_campaign=rss",
       "description": "Edward Gallagher will be sentenced in December after pleading guilty to 109 sex offences.",
@@ -179955,778 +181070,6 @@
         "China",
         "News",
         "World"
-      ]
-    },
-    {
-      "id": "5dd96d9335fb622664a1db7ff1cf96b4fb4f31388298047fdecd126d7ac9eb52",
-      "title": "Gatti rescues point for Juventus in 1-1 draw with AC Milan",
-      "url": "https://www.channelnewsasia.com/sport/gatti-rescues-point-juventus-in-1-1-draw-ac-milan-6366041",
-      "description": "",
-      "published_at": "2026-09-06T21:15:21+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "d2f7556014e00f9424ad71c69bffa990c5907f58df452a5d2e2a3ab9677cff15",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "published_at": "2026-09-06T20:52:12+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "9814bef7b55361b1cf534ca5b2878c6964e347ba62ae3646b18f5181cfd4951e",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "published_at": "2026-09-06T20:52:12+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "e28e465846096692f9065e70a25db737eee667adfec3295ae890064cad4e7a34",
-      "title": "10 dead, 64 injured in Mexico fireworks explosion at church festival",
-      "url": "https://www.scmp.com/news/world/americas/article/3366568/10-dead-64-injured-mexico-fireworks-explosion-church-festival?utm_source=rss_feed",
-      "description": "Pyrotechnic material exploded during the festival for a patron saint in a town in Mexico State, collapsing a wall, killing at least 10 people and injuring another 64, Mexican authorities said. The explosion happened on Saturday night next to the Nuestra Senora de la Luz church in Temascalcingo, a municipality in central Mexico with 66,000 residents. Hundreds of them were preparing to watch a fireworks display that is part of a religious festival when the blast happened. The municipality is about...",
-      "published_at": "2026-09-06T20:50:06+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "51ffee60a23db5d0c8cd106b58f18316bb284b79b81f25065ef8c23c71a2db68",
-      "title": "Alcaraz outguns Paul to reach US Open quarter-finals",
-      "url": "https://www.channelnewsasia.com/sport/alcaraz-outguns-paul-reach-us-open-quarter-finals-6366021",
-      "description": "",
-      "published_at": "2026-09-06T20:46:38+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "37dc15f4ebe31a6552858c1727fbae5e98e2fb8c186f6226c45acd75d681d252",
-      "title": "Outstanding Alcaraz outguns Paul to reach US Open quarter-finals",
-      "url": "https://www.channelnewsasia.com/sport/outstanding-alcaraz-outguns-paul-reach-us-open-quarter-finals-6366021",
-      "description": "",
-      "published_at": "2026-09-06T20:46:38+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "21f0a78364f4b1fe03341a2f0f14c8a9e4888a615ef9fe16741435ff7533f9d0",
-      "title": "Video shows damaged Amazon cargo plane after crash",
-      "url": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
-      "description": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
-      "published_at": "2026-09-06T20:41:48+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "83e415e636511bda8950a0b30c4b6c6f026eabaeaf6b06d3851f681004e388da",
-      "title": "More funding needed to boost construction jobs for young people, housing boss says",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-      "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
-      "published_at": "2026-09-06T20:38:47+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "61936e4e692e029b0f6697bec796d30e365593417fb08d1af8932d06536c7e6b",
-      "title": "More funding needed to boost construction jobs for young people, housing boss says",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-      "description": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
-      "published_at": "2026-09-06T20:38:47+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "8a6d5ce784b9f757ffcb4bd791a445ef0433bbe6de386d955aac82e8cb3edab3",
-      "title": "Chemo hair loss doesn't define me - it's a symbol that I'm strong",
-      "url": "https://www.bbc.co.uk/news/articles/c24jpevmgdzo?at_medium=RSS&at_campaign=rss",
-      "description": "The beauty and resilience of women living with cancer is celebrated though photography.",
-      "published_at": "2026-09-06T20:38:27+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "d2905b6963b05cec72659ac77b6fa9255ca1d816aa49183c5981c52a9e059daa",
-      "title": "Raise the Colours founder charged with 14 offences",
-      "url": "https://www.bbc.co.uk/news/articles/c4gm8re4z7po?at_medium=RSS&at_campaign=rss",
-      "description": "Ryan Bridge faces a string of charges including racially aggravated harassment, threats and assault.",
-      "published_at": "2026-09-06T20:35:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "England",
-        "UK"
-      ]
-    },
-    {
-      "id": "1e1426cd83856fc17b8ce94c4938d7036e0e6b66759803c4fc73048e9a491736",
-      "title": "Raise the Colours founder charged with 14 offences",
-      "url": "https://www.bbc.co.uk/news/articles/c4gm8re4z7po?at_medium=RSS&at_campaign=rss",
-      "description": "Ryan Bridge faces a string of charges including racially aggravated harassment, threats and assault.",
-      "published_at": "2026-09-06T20:35:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "742fa6a274069c8bd143c1d7ed2bfea17882fbb3116e58f2f1cc04f74284ea7a",
-      "title": "Four wins in a row, but can it only get better for Hearts?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&at_campaign=rss",
-      "description": "Hearts move up to second place in the Premiership as new head coach Wouter Vrancken gets to grips with a much-changed squad at Tynecastle.",
-      "published_at": "2026-09-06T20:30:28+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "5504c46693e84266be0548de810433b1106b0d35aa8a196c073faad9048ee6b4",
-      "title": "Amazon cargo plane crashes, bursts into flames at Miami airport after overshooting runway",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3366567/amazon-cargo-plane-crashes-bursts-flames-miami-airport-after-overshooting-runway?utm_source=rss_feed",
-      "description": "An Amazon cargo plane barrelled off a runway at Miami International Airport on Sunday, striking multiple vehicles and bursting into flames in a crash that sent thick black smoke billowing into the sky and forced the closure of all runways at one of the nation’s busiest airports. More than 60 Miami-Dade Fire Rescue units responded to the crash, arriving to find the aircraft on fire as crews worked to extinguish the flames and assess patients. Officials had not yet released information on injuries...",
-      "published_at": "2026-09-06T20:28:02+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "4d66fcaeade10344a0597561bf989b20448c543a9c36caeff2bd743ef89762c3",
-      "title": "Amazon cargo plane overshoots Miami runway, hits vehicles, catches fire",
-      "url": "https://www.channelnewsasia.com/world/amazon-cargo-plane-overshoots-miami-runway-hits-vehicles-catches-fire-6365981",
-      "description": "",
-      "published_at": "2026-09-06T20:28:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "9b69b8f2bbd6e52e489564193040627c8f9b8d7e6c3a40f5d8e69549d3423d13",
-      "title": "Five dead, five injured after Amazon cargo plane overshoots Miami runway",
-      "url": "https://www.channelnewsasia.com/world/five-dead-five-injured-after-amazon-cargo-plane-overshoots-miami-runway-6365981",
-      "description": "",
-      "published_at": "2026-09-06T20:28:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "f8c8415653ad5124acdda71496bf12f3c41fe6cfa438f8d5422816af2da2fa88",
-      "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
-      "description": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
-      "published_at": "2026-09-06T20:25:24+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "38c9ba1c07a2f4886f82d50d482f23fa30c23f40aa63d866ab106cd347ad49f0",
-      "title": "GB&I make history with first Walker Cup since 2015",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cwyzr5kw491o?at_medium=RSS&at_campaign=rss",
-      "description": "Great Britain and Ireland produce the biggest comeback in Walker Cup history to defeat the United States and lift the trophy for the first time since 2015.",
-      "published_at": "2026-09-06T20:12:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "c24eb251a5416d4a674a7f9f7d510a778e89f3bebe069a94ca60b0bfc33a49ab",
-      "title": "Former BBC journalist Stephen Walker dies, aged 61",
-      "url": "https://www.bbc.co.uk/news/articles/c33k1xdzgrlo?at_medium=RSS&at_campaign=rss",
-      "description": "During a high-profile career at the BBC for three decades, he was an investigative reporter on the Spotlight programme, as well as being both London correspondent and political correspondent.",
-      "published_at": "2026-09-06T20:12:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "443b018536ec15cf191685ef6ca04e3f52b712f66ff6551839bec639f94cc59f",
-      "title": "Former BBC journalist Stephen Walker dies, aged 61",
-      "url": "https://www.bbc.co.uk/news/articles/c33k1xdzgrlo?at_medium=RSS&at_campaign=rss",
-      "description": "During a high-profile career at the BBC for three decades, he was an investigative reporter on the Spotlight programme, as well as being both London correspondent and political correspondent.",
-      "published_at": "2026-09-06T20:12:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "a4077743baf57c223f5fbed16f0aba87ab8986bec32e2c8cf840ce267729b703",
-      "title": "Former BBC journalist Stephen Walker dies, aged 61",
-      "url": "https://www.bbc.co.uk/news/articles/c33k1xdzgrlo?at_medium=RSS&at_campaign=rss",
-      "description": "During a high-profile career at the BBC for three decades, he was an investigative reporter on the Spotlight programme, as well as being both London correspondent and political correspondent.",
-      "published_at": "2026-09-06T20:12:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "dd274183f3a6719144a6a7deb9886cf333e60923d4c0dd2bc29e27b8feab8d8e",
-      "title": "Sabalenka, Noskova book US Open showdown with confident fourth-round wins",
-      "url": "https://www.channelnewsasia.com/sport/sabalenka-noskova-book-us-open-showdown-confident-fourth-round-wins-6365971",
-      "description": "",
-      "published_at": "2026-09-06T20:10:09+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "532bcaa8cdbaeba3937fa5436cf0373cb4d2c9f788396d1778ababffa661673d",
-      "title": "Alcaraz builds steam at US Open, Sabalenka and Noskova book showdown",
-      "url": "https://www.channelnewsasia.com/sport/alcaraz-builds-steam-us-open-sabalenka-and-noskova-book-showdown-6365971",
-      "description": "",
-      "published_at": "2026-09-06T20:10:09+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "39b7c147b59038ec63490cbe98a0bdba3eed1fe290ad2138e18e3001485395f8",
-      "title": "Iran will declare a ‘prohibited zone’ near Hormuz in coming days: security chief",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief?utm_source=rss_feed",
-      "description": "The new head of Iran’s Supreme National Security Council on Sunday said Tehran plans to announce an “exclusion zone” outside the Strait of Hormuz aimed at vessels it believes are attempting to transit the waterway. Mohsen Rezaei’s comments to Iran’s state broadcaster came with few details, a day after the US struck three Iranian oil tankers in response to Tehran launching ballistic missiles at US warships. Experts called the launches a dangerous escalation after Iran’s previous attacks at sea...",
-      "published_at": "2026-09-06T19:53:02+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "b4099b05a4a7512289c1d4c252aca56f9aeddd7a88acd69bf00f2a242b29d32d",
-      "title": "Arteta says Arsenal can surpass title-winning level after statement Chelsea win",
-      "url": "https://www.channelnewsasia.com/sport/arteta-says-arsenal-can-surpass-title-winning-level-after-statement-chelsea-win-6365951",
-      "description": "",
-      "published_at": "2026-09-06T19:52:59+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "2fe88ab892a53f0f60393426c74f1e4f4119acbbfc6985916982389f7c802e63",
-      "title": "Lebanon president calls for US help as Israeli strikes continue",
-      "url": "https://www.channelnewsasia.com/world/lebanon-president-calls-us-help-israeli-strikes-continue-6365941",
-      "description": "Israeli strikes kill at least seven in south Lebanon, damaging state offices and destroying an out-of-service hospital despite a truce framework deal.",
-      "published_at": "2026-09-06T19:51:56+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "3183d3f7b9dabda87d8e428eb5cdbde9b74ea2841729e20b50029d6c9f4c65b0",
-      "title": "Noskova battles past Kostyuk to reach US Open quarters",
-      "url": "https://www.channelnewsasia.com/sport/noskova-battles-past-kostyuk-reach-us-open-quarters-6365946",
-      "description": "",
-      "published_at": "2026-09-06T19:45:57+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "857053b5418f614db902ad0831db54f09ff05217fa6c01555a3304a90cd65607",
-      "title": "Noskova prepared for anything against quarter-final foe Sabalenka",
-      "url": "https://www.channelnewsasia.com/sport/noskova-prepared-anything-against-quarter-final-foe-sabalenka-6365946",
-      "description": "",
-      "published_at": "2026-09-06T19:45:57+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "907bad370f52fbd4cf269edfddb13f91d7b37a4c913351cec26afe998b20160e",
-      "title": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
-      "description": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
-      "published_at": "2026-09-06T19:31:17+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "92f376d37c4e002285b0346ba92eff336e7c36ab70f79346416b930351a66db7",
-      "title": "Still on court after 20 years, the Honey Deuce keeps winning at the US Open",
-      "url": "https://www.channelnewsasia.com/sport/still-court-after-20-years-honey-deuce-keeps-winning-us-open-6365911",
-      "description": "",
-      "published_at": "2026-09-06T19:16:13+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "2295e045c283040a4b45763ee15fe05c045607472ca4ade662f8afc9cd62a6e2",
-      "title": "Two killed as car hits group of cyclists",
-      "url": "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss",
-      "description": "Three people have been arrested in connection to the incident near Gravesend.",
-      "published_at": "2026-09-06T19:15:36+00:00",
-      "source": "BBC",
-      "categories": [
-        "England",
-        "UK"
-      ]
-    },
-    {
-      "id": "1cfcfa3d955a50d2619c1b7e890fd737949723725cc8b55df03a9d5b9df0ad15",
-      "title": "Two killed as car hits group of cyclists",
-      "url": "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss",
-      "description": "Three people have been arrested in connection to the incident near Gravesend.",
-      "published_at": "2026-09-06T19:15:36+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "57f7825d973ae33ab7cccc213335bbfed2d18c408c515f94f1b11a72ceda9510",
-      "title": "Kimi is in control of title race and deserves to be, says Russell",
-      "url": "https://www.channelnewsasia.com/sport/kimi-in-control-title-race-and-deserves-be-says-russell-6365906",
-      "description": "",
-      "published_at": "2026-09-06T19:12:11+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "62441ecf28fd1ea4ef61e5ac1383e1394a353ce97317841e30ef98399eabf754",
-      "title": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say",
-      "url": "https://www.channelnewsasia.com/world/israels-netanyahu-orders-west-bank-settler-outposts-be-removed-sources-say-6365756",
-      "description": "",
-      "published_at": "2026-09-06T19:08:04+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "23f6b8cf19dc7fa00b65cedfed9ca05740f4fd47bbc7b42706983aedd79f332a",
-      "title": "Bellingham and Rogers chips mural vandalised",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8l0jy8eo?at_medium=RSS&at_campaign=rss",
-      "description": "The artwork depicts the Black Country-born footballers tucking into the local delicacy.",
-      "published_at": "2026-09-06T19:00:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "804e91dc1d657e8f04ef17c54fe5a8c1847a33d85db4375699b4e3d0679d4072",
-      "title": "Bellingham and Rogers orange chips mural vandalised",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8l0jy8eo?at_medium=RSS&at_campaign=rss",
-      "description": "The artwork depicts the Black Country-born footballers tucking into the local delicacy.",
-      "published_at": "2026-09-06T19:00:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "b2dc478026085edde6f4ba61a3156b1cd033ba4dbd058a19ac3f4c6932dd96ca",
-      "title": "Y clwb syrffio sydd â'r nod o 'wella lles meddyliol a chorfforol'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgjq8e8nv9po?at_medium=RSS&at_campaign=rss",
-      "description": "Mae clwb Tonic Surf yn cynnig cefnogaeth i unigolion o bob oedran sy'n wynebu heriau iechyd meddwl.",
-      "published_at": "2026-09-06T19:00:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "c15e09dbb9e600b94e50d0182c518cacde7a8c93a56030b505bb4160a54abf0b",
-      "title": "Nepali rescuers buoyed by miracle finds but tough conditions persist",
-      "url": "https://www.channelnewsasia.com/asia/nepali-rescuers-buoyed-miracle-finds-tough-conditions-persist-6365891",
-      "description": "",
-      "published_at": "2026-09-06T18:50:50+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "efa777cf4324553325359582a3b9043b291850d569f1ca4038bcb825b2f6a750",
-      "title": "EU Commission chief Von der Leyen visits Greenland to sign new partnership deal",
-      "url": "https://www.scmp.com/news/world/europe/article/3366565/eu-commission-chief-von-der-leyen-visits-greenland-sign-new-partnership-deal?utm_source=rss_feed",
-      "description": "The EU plans to deepen its cooperation with Greenland despite US President Donald Trump’s claims of control over the Arctic island, as European Commission President Ursula von der Leyen arrived on Sunday for a two-day visit. Von der Leyen travelled to the resource-rich island, where a new EU-Greenland declaration is to be signed on Monday. Investment pledges running into the hundreds of millions are also expected. On her arrival, von der Leyen said the visit was about further cementing a unique...",
-      "published_at": "2026-09-06T18:44:34+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "dfc170e312642f3734bf2bf3e8abad738f50ced4f8a9ffd3b5423fd7932d8ebd",
-      "title": "Jeweller fends off would-be ram raiders",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr71gn1meo?at_medium=RSS&at_campaign=rss",
-      "description": "Mohammed Ali says he helped scare off a masked gang at his store in Bradford on Saturday.",
-      "published_at": "2026-09-06T18:44:32+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "3752baaafb0e5eb1582308ff1df674a966103e40fcfce36e562349e6665e9f16",
-      "title": "Hamilton wants written rules of engagement at Ferrari after Leclerc clash",
-      "url": "https://www.channelnewsasia.com/sport/hamilton-wants-written-rules-engagement-ferrari-after-leclerc-clash-6365901",
-      "description": "",
-      "published_at": "2026-09-06T18:40:53+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "27b1798ec34cc0dfcc423e5fe16dc766584bebad2a395bdb59a7fa237bd5397c",
-      "title": "AfD celebrate projected win in Saxony-Anhalt",
-      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "description": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
-      "published_at": "2026-09-06T18:32:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "a9dd49eacc2a0fd61eefcb6c5b176d7e1e2110522359668eac48e3b0f8488148",
-      "title": "Germany's far-right AfD celebrate projected win in state election",
-      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "description": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
-      "published_at": "2026-09-06T18:32:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "8765b2bd9b569bb41359fa46a77faa2985a454bbaf712a26ecdf3517ab0ca8c6",
-      "title": "Man found stabbed after car crash 'brought happiness to everyone'",
-      "url": "https://www.bbc.co.uk/news/articles/c1j45yxj211o?at_medium=RSS&at_campaign=rss",
-      "description": "Three men remain in custody after Jamie Evans died from a single knife wound.",
-      "published_at": "2026-09-06T18:29:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "aa26565d6bdcb205ffc9409cafab2c874cc21898fcafd514f09e2dfc19e5af8f",
-      "title": "US envoys make first Kyiv visit amid Ukraine war peace push",
-      "url": "https://www.channelnewsasia.com/world/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-6365591",
-      "description": "",
-      "published_at": "2026-09-06T18:08:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "9829ee7a81289c3d7ba22fe110e0eae8726de41406e97f613ea8f5278fc44484",
-      "title": "Mainz thrash Hamburg, Augsburg go top with win in Frankfurt",
-      "url": "https://www.channelnewsasia.com/sport/mainz-thrash-hamburg-augsburg-go-top-win-in-frankfurt-6365871",
-      "description": "",
-      "published_at": "2026-09-06T17:57:52+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "338af1c634035214419b157eafc69332d133e931897b551e0d9a41ed92f72800",
-      "title": "Like a walk on water: Wolff hails Antonelli's Monza miracle",
-      "url": "https://www.channelnewsasia.com/sport/walk-water-wolff-hails-antonellis-monza-miracle-6365876",
-      "description": "",
-      "published_at": "2026-09-06T17:56:51+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "1d821d20c141f59876c4b035a08dd8884892b69b4bc4e36ce7974a49d112c0f9",
-      "title": "Sierra Leone ex-president returns to country after treason case dropped",
-      "url": "https://www.scmp.com/news/world/africa/article/3366564/sierra-leone-ex-president-returns-country-after-treason-case-dropped?utm_source=rss_feed",
-      "description": "Former Sierra Leone president Ernest Bai Koroma returned to his home country on Sunday, where authorities welcomed him after treason charges against him over an alleged coup attempt were dropped. Koroma had left for Nigeria in 2024, days after being charged with treason and other offences over a deadly 2023 army uprising. The former president, who led Sierra Leone from 2007 to 2018, arrived at the international airport in the capital, Freetown, accompanied by Nigerian ex-president Olusegun...",
-      "published_at": "2026-09-06T17:50:08+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "d2fbdedd400553d6740df6b11d038b8fb1757fa7101ea217560fac3b12ca86e9",
-      "title": "Sabalenka fights past Townsend into US Open quarters",
-      "url": "https://www.channelnewsasia.com/sport/sabalenka-fights-past-townsend-us-open-quarters-6365866",
-      "description": "",
-      "published_at": "2026-09-06T17:48:26+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "df38ef6fa9b3a72276d19122178fed6786d8f6040f2275d65a97b02cb1efe204",
-      "title": "Firefighters tackle blaze in fourth floor tenement flat in Glasgow",
-      "url": "https://www.bbc.co.uk/news/articles/c75035k54lxo?at_medium=RSS&at_campaign=rss",
-      "description": "Pictures posted on social media show flames emerging from the roof of a building which was covered in scaffolding in Possilpark.",
-      "published_at": "2026-09-06T17:39:48+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "cef3ce1d9059d1e7770fd39bea3c65c50d6ac4d175c30880167eee743b1cb195",
-      "title": "Arsenal pass Chelsea test in style with comeback win",
-      "url": "https://www.channelnewsasia.com/sport/arsenal-pass-chelsea-test-in-style-comeback-win-6365861",
-      "description": "",
-      "published_at": "2026-09-06T17:39:14+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "a4ebf3e8845598b2087c98ae6afcac74c86976c1b9ae6a19bd60b93936b58b52",
-      "title": "\"Ready to talk\": German far-right celebrates victory",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260906-ready-to-talk-german-far-right-celebrates-victory",
-      "description": "\"Everything is possible\" was the campaign slogan of the Alternative for Germany (AfD) in Saxony-Anhalt, where the far-right party has won a landslide election victory, although they appear short of a majority in the state parliament. Ulrich Siegmund, who is in pole position to become the state leader, knows he has history in his grasp. We get reaction from CSU MP Tobias Winkler.",
-      "published_at": "2026-09-06T17:32:02+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe",
-        "World"
-      ]
-    },
-    {
-      "id": "a8adf8a6f1f92f9a31681b554a6d04789205378f3e21217a8340ae4b64a05921",
-      "title": "Record heat leaves flower growers short of blooms",
-      "url": "https://www.bbc.co.uk/news/articles/cjw5q55p9j6o?at_medium=RSS&at_campaign=rss",
-      "description": "The hottest summer on record makes growing flowers difficult, as demand for British flowers rises.",
-      "published_at": "2026-09-06T17:32:02+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "df73cbed25871b447c104ad65a627f5df9609e118beefcf0795a76f53a9f6278",
-      "title": "Lebanon’s president appeals to US for help as Israeli strikes kill 7",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed",
-      "description": "Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks, which killed at least seven people on Sunday despite a truce and a framework deal aimed at halting the violence. Israel said it had targeted Hezbollah operatives and sites in response to a drone attack a day earlier by the Iran-backed group on its troops in the vicinity of a strategic south Lebanon ridge. It reported no casualties but accused Hezbollah of a “blatant violation”. Israel...",
-      "published_at": "2026-09-06T17:11:56+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "b5ff609640ca23bca4c406283ac620c6a38f5d183a94f4f8b14276e5474bad8c",
-      "title": "Carrick hurt by stoppage-time blow in Man United draw at Everton",
-      "url": "https://www.channelnewsasia.com/sport/carrick-hurt-stoppage-time-blow-in-man-united-draw-everton-6365841",
-      "description": "",
-      "published_at": "2026-09-06T17:04:37+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "eff9c168dba940f2deab06d9597e16b9c7731025b105bbb9f76c113af4f7c9d8",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "published_at": "2026-09-06T17:00:56+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "6a92e6f9a09e2d8cde7611ceebdd2dd8334ebe4df2b2a5493459ae82f59fb276",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "published_at": "2026-09-06T17:00:56+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "92ef5720c59ab6c61c94969fdc2c6edb56df1d925c940afdc1ba9846968166db",
-      "title": "German far-right set for big win in eastern state - projections",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "published_at": "2026-09-06T16:59:25+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "e1419d243649d0aa5973a0cb69bd08c51b96877afbf8bb7549b6faca8e5adf8a",
-      "title": "US Open day eight",
-      "url": "https://www.channelnewsasia.com/sport/us-open-day-eight-6365826",
-      "description": "",
-      "published_at": "2026-09-06T16:58:24+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "0c7fd6667dbf007b2645b038e0b62d384f28b625a57f8290524a1dbf6c3e8326",
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "description": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
-      "published_at": "2026-09-06T16:54:34+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "46753cc38556943c0ca39c96a94d82bd704ce2765d86c703293484b9c1b5bda4",
-      "title": "Jamaica to bring slavery reparations petition to King Charles",
-      "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
-      "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
-      "published_at": "2026-09-06T16:39:45+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "41ca0d401364a56d3f1cd6ffb704e1f6ed2cc129bb3f4576fcc3c2bf285d0073",
-      "title": "Fermin shines for Barcelona in thumping win at Valencia",
-      "url": "https://www.channelnewsasia.com/sport/fermin-shines-barcelona-in-thumping-win-valencia-6365816",
-      "description": "",
-      "published_at": "2026-09-06T16:38:35+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "2d4d2c02b148a963931e03272e0a7c89ad5d239b722ab838263da81e5cfc8836",
-      "title": "Germany’s far-right AfD is landslide winner in Saxony-Anhalt vote, exit polls indicate",
-      "url": "https://www.scmp.com/news/world/europe/article/3366562/germanys-far-right-afd-landslide-winner-eastern-state-vote-exit-polls-indicate?utm_source=rss_feed",
-      "description": "Germany’s far-right Alternative for Germany (AfD) won key regional elections on Sunday by a landslide with at least 44 per cent of the vote in the eastern state of Saxony-Anhalt, said exit polls by two public broadcasters. The AfD was far ahead of the centre-right CDU of Chancellor Friedrich Merz, which stood at 18.5 per cent, but it was too early to say whether the far-right party would win an absolute majority, said public broadcasters ARD and ZDF. The anti-immigration AfD is seeking to become...",
-      "published_at": "2026-09-06T16:36:27+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "20c597aa7f94ba87200099cc1cee81fa090882c239f54b6dfdd37ae699216381",
-      "title": "140 migrants in single dinghy rescued in English Channel",
-      "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-      "description": "The government condemns \"thuggish behaviour\" in the second major anti-migrant protest of the weekend.",
-      "published_at": "2026-09-06T16:28:59+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "UK"
-      ]
-    },
-    {
-      "id": "6f4ce4ed420d32b9e190b1e60dc99e67ba3767278221b3344aa6358698bf90f2",
-      "title": "Police officer headbutted and left with 'significant facial injury'",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvzvjye3lo?at_medium=RSS&at_campaign=rss",
-      "description": "Officers were responding to a disturbance at a flat on Saturday.",
-      "published_at": "2026-09-06T16:23:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "37c062a496ed56267d53535e6321877f363462f17b33c9fe1d72d348d28c527b",
-      "title": "Police officer headbutted and left with 'significant facial injury'",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvzvjye3lo?at_medium=RSS&at_campaign=rss",
-      "description": "Officers were responding to a disturbance at a flat on Saturday.",
-      "published_at": "2026-09-06T16:23:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "186952d9963a5e02d35344d13f6d303a59ad150a76a25f1b7d72f049ab02c651",
-      "title": "Police officer headbutted and left with 'significant facial injury'",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvzvjye3lo?at_medium=RSS&at_campaign=rss",
-      "description": "Officers were responding to a disturbance at a flat on Saturday.",
-      "published_at": "2026-09-06T16:23:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
       ]
     }
   ]
