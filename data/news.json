@@ -1,6 +1,214 @@
 {
-  "last_updated": "2026-10-24T22:08:27.956183+00:00",
+  "last_updated": "2026-10-25T00:39:23.605457+00:00",
   "articles": [
+    {
+      "id": "f16366d93e21ea3311b410287f2e1a7d13ba68782e1e33563e27e4a8036c48fe",
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+      "published_at": "2026-10-25T00:33:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "b7017dec3374e21ca50935eae9d1f40ae3c4091a4fb76945959fedca48798fa1",
+      "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+      "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+      "description": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
+      "published_at": "2026-10-25T00:00:14+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "a2f42cf2cf243bad42a6e53bcab4275831c61405393861d87766afc8eced568a",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "published_at": "2026-10-24T23:15:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment",
+        "UK"
+      ]
+    },
+    {
+      "id": "e28c5667a7e9c1782fe281e9845dd3e9804c43e1ef8811dbf327ec9b1a220f39",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "published_at": "2026-10-24T23:15:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Science & Environment",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "14e47dbc0d82ce427171d88fe9b6765135f4f96fef4bdb78937ef49d3caf9f6c",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "published_at": "2026-10-24T23:15:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "757530feba7f6c834529ef874b150e54e9efa9dccb3fa9f6d4b9e46f1d41f0f9",
+      "title": "Why the charts are full of old songs - and so are your playlists",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "description": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "published_at": "2026-10-24T23:05:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "45726c4a6c187ebb8db80a02b33a0da325aedfac8cba9c6cc5101627c95fd20c",
+      "title": "'An IRA boss wanted me dead - my best mate was killed beside me'",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxlnrpp30zo?at_medium=RSS&at_campaign=rss",
+      "description": "The survivor of a notorious knife murder speaks of his guilt over the way the attack unfolded and the failure to catch the killers.",
+      "published_at": "2026-10-24T23:04:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "ec711aadf62859f6d72e859facace8acfce0bfb741a7aeb6a9c42fcaf9e48b63",
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "description": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "published_at": "2026-10-24T23:03:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "fda88c4f46433f1f9a3cf70aa06ee5bf2aaa2abeb3330f4c7033bb07df7f94ea",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "published_at": "2026-10-24T23:02:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland",
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "70d187878ecb07246762208c654de6eba08ea61cac8620effed872b4e41cb020",
+      "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-remains-unhealthy-across-country-pm25-readings-normal-in-all-regions-6489876",
+      "description": "At 8am, the 24-hour PSI readings ranged from 103 to 138, while the hourly PM2.5 readings ranged from 43 to 55.",
+      "published_at": "2026-10-24T22:59:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "f6e2067fd8215319ef04eec24d08111edf848c8e5a5d147285648341241d00a8",
+      "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats",
+      "description": "Former US president Barack Obama delivered a scathing critique of his successor, Donald Trump, at a rally in Ohio on Saturday to support Democratic candidates ahead of the November 3 midterm elections. “After two years of chaos and cruelty and corruption and incompetence, the likes of which we have not seen in the modern era, you get a chance to say, ‘Enough is enough,’” Obama declared in Cleveland. “We are voting for change right here in Ohio.” The 65-year-old Democrat blamed the Trump...",
+      "published_at": "2026-10-24T22:50:31+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "4b2c1bf30fe127906722f9f5d9cc2ba60064388c1985590abed61502630aa375",
+      "title": "Behind the facade of this Emerald Hill shophouse is a home full of surprises",
+      "url": "https://www.channelnewsasia.com/remarkable-living/emerald-hill-shophouse-interior-design-6481481",
+      "description": "From restored architectural details to unexpected spaces for art and entertaining, this historic Singapore home brings together old and new in imaginative ways.",
+      "published_at": "2026-10-24T22:48:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b8da59cf3ae6fae0349ec2eda86e7b90dec72c4819fd2a03ac9ac1e387a0a312",
+      "title": "What can a biological age test actually tell you?",
+      "url": "https://www.channelnewsasia.com/wellness/biological-age-tests-6466301",
+      "description": "Experts weigh in on the tests’ current accuracy and usefulness.",
+      "published_at": "2026-10-24T22:46:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cff8aae94705250d656ea0c48a21825e26cd9629ead3922cc5e15330f21d6037",
+      "title": "This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy death’",
+      "url": "https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916",
+      "description": "Mariam Jumaat once believed good nursing meant helping patients get better and did not want to work with dying patients. Now, the home palliative care nurse helps them spend their final days comfortably at home, surrounded by the people they love.",
+      "published_at": "2026-10-24T22:45:46+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "c2864cb3f4810fcc68b8f203882317005102e9b3c8168d2a25db6750f71c7302",
+      "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&at_campaign=rss",
+      "description": "The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.",
+      "published_at": "2026-10-24T22:31:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "c432ef9db2c1b64088bf72ca27b09dce2c4ee9811172435bec6dc782c780736b",
+      "title": "The Californian whose pumpkin patch dream took root in Fife",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlneqgenqxo?at_medium=RSS&at_campaign=rss",
+      "description": "American Cameron Laird introduced pumpkin-picking to her husband John's farm 28 years ago.",
+      "published_at": "2026-10-24T22:26:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "cf245c7d52d3a7704ef8cc6acfd6d89bdc84a03307546a4f691bc278449b10c6",
+      "title": "Antonelli on pole for US Grand Prix with F1 title in sight",
+      "url": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861",
+      "description": "",
+      "published_at": "2026-10-24T22:14:25+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "dcc6c37d0a8f6b6a22f30caf0106202df9f259d746bf0c4a015658f611514398",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "published_at": "2026-10-24T22:08:47+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "4a2ea6f8f4f4a9bea6eab0fd5ef9eae60dddc8f17fa23fa9f7039947020be071",
       "title": "China’s next generation of leaders waiting in the wings for more senior roles",
@@ -712,6 +920,17 @@
       ]
     },
     {
+      "id": "103032048a2802881202cedbcd5913e747d88cc87953a2fd941192550199a6d4",
+      "title": "The rise of new black spaces in music",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynw9w07lpo?at_medium=RSS&at_campaign=rss",
+      "description": "Young black creatives are continuing a tradition of carving out spaces to dance, connect and belong.",
+      "published_at": "2026-10-24T16:03:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "0882dd540be1297e5efd2e6840bb03abffe98bb054143115fed9465069e1d7db",
       "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
       "url": "https://www.bbc.co.uk/news/articles/cw30ej25lvypo?at_medium=RSS&at_campaign=rss",
@@ -721,6 +940,17 @@
       "categories": [
         "Entertainment & Arts",
         "Wales"
+      ]
+    },
+    {
+      "id": "1a8c9ed93ef68804fd06fdecd9fd73126ca0bd414d8be423447747355b5b1c0f",
+      "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
+      "url": "https://www.bbc.co.uk/news/articles/cw30ej25lvypo?at_medium=RSS&at_campaign=rss",
+      "description": "Keith Brymer Jones and Marj Hogarth are to marry in their chapel home in Pwllheli in May 2027.",
+      "published_at": "2026-10-24T15:59:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
       ]
     },
     {
@@ -947,6 +1177,7 @@
       "published_at": "2026-10-24T14:29:47+00:00",
       "source": "BBC",
       "categories": [
+        "Scotland",
         "UK"
       ]
     },
@@ -1314,6 +1545,7 @@
       "published_at": "2026-10-24T12:15:29+00:00",
       "source": "BBC",
       "categories": [
+        "Entertainment & Arts",
         "UK"
       ]
     },
@@ -1325,7 +1557,8 @@
       "published_at": "2026-10-24T12:15:29+00:00",
       "source": "BBC",
       "categories": [
-        "England"
+        "England",
+        "UK"
       ]
     },
     {
@@ -1476,6 +1709,17 @@
       "source": "BBC",
       "categories": [
         "England",
+        "UK"
+      ]
+    },
+    {
+      "id": "957bbdfc71d3bac8cf3a711be3764d8427b97cd5b546124d13811f34a7b6ab3a",
+      "title": "Could Somerset pub be the oldest in England?",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o?at_medium=RSS&at_campaign=rss",
+      "description": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub.",
+      "published_at": "2026-10-24T11:32:46+00:00",
+      "source": "BBC",
+      "categories": [
         "UK"
       ]
     },
@@ -2605,6 +2849,17 @@
       ]
     },
     {
+      "id": "02cf06327368c2f4c2c809117fe1704c5e38dc78caba109e3c7b7c69622d1628",
+      "title": "Ireland's Junior Eurovision duo to step onto 'magical' stage",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg5k8mgv5yo?at_medium=RSS&at_campaign=rss",
+      "description": "Ireland's representatives contain 13-year-old Naomi from Mayobridge, County Down.",
+      "published_at": "2026-10-24T05:43:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "30b870d5236a4219a2cf6ac1a1c19d69a2135006673e55b211378672d00845f8",
       "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
@@ -3381,6 +3636,17 @@
       "source": "BBC",
       "categories": [
         "UK"
+      ]
+    },
+    {
+      "id": "96086b68331d8d962013f21435b4b9f8cda440b1bd39888a7e62acdbd551a97c",
+      "title": "The gang murder and the women who went to the White House looking for answers",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w12yz0po?at_medium=RSS&at_campaign=rss",
+      "description": "The fallout of the murder of 33-year-old Robert McCartney, a father-of-two, reverberated around the world - forcing the IRA to acknowledge several of its members were involved.",
+      "published_at": "2026-10-23T23:01:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
       ]
     },
     {
@@ -7713,6 +7979,7 @@
       "published_at": "2026-10-23T06:47:10+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "UK"
       ]
     },
@@ -9293,6 +9560,17 @@
     },
     {
       "id": "08254e636100d1a05a99a8ade9701129f3fc7f61af367e0744fe01c22de4bd70",
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
+      "description": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "published_at": "2026-10-23T00:14:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
+      "id": "e9b2d36bf5ff461c98b8e1cf9e632dd9f35bbc6d23afbd5206f851041e4cd95c",
       "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
       "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
       "description": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
@@ -172572,644 +172850,6 @@
       "source": "BBC",
       "categories": [
         "UK"
-      ]
-    },
-    {
-      "id": "5abc638a649b9917887ffdeb6cbb778044364cdadeb79d8affceb9947c1b8830",
-      "title": "Legislation among options to regulate minors’ social media use: justice minister",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368710/legislation-among-options-regulate-minors-social-media-use-justice-minister?utm_source=rss_feed",
-      "description": "Introducing legislation to protect minors by regulating social media use is among the options on the table, Hong Kong’s justice minister has said, after the latest policy address unveiled plans to create a task force to review the situation. Speaking to the South China Morning Post and other media outlets on Wednesday, Secretary for Justice Paul Lam Ting-kwok dismissed concerns that such measures could infringe on individual rights and freedoms, emphasising that the goal was to protect children...",
-      "published_at": "2026-09-25T00:30:12+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "eb6060e5b421151b7aac4eb9457d93eee32605166a408a07f84f2e402bb3f35b",
-      "title": "Culinary diplomacy on the menu for Xi and Trump at the White House",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368729/culinary-diplomacy-menu-xi-and-trump-white-house?utm_source=rss_feed",
-      "description": "As Donald Trump and Xi Jinping meet at the White House for a state dinner on Thursday, culinary diplomacy is on the menu for guests who include business leaders and government officials. “The menu showcases American ingredients with subtle Chinese influence, bringing the culinary traditions of both nations together,” the office of American first lady Melania Trump said. Xi is dressed in a black Zhongshan suit – colloquially known as a “Mao suit” – while Chinese first lady Peng Liyuan is wearing...",
-      "published_at": "2026-09-25T00:17:37+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "34f68a049f54402f0990ec471c09ade2f7ed7b9b6e420cab62f3160835d1dd2c",
-      "title": "Five takeaways from Trump's summit with Xi in Washington",
-      "url": "https://www.channelnewsasia.com/world/donald-trump-xi-jinping-summit-takeaways-6409711",
-      "description": "The US secured an extension of its trade truce this week - but only a short one.",
-      "published_at": "2026-09-25T00:14:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "61310671186c6410e0eea93968c9fc5706af596767ac45b486bbf372abf401f9",
-      "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
-      "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-state-dinner-china-united-states-6409366",
-      "description": "US President Donald Trump said that both he and Chinese President Xi Jinping \"understand we represent different systems, but the ties between our people endure, and we’ve never gotten along better\".",
-      "published_at": "2026-09-25T00:08:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "c296be918bfe3295dda2e04a06aa2d04c3b7422dd8d6b383c0f03cf21b48c10a",
-      "title": "Ukraine’s POW transfer reveal deals North Korea a propaganda blow",
-      "url": "https://www.scmp.com/week-asia/politics/article/3368711/ukraines-pow-transfer-reveal-deals-north-korea-propaganda-blow?utm_source=rss_feed",
-      "description": "Ukrainian President Volodymyr Zelensky has put North Korea in a propaganda bind, analysts say, by publicly revealing that Kyiv recently transferred two North Korean prisoners of war to South Korea. The disclosure – made during Zelensky’s address to the UN General Assembly on Wednesday – directly challenges Pyongyang’s narrative that its soldiers fighting alongside Russian forces would choose death over surrender. North Korea is unlikely to acknowledge the transfer publicly, but may strengthen...",
-      "published_at": "2026-09-25T00:00:38+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "a270bce11eecce3b0d02053d6e557aae38060a0e943c53ef17dc01d5b141593a",
-      "title": "Live:  Iran's President says US ‘must choose’ whether to end war",
-      "url": "https://www.france24.com/en/americas/20260924-live-iran-pezeshkian-us-war-yemen",
-      "description": "It is for the United States to choose whether to end its war in Iran as Tehran does not wish to continue fighting, Iranian President Masoud Pezeshkian told Fox News in an interview aired Thursday. Pezeshkian took a defiant stand at the UN Wednesday, for which he travelled to New York, telling the world that Iran would not \"bend at the knee\" to Washington Follow our liveblog for the latest updates.",
-      "published_at": "2026-09-24T23:52:57+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas",
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "b83f61d8de5823ad4b03da330e30c6e45c44396fcfd032c01d8fe9b2879d3a6a",
-      "title": "'I was living out my dream career in football – tumours mean I need to leave'",
-      "url": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&at_campaign=rss",
-      "description": "After years of dismissing health issues, Dan Robathan is now unable to return to the pitch.",
-      "published_at": "2026-09-24T23:50:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "5f7b272def32386f9d8164121a8c0a68dc1afa56ed5a09941dbb3d66df829cda",
-      "title": "'I was living out my dream career in football – tumours mean I need to leave'",
-      "url": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&at_campaign=rss",
-      "description": "After years of dismissing health issues, Dan Robathan is now unable to return to the pitch.",
-      "published_at": "2026-09-24T23:50:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "861807ba43a5c3f56522dd7bf2d57e2308849ac5191c1563c69282d35620b9ef",
-      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
-      "description": "Gyms are booming, solitary cardio is out - how workouts are changing.",
-      "published_at": "2026-09-24T23:46:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "2257340d01a6ff2e920b68b0d0170ddd45f10327e9dbbc9a923485baf02f0fd3",
-      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
-      "description": "Gyms are booming, solitary cardio is out - how workouts are changing.",
-      "published_at": "2026-09-24T23:46:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "ffcafec6e3be5a7615903134a2cb3cce4d01f86cb4af77d44bb0aa4f9d87ad43",
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "published_at": "2026-09-24T23:45:08+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment",
-        "UK"
-      ]
-    },
-    {
-      "id": "b5ad587bbeadad636b527617d11665b1103a27d03763a2c98efda7c8ac5215a6",
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "published_at": "2026-09-24T23:45:08+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment",
-        "UK"
-      ]
-    },
-    {
-      "id": "0758cb833207ee8ba2f74611133ee0570b34f95ed53e880b80511febd32405b2",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-      "description": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "published_at": "2026-09-24T23:44:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "fddc75c1b2ac999942af1c22b65f4a316504744b57cb3d9c2936ec975294b9fb",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-      "description": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "published_at": "2026-09-24T23:44:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "UK"
-      ]
-    },
-    {
-      "id": "539bfd3a6784a08cae25b9d264ead829c5d83d3f61bad06c3309afa69d2dd879",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-      "description": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "published_at": "2026-09-24T23:44:38+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "db50eec2750b64cbcda954ef7a15600298daccc10d58b3c5d12f5f11c1e8ea88",
-      "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
-      "description": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
-      "published_at": "2026-09-24T23:44:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health",
-        "UK"
-      ]
-    },
-    {
-      "id": "d3af3c3858d37dad06ecab960a14ae0204bd6d9e20464b7168b6ec6a90d445c7",
-      "title": "Hollywood star Susan Sarandon among 100 arrested at New York anti-Netanyahu protest",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368728/hollywood-star-susan-sarandon-among-100-arrested-new-york-anti-netanyahu-protest?utm_source=rss_feed",
-      "description": "Film star Susan Sarandon and Hacks actress Hannah Einbinder were among a reported 100 people detained by police in New York on Thursday as they broke up a protest against the Israeli prime minister. Agence France-Presse footage showed NYPD (New York Police Department) officers leading away handcuffed Thelma & Louise star Sarandon at the demonstration in the city as Israeli Prime Minister Benjamin Netanyahu was readying to address the United Nations General Assembly. The New York Post reported...",
-      "published_at": "2026-09-24T23:43:58+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "c24e273ecac65026446aa0252a720e32cf95ca7edd6bc1b0e7b0eba3769ee9f6",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "published_at": "2026-09-24T23:41:10+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "fae0feaa02a1dd56b4430083faab672d8837f5c1047531487c8d45938f0b97c2",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "published_at": "2026-09-24T23:41:10+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "78040a88cd40171a9ed5677401b456c8e42c466588128a7c1e62db02d561f89b",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "published_at": "2026-09-24T23:41:10+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "fb8b660b5b0c1b3402fdf5d80010338a0e985e4bb2a18d3f471f8b9db65d2b5d",
-      "title": "Catterick Garrison fire could burn through night, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-      "description": "An investigation is due to take place after a fire at the accommodation block in Catterick Garrison.",
-      "published_at": "2026-09-24T23:36:42+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "ad19baced6c57af623ccc2a9d68d27d3288c9f5b02805623343d347f0562e802",
-      "title": "Catterick Garrison fire could burn through night, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-      "description": "An investigation is due to take place after a fire at the accommodation block in Catterick Garrison.",
-      "published_at": "2026-09-24T23:36:42+00:00",
-      "source": "BBC",
-      "categories": [
-        "England",
-        "UK"
-      ]
-    },
-    {
-      "id": "642c167b7bf991e2f9bbf27977859a40e2dd2cec5abbb3268ee640623ba9b3f8",
-      "title": "Marymount Bakehouse now has a second outlet at Upper Thomson, with new bakes and pet-friendly seating",
-      "url": "https://www.channelnewsasia.com/dining/marymount-bakehouse-opens-upper-thomson-second-outlet-6405891",
-      "description": "The homegrown bakery has expanded to Upper Thomson with more room for diners and their pets, plus new sourdough creations ranging from French Onion Soup loaves and a Corn and Crab Chowder levain pie to sourdough-crusted seabass with brown butter pasta.",
-      "published_at": "2026-09-24T23:35:31+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "55dc4decfb4558d8b990a1dd5746956602cc15e94c0532755788c9a8065bd62e",
-      "title": "Saudi reports fresh Houthi attacks as France pledges to defend key oil port",
-      "url": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
-      "description": "Saudi Arabia intercepted Houthi ballistic missiles on Thursday after warning several regions, including Mecca, of possible attacks. France said it would send military assets to help protect the Saudi oil terminal at Yanbu. The strikes came amid renewed fighting in Yemen that has killed dozens, according to sources cited by AFP.",
-      "published_at": "2026-09-24T23:34:29+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "01312b574b5bb8a40a150436e6651a4ebedc77447de6d0b8557bfc20aa7b0c53",
-      "title": "US edge International team in tight Presidents Cup opener",
-      "url": "https://www.channelnewsasia.com/sport/us-edge-international-team-in-tight-presidents-cup-opener-6409661",
-      "description": "",
-      "published_at": "2026-09-24T23:29:18+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "f71bd2f756076df976b67aa4a79fcba0fc5d35dbbb8142d3a558f958cd884b21",
-      "title": "SFA looking into alleged illegal sale of dog meat in Singapore",
-      "url": "https://www.channelnewsasia.com/singapore/dog-meat-singapore-facebook-illegal-6409576",
-      "description": "The Singapore Food Agency says it has not approved any source of dog meat.",
-      "published_at": "2026-09-24T23:28:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "362ad879444bebf8da0d85ceb39535b89fbe246129a544141a3ff79f291ecb71",
-      "title": "‘Happy mother, happy baby’? Why telling mums-to-be not to stress can backfire",
-      "url": "https://www.channelnewsasia.com/women/pregnancy-stress-mental-health-mother-baby-6369361",
-      "description": "A mother’s mental health during pregnancy is linked to her child’s development. But simply telling a mum-to-be “don’t stress” and to “be positive and happy” can backfire. Experts share 10 ways to support her mental well-being – without adding to the mum guilt.",
-      "published_at": "2026-09-24T23:25:35+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "2452c4cf569e139760eb0b50bb6235acbae8ed01e140c623f6ad0b9816eda7d4",
-      "title": "Polymarket sues New York attorney general to block regulation of its prediction market",
-      "url": "https://www.channelnewsasia.com/business/polymarket-sues-new-york-attorney-general-block-regulation-its-prediction-market-6409651",
-      "description": "",
-      "published_at": "2026-09-24T23:21:58+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "79b36cd7256e94ed5749f07c6575866afbf1bb4ee78128247d4be9828694f92f",
-      "title": "Amnesty International calls for abolition of ICE in report documenting rights violations",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368727/amnesty-international-calls-abolition-ice-report-documenting-rights-violations?utm_source=rss_feed",
-      "description": "Amnesty International called for the abolition of US Immigration and Customs Enforcement (ICE), which is tasked with leading Donald Trump’s anti-immigrant crackdown, in a report released on Thursday. The report, titled “We Had Whistles, They Had Guns”, documents widespread human rights violations during ICE’s large-scale operations, the rights watchdog said. The release comes less than a week after a Venezuelan migrant, Wilber Garces Perez, was shot and wounded by an ICE agent in Austin, Texas,...",
-      "published_at": "2026-09-24T23:19:18+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "f2ff91bc68feb0aeaa45275ce51c29241017eb50b41ad4c16326612877d016b1",
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-      "published_at": "2026-09-24T23:17:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "34f85f1016fa36b7fe4dd85bdc986213fc3490619a8e743714b026f33b1e02ef",
-      "title": "UK will not ‘tolerate intimidation’, foreign secretary tells Iran",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368726/uk-will-not-tolerate-intimidation-foreign-secretary-tells-iran?utm_source=rss_feed",
-      "description": "UK Foreign Secretary Ed Miliband has told Iran’s foreign minister Abbas Araghchi in a face-to-face meeting that Britain will “not tolerate intimidation, threats or hostile activity on UK soil” from groups linked to his country. Miliband met his Iranian counterpart in the margins of the United Nations General Assembly in New York on Thursday. The Foreign Office said the pair discussed the war in the Middle East, the importance of reopening the Strait of Hormuz and the UK’s “unwavering resolve to...",
-      "published_at": "2026-09-24T23:05:08+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "49df59d32da322e7a6847ba72ee4ef9cc0f8d404cb4c266dd6c6982bad6102f6",
-      "title": "Drumcree parade decision expected to be announced",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xngyd3xwo?at_medium=RSS&at_campaign=rss",
-      "description": "The Parades Commission says the Drumcree parade should start earlier than the Orange Order wanted and with fewer people, but a residents group is challenging the decision.",
-      "published_at": "2026-09-24T23:04:57+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "3d190e3369c059a82ace7980e50bba8ade52f20a1774114c3e77dd488aa842e0",
-      "title": "Drumcree parade decision expected to be announced",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xngyd3xwo?at_medium=RSS&at_campaign=rss",
-      "description": "The Parades Commission says the Drumcree parade should start earlier than the Orange Order wanted and with fewer people, but a residents group is challenging the decision.",
-      "published_at": "2026-09-24T23:04:57+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "550201c7808d6a3b052247f1f8c2ea89f808ee04d7672db739ebee28906c34a4",
-      "title": "Drumcree parade decision expected to be announced",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xngyd3xwo?at_medium=RSS&at_campaign=rss",
-      "description": "The Parades Commission says the Drumcree parade should start earlier than the Orange Order wanted and with fewer people, but a residents group is challenging the decision.",
-      "published_at": "2026-09-24T23:04:57+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland",
-        "UK"
-      ]
-    },
-    {
-      "id": "9e48ec13829dbdc3c2f95abcc118a2bba04ef6181bdf555d284e1e0d9e251b83",
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "published_at": "2026-09-24T23:03:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Technology"
-      ]
-    },
-    {
-      "id": "f690c31ff7d3f2538a481554152b9d6733143ef9e6df2de325fe2ff33f058f7d",
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "published_at": "2026-09-24T23:03:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "fa6360dd3319a85f5bd7e9a0e13d30bb3c24762ea57f46cbc7abfef164cdfc88",
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "published_at": "2026-09-24T23:03:53+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "8fb3f4fd3b788afd6215f6ec8bcbbb7927f6fc8f8e7e1c6c2ad6b10b8934b20d",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "published_at": "2026-09-24T23:00:45+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "eee3d0ddb6176429909c3e7756c619d2b8c004426056ea6d6aa40d962ea25f77",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "published_at": "2026-09-24T23:00:45+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "11cede40c1100f8fa16124b7f9887c40df6b8269eaf49319126656e6cd67485b",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "published_at": "2026-09-24T23:00:45+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "32d029e8dd80539c9b3a8d6d6a1bf34eaa176a2996a3fe5d35f1e9c2997a9739",
-      "title": "Analysis:Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-      "url": "https://www.channelnewsasia.com/business/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-6409591",
-      "description": "",
-      "published_at": "2026-09-24T22:58:08+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "92c6ac970286a90a9641427b7f78fc7227a3c88398a00c1edf2a6ca2d6c1439b",
-      "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
-      "url": "https://www.channelnewsasia.com/business/openai-preview-gpt-6-cyber-within-days-fortune-reports-6409596",
-      "description": "",
-      "published_at": "2026-09-24T22:58:04+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "1bb90d17e6b87133905294a74a7f50c10d6e88f11d67f0942fe4841fb2a48593",
-      "title": "China-US ‘new joint arrangement’, CEO arrivals: what you missed overnight from Xi-Trump summit",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368723/china-us-new-joint-arrangement-ceo-arrivals-what-you-missed-overnight-xi-trump-summit?utm_source=rss_feed",
-      "description": "1. B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far Chinese President Xi Jinping and his American counterpart Donald Trump delivered remarks at the White House on Thursday morning at the start of the second day of Xi’s closely watched state visit. 2. Beyond the Rose Garden and the military review, Trump and Xi get down to business After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump met Thursday, holding...",
-      "published_at": "2026-09-24T22:49:18+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "0afd5fd12beaf003340c55a9b01a23e425f84c992d9d00cfd42ad322c13be191",
-      "title": "Pat on the back? Xi and Trump’s body language speaks volumes",
-      "url": "https://www.scmp.com/news/us/article/3368725/pat-back-xi-and-trumps-body-language-speaks-volumes?utm_source=rss_feed",
-      "description": "Arm touches, laughs, and firm handshakes were on display as Chinese President Xi Jinping and his American counterpart Donald Trump began their high-stakes summit in Washington, which has so far featured a rare airport welcome, military pageantry and closed-door bilateral talks. While the outcomes of the pair’s discussions are being closely watched, so are the exchanges between the leaders of the world’s two largest economies. A body language expert who reviewed the interactions said Trump’s...",
-      "published_at": "2026-09-24T22:47:50+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "70dbc1ceca87595fb48d8a10738fa326e1b29fed47e0e434ec27351f8dc5f308",
-      "title": "Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3368724/inside-melania-trump-and-peng-liyuans-visit-smithsonians-peacock-room?utm_source=rss_feed",
-      "description": "Melania Trump and China’s first lady Peng Liyuan toured Chinese artworks and a room shaped by Asian design at the Smithsonian’s National Museum of Asian Art in Washington on Thursday, as their husbands held talks at the White House. The museum’s director, Chase Robinson, said the two women spent about 45 minutes there and were “full of questions”. Much of the visit centred on the Peacock Room, whose displays of Chinese porcelain made it a fitting setting for the occasion, he said. “What better...",
-      "published_at": "2026-09-24T22:46:33+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "4233f02645f1b6fe55286bda73425fd8de7ed9cfb51b228f1fc5e54728223e29",
-      "title": "'This is the final offer,' says NI secretary over £1.5bn Stormont funding package",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdv4yp121yo?at_medium=RSS&at_campaign=rss",
-      "description": "Some six months have passed since the executive should have set a budget for this financial year.",
-      "published_at": "2026-09-24T22:35:51+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "UK"
-      ]
-    },
-    {
-      "id": "f73381356347a38771b35ebdc50c7978180d2698df1fa99f6b08ace64575b811",
-      "title": "Bellamy wants more from Wales after loss to Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
-      "description": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
-      "published_at": "2026-09-24T22:28:33+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "370c0a0a99facce845911dda5586545e9cf5818c24f9b61bf7b490b8a9152555",
-      "title": "Anthropic seeks Palantir-style voting control for seven co-founders ahead of IPO, The Information reports",
-      "url": "https://www.channelnewsasia.com/business/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo-information-reports-6409566",
-      "description": "",
-      "published_at": "2026-09-24T22:23:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "aa3dd8c82dc220a5c59eced1faa291485106629dc324b146aadc659a2bee38eb",
-      "title": "Anthropic seeks 50.1% voting control for co-founders ahead of IPO, The Information reports",
-      "url": "https://www.channelnewsasia.com/business/anthropic-seeks-501-voting-control-co-founders-ahead-ipo-information-reports-6409566",
-      "description": "",
-      "published_at": "2026-09-24T22:23:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "40fff09e38805c5db430815e9c5ed2703fb97c13731f165320758960d6d4329b",
-      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
-      "published_at": "2026-09-24T22:22:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "efaaee43ed18b1b3b19d804fa1b61e3fd721b8d6eb6f4e6c792ee3e46c7414e8",
-      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
-      "published_at": "2026-09-24T22:22:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "b1a6fe986b48c6eade2f4dcf77071fffc4698b9335d5439d0a84a193163cc33e",
-      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
-      "published_at": "2026-09-24T22:22:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "65f0d93e1af56f65d185ed8cd72c44d76812c44b9a08c224145244ff9ac89084",
-      "title": "At Milan Fashion Week, Fendi, Marni and Jil Sander loosen up their house codes",
-      "url": "https://www.channelnewsasia.com/obsessions/milan-fashion-week-fendi-marni-jil-sander-6408991",
-      "description": "Maria Grazia Chiuri frees the body at Fendi, Meryll Rogge gives Marni’s quirks a generational spin and Simone Bellotti softens Jil Sander’s minimalism for Spring/Summer 2027.",
-      "published_at": "2026-09-24T22:15:27+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "7caa4b2e5ba0b439c8bcdb6951347f0287fd56bb29997b654cd5f2353529e994",
-      "title": "Toxic waste: 'Every person that played in the pool is dead'",
-      "url": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
-      "published_at": "2026-09-24T22:10:35+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "6ebffc19e3a382c69ec5808f18a6ce7dad617e658ff7f435320115517cfee4d9",
-      "title": "Toxic waste: 'Every person that played in the pool is dead'",
-      "url": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
-      "description": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
-      "published_at": "2026-09-24T22:10:35+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
       ]
     }
   ]
