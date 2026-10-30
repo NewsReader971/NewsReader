@@ -1,6 +1,624 @@
 {
-  "last_updated": "2026-10-29T22:09:29.152817+00:00",
+  "last_updated": "2026-10-30T02:14:43.978643+00:00",
   "articles": [
+    {
+      "id": "db082c411a19787d2cab136d32d5d9b9e6f1c25b3d71f8dcbc8fb887af7e9a9a",
+      "title": "Pentagon accuses fired US general of leaking sensitive information",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
+      "description": "The Pentagon has accused a newly ousted three-star general of leaking sensitive information to the media just hours after officials confirmed his removal from a top military planning post. Defence Secretary Pete Hegseth fired US Army Lieutenant General Brett Sylvia as head of strategy, plans and policy for the Joint Chiefs of Staff, a defence official said late Wednesday. Typically, the general in the position and their staff are responsible for generating and coordinating military plans for...",
+      "published_at": "2026-10-30T02:12:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "c9424c7843c9fe8d32d3c36b05c0a080279187714c169fe35f32bdae88e00c99",
+      "title": "Kindness returned: Chinese woman helped disabled man 8 years ago, now gets financial aid",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372646/kindness-returned-chinese-woman-helped-disabled-man-8-years-ago-now-gets-financial-aid",
+      "description": "A Chinese woman donated 500 yuan (US$75) to an 18-year-old stranger with a disability after seeing a social media post saying he was too poor to afford meals. Eight years later, he repaid her double the amount after learning she was going through a difficult time, which moved many people online. In 2018, Wang Shuming, from China’s eastern Shandong province, posted a video saying he had no money and could not afford food. Wang lives with the effects of a childhood fever. He has difficulty walking...",
+      "published_at": "2026-10-30T02:00:39+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "30e0a03b339589e1c29e3efbad1a6969ed29317be0c46d657a87eea7afafabec",
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "description": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+      "published_at": "2026-10-30T01:53:32+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Technology"
+      ]
+    },
+    {
+      "id": "ccd5e422517b206b144faf8576c9d581cbfb3401d2a2711d7356074b0597e564",
+      "title": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
+      "url": "https://www.channelnewsasia.com/business/yen-steady-boj-ai-jitters-drive-treasury-rally-weigh-dollar-6505611",
+      "description": "",
+      "published_at": "2026-10-30T01:52:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "d0cc02845fe7b40f2ab84026a50a98dc32e833779f9535487bb256fcfbb4185d",
+      "title": "Beyond Trump: US midterms offer early test in battle for White House in 2028",
+      "url": "https://www.channelnewsasia.com/world/usa-us-midterms-early-test-2028-presidential-election-6504756",
+      "description": "Control of Congress may be the immediate prize in the US midterms, but another political contest is already taking shape as both Republicans and Democrats look beyond the vote.",
+      "published_at": "2026-10-30T01:46:56+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "7d11b45edabba5715b8a95d8f491efe6c4cb2018c7be99439b561c15d97456c7",
+      "title": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen",
+      "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-hack-funds-losses-6505586",
+      "description": "The company posted a series of sometimes contradictory messages on X, insisting that \"user funds are completely safe\" but also saying it would \"cover all losses\".",
+      "published_at": "2026-10-30T01:45:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "33334f82357fe4dda2f226ab5649b4e1c0c3bb88089951dc62759dd93b726f71",
+      "title": "France’s protests, like Hong Kong’s in 2019, risk being defined by violence",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3372437/frances-protests-hong-kongs-2019-risk-being-defined-violence",
+      "description": "No protester sets out expecting a friend to be arrested, injured or caught in a confrontation with the police. Yet when that happens, the reasons for returning to the streets can change. People may return not only because of the cause that first brought them out, but because they believe a friend has been treated unjustly. That is how anger becomes personal, and how a protest can move towards a dangerous cycle of action and reaction. This is the risk confronting France. The student protests...",
+      "published_at": "2026-10-30T01:30:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d8e2b68aa2a88a04a9a09f09a3952113b9e9ab3f2e82af066b27332b701b9ba3",
+      "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
+      "url": "https://www.channelnewsasia.com/business/nvidia-in-talks-give-credit-support-nscales-deal-anthropic-information-reports-6505526",
+      "description": "",
+      "published_at": "2026-10-30T01:26:07+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b95b448cb33901c7271ff61edf53806d3617c1c4ad6c4a72b8629688145728fe",
+      "title": "North Korea displays drones, missiles as Kim urges AI weapons push",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466",
+      "description": "South Korea's Joint Chiefs of Staff said its military detected \"around a dozen short-range ballistic missiles fired from the Wonsan area of North Korea towards the East Sea\", also known as the Sea of Japan.",
+      "published_at": "2026-10-30T01:20:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "932d8ad0af7ae2efbc011e71ce9749ad3000e2679587e6601434978b6e699b3c",
+      "title": "As AI transforms global markets, Cyberport Venture & Capital Forum 2026 brings together the investors and innovators shaping what's next",
+      "url": "https://www.scmp.com/presented/news/hong-kong/topics/cvcf-2026-shapes-agentic-economy/article/3372499/ai-transforms-global-markets-cyberport-venture-capital-forum-2026-brings-together-investors-and",
+      "description": "[The content of this article has been produced by our advertising partner.] Global venture capital is surging in 2026, fuelled by concentrated investment in AI, digital infrastructure, robotics and other frontier technologies. At the same time, agentic AI, tokenisation, stable coins and programmable finance are accelerating the movement of capital across borders, giving rise to an emerging ‘agentic economy.’ Against this backdrop, CVCF 2026 aims to further energise and accelerate venture...",
+      "published_at": "2026-10-30T01:20:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "eedbd15faa959e9a9cd2ddc17a47b7f01f842c6ef5c39447d1756d6b57038dba",
+      "title": "Zverev ensures ascent to number one ranking with Vienna victory",
+      "url": "https://www.channelnewsasia.com/sport/zverev-ensures-ascent-number-one-ranking-vienna-victory-6505461",
+      "description": "",
+      "published_at": "2026-10-30T01:12:03+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "3c8efdc275139f384d29ca0fc48920bd22d77dc3e42f53a5b7ebbcaeac3c754f",
+      "title": "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties",
+      "url": "https://www.channelnewsasia.com/world/israel-election-netanyahu-attacks-arab-parties-6503801",
+      "description": "By attacking Arab parties, Benjamin Netanyahu may be trying to ensure his main rival feels unable to consider forming a minority government with Arab help, analysts say.",
+      "published_at": "2026-10-30T01:12:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "86e64af49f5ae1cd6df2bb7dba3b8ea663da7f2eb17970ef890cae2defa2d35e",
+      "title": "The Papers: 'No welfare cuts before election' and 'Police probe Epstein's Balmoral stay'",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo?at_medium=RSS&at_campaign=rss",
+      "description": "Healey's budget fallout and fresh police probe into Epstein's stay at Balmoral with ex-Prince Andrew lead Friday's papers.",
+      "published_at": "2026-10-30T01:00:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "52c839a6f8e2747eed4ea16d37ab427acfd3232faf99830628e1711026fbbfdf",
+      "title": "Inside the PLA’s new austerity drive: lean, mean, printing-on-both-sides machine",
+      "url": "https://www.scmp.com/news/china/military/article/3372552/inside-plas-new-austerity-drive-lean-mean-printing-both-sides-machine",
+      "description": "The People’s Liberation Army (PLA) is distributing second-hand briefcases, salvaging screws and steel bars, and reusing holiday decorations to keep costs down as part of a thrift campaign emphasising growth through frugality. It forms part of a broader cost-cutting effort in the Chinese military under Beijing’s 15th five-year plan covering 2026 to 2030, which calls for building the armed forces through “diligence and thrift” and pursuing a path of “high efficiency, low cost and...",
+      "published_at": "2026-10-30T01:00:11+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "45d778d0dbc0ccc788ab69f7c6b4e68837dfbc1b2d5fd879838b15d8c6193df9",
+      "title": "King's Counsel, 6 firms selected for haze probe panel, more may be added if necessary: MinLaw, NEA",
+      "url": "https://www.channelnewsasia.com/singapore/firms-specialist-panel-nea-minlaw-haze-6502826",
+      "description": "The specialist panel will probe companies that may be responsible for, or have contributed to, the fires causing haze in Singapore.",
+      "published_at": "2026-10-30T01:00:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "15189050fd2e0dbfb774c1d0db6dd4949d4194d2a939579d805264420716291f",
+      "title": "We went on holiday with our neighbours and swapped families - it tore us apart",
+      "url": "https://www.bbc.co.uk/news/articles/cxddv1vygpvmo?at_medium=RSS&at_campaign=rss",
+      "description": "Rachel Stone tells how her parents swapped partners, the chaos it caused and how she came to forgive them.",
+      "published_at": "2026-10-30T00:57:45+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "16962552b82b80269f69441284e004214db91be339e5943670d1286648a8354c",
+      "title": "Will Tai Po fire reforms wipe out collusion in Hong Kong’s building maintenance industry?",
+      "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
+      "description": "A raft of reforms to overhaul Hong Kong’s building maintenance sector has been hailed as a bold first step in tackling bid-rigging and other deep-rooted problems, but observers said its success would depend on the determination and persistence to implement them to restore public trust. They said the reforms signalled a departure from the government’s long-standing reliance on the self-discipline of industry professionals, but highlighted a notable absence of measures to tackle falsified...",
+      "published_at": "2026-10-30T00:44:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "4201586fa421c5aa31a0eba4c2f3a4faec7d7c44e4949ecb967b8721cbe002ad",
+      "title": "Australian mushroom killer Erin Patterson likely to die in jail after failed appeal",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3372648/australian-mushroom-killer-erin-patterson-likely-die-jail-after-failed-appeal",
+      "description": "Australian mushroom murderer Erin Patterson lost a bid to overturn her convictions and had a harsher sentence imposed on Friday, failing to prove she was wrongfully jailed for killing three people with a poisoned lunch. Patterson was found guilty last year of murdering her husband’s parents and elderly aunt, deliberately lacing their beef Wellington meal with highly toxic death cap mushrooms. The 52-year-old maintained her triple murder convictions were a “miscarriage of justice”, urging the...",
+      "published_at": "2026-10-30T00:41:24+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "11bb4096b938e29d01b8abd11b5a4aaa79ed8f72b8cfb7ff7986887fc4853a1b",
+      "title": "Biggest fibre boost could be scraps in your bin, experts say",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+      "description": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+      "published_at": "2026-10-30T00:40:30+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "ef1d87c4c26903ecd237ce37924169cae47d70e6fcb6ce9eb0809c37ae3ac388",
+      "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-cancels-midterm-rallies-phone-in-events-6505201",
+      "description": "US President Donald Trump cancels weekend campaign stops in Kansas and Iowa after four weeks of rallies, while allies shift to tele-rallies before Tuesday’s midterm elections.",
+      "published_at": "2026-10-30T00:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "e5d35a8a2f8cda8186bf4feaedf9f502fbd7e0564f679a41d5d292e285bd0cf5",
+      "title": "Ian McKellen, Hugh Jackman, William Shatner and Kevin Feige among those paying tribute to Patrick Stewart",
+      "url": "https://www.channelnewsasia.com/entertainment/patrick-stewart-death-tribute-hugh-jackman-kevin-feige-6505006",
+      "description": "Stewart died on Wednesday (Oct 28) at the age of 86 after what his spokesperson described as a “brief and poignant journey” with Alzheimer’s disease and Lewy Body Dementia.",
+      "published_at": "2026-10-30T00:34:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News"
+      ]
+    },
+    {
+      "id": "f5221f906467565263c3d7cba9cc1566bcdb74ca82ecdb046e028b8fb0d305df",
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
+      "description": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
+      "published_at": "2026-10-30T00:29:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "2e013002cd1ded2086cc3ccd27e995bd87852624e61068266415e2c1977d622b",
+      "title": "Russell says poor season will not define his F1 career",
+      "url": "https://www.channelnewsasia.com/sport/russell-says-poor-season-will-not-define-his-f1-career-6505351",
+      "description": "",
+      "published_at": "2026-10-30T00:24:42+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "0378b51b4d291961fc2070b5a92cf32e36b0283764f2a13adc3b93578e255128",
+      "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+      "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+      "description": "North Korea has tested attack drones, cruise missiles and rocket launchers at a weapons demonstration, state media reported Friday, as Kim Jong Un called for faster development of military drone and artificial intelligence technology. The tests follow a series of weapons trials and rising tensions with South Korea.",
+      "published_at": "2026-10-30T00:22:55+00:00",
+      "source": "France 24",
+      "categories": [
+        "Asia/Pacific",
+        "World"
+      ]
+    },
+    {
+      "id": "ba9c602702333f9fe2911be1b6b86da2b14f336b3bb68f9bbe2fbef8f4b4a25b",
+      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+      "description": "Could the faithfuls finally come good in Thursday's penultimate episode?",
+      "published_at": "2026-10-30T00:16:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "UK"
+      ]
+    },
+    {
+      "id": "c6aa52abe595c6df2ea795a4b68b9a4c0cae2ff5a3e949fd2670ebf81d57455a",
+      "title": "Hong Kong national security judge Alex Lee promoted to the Court of Appeal",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372645/hong-kong-national-security-judge-alex-lee-promoted-court-appeal",
+      "description": "A Hong Kong judge who has overseen high-profile national security trials, including the collusion case of former media boss Jimmy Lai Chee-ying, has been promoted to the Court of Appeal. A Judiciary statement on Thursday said the chief executive had accepted the recommendation of the Judicial Officers Recommendation Commission to appoint Court of First Instance judge Alex Lee Wan-tang to his new role, with his appointment taking effect on the day. Handpicked by the city leader to adjudicate...",
+      "published_at": "2026-10-30T00:07:37+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "d0d7bc88c909aa274b84979a59d6f958ad5def398e1f11f90b981e0d828e817c",
+      "title": "Flanker McReight vows to get better after being voted Australia's best",
+      "url": "https://www.channelnewsasia.com/sport/flanker-mcreight-vows-get-better-after-being-voted-australias-best-6505301",
+      "description": "",
+      "published_at": "2026-10-30T00:07:12+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "579cd33ab7f91f09e094ebff481fb04e16ce4895657330fe5717faf5cda447b8",
+      "title": "Nomadic life for Irish Travellers 'at risk' due to accommodation site concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0r16xg596o?at_medium=RSS&at_campaign=rss",
+      "description": "Craigavon Travellers Support Committee says members of the community feel pressured to move into \"bricks and mortar\".",
+      "published_at": "2026-10-30T00:03:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "2c1fde9e6cf3106403c034805f1c3da54f6c07fbe54a996ee8245e73c594f120",
+      "title": "Dramatic clifftop rescue of bride and groom-to-be",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjem016r4o?at_medium=RSS&at_campaign=rss",
+      "description": "A romantic walk after agreeing to tie the knot turns into a 150m rope rescue off the Irish coast.",
+      "published_at": "2026-10-30T00:02:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "511001ab0994046eb345cf515782a09cb9bba4f135a6eaa00d60cd863cce21dc",
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "description": "A new generation is embracing eye-catching patching and visible mends.",
+      "published_at": "2026-10-30T00:00:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "624fda22b35da0819f440fc96c51018a9bf9a0808ea7058c7e1d930856788eb2",
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "description": "A new generation is embracing eye-catching patching and visible mends.",
+      "published_at": "2026-10-30T00:00:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business",
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "184966b5bef3d61bf862e370a3c18284a64ba8baea6b4b61c4efd3c140f70a73",
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "description": "A new generation is embracing eye-catching patching and visible mends.",
+      "published_at": "2026-10-30T00:00:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "06a8c33324b5e201912ff541bd4328f19e69ee6480552057d0777139bd020244",
+      "title": "Can AI teach kids to think? Malaysia’s classroom tech push faces a reality check",
+      "url": "https://www.scmp.com/week-asia/people/article/3372605/can-ai-teach-kids-think-malaysias-classroom-tech-push-faces-reality-check",
+      "description": "While many parents still question whether to give their children access to artificial intelligence, Malaysian tech worker Pravin Ganesan has embraced it to solve a very practical problem: helping his eight-year-old daughter with homework he sometimes struggles to explain. Pravin, 42, taught her a few basic prompts and checked the answers closely, finding that generative AI is particularly good at breaking down difficult concepts into child-friendly terms. “It has helped her learn and understand...",
+      "published_at": "2026-10-30T00:00:26+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "9a0b024c7f13caba3c387fffd28f7f0bd905e150702c43a03f2598108dc2fd7c",
+      "title": "Chinese scholars warned of challenge of ‘translating academic research into policy’",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372557/chinese-scholars-warned-challenge-translating-academic-research-policy",
+      "description": "Chinese academic courses designed to deepen understanding of different countries or regions face a challenge in better informing policy and moving beyond frameworks developed in the West, a conference in Beijing has heard. Speakers said that as the country’s international engagement deepened, it needed a better understanding of the nations it engaged with, including their political systems, histories and strategic priorities. The discipline – known in China as “area studies” – draws on...",
+      "published_at": "2026-10-30T00:00:21+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "fb9990bf9b902c01e1cef11a72781bafc0f5e260e5868b4e643b1ffedffae91f",
+      "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-30-nea-6505151",
+      "description": "The haze situation is expected to improve as inter-monsoon conditions set in, the Meteorological Service Singapore said on Thursday.",
+      "published_at": "2026-10-29T23:55:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "feda7f3b6b2790bca6f7d2b7c0e382e8d0f9db838762bff8ba3824b688154ccf",
+      "title": "Tokyo core inflation exceeds BOJ target in October",
+      "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-exceeds-boj-target-in-october-6505246",
+      "description": "",
+      "published_at": "2026-10-29T23:46:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "88347a9b3b9745f1b197358d71bfc5a79a0ebaf8ec69f7632f3aa8fec5dc5efe",
+      "title": "Verstappen leaves door open to Le Mans drive with Ricciardo",
+      "url": "https://www.channelnewsasia.com/sport/verstappen-leaves-door-open-le-mans-drive-ricciardo-6505221",
+      "description": "",
+      "published_at": "2026-10-29T23:33:07+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "fa1d558df89df90b71b378a96fbbf0a9c066de0e164c00472c11bda753d53697",
+      "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
+      "description": "Israeli Prime Minister Benjamin Netanyahu’s party on Thursday amplified unsubstantiated allegations that Arab-led parties had “stolen” the election, potentially with foreign help, as final results showed his bloc had lost its majority in parliament. The opposition accused Netanyahu of demonising the Arab population after a historic showing by Arab-led parties in an attempt to delegitimise the election. If the rest of the opposition teams up with Arab parties, a rare and politically risky move,...",
+      "published_at": "2026-10-29T23:32:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "d75a1b77f7905300ee015172750019fc735a879e5dbfb186d9279f3ef6e85ac2",
+      "title": "‘It’s not in your head’: Why pain may linger longer in women – even when scans are normal",
+      "url": "https://www.channelnewsasia.com/women/women-chronic-pain-causes-treatment-6455726",
+      "description": "Women are more likely to experience chronic pain, from migraines and fibromyalgia to endometriosis and painful periods. It isn’t simply about pain threshold. Experts explain why women may be more vulnerable and how persistent pain can be managed.",
+      "published_at": "2026-10-29T23:27:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "2c2dc5ad75bc1fdc2ba69369b5d34cf7c0ea768004a60e7501340dcd16eef6e0",
+      "title": "Hamilton says he's still 'all in' for the foreseeable future",
+      "url": "https://www.channelnewsasia.com/sport/hamilton-says-hes-still-all-in-foreseeable-future-6505171",
+      "description": "",
+      "published_at": "2026-10-29T23:15:23+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "a3cb9aeb233e8f65890af73c0a2f7d3f22d7e65fcf9d7adeb7e609e7b43692c0",
+      "title": "Everton beat Newcastle to set up League Cup quarter-final with Fleetwood",
+      "url": "https://www.channelnewsasia.com/sport/everton-beat-newcastle-set-up-league-cup-quarter-final-fleetwood-6505131",
+      "description": "",
+      "published_at": "2026-10-29T23:03:10+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "64cbfe020db8d17ef2b4d9c0cc22de6aa94272b4488a575a08b71d02ef168d57",
+      "title": "Autistic girl, age six, 'cries herself to sleep' during fireworks season",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdm9p7j1rzo?at_medium=RSS&at_campaign=rss",
+      "description": "Grace has autism, and is among those - adults and children - who find the period around Bonfire Night to be highly distressing.",
+      "published_at": "2026-10-29T23:01:08+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "876cfe7254f02fbbb9fa4e4387a785c186246b11a66135f22cc88b1dd6e281b3",
+      "title": "I gave birth in ambulance on A96 amid staff shortages at local hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cky93gjq1j44o?at_medium=RSS&at_campaign=rss",
+      "description": "Hannah Smith was travelling to Aberdeen Maternity Hospital as she could not go to Dr Gray's in Elgin.",
+      "published_at": "2026-10-29T23:00:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "a28bcbba7d1378dbc5885a031d842a8f0844abe79b0f5369160190c208b7fa2b",
+      "title": "I gave birth in ambulance on A96 amid staff shortages at local hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cky93gjq1j44o?at_medium=RSS&at_campaign=rss",
+      "description": "Hannah Smith was travelling to Aberdeen Maternity Hospital as she could not go to Dr Gray's in Elgin.",
+      "published_at": "2026-10-29T23:00:59+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "517bef249451dd658ee0e7b1b5eca76bb16bbcf31d6a6c0a74b5478d807c98f0",
+      "title": "Scottish police to target online gangs forcing children to self-harm",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg03xl0751o?at_medium=RSS&at_campaign=rss",
+      "description": "Officers are hunting members of loose online networks of sadists who mainly targets girls on gaming platforms and social media.",
+      "published_at": "2026-10-29T23:00:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ee5f05289f276b407a8cf62a8ce504fd08ab2aaaeb6247b86c15e424241566d3",
+      "title": "Strip clubs to stay open and mum in plea to save son",
+      "url": "https://www.bbc.co.uk/news/articles/c51kd231kv83o?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily and weekly newspapers in Wales.",
+      "published_at": "2026-10-29T23:00:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "474603443ec3dc476c900b6b5397286abfa3a3fa9fc9a7627bd467dd01054f46",
+      "title": "What makes this golden eagle chick so important?",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
+      "description": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
+      "published_at": "2026-10-29T23:00:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "9fadf700f850f64d3323fbecc7d8c17c6cff0fdd0fad19e17c56cadf7a764e4f",
+      "title": "What makes this golden eagle chick so important?",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
+      "description": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
+      "published_at": "2026-10-29T23:00:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "535d3bd00545119044ca20fec003c6087e59da82b7c7d5aa1b0b9e76b1e9110e",
+      "title": "Perez says Cadillac deal will be his last Formula One contract",
+      "url": "https://www.channelnewsasia.com/sport/perez-says-cadillac-deal-will-be-his-last-formula-one-contract-6505121",
+      "description": "",
+      "published_at": "2026-10-29T22:57:08+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "d3fe6e1299a290cad78647c6a10c4835ede5b86865c7494c5728d90bf6e36df3",
+      "title": "Alonso doubles down on backmarker driving standards, F1 rivals disagree",
+      "url": "https://www.channelnewsasia.com/sport/alonso-doubles-down-backmarker-driving-standards-f1-rivals-disagree-6505111",
+      "description": "",
+      "published_at": "2026-10-29T22:41:09+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "5c44a2c572f37a1fdc78f9bb6c1c0b47ed925ed7f9c2b73bad0240e907def25f",
+      "title": "Insurer AIA Group's third-quarter new business value falls 5%",
+      "url": "https://www.channelnewsasia.com/business/insurer-aia-groups-third-quarter-new-business-value-falls-5-6505096",
+      "description": "",
+      "published_at": "2026-10-29T22:31:14+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "268c59daeb6857852bdc5882e6258541d8d5743d79183276e40d444bf81f51dc",
+      "title": "Binance's possible hack triggers $3 billion freeze in crypto assets",
+      "url": "https://www.channelnewsasia.com/business/binances-possible-hack-triggers-3-billion-freeze-in-crypto-assets-6505091",
+      "description": "",
+      "published_at": "2026-10-29T22:26:07+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "54a83c66db4cffb587d1a7f3e2e290f71f6f608567d1970b84097a46ca3cb377",
+      "title": "Chinese scientists dissatisfied with jobs but optimistic about future, survey says",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372643/chinese-scientists-dissatisfied-jobs-optimistic-about-future-survey-says",
+      "description": "Chinese scientists are less satisfied with their jobs than researchers in any other major country, according to a survey that also found they are more optimistic about their careers than their counterparts in the United States and Britain. Only 51 per cent of the 157 respondents from China said they were satisfied with their jobs, according to the survey published this month in the British scientific journal Nature, down 24 per cent from 2018. The survey drew 3,882 respondents from 133...",
+      "published_at": "2026-10-29T22:22:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
     {
       "id": "520b21f158a94f0302249eb7a02cd75b47e902de19e64a63b6a39340f45f11e9",
       "title": "'I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle",
@@ -151,7 +769,8 @@
       "published_at": "2026-10-29T21:48:35+00:00",
       "source": "France 24",
       "categories": [
-        "Africa"
+        "Africa",
+        "World"
       ]
     },
     {
@@ -162,7 +781,8 @@
       "published_at": "2026-10-29T21:43:05+00:00",
       "source": "France 24",
       "categories": [
-        "Africa"
+        "Africa",
+        "World"
       ]
     },
     {
@@ -236,6 +856,17 @@
       ]
     },
     {
+      "id": "6ae878b9996ae95504c85233494cb26cbf0ff8b642b0a919d3ceed38047031a7",
+      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
+      "url": "https://www.channelnewsasia.com/business/amazon-burns-cash-intel-flags-weak-pc-demand-ai-booms-costs-ripple-across-markets-6504986",
+      "description": "",
+      "published_at": "2026-10-29T21:02:58+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "f0294bdc67011968e1068a2d7df4ec8f80a06b729cdde93a95d835f5408cd998",
       "title": "ECB President Lagarde steps down in order to speak out",
       "url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
@@ -305,6 +936,17 @@
       ]
     },
     {
+      "id": "e112d3431e11248400b4f5bc13ef2d026e631def8ca14b1ba000bc329dd251b0",
+      "title": "Star Trek, X-Men star Patrick Stewart dead at 86",
+      "url": "https://www.channelnewsasia.com/entertainment/patrick-stewart-dies-age-86-star-trek-xmen-6504961",
+      "description": "British actor Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at 86 following a battle with Alzheimer's disease and Lewy body dementia.",
+      "published_at": "2026-10-29T20:44:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "8a92fa613e94199263e55888e14b88429681aba43c18d97cc3fc06f141bc3556",
       "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
       "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
@@ -350,6 +992,17 @@
       ]
     },
     {
+      "id": "1ae1884c014dbb566dabc59eaad4f7068a7baf29442f518cb8cb240b664b6531",
+      "title": "Coinbase returns to profit as crypto investment gains offset trading weakness",
+      "url": "https://www.channelnewsasia.com/business/coinbase-returns-profit-crypto-investment-gains-offset-trading-weakness-6504926",
+      "description": "",
+      "published_at": "2026-10-29T20:19:51+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "e1f4b9e8dc2668ef240d37d661b7b1da4d4c524822976894c2bd48f34fcbcd87",
       "title": "Patrick Stewart, of Star Trek and X-Men fame, dies at 86",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3372639/patrick-stewart-star-trek-and-x-men-fame-dies-86",
@@ -386,6 +1039,17 @@
       ]
     },
     {
+      "id": "d2df978eb4a9268aae711dc9916894bd528df33c122d92d3dccf0f9ede719d35",
+      "title": "Reddit puts logged in experience first as Google AI hits traffic",
+      "url": "https://www.channelnewsasia.com/business/reddit-puts-logged-in-experience-first-google-ai-hits-traffic-6504906",
+      "description": "",
+      "published_at": "2026-10-29T20:09:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "72e1bbc16e8539bb648f288ed1c381b8c9d991eb43365963213afaa8e90b19bf",
       "title": "Amazon slides on light fourth-quarter sales estimates, high cash burn",
       "url": "https://www.channelnewsasia.com/business/amazon-slides-light-fourth-quarter-sales-estimates-high-cash-burn-6504886",
@@ -395,6 +1059,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "e306a5b276048c96e3f2cde57da679fd470606319c9b899343b156c36499c840",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
+      "url": "https://www.channelnewsasia.com/business/amazon-sinks-ai-spending-eclipses-fastest-cloud-growth-in-five-years-6504886",
+      "description": "",
+      "published_at": "2026-10-29T20:08:53+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -455,6 +1130,17 @@
       ]
     },
     {
+      "id": "01d7d1a5edfc831c16637e32f5ae73f984dfe02b956be5f421fa8f54a41f27f3",
+      "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn",
+      "url": "https://www.channelnewsasia.com/business/intel-shares-tumble-after-hours-hit-chip-supply-constraints-big-cash-burn-6504881",
+      "description": "",
+      "published_at": "2026-10-29T20:01:52+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "79741260b6a266c44e670790d80d26e894db99922340b247fb6ac2ee37df4590",
       "title": "Broken hospital tap wastes a million litres of water",
       "url": "https://www.bbc.co.uk/news/articles/ck87zwzn25l2o?at_medium=RSS&at_campaign=rss",
@@ -486,6 +1172,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "8bad97593eda30e9dd7412a9fca6b930d655dad08a006966e660d3c9a288d62c",
+      "title": "Australian mushroom killer Erin Patterson loses appeal, has sentence extended",
+      "url": "https://www.channelnewsasia.com/world/australian-mushroom-killer-erin-patterson-loses-appeal-6504811",
+      "description": "Patterson was found guilty last year of murdering her husband's parents and elderly aunt, deliberately lacing their beef Wellington meal with highly toxic death cap mushrooms.",
+      "published_at": "2026-10-29T19:35:00+00:00",
+      "source": "CNA",
+      "categories": [
         "World"
       ]
     },
@@ -771,6 +1468,17 @@
       ]
     },
     {
+      "id": "fab7ae62018568656c72b0babccf02b61d748c78d9a363ab6edbe2e8af395a45",
+      "title": "Microsoft expects to raise $25 billion in US bond sale, sources say",
+      "url": "https://www.channelnewsasia.com/business/microsoft-expects-raise-25-billion-in-us-bond-sale-sources-say-6504501",
+      "description": "",
+      "published_at": "2026-10-29T18:01:30+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "22489f106c31be7d8f902f2759b6a4cd507efa3fce7e3856e238582beab4bf0b",
       "title": "Afghanistan's Rashid becomes first men's player to claim 200 T20I wickets",
       "url": "https://www.channelnewsasia.com/sport/afghanistans-rashid-becomes-first-mens-player-claim-200-t20i-wickets-6504506",
@@ -813,6 +1521,28 @@
       "source": "BBC",
       "categories": [
         "Scotland"
+      ]
+    },
+    {
+      "id": "6c7859eaa354ec498d578578e05ee512fd88a17eaecde7439955f51b36eeaeb1",
+      "title": "Boy who lost four fingers in firework blast issues Bonfire Night warning",
+      "url": "https://www.bbc.co.uk/news/articles/cm89z5znw87xo?at_medium=RSS&at_campaign=rss",
+      "description": "Riley Luke and a group of friends were messing about with a discarded firework when it exploded.",
+      "published_at": "2026-10-29T17:50:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f7a847ca1a38d35c6e1c1c9a9bd3e8a7a2d92f88197312682ec1abc25c9462f8",
+      "title": "Weekly quiz: What was wrong with the Spotify listing of Dolly Parton's Jolene?",
+      "url": "https://www.bbc.co.uk/news/articles/cm15jdj7xzj5o?at_medium=RSS&at_campaign=rss",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published_at": "2026-10-29T17:46:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -991,6 +1721,17 @@
       "categories": [
         "Health",
         "UK"
+      ]
+    },
+    {
+      "id": "4a510de6576512ad583eaed48a4bfa469ba50a2bded291d04e1bf51f9f6d4b9e",
+      "title": "Scot arrested in Thailand over 'phone theft mistake' loses flat and job in wait for verdict",
+      "url": "https://www.bbc.co.uk/news/articles/cq23d9yrk0e4o?at_medium=RSS&at_campaign=rss",
+      "description": "Rory McColl was arrested in Bangkok in March over an accusation that he stole a woman's phone - but police say it was a \"misunderstanding\".",
+      "published_at": "2026-10-29T17:11:31+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
       ]
     },
     {
@@ -1238,6 +1979,17 @@
       "source": "CNA",
       "categories": [
         "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "f3e41acf0a19adf19d18e4f513a76b2518cbb6906086e24758162194920146b9",
+      "title": "US economy posts strong growth, inflation stubbornly high in challenge to Trump",
+      "url": "https://www.channelnewsasia.com/world/us-economy-growth-inflation-high-trump-6504121",
+      "description": "",
+      "published_at": "2026-10-29T16:24:00+00:00",
+      "source": "CNA",
+      "categories": [
         "World"
       ]
     },
@@ -1562,6 +2314,17 @@
       ]
     },
     {
+      "id": "639cf32f3b563af01de6b9e31b0ede432bdc037d08311c73311605d86d4a8efd",
+      "title": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqgx8w0537o?at_medium=RSS&at_campaign=rss",
+      "description": "From Sunday anyone weighing more than 19st 7Ib (124kg) will be banned from flying to an offshore platform.",
+      "published_at": "2026-10-29T15:18:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
       "id": "9cf9e890c01ee914963e78a32d8849de08c5e76df14558a55665389ab9593dfa",
       "title": "Bereaved families will not face tax bill over pension delays under new rules",
       "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
@@ -1571,6 +2334,17 @@
       "categories": [
         "Business",
         "Politics"
+      ]
+    },
+    {
+      "id": "19cbf44b6890f6b4f746519a88ff32bd22f19141327924cc2ed6e86af621e859",
+      "title": "Bereaved families will not face tax bill over pension delays under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+      "published_at": "2026-10-29T15:18:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -3553,6 +4327,17 @@
       ]
     },
     {
+      "id": "97d5d7825aad58ca726f662b39b81ef10629de065fc0b850294582e85ec48027",
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "published_at": "2026-10-29T09:30:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
       "id": "9f48b344fe32310db01a7f80cc8219a0989563c33c82d12edd1d2ae688692264",
       "title": "DUP party officers to meet to discuss Drumcree next steps",
       "url": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
@@ -4251,6 +5036,17 @@
       ]
     },
     {
+      "id": "7c549dd569a4f14d15f39ab2f742a1efa1ba2546301a69eeef702d2d0ba9fd98",
+      "title": "Stormont to lose £117m due to defence spending - O'Dowd",
+      "url": "https://www.bbc.co.uk/news/articles/cr3elxng7y47o?at_medium=RSS&at_campaign=rss",
+      "description": "Finance Minister John O'Dowd criticises a UK decision to divert funding towards \"military spend\".",
+      "published_at": "2026-10-29T06:29:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "605e747414891bcd43d9b214e15c5bf589324933a8f73b465b335c0a5274eea7",
       "title": "New rules for vaping and nicotine products... do you know them?",
       "url": "https://www.bbc.co.uk/news/videos/c63r53plyj8xo?at_medium=RSS&at_campaign=rss",
@@ -4348,7 +5144,8 @@
       "published_at": "2026-10-29T06:22:11+00:00",
       "source": "BBC",
       "categories": [
-        "Health"
+        "Health",
+        "Northern Ireland"
       ]
     },
     {
@@ -167332,6 +168129,17 @@
       ]
     },
     {
+      "id": "fd1aa3a53b98cf5d79e2237be38bb0fcad8ec8102c7a1513cbd123114a6be6fb",
+      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+      "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+      "description": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money.",
+      "published_at": "2026-09-30T16:14:23+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "d5259ace64e2403be4c464c9728618d81de07d17647bddc0c0aeb6ef3a8c1486",
       "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
       "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
@@ -172254,699 +173062,6 @@
       "categories": [
         "Latest News",
         "Singapore"
-      ]
-    },
-    {
-      "id": "867b8439dfa9ecaf1c7b17d29262e4eff7540714894cea33a15c717628de641a",
-      "title": "Taiwan plans US$850 million ammunition spend to prepare for potential PLA blockade",
-      "url": "https://www.scmp.com/news/china/military/article/3369212/taiwan-plans-us850-million-ammunition-spend-prepare-potential-pla-blockade?utm_source=rss_feed",
-      "description": "Taiwan’s military plans to spend more than NT$27 billion (US$850 million) to quadruple critical ammunition stocks to 120 days’ supply, strengthening its ability to sustain combat operations during a wartime blockade. The proposed six-year “urgent ammunition replenishment” programme, running from this year until 2031, comes as Taipei seeks to strengthen its ability to keep fighting if a cross-strait conflict cuts external supply lines. The spending proposal was revealed on September 26 and still...",
-      "published_at": "2026-09-30T02:00:17+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "a76999e1e71d686620da5e55ab4a83caed769466aee395702f65c6d886db39ff",
-      "title": "China warns officials, fires kindergarten principal over ‘mops in cooking pots’ scandal",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369151/china-warns-officials-fires-kindergarten-principal-over-mops-cooking-pots-scandal?utm_source=rss_feed",
-      "description": "Local Chinese authorities have issued warnings and demerits to 11 officials and dismissed the entire kitchen staff at a kindergarten following a teacher’s revelation about unsanitary practices, including washing dirty mops in cooking pots. On June 30, several children at the Affiliated Kindergarten of Nanjing University of Information Science and Technology in Jiangsu province exhibited symptoms such as nausea and vomiting during and after lunch. Parents had been inquiring about the...",
-      "published_at": "2026-09-30T02:00:10+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News"
-      ]
-    },
-    {
-      "id": "30f7697a900973757ec270187e3cd8bd638f0a27133d51bb2ccdbdfe2867f055",
-      "title": "Can pay-as-you-earn funding fix Southeast Asia’s higher education debt problem?",
-      "url": "https://www.scmp.com/week-asia/people/article/3369266/can-pay-you-earn-funding-fix-southeast-asias-higher-education-debt-problem?utm_source=rss_feed",
-      "description": "A Singapore-based education financing programme is testing whether income-linked funding can widen access to higher education without an unmanageable debt burden, a model analysts say could help ease repayment pressure faced by graduates across Southeast Asia. Global Financing for Education’s (GFE) Pay It Forward scheme, publicly launched in September, provides students with funding for their education in return for 3 to 10 per cent of their subsequent income for one to 10 years. The...",
-      "published_at": "2026-09-30T01:59:47+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "74b520ebe1f237f1c9eed57c1528f0afcee54e180712ee7a7add6243ec45d045",
-      "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
-      "url": "https://www.channelnewsasia.com/world/openai-chatgpt-app-store-ai-safety-concerns-6420126",
-      "description": "",
-      "published_at": "2026-09-30T01:55:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "105464e3f77be9edb8a9e7fb8c413834972fc863a0cb7ec47b0c7d9fd303d27a",
-      "title": "Fed's Williams sees no urgency for next rate hike",
-      "url": "https://www.channelnewsasia.com/world/federal-reserve-new-york-fed-president-no-urgency-next-rate-hike-6420096",
-      "description": "Federal Reserve policymakers probably only need to deliver one more rate hike this year to get inflation back on track to the US central bank's 2 per cent goal, says New York Fed President John Williams.",
-      "published_at": "2026-09-30T01:46:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "51ad4f84191527231de81bc8fc6db90649394dbbf639f8b99b0aec835098f089",
-      "title": "Oil climbs after Trump denies he is willing to ease sanctions on Iran",
-      "url": "https://www.channelnewsasia.com/business/oil-climbs-after-trump-denies-he-willing-ease-sanctions-iran-6420121",
-      "description": "",
-      "published_at": "2026-09-30T01:39:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "b818a7ad88ce1a781ec2711a120a5e26822ed41ef85cba13ebab94301cb3aaa3",
-      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran",
-      "url": "https://www.channelnewsasia.com/business/oil-gains-after-trump-denies-he-willing-ease-sanctions-iran-6420121",
-      "description": "",
-      "published_at": "2026-09-30T01:39:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "4c5227024afabff367d5979824a8e55634a912877ab14c02f0b02c5658832ff8",
-      "title": "Oil gains after Trump denies he is willing to ease Iran sanctions",
-      "url": "https://www.channelnewsasia.com/business/oil-gains-after-trump-denies-he-willing-ease-iran-sanctions-6420121",
-      "description": "",
-      "published_at": "2026-09-30T01:39:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "1b4475d232a47d534a219d4c01551bcaa27281f5ced3763e26bfddd6dfdf46e9",
-      "title": "Oil steadies as stalled US-Iran talks offset supply recovery",
-      "url": "https://www.channelnewsasia.com/business/oil-steadies-stalled-us-iran-talks-offset-supply-recovery-6420121",
-      "description": "",
-      "published_at": "2026-09-30T01:39:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "9d53267cbec6212fe331432c4a24e5e308e902d98a1bf6f582aefcf5ffda5e04",
-      "title": "Oil gains as stalled US-Iran talks trump supply recovery",
-      "url": "https://www.channelnewsasia.com/business/oil-gains-stalled-us-iran-talks-trump-supply-recovery-6420121",
-      "description": "",
-      "published_at": "2026-09-30T01:39:32+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "68ea32f9467d3dc1c9f23b132cede19442537561a4d54166686b99f3af834fac",
-      "title": "US-China trade truce remains ‘fragile’ after Xi-Trump summit, analysts say",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369263/us-china-trade-truce-remains-fragile-after-xi-trump-summit-analysts-say?utm_source=rss_feed",
-      "description": "The two-month extension of the US-China trade truce remains fragile despite last week’s summit between Presidents Donald Trump and Xi Jinping, with modest economic concessions leaving deeper disputes unresolved, Asia Society Policy Institute analysts said on Tuesday. “In my view, this truce is very fragile,” said Wendy Cutler, an Asia Society Policy Institute vice-president and former acting deputy US trade representative. “I think they’re testing each other.” Xi’s three-day state visit to...",
-      "published_at": "2026-09-30T01:30:21+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "ba44c061272042340b40c5ccce8b2f98e99c78107c1e6ca327533aaf96bbad13",
-      "title": "Raising Hong Kong’s birth rate is an economic imperative",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3368854/raising-hong-kongs-birth-rate-economic-imperative?utm_source=rss_feed",
-      "description": "Hong Kong’s first five-year plan and latest policy address have put demographic sustainability on the public agenda. Among the measures announced are an extension of the newborn bonus scheme and increased financial support for the second and subsequent children. These are welcome steps. But the fertility debate should not be reduced to whether a bonus is large enough to change family decisions. The bigger challenge is whether Hong Kong can remain dynamic and competitive while its younger...",
-      "published_at": "2026-09-30T01:30:06+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "2751f820ef9fa027325284c0ae743d69adf93cf8ed9ba8714baff75b4e7f4658",
-      "title": "Ukraine sets its sights on boosting high-tech exports, hails digital resilience",
-      "url": "https://www.channelnewsasia.com/business/ukraine-sets-its-sights-boosting-high-tech-exports-hails-digital-resilience-6420101",
-      "description": "",
-      "published_at": "2026-09-30T01:25:51+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "11316524fc2aec3148efd5c5bef645375560071ea8bbb7c81c8f981fcc77fd80",
-      "title": "Family of 4 in hospital after fire at Sha Tin public housing estate",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3369262/family-4-hospital-after-fire-sha-tin-public-housing-estate?utm_source=rss_feed",
-      "description": "A family of four was sent to hospital on Wednesday morning after a fire broke out at a public housing estate in Sha Tin, prompting the evacuation of around 140 residents. Police received a report at 6.48am as thick smoke poured from a mid-rise flat in Yan Chuen House at Shui Chuen O Estate. The family tried to put out the fire, which started at their TV stand, but failed to do so, and subsequently escaped, police said. Firefighters arrived and extinguished the fire at around 7.10am. All four...",
-      "published_at": "2026-09-30T01:24:22+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "142d5619592485c32f32a8983c7c5e0e6f6d176b2c93e223c9a9dff9223d86e7",
-      "title": "US forces leave Iraq, raising fears of Iran-backed militias amid power vacuum",
-      "url": "https://www.france24.com/en/middle-east/20260930-us-forces-leave-iraq-raising-fears-of-iran-backed-militias-amid-power-vacuum",
-      "description": "US forces are withdrawing from their remaining bases in Iraq on Wednesday, completing a pullout agreed under former president Joe Biden as fears grow over the security vacuum it could leave. Iraqi officials and analysts warn the departure could embolden Iran-backed militias and give Islamic State group fighters room to rebuild their capabilities.",
-      "published_at": "2026-09-30T01:04:01+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "b5562fc6ac0abd77e18918c01bcef076ac57c80d54558ce70bfb9b4961b74308",
-      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o?at_medium=RSS&at_campaign=rss",
-      "description": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
-      "published_at": "2026-09-30T01:04:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "f994044d4b637231ffca901a616fdad444127df7939b95ed98cad858103ea49e",
-      "title": "‘Hold the status quo?’ US Congress reviews Xi-Trump summit outcomes",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369261/hold-status-quo-us-congress-members-review-xi-trump-summit?utm_source=rss_feed",
-      "description": "Chinese President Xi Jinping’s three-day state visit to Washington is over, but China watchers in Congress and the US-China policy community are still parsing a wide range of outcomes, with two more leadership summits expected before the end of the year. The talks between Xi and US President Donald Trump produced a series of joint announcements, including an extension of the US-China trade truce, investment commitments, an agreement to continue an AI dialogue and high-level engagement, as well...",
-      "published_at": "2026-09-30T01:01:52+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "147c01593450f9e8822938753b8e9418eac86e430bb79d9e86c91c11f13f8722",
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-      "published_at": "2026-09-30T00:46:29+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "9fb632355ce6bde07352a6b0360555f2437c5ea6bd5d56338b280027e7e701ce",
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-      "published_at": "2026-09-30T00:46:29+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "a4ae3a4706801a0e76a3cee3a07bbbc1173bba30d0e7a9cd1092b2a17fd41e79",
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-      "published_at": "2026-09-30T00:46:29+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "a1fd6eef24f303ac1dc8cb839c9d8da438b9b7190998d3d79bc038bc4aa64e7c",
-      "title": "Hidden habits that make your social anxiety worse - and how to break them",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-      "description": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
-      "published_at": "2026-09-30T00:44:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "cbea2338dfc638e67110063bc505b188ab5b3c3763873931df289c6af9300cc2",
-      "title": "Hidden habits that make your social anxiety worse - and how to break them",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-      "description": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
-      "published_at": "2026-09-30T00:44:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "f759d42e1c62a10d564419db0dc44ee4a1b687d5d2d2ce7e490bc8b388150ec2",
-      "title": "Antisemitism on the rise at universities, charity warns",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-      "description": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
-      "published_at": "2026-09-30T00:36:22+00:00",
-      "source": "BBC",
-      "categories": [
-        "Education & Family",
-        "UK"
-      ]
-    },
-    {
-      "id": "938fa734165fb5e66ca4186cf5c72b40d67b038144fbaf483373e50a28e598eb",
-      "title": "Antisemitism on the rise at universities, charity warns",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-      "description": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
-      "published_at": "2026-09-30T00:36:22+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "d2e3046ec592cfc81d71febea0b3dbf303077c3c0c72fe842dc21466e106c56c",
-      "title": "Cheap and illegal: mainland Chinese post social media adverts for services in Hong Kong",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3369247/cheap-and-illegal-mainlanders-post-social-media-adverts-services-hong-kong?utm_source=rss_feed",
-      "description": "Hong Kong’s crackdown on visitors abusing visas to illegally offer tour guide, photography and other services has failed to deter adverts for such unlicensed work on mainland Chinese social media ahead of the National Day “golden week” break, the South China Morning Post has found. A search of RedNote by the SCMP turned up accounts listing themselves as Shenzhen-based photographers offering their services in Hong Kong. Many of them also asked clients to reimburse their travel expenses between...",
-      "published_at": "2026-09-30T00:35:54+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "c296fd60cd759d35cf249e69bdc78ae8733f38fd6f41bb568881f663360b4be4",
-      "title": "Gaza on stage: concert activism meets Malaysia, Singapore red lines",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369248/gaza-stage-concert-activism-meets-malaysia-singapore-red-lines?utm_source=rss_feed",
-      "description": "American rapper Macklemore lost his spot on British pop star Ed Sheeran’s US tour after speaking up for Palestinians, but in Malaysia it was Sheeran’s music which ended up being pulled from the airwaves. In neighbouring Singapore, British band Massive Attack faced a different kind of fallout, barred from returning after members displayed a Palestinian flag during a July concert. The contrasting cases highlight the competing pressures on foreign artists in Southeast Asia, where political...",
-      "published_at": "2026-09-30T00:00:15+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "2fd2113cbccc6ab0c977da6948a68c5c30dda456e0e7fffa1eae576767cc38f4",
-      "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
-      "url": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed",
-      "description": "Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to a new report by Grant Thornton Hong Kong. The firm’s 15th annual Corporate Governance Review – which surveyed 100 major listed firms on Hong Kong’s Hang Seng Composite Index – found that 59 per cent of companies view cybersecurity or AI as principal business risks. Yet only 11...",
-      "published_at": "2026-09-30T00:00:11+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "32b50bf8db4537d0ae193c4213aef83ee38f1dd9b1f5973044bd3ca33df06121",
-      "title": "Japan August factory output unexpectedly falls",
-      "url": "https://www.channelnewsasia.com/business/japan-august-factory-output-unexpectedly-falls-6419986",
-      "description": "",
-      "published_at": "2026-09-29T23:54:08+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "fe0c20be748ce0876c541c6b874244a3d5ab85e858627f90922a13f01edcbb69",
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-      "published_at": "2026-09-29T23:47:10+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "743db754cb0ec911f09e36e37d532af6df22e6bae21cbb94d8e7b16e8872d4de",
-      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-      "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-      "description": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-      "published_at": "2026-09-29T23:39:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "621770c679927e2838391fd070f9b4f477439d8ef1793f73542b17819a82517d",
-      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-      "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-      "description": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-      "published_at": "2026-09-29T23:39:58+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "e20d467434067dff282ef4de8151b77764fd05f787e1b77e0d382f995b3d448b",
-      "title": "AI infra firm Accelevation, shareholders raise $540 million in US IPO",
-      "url": "https://www.channelnewsasia.com/business/ai-infra-firm-accelevation-shareholders-raise-540-million-in-us-ipo-6419971",
-      "description": "",
-      "published_at": "2026-09-29T23:35:41+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "40d27de138cf6b0be5aec87e267579567c327e3a0a78fabb01964db8ec241e3c",
-      "title": "I used to judge women for hiding their age – until my own age was used against me",
-      "url": "https://www.channelnewsasia.com/women/women-hide-age-judgement-6384921",
-      "description": "In her 20s, the writer thought keeping your age private was silly. Now, she understands why some women choose to do so: Revealing your age can give people a reason to judge your work, appearance and relevance before they know you.",
-      "published_at": "2026-09-29T23:34:01+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "d2f817286a6387e005120dc0912e564b552106d407201bb92fe9035d1d93b9fa",
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
-      "published_at": "2026-09-29T23:33:34+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "ae9f55ca54a77ba7289dada54d17847fa1fb21962cc274d6d9d11503b6a3afaa",
-      "title": "Ex-American Idol singer Caleb Flynn convicted of fatally shooting his wife",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369260/ex-american-idol-singer-caleb-flynn-convicted-fatally-shooting-his-wife?utm_source=rss_feed",
-      "description": "A former Ohio music pastor who once appeared on American Idol was convicted of murder on Tuesday in the killing of his wife while he was having an affair. Prosecutors said Caleb Flynn, 40, staged a home invasion in February after shooting his wife, Ashley Flynn, a 37-year-old teacher and volleyball coach. Flynn, who claimed his wife was killed by a burglar, could get up to life in prison without the chance of parole when he’s sentenced on Monday. Flynn closed his eyes, shook his head to the side...",
-      "published_at": "2026-09-29T23:32:53+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "273d2d101e4a01f4f0ba544b0b995728b57b0e3cfe1bc708d44759aab28f6e05",
-      "title": "5 universities in Hong Kong rank in top 100 in ‘historic’ shift from West to East",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3369243/5-universities-hong-kong-rank-top-100-historic-shift-west-east?utm_source=rss_feed",
-      "description": "Five public universities in Hong Kong have ranked in the top 100 of a renowned British publication’s latest global league table, as part of a trend described as a “historic realignment” of academic prowess from West to East. The University of Hong Kong remained the city’s highest-ranked tertiary institution, holding onto 33rd place from the previous year, in the Times Higher Education (THE) World University Rankings, released on Wednesday. The Chinese University of Hong Kong (CUHK) ranked 42nd,...",
-      "published_at": "2026-09-29T23:30:05+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "144cd28417a733f9280df877695391f7310279d1a11b5d7c126eda3f780dec25",
-      "title": "Jacob & Co’s new watch plays two melodies from The Godfather",
-      "url": "https://www.channelnewsasia.com/obsessions/jacob-co-godfather-ii-watch-6404696",
-      "description": "The Godfather II pairs a miniature mechanical music box with a flying tourbillon, film-inspired details and a more wearable Art Deco case. In partnership with Sincere Fine Watches",
-      "published_at": "2026-09-29T23:21:23+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News"
-      ]
-    },
-    {
-      "id": "d0a3203d593c4680b49f5a1dc820516fd1752d119f6327748e466fbc7c1069b6",
-      "title": "Still the same far-right? Le Pen's National Rally denies fresh antisemitism claims",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260929-still-the-same-far-right-le-pen-s-national-rally-denies-fresh-antisemitism-claims",
-      "description": "A minor bump on the French far right's road to power, or a car crash that wipes out years of rebranding? Bombshell allegations of past anti-Semitic tropes by the man Marine Le Pen has touted as her future prime minister could test her years-long effort to convince French voters that the National Rally is a party of government, rather than the fringe far-right National Front of old.",
-      "published_at": "2026-09-29T23:19:41+00:00",
-      "source": "France 24",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "331fb5770b4202f17a8694f9220278adc1beb8437fa5ac2e8b585a8ed019ed24",
-      "title": "US Supreme Court lifts restrictions on third-country deportations",
-      "url": "https://www.france24.com/en/americas/20260929-us-supreme-court-lifts-restrictions-on-third-country-deportations",
-      "description": "The US Supreme Court on Tuesday cleared the Trump administration to resume deporting migrants to countries other than their own while it considers the legality of the practice. The court’s conservative majority temporarily blocked safeguards requiring deportees to receive notice of where they would be sent and time to raise persecution concerns.",
-      "published_at": "2026-09-29T23:17:13+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas",
-        "World"
-      ]
-    },
-    {
-      "id": "17eccf909ec178ee3746fad13e059214252ce9fe0b6a42ca82bff927dac477cb",
-      "title": "North Korea denies South's claim it was behind DMZ mine blasts",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-dmz-mine-blasts-armistice-6419956",
-      "description": "South Korea said that North Korea was \"highly suspected\" of causing two explosions at the countries' Demilitarized Zone, adding that it was \"a clear violation\" of their armistice agreement.",
-      "published_at": "2026-09-29T23:17:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "5ff2eb76126ca8b56e4f28e2449ae548a133721565b6fe24675b13b5048ecd8e",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "published_at": "2026-09-29T23:15:29+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Technology",
-        "World"
-      ]
-    },
-    {
-      "id": "115ae760896488a23f9af532e07457273838cde09c73d4a80072d37d8bb8f0c6",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "published_at": "2026-09-29T23:15:29+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "World"
-      ]
-    },
-    {
-      "id": "84b2085128bde0c378b16e2a62423acc7f707ec0182daf2965b70e082b2d21ba",
-      "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-      "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
-      "description": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free.",
-      "published_at": "2026-09-29T23:09:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "94b3476c28f057cd06ac7c1fa1295c2d8a7fc50cfc9d71ad174bc6ee7a13dae2",
-      "title": "The start-ups hoping to return battery making to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-      "description": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-      "published_at": "2026-09-29T23:06:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Technology"
-      ]
-    },
-    {
-      "id": "abf70d78a082fa0b8605581ea2170884289492afb7e14d01159d1c1db7739f97",
-      "title": "The start-ups hoping to return battery making to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-      "description": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-      "published_at": "2026-09-29T23:06:50+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "637f560e0acee479a84bf5ad02f966660366b096c7137c2e1a0d32401a1b4e49",
-      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-      "published_at": "2026-09-29T23:06:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "c3ef25e81ab91a6accc1ca4315ecf46e73923b83545dcf41c0acc63ad495d0f9",
-      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-      "published_at": "2026-09-29T23:06:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "279967c35808ebc1e688a9b1994dc486fc65ea19f49c0d52caf4745726002107",
-      "title": "Huel ad banned for suggesting its products could replace all conventional food",
-      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-      "published_at": "2026-09-29T23:06:06+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "UK"
-      ]
-    },
-    {
-      "id": "63585f0139f26095cb9d859c8df402f43cd85c4ef0df397982db2715ccdf2fb4",
-      "title": "Huel ad banned for suggesting its products could replace all conventional food",
-      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-      "description": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-      "published_at": "2026-09-29T23:06:06+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "UK"
-      ]
-    },
-    {
-      "id": "705f2bfa1a146943530c0ca9f5cea3dab3c7535ba56d31e9397c63d6dcd592a9",
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-      "published_at": "2026-09-29T23:03:13+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Politics",
-        "UK"
-      ]
-    },
-    {
-      "id": "f084539a242ba52275e211616696041162a4f72214268190c9553b00d70519a1",
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-      "published_at": "2026-09-29T23:03:13+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "0d0226d0cf4dd22e529edf5ecba458f32b8f38a9431a33c1994b9d4c2dd8a615",
-      "title": "Trump says AI companies sign voluntary accord on safety controls",
-      "url": "https://www.france24.com/en/technology/20260929-trump-says-ai-companies-sign-voluntary-accord-on-safety-controls",
-      "description": "President Donald Trump and leaders of major artificial intelligence companies signed a voluntary accord Tuesday to strengthen safety reviews as the technology faces growing public concern. The agreement calls for internal controls, independent audits and board oversight, while Trump rejected calls for government restrictions and urged rapid AI development.",
-      "published_at": "2026-09-29T22:48:07+00:00",
-      "source": "France 24",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "1a03be93a51e97d8ada13893d1b77e821f8b7999f664ebb1ac6d1aa17950471b",
-      "title": "Morocco’s king appoints El Mansouri as first woman prime minister",
-      "url": "https://www.scmp.com/news/world/africa/article/3369259/moroccos-king-appoints-el-mansouri-first-woman-prime-minister?utm_source=rss_feed",
-      "description": "King Mohammed VI appointed Fatima Ezzahra El Mansouri on Tuesday as Morocco’s first woman prime minister after her liberal-centrist party came out on top in a September 23 parliamentary election, the royal palace said. The king asked El Mansouri to form a new government, the palace said in a ‌statement. El Mansouri’s Authenticity and Modernity Party (PAM) was created in 2008 by an adviser to the king and has since positioned itself as a counterweight to the Islamist Justice and Development Party...",
-      "published_at": "2026-09-29T22:37:33+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "41a6296c1b66eed997de094b4246f572e6360328130e5735d7fba82d0598a456",
-      "title": "South Africa to clean up high-risk areas after 12 women killed",
-      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "description": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-      "published_at": "2026-09-29T22:33:39+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "dc9637405a59a683d4277db82c288ffeae789525ddb9a95e5cf359f5fb050b35",
-      "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-      "description": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
-      "published_at": "2026-09-29T22:33:13+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "79b476514c7f5e41051130f49319f3d5f5a50f3cb7a5e8edabfbad9a960f169a",
-      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-      "description": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
-      "published_at": "2026-09-29T22:33:13+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "f8f03957ba6998be8d3772b062a2419b05099b9c2e26ac7d38cb4a73569acd10",
-      "title": "New coach, new players, but same old failings hamper Scotland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
-      "description": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
-      "published_at": "2026-09-29T22:30:20+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "edee59f2bba062e39b2009ff559cfb06fd93b8a37cedd4f4faa248d0a297dbed",
-      "title": "New coach, new players, but same old failings hamper Scotland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
-      "description": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
-      "published_at": "2026-09-29T22:30:20+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "9a6ee9bfcb120ff2f79789fa8b4d8afbef4116667fa5951ae2dbc8a7f251cde3",
-      "title": "New coach, new players, but same old failings hamper Scotland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
-      "description": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
-      "published_at": "2026-09-29T22:30:20+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "ec06fc8eabd61de459fc7c46b1dfd406211e1d0996ee8aba73ac4f2c30743c82",
-      "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o?at_medium=RSS&at_campaign=rss",
-      "description": "Scotland head coach Sebastien Pocognoli hopes \"we will remember this night differently later on\" as his Hampden bow ends with a 3-0 defeat by Switzerland.",
-      "published_at": "2026-09-29T22:12:20+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
       ]
     }
   ]
