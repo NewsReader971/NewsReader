@@ -1,6 +1,1424 @@
 {
-  "last_updated": "2026-11-06T01:53:06.816117+00:00",
+  "last_updated": "2026-11-06T08:41:54.730936+00:00",
   "articles": [
+    {
+      "id": "50c9d741c1770984071438bd69777486cfde14b727364533c4c671806668310c",
+      "title": "Trump calls midterms 'crooked', demands Alaska votes go to Republican candidate",
+      "url": "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate",
+      "description": "Despite having previously accepted the US midterm election results, President Donald Trump told reporters on Thursday the elections were \"crooked\", and he demanded the remaining votes for Alaska go to its incumbent Republican senator.",
+      "published_at": "2026-11-06T08:20:00+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "c70156762ebd9f0219dbcf83a12a474e096bfab41cf2263bf5bb5177f75d6b9c",
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+      "published_at": "2026-11-06T08:18:10+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "9785916c7036b7f84248131cdd3e2d9312c363101a9241d68d5491df91c05f5c",
+      "title": "Chinese space firm builds wooden rocket nose cone for cheaper, frequent launches",
+      "url": "https://www.scmp.com/news/china/science/article/3373486/chinese-space-firm-builds-wooden-rocket-nose-cone-cheaper-frequent-launches",
+      "description": "Chinese commercial space firm Light Year Explorer has manufactured a rocket fairing with a wooden outer skin as part of the company’s push for lower-cost, mass-produced launch vehicles. The design of the protective shell uses low-density plywood formed into a smooth aerodynamic curve, supported by an internal metal framework to bear loads, according to the Jiangsu-based company. “This configuration matches traditional composite fairings in key performance areas such as weight, structural...",
+      "published_at": "2026-11-06T08:00:33+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "1601e1b323f718e83b68d85700f57b99bb8cdddcf9a64d0405f666b9b406cc89",
+      "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
+      "description": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "60b4b6e483af7fa7e99c2137c855d65dd413c5ac592661669d4bbca0a638d843",
+      "title": "Scotland can be best & worst team in world - Dempsey",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmd934jpg59yo?at_medium=RSS&at_campaign=rss",
+      "description": "Jack Dempsey on his guilt over leaving Glasgow, coming up against Dave Rennie and Scotland's hopes of finally overcoming New Zealand.",
+      "published_at": "2026-11-06T07:53:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "ebb6a8864a1e74fb1bf4502cdebe4feed09e047e1d445d19c51daa49ca74a787",
+      "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+      "url": "https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541",
+      "description": "",
+      "published_at": "2026-11-06T07:46:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "97e323818bc122607f863140b2e9049b1f4aa48a8359cfcee820d549965e2837",
+      "title": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist",
+      "url": "https://www.channelnewsasia.com/business/boj-hike-in-december-seek-terminal-rate-2-says-ex-central-bank-top-economist-6530521",
+      "description": "",
+      "published_at": "2026-11-06T07:42:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "b1e9e43d6e488724e87898f5f9cc31aad471c886a6a16eb872a77a8f0f78702b",
+      "title": "Malaysian ex-PM Najib leaves jail for house arrest after paying fine",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+      "description": "Former Malaysian prime minister Najib Razak was seen leaving the Kajang Prison compound in a silver car.",
+      "published_at": "2026-11-06T07:38:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "537f27cbc91e2073a5e500612b3eb91b2a3d7148e5da4802b535b7c579fed725",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "published_at": "2026-11-06T07:33:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "2bfcc64c1646615110e4557a72a6d1413c002a1d44b6dfc0b1fb6b6988f9c476",
+      "title": "Cristiano Ronaldo brings his international football career to an end",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
+      "description": "Cristiano Ronaldo announced his retirement from international football on Thursday, ending his 23-year career with Portugal. At 41, the Al-Nassr forward leaves the national team with 234 caps and 146 goals, both world records. As captain, he helped Portugal win Euro 2016 and two Nations League titles in 2019 and 2025. The decision comes after several weeks of tensions with head coach Jorge Jesus, following Ronaldo's departure from the Portugal squad in September.",
+      "published_at": "2026-11-06T07:32:03+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "785c1d0f573c9511dcf9edf94cae5bdd02bf2fbbed78960496279060428df639",
+      "title": "LIV defectors face awkward return to tours they abandoned",
+      "url": "https://www.channelnewsasia.com/sport/liv-defectors-face-awkward-return-tours-they-abandoned-6530501",
+      "description": "",
+      "published_at": "2026-11-06T07:28:55+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "f62b6ca0f2177ee655d6b37095b75bb49e9f33b4b35202ce4fbe815feec0f1ec",
+      "title": "Goodwin keen but realistic over Cameron move - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
+      "description": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
+      "published_at": "2026-11-06T07:27:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "f309f5d047b4ab05858ccf295b56be38980a778f28a725fbcf9936db3a401975",
+      "title": "Ex-Miss Thailand arrested over claims charity donations funded luxury lifestyle",
+      "url": "https://www.scmp.com/week-asia/people/article/3373526/ex-miss-thailand-arrested-over-claims-charity-donations-funded-luxury-lifestyle",
+      "description": "A former Miss Thailand and well-known social activist was arrested on Friday alongside her husband, accused of siphoning off money from her charity to buy luxury homes as police examine an estimated 1 billion baht (US$30 million) in donations. Panadda “Boom” Wongphudee, 50, was detained at her Bangkok home early on Friday morning after the Criminal Court issued arrest warrants accusing the couple of public fraud and money laundering. Her husband, fitness influencer and businessman Atip...",
+      "published_at": "2026-11-06T07:25:51+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "0175bfc80811011cdf1860f8282f1601a3c4469b5efd791bfa31ee9f8dc53aee",
+      "title": "Llywodraeth Cymru'n ystyried gwahardd diodydd egni i rai dan 16 oed",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6e9llje3rjvo?at_medium=RSS&at_campaign=rss",
+      "description": "Mae Llywodraeth Cymru yn ystyried gwahardd gwerthu diodydd egni â lefelau uchel o gaffein i blant dan 16 oed.",
+      "published_at": "2026-11-06T07:23:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "892ecd551487468da1c661a5b08efd0d6b3d44b028a306a38ec6dcee477e4c89",
+      "title": "Tedi AI i blant tair oed yn dweud heb ei gymell 'alla i ddim helpu gyda dy ladd di'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c933xkxzj13yo?at_medium=RSS&at_campaign=rss",
+      "description": "Mae ASau a'u cyfoedion wedi annog manwerthwyr i beidio â gwerthu teganau sy'n defnyddio deallusrwydd artiffisial cyn cyfnod y Nadolig.",
+      "published_at": "2026-11-06T07:23:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "7a98c032bd6f820855fc358fd41204b36ab519abd89615b4a325383759f6120d",
+      "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+      "url": "https://www.channelnewsasia.com/asia/north-korea-army-hackers-took-down-binance-6530186",
+      "description": "North Korea identifies top students from a young age, training a select few for cyber operations and rewarding them with perks such as spacious apartments and huge hard currency awards, defectors and analysts say.",
+      "published_at": "2026-11-06T07:17:57+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0e641bf67514b290de741878d4f98df5e87b43775c8312035fe526cb32e198fe",
+      "title": "South Africa's ANC party on track to face 'nightmare' losses in municipal elections",
+      "url": "https://www.france24.com/en/africa/20261106-south-africa-anc-party-on-track-to-face-nightmare-losses-in-municipal-elections",
+      "description": "South Africa's African National Congress party could face its worst-ever election result on Friday, with early counting suggesting it received only 32% ‌of the vote in the country’s municipal elections. Over two-thirds of votes have been counted so far, and the final results are expected later in the day.",
+      "published_at": "2026-11-06T07:15:07+00:00",
+      "source": "France 24",
+      "categories": [
+        "Africa",
+        "World"
+      ]
+    },
+    {
+      "id": "60690b81a293368cd15f449d7928fc119efc583512871b213f442a89b55f9eaa",
+      "title": "Why Democratic Congress may enhance US-Philippines alliance, pivot to Asia",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373523/why-democratic-congress-may-enhance-us-philippines-alliance-pivot-asia",
+      "description": "The Democratic Party’s sweep of both houses of the US Congress could stabilise Washington’s commitment to the Philippines, bringing relief to allies rattled by President Donald Trump’s Iran war and his shifting foreign policy. Analysts expect bipartisan support for Manila to endure, with Democratic oversight set to rein in Trump’s unpredictability. But they warn that Washington could still turn inward to deal with domestic challenges, diverting attention from the Indo-Pacific. The rebuke of...",
+      "published_at": "2026-11-06T07:12:47+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "ae33cdf899613a124f68bc2fe40ea1be5451eb0f8f59d5c4b2ae8b74d97a0f2e",
+      "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261106-leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "description": "In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bremmer describes as the most consequential electoral reversal for a governing party in more than half a century, the president and founder of Eurasia Group and GZERO Media argues that the United States has entered a new political phase: the beginning of the end of Trump's ability to dominate the political agenda, at home and on the world stage.",
+      "published_at": "2026-11-06T07:08:47+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "1f17397b4e4489ac2241519f59e626f8054467978f1348efeec1ddc584e31227",
+      "title": "Genetic testing subsidies for hereditary breast, ovarian cancer to start on Dec 1",
+      "url": "https://www.channelnewsasia.com/singapore/genetic-testing-hereditary-breast-ovarian-cancer-subsidies-dec-1-6530326",
+      "description": "About 2,000 people are expected to benefit each year, with doctors saying the subsidies could help more families identify hereditary risks early and take preventive action.",
+      "published_at": "2026-11-06T07:07:51+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "a55ba0401022bc0984308752a0547d3bfbe6b4b895bff9aa04b8b00b4102226c",
+      "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
+      "url": "https://www.channelnewsasia.com/business/tesla-wind-down-cybertruck-production-texas-factory-musk-says-6530476",
+      "description": "",
+      "published_at": "2026-11-06T07:05:37+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "0a0b4e2590deaa27bd513086388984581b7f35d403853e64ce90faa15755ed8c",
+      "title": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol",
+      "url": "https://www.channelnewsasia.com/singapore/grab-autonomous-vehicle-traffic-incident-6530421",
+      "description": "The vehicle is part of Grab's autonomous shuttle service, which operates on two fixed routes in Punggol.",
+      "published_at": "2026-11-06T07:02:59+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "111cc98914ae78c7210295c1297cd500159844c04f19c00219bf98ada866f093",
+      "title": "Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs",
+      "url": "https://www.channelnewsasia.com/business/tech-selloff-wipes-out-hedge-fund-gains-prompting-risk-cuts-and-layoffs-6530456",
+      "description": "",
+      "published_at": "2026-11-06T07:01:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "feff8aa0881b513a01a6136be7253b0c35c529f0b7fe0779dfc8d747a7322733",
+      "title": "Sul y Cofio: 'Mae clywed band pres yn chwarae emyn a'r lle'n ddistaw'n cyffwrdd calon'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6kg5x4p0dm0o?at_medium=RSS&at_campaign=rss",
+      "description": "Efan Thomas a Dylan 'Corn' Williams o Seindorf Arian Deiniolen sy'n trafod perthynas cymunedau â'u bandiau pres ar drothwy Sul y Cofio.",
+      "published_at": "2026-11-06T07:01:27+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "84aa956fcb7267458a628a337a50045beca91904bdd399f17e1ee770c504ce0c",
+      "title": "The new anti-corruption law arming Beijing with wide global enforcement powers",
+      "url": "https://www.scmp.com/news/china/politics/article/3373519/new-anti-corruption-law-arms-beijing-expansive-global-enforcement-powers",
+      "description": "China’s top legislature has passed a landmark law targeting cross-border corruption, equipping Beijing with expansive new tools to pursue illicit offshore assets while countering foreign attempts to investigate wrongdoing in China. The Anti-Cross-Border Corruption Law was approved at the close of the 25th session of the 14th National People’s Congress Standing Committee on Friday and took effect immediately, according to state news agency Xinhua. The statute establishes formal mechanisms for...",
+      "published_at": "2026-11-06T06:57:21+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "edfdafa3ca2369a347e39ce1c2a89ffe770b6551f6dd510abecbaf619734908b",
+      "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+      "published_at": "2026-11-06T06:53:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "6e196b4c94a5a0c3bf8103ea4ead60e0a90bd49f830ac956108314dae1e16a21",
+      "title": "Dolly Parton's scheme to send free books to children brought back",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1kne2y5wo?at_medium=RSS&at_campaign=rss",
+      "description": "Children in parts of Wales will be posted a free book every month until their fifth birthday.",
+      "published_at": "2026-11-06T06:49:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "447e36c029213e431b91be2f715cde802203b352039b40a4b64f62ebacb180e4",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "published_at": "2026-11-06T06:46:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "d61bdfcb30f0d3d56416d91b9a5388362e65de99a58d611897b23270719b3799",
+      "title": "Winner of £1m lottery jackpot finally claims prize",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkv5knv52xo?at_medium=RSS&at_campaign=rss",
+      "description": "The National Lottery says a three-and-a-half week hunt for the lucky ticket-holder has ended.",
+      "published_at": "2026-11-06T06:39:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "492301c2e3e9fe87d5c82d8c8ad940d426340579ab92bce90d0d29c28a535441",
+      "title": "How a lorry driver's cup of tea led to an £80m cocaine bust",
+      "url": "https://www.bbc.co.uk/news/articles/crwydz4q9pqeo?at_medium=RSS&at_campaign=rss",
+      "description": "The \"intricately planned operation\" went array and now three drug-smugglers are in jail.",
+      "published_at": "2026-11-06T06:32:48+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4d51f6758f4d229c4c60fff91a3110748a2fa449068e5deef4b83a95f1554fcb",
+      "title": "'Heroic' girl, 3, to switch on Christmas lights",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxnvn2gy42o?at_medium=RSS&at_campaign=rss",
+      "description": "Lilith, who has stage four cancer, will turn on the lights in Kettering on 26 November.",
+      "published_at": "2026-11-06T06:31:14+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "712b232546ea90e58713ef38e89abc0a115276666cabc5c1dd7ab952d81b913b",
+      "title": "'Carnival is more like a lifestyle than just a hobby'",
+      "url": "https://www.bbc.co.uk/news/articles/cm20wjj372xqo?at_medium=RSS&at_campaign=rss",
+      "description": "Final preparations are underway for Bridgwater Guy Fawkes Carnival, the first of Somerset's eight main carnivals on the autumn circuit.",
+      "published_at": "2026-11-06T06:30:26+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "b41cea6d6c0c5a71f4549bd757e9f1a1f6df13d1c2ace1a8dcd13369e212fdc1",
+      "title": "EU’s Southeast Asia push hits funding crunch as China widens lead",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373510/eus-southeast-asia-push-hits-funding-crunch-china-widens-lead",
+      "description": "An EU funding crunch is threatening to stifle the bloc’s ambitions to expand its influence in Southeast Asia, as Brussels grapples with a budget deadlock that could slow infrastructure investments across the fast-growing region. The funding squeeze could hinder the green transition and regional connectivity goals of the Association of Southeast Asian Nations, even as Brussels seeks greater strategic autonomy amid competition with Beijing’s economic clout. Analysts expect the European Union to...",
+      "published_at": "2026-11-06T06:30:22+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "a1319a6cc1586a819163eb2e0aec691b2b31ea142ed6a74f4a2198507fafc692",
+      "title": "Scotland's papers: Predator Brand faces jail and SNP 'U-turn' on North Sea drilling",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynngnlzz4o?at_medium=RSS&at_campaign=rss",
+      "description": "A review of the front page stories from the daily newspapers in Scotland.",
+      "published_at": "2026-11-06T06:30:17+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "7a0dc33fb1bbf08e80b26d430d219f0fc3da6cdc38558b495f26c3df8a3bc17a",
+      "title": "Chances to protect teen killed by her dad 'missed'",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rwv8wqp0o?at_medium=RSS&at_campaign=rss",
+      "description": "A case review finds agencies failed to treat Lauren Malt as a child who was a domestic abuse victim.",
+      "published_at": "2026-11-06T06:28:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4d57d277d530e1eabde23829696f51feed02782eb6b1f9ce0bba61f2c9f62640",
+      "title": "'Major milestone' as beavers released into Loch Ness area",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o?at_medium=RSS&at_campaign=rss",
+      "description": "The family of six beavers have been released 500 years after they were last recorded in the area.",
+      "published_at": "2026-11-06T06:26:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "ed17f2c44726cbc3785962ae4004c5c7ba5657c47c9493ceb7f71582061ffcac",
+      "title": "'Major milestone' as beavers released into Loch Ness area",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o?at_medium=RSS&at_campaign=rss",
+      "description": "The family of six beavers have been released 500 years after they were last recorded in the area.",
+      "published_at": "2026-11-06T06:26:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "Scotland"
+      ]
+    },
+    {
+      "id": "056e73bd02fa1847eb87bf0ffd44b7baff1006f02be590891c72210e27a132b3",
+      "title": "Teenage karting champion following track of Formula 1 heroes",
+      "url": "https://www.bbc.co.uk/news/articles/cw80z4nmjzg4o?at_medium=RSS&at_campaign=rss",
+      "description": "A County Tyrone teenager is representing Ireland in a competition known as the Superbowl of karting.",
+      "published_at": "2026-11-06T06:25:50+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "f5389ec04d178fe6ccb643ac5bc7790e19b3030d663463220e5ec2e1efa0dc34",
+      "title": "Reform councillor's post branded racist by Labour",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o?at_medium=RSS&at_campaign=rss",
+      "description": "Carl Johnson writes that \"no foreigner\" should be allowed to stand in elections.",
+      "published_at": "2026-11-06T06:25:09+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0401b152701b72ff6664a4ff555395c9520952a83bb0abe65d8cd71dfd94902c",
+      "title": "'Cracker of a comedian' - Frank Carson commemorated on his centenary",
+      "url": "https://www.bbc.co.uk/news/articles/ck98z09rde88o?at_medium=RSS&at_campaign=rss",
+      "description": "The Belfast-born comedian became a household name with the TV show The Comedians in the 1970s.",
+      "published_at": "2026-11-06T06:24:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "05cccfe0774c36e92a490fd67b19007febb8592dba152fbb7be147560105a54e",
+      "title": "Health minister instructs trusts to pause cuts to Phone First service",
+      "url": "https://www.bbc.co.uk/news/articles/crn8wnq05dyqo?at_medium=RSS&at_campaign=rss",
+      "description": "The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.",
+      "published_at": "2026-11-06T06:22:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "7a5098e95846966b287de35aa634d629b2431a0215f7a941dcfb02e945f7d94b",
+      "title": "Health minister instructs trusts to pause cuts to Phone First service",
+      "url": "https://www.bbc.co.uk/news/articles/crn8wnq05dyqo?at_medium=RSS&at_campaign=rss",
+      "description": "The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.",
+      "published_at": "2026-11-06T06:22:07+00:00",
+      "source": "BBC",
+      "categories": [
+        "Health"
+      ]
+    },
+    {
+      "id": "f36512a8c7c3d94affebb413facfb8adbfc8d3be41821f0bd03a54be95d86398",
+      "title": "How computer game Worms went from classroom to classic",
+      "url": "https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o?at_medium=RSS&at_campaign=rss",
+      "description": "Creator Andy Davidson speaks to the BBC about how he created a game that sold 70 million copies.",
+      "published_at": "2026-11-06T06:21:21+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "0c769599ce798b869e9d6964a6432fc81e878cd7c1444962a0a39f30c8993de0",
+      "title": "'The veil of shame around postnatal depression needs to go'",
+      "url": "https://www.bbc.co.uk/news/articles/cv62kel8wnp0o?at_medium=RSS&at_campaign=rss",
+      "description": "Mums are helping other parents to recognise the signs of postnatal depression and psychosis.",
+      "published_at": "2026-11-06T06:20:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "England",
+        "Health"
+      ]
+    },
+    {
+      "id": "c58b6089cbb00b7abdb577a9b397d57adf0f09104cbf8a329f137d24973f9db8",
+      "title": "Broadcaster uncovers tale of WWI choir star",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qn6q8d3o?at_medium=RSS&at_campaign=rss",
+      "description": "TV historian David Olusoga made the discovery after researching names on a war memorial in Eyam.",
+      "published_at": "2026-11-06T06:19:01+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "8d0e22ecef854b67884f7bbcde0ebac37caca3265a11cf4455bf94515889735a",
+      "title": "Glasgow children's hospital begins robot-assisted surgeries in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23z3wqwppo?at_medium=RSS&at_campaign=rss",
+      "description": "The Royal Hospital for Children is to use the Versius Plus surgical robot for paediatric surgery.",
+      "published_at": "2026-11-06T06:17:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "0ba5512d165124fa28190c8745e5d4302ed86382d2368a8d1069b3a97186e088",
+      "title": "'I became a mounted police volunteer after fatal car crash'",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye17d9ppxo?at_medium=RSS&at_campaign=rss",
+      "description": "Warwickshire police has brought back its mounted volunteers 10 years after they were first introduced.",
+      "published_at": "2026-11-06T06:16:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "c4df437ad1843c9088d74423088fb09c29ecdf78021df22626db5caab876444f",
+      "title": "'Criminalising all buskers is frankly nonsense'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg7ynl7933o?at_medium=RSS&at_campaign=rss",
+      "description": "The fine for busking in certain parts of the city could rise to £500.",
+      "published_at": "2026-11-06T06:15:19+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "a7b8cfd1daecb29c08e3852d7d2b7f8df4a1f705dfa2af2c20544c9c72e3ff81",
+      "title": "'Extra special' tamarin twins born at zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
+      "description": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+      "published_at": "2026-11-06T06:15:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "5bd88147e0cb4440e1cb22eb7ac5f13837d82bdae5d455deb27f98d72e1bb47d",
+      "title": "'Extra special' tamarin twins born at zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
+      "description": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+      "published_at": "2026-11-06T06:15:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Science & Environment"
+      ]
+    },
+    {
+      "id": "bc9d7133e7b1cb39ad355ee14ecc84376624d6a787ff6f11abd8a4dfe71e7203",
+      "title": "Mum's plea as rugby player missing for four years",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j343w667xo?at_medium=RSS&at_campaign=rss",
+      "description": "Levi Davis disappeared during a trip to Spain in 2022 and his family are still searching for answers.",
+      "published_at": "2026-11-06T06:12:35+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "e588cbed5d0bb43939aa5c4c279a0aecd5d33439bc086534b8088fffb2576526",
+      "title": "Police expand search for woman missing for 10 days",
+      "url": "https://www.bbc.co.uk/news/articles/cm0ldrl78076o?at_medium=RSS&at_campaign=rss",
+      "description": "Detectives are urging people to refrain from speculating about Eren Wright's disappearance online.",
+      "published_at": "2026-11-06T06:11:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "d88ea0aaa06f4ab1b340563e3d5ecc738ece638aa55947e20af680c2030d9164",
+      "title": "Concerns raised five years before law firm collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cmd93ykdzy9wo?at_medium=RSS&at_campaign=rss",
+      "description": "A regulator is accused of not thoroughly investigating potential misconduct reports.",
+      "published_at": "2026-11-06T06:10:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "dd53d582de6cc1f90fff866c9ab60b82b8215ea25a55e343ef0aed56c27bde34",
+      "title": "Doctor 'mistakenly' facing £5,000 in congestion fines",
+      "url": "https://www.bbc.co.uk/news/articles/cwrky33nzrdjo?at_medium=RSS&at_campaign=rss",
+      "description": "Dr Hasanen AL-Taiar says he has been incorrectly fined 49 times for breaching Oxford's traffic rules.",
+      "published_at": "2026-11-06T06:09:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "70ef86238eb340b32b405a24af2ca6419b7a9bdd8a0f044c839bd898589b6ea8",
+      "title": "AI to help eye tests detect diabetes",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4vd8epnno?at_medium=RSS&at_campaign=rss",
+      "description": "Researchers hope the technology will allow for a quicker diagnosis for patients.",
+      "published_at": "2026-11-06T06:09:38+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "e2ac72cd4184f8a2425d6358f9bbf935abdc5e808db37c32f303f19a4477db10",
+      "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko?at_medium=RSS&at_campaign=rss",
+      "description": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.",
+      "published_at": "2026-11-06T06:08:49+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "2e475a211dc833a53bb3f37124b2214d9708d7427c4c6fac3f96fae0ec1a65d7",
+      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+      "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+      "published_at": "2026-11-06T06:06:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family",
+        "UK"
+      ]
+    },
+    {
+      "id": "57a9dc23ee56de0e4e98c123c1461cb0077a0d74f62634f97f26522438a34e35",
+      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+      "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+      "published_at": "2026-11-06T06:06:36+00:00",
+      "source": "BBC",
+      "categories": [
+        "Education & Family"
+      ]
+    },
+    {
+      "id": "e12e68d62c7d95aaae9fa88e5c7fa148455b719872450ad13bf0636d8659e0b4",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+      "description": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "published_at": "2026-11-06T06:06:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "4793fa2defdb170599a481e084cc94ba3de2052d4065806720015d76f1835157",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+      "description": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "published_at": "2026-11-06T06:06:00+00:00",
+      "source": "BBC",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "37a70e5e49e7af349fe735e8e028ce280ab85d96767c12c7f4c72379fb5f12de",
+      "title": "Rare coral fungus discovered at wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjznp7xxzo?at_medium=RSS&at_campaign=rss",
+      "description": "A park keeper finds it growing on a fallen log at Wildwood Trust near Canterbury.",
+      "published_at": "2026-11-06T06:05:04+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
+      ]
+    },
+    {
+      "id": "f8e3ebe824ca5f493fcbfadffe5d8a91c4c0a311893e0b910e6f4623c9bcc7e3",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "published_at": "2026-11-06T06:01:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "f143649660184bf9b645109bf1549f25cbf286f82e0ab1006f7b85335c60dde3",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "description": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+      "published_at": "2026-11-06T06:00:46+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK",
+        "World"
+      ]
+    },
+    {
+      "id": "a11204b36c408d2b6e135271c29e819d92c5a22f2731c64d5ba8d19930c2ca77",
+      "title": "US military expands Pacific cyber hub to counter risks to undersea cable networks",
+      "url": "https://www.scmp.com/news/china/military/article/3373508/us-military-expands-pacific-cyber-hub-counter-risks-undersea-cable-networks",
+      "description": "The US military has expanded its cybersecurity presence in Hawaii and set up a regional centre to better detect threats and disruptions to its Pacific communications networks. The new initiatives come amid US accusations of Chinese cyber operations targeting critical infrastructure, including on Guam, and concerns about the security of undersea cables linking the Pacific to the US mainland. Neither initiative has been explicitly linked to China. Brigadier General Michael Smith, US Pacific...",
+      "published_at": "2026-11-06T06:00:34+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "e9ed852c52a4504c7f88a7900f2836facfbdf20e1af1989f189827648b7bd20c",
+      "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
+      "url": "https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom",
+      "description": "The sweeping midterm election victory by US Democrats has triggered warnings from analysts that an impending regulatory clampdown could derail the nation’s multi-trillion-dollar artificial intelligence data centre buildout. Wall Street forecasters slashed their projections for Big Tech infrastructure spending hours after the vote, cautioning that a wave of proposed project moratoria and tighter oversight could stall up to 30 per cent of planned US facilities and force developers to downscale...",
+      "published_at": "2026-11-06T06:00:27+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "d5f3435b079ea9dd83685f907c05da2ca40ae1b96fa8e633e8e25ec4d600ef94",
+      "title": "How anime tourism is helping breathe new life into Japan's shrinking towns",
+      "url": "https://www.channelnewsasia.com/asia/anime-manga-pop-culture-tourism-japan-communities-6526746",
+      "description": "Anime and manga fans are flocking to towns across Japan, bringing new opportunities to communities grappling with depopulation and economic decline.",
+      "published_at": "2026-11-06T05:56:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cbafc73e2588eabdf052e986aaa5c161549b0919b88818bd386ac07744490246",
+      "title": "Ukraine's Kyivstar lifts outlook as digital business gathers pace",
+      "url": "https://www.channelnewsasia.com/business/ukraines-kyivstar-lifts-outlook-digital-business-gathers-pace-6530336",
+      "description": "",
+      "published_at": "2026-11-06T05:54:48+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "e3d8ae2b6938071c5c70ec721ceed9198ab54c3b628004f9bf4389f794372c7e",
+      "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+      "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+      "published_at": "2026-11-06T05:53:15+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "f42bd5887a4920837be22491e6e57497b8815af4b9b7a2c9d9cf59df1980f115",
+      "title": "X says takedown notices targeting Indian free-speech groups were fake",
+      "url": "https://www.channelnewsasia.com/business/x-says-takedown-notices-targeting-indian-free-speech-groups-were-fake-6530306",
+      "description": "",
+      "published_at": "2026-11-06T05:44:18+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "157819e5d63c26bd4620edbfad83d5a0fca6e7716a460b735bc2dd2d8bf2c250",
+      "title": "US accuses trio of using AI to impersonate CEOs and lawyers to steal US$129 million",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373511/us-accuses-trio-using-ai-impersonate-ceos-and-lawyers-steal-us129-million",
+      "description": "Three people accused of using artificial intelligence to impersonate corporate executives and lawyers to steal about US$129 million have been indicted on charges of wire fraud and aggravated identity theft, prosecutors said Thursday. Over more than a year and a half, Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42, targeted thousands of companies across the world in their AI scheme, according to the indictment filed in a US District Court in New York. Their victims included hospital...",
+      "published_at": "2026-11-06T05:43:32+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "0860b7f4f64bba7e1e162abfa3ced4922446921d0c032c8ad7f138f4084d6388",
+      "title": "Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-fourth-senior-police-officer-wiretapping-suspect-6530131",
+      "description": "Three senior police officers have already been arrested, including the former national police chief and Prabowo's chief of staff, Listyo Sigit Prabowo.",
+      "published_at": "2026-11-06T05:41:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "3cbdcb19c1e63f4571ad5458332328f699b7ddbf3de547f2979e8a4c21a68581",
+      "title": "Hong Kong’s Exchange Fund earnings tumble 74% as HKMA warns of more market turbulence",
+      "url": "https://www.scmp.com/business/banking-finance/article/3373507/hong-kongs-exchange-fund-earnings-tumble-74-hkma-warns-more-market-turbulence",
+      "description": "Hong Kong’s Exchange Fund, the war chest used to defend the local currency, reported a 74 per cent tumble in third-quarter earnings amid pervasive market uncertainty, the Hong Kong Monetary Authority (HKMA) said on Friday. Earnings totalled HK$18.6 billion (US$2.4 billion) in the quarter, plunging from HK$70.8 billion a year earlier. For the first nine months of 2026, total earnings slid 39.6 per cent from a year earlier to HK$171.9 billion. The Exchange Fund’s Hong Kong equities portfolio...",
+      "published_at": "2026-11-06T05:35:25+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "c81cfb4f0ba85464dcde10326843b7c1ec248b1033075c0c266054c1037e3228",
+      "title": "Singapore Airlines unveils S$2 billion cabin upgrade with new First Class double beds, Business Class seats with privacy doors",
+      "url": "https://www.channelnewsasia.com/travel/singapore-airlines-sia-new-cabin-products-first-class-business-class-2027-6526061",
+      "description": "The next-generation seats will be rolled out progressively from the second half of 2027, with more privacy, improved comfort and personalised features across all four cabin classes.",
+      "published_at": "2026-11-06T05:31:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "eb3554b0fe5445d2d8a43b708c249a195e08303b7c099972cf6f6fe263befb06",
+      "title": "5 months’ jail for helper convicted of molesting employer’s 12-year-old daughter",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373505/5-months-jail-helper-convicted-molesting-employers-12-year-old-daughter",
+      "description": "A Hong Kong court has sentenced a domestic helper to five months in jail for molesting her former employer’s 12-year-old daughter in the family home. Lady Jay Santos Flores, 45, offered no mitigation before she was sentenced at Kowloon City Court on Friday on three counts of indecent assault. She sobbed occasionally during the hearing. Flores was convicted last month of molesting the girl, who said the Filipino helper had touched her genitals on several occasions between May and June 2025. The...",
+      "published_at": "2026-11-06T05:30:29+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "d064d51eaa1853b6455a1cdb95dd9f251dedfab0a07b32101bbc7784d940d336",
+      "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
+      "url": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836",
+      "description": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" said the authorities.",
+      "published_at": "2026-11-06T05:30:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "c882f9c7c4f991dcefb4f34eeb4981f62472e650784dc3c0db14c2be9897b0be",
+      "title": "Malaysia’s Najib begins house arrest as Umno pays US$12.3 million fine",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373504/malaysias-najib-closer-house-arrest-umno-pays-us123-million-fine",
+      "description": "Malaysia’s disgraced former prime minister Najib Razak left prison for house arrest after Umno on Friday paid a 50 million ringgit (US$12.3 million) fine required under the terms of his royal pardon. The clemency granted by King Sultan Ibrahim in September allows Najib to serve the remainder of his sentence under house arrest until August 2028, after more than four years behind bars for corruption linked to the 1MDB sovereign wealth fund. His exit from prison may renew scrutiny of Prime Minister...",
+      "published_at": "2026-11-06T05:25:59+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "c8bb7f9d78a9a0d260e14a218afc89c890f7acb75cba5bacc27ea63bf9d6a83c",
+      "title": "Former Malaysia PM Najib Razak's US$12.3 million fine paid by UMNO, paving way for house arrest",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-pays-fine-house-arrest-6520376",
+      "description": "The \"solidarity fund\" set up for former Malaysian Prime Minister Najib Razak had reached the target amount, UMNO said.",
+      "published_at": "2026-11-06T05:25:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "cdbb2f375a7cab09b82c587d28d4119a9fe82410f2e4a167a47b455ed0434d51",
+      "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+      "url": "https://www.channelnewsasia.com/business/markets-fret-over-growth-and-inflation-just-tech-rout-gains-speed-6530261",
+      "description": "",
+      "published_at": "2026-11-06T05:23:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "6b04801e9051737147522109f827b9f16a01b39fef5e769472d214e517542d8d",
+      "title": "Australia turn to Hussey ahead of Ashes after batting slump",
+      "url": "https://www.channelnewsasia.com/sport/australia-turn-hussey-ahead-ashes-after-batting-slump-6530251",
+      "description": "",
+      "published_at": "2026-11-06T05:20:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "Sports"
+      ]
+    },
+    {
+      "id": "d3a16e8da3d43df3c5f3345db4f1bcb4420a7f5dfb668a09019ead9f8d6018d0",
+      "title": "Hong Kong privacy watchdog backs tighter rules on access to land records",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373496/hong-kong-privacy-watchdog-backs-tighter-rules-access-land-records",
+      "description": "Hong Kong’s privacy watchdog has backed a proposed overhaul of rules to tighten access to land records, warning that journalists have no exemption when collecting data as complaints over information misuse appear to be worsening. Privacy Commissioner Ada Chung Lai-ling said on Friday that journalists do not enjoy an exemption under the Privacy Ordinance when gathering information, even though certain safeguards apply to how the data is subsequently used. “The Privacy Ordinance does provide an...",
+      "published_at": "2026-11-06T05:19:05+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "89861201e65762290f87127ac23d6a0c8dea735b05ebed2ed54f7bb040c85986",
+      "title": "China passes cross-border corruption law, expanding anti-graft drive",
+      "url": "https://www.channelnewsasia.com/east-asia/china-passes-cross-border-corruption-law-6529846",
+      "description": "The new law is aimed at deepening international cooperation on the issue and safeguarding China's sovereignty and security.",
+      "published_at": "2026-11-06T05:17:17+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia",
+        "Latest News"
+      ]
+    },
+    {
+      "id": "1082918bd87f818434163ef6546ccf086b8bacd3c737cdf5696de6a1c9d1889e",
+      "title": "'An insult to his culture': Italian chef fired after refusing to put pineapple on pizza, loses case in Australia",
+      "url": "https://www.channelnewsasia.com/dining/italian-chef-fired-pineapple-pizza-australia-david-tamburella-6530021",
+      "description": "According to Australia's Fair Work Commission, one of the complaints that led to his dismissal was that the Italian chef Davide Tamburella had refused to top pizzas with the offending fruit around three times across four years.",
+      "published_at": "2026-11-06T05:11:39+00:00",
+      "source": "CNA",
+      "categories": [
+        "Latest News",
+        "World"
+      ]
+    },
+    {
+      "id": "2923bb89313f02c8df71247e2acf25ab59f31459b72e9a1dc5c975df6c8ada64",
+      "title": "Japanese investors snap up foreign long-term bonds as tech stocks slide",
+      "url": "https://www.channelnewsasia.com/business/japanese-investors-snap-up-foreign-long-term-bonds-tech-stocks-slide-6530196",
+      "description": "",
+      "published_at": "2026-11-06T05:06:44+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "a680e94b08bde3eabdee2711af8dfe6248a97d3936da0d98b2b4c971c0d5f258",
+      "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+      "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+      "description": "Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats’ US midterm election victory. US voters widely oppose Data centres, and many winning candidates pledged to curb their development.",
+      "published_at": "2026-11-06T05:02:06+00:00",
+      "source": "France 24",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "a4e0069241f71bcc5d27a17fd297a1a428119d6689af44665411c2858ec493b4",
+      "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373487/trumps-israel-aid-cut-reveals-push-trade-grants-tech-cooperation",
+      "description": "The close defence relationship between the United States and Israel is set to be restructured over the coming two years, with billions of dollars in direct annual military aid being phased out in favour of joint weapons technology programmes. US President Donald Trump shocked Israelis and Americans alike on Tuesday by suddenly announcing that the roughly US$4 billion a year in direct military funding received by Israel would be cut off by the end of the year. Speaking to Fox News on the morning...",
+      "published_at": "2026-11-06T05:00:29+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "581a059ec0595b6af95f6a1014b9987ddc913c29e70a916f9cad6799fbe38bea",
+      "title": "From cancer to diabetes: Singapore biomedical startups expand into China to accelerate development of new treatments",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-biomedical-startups-expand-china-cancer-diabetes-treatments-6516196",
+      "description": "Singapore startups are tapping China’s vast patient pool, hospital networks and manufacturing capabilities, but they must also navigate its evolving regulatory landscape.",
+      "published_at": "2026-11-06T04:51:04+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "8e76cf6d4e22c4ee865797ecb60f7addbc451f869b4a6005360c1c84c31ffde9",
+      "title": "Democrats’ victory could squeeze China; star mathematician leaves US: SCMP’s 7 highlights",
+      "url": "https://www.scmp.com/news/china/article/3373481/us-democrats-win-could-squeeze-china-star-mathematician-leaves-us-scmps-7-highlights",
+      "description": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. US midterm shift could squeeze China on AI, bring clarity to bilateral talks Beijing has vowed to continue working with Washington towards a “constructive relationship of strategic stability” following the Democrats’ sweeping victory...",
+      "published_at": "2026-11-06T04:45:09+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "Hong Kong",
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "e9bd09f0049cb1ea99f29fcba72ee59cb4cb23a888f3b69052167b46f2495f05",
+      "title": "CNA Explains: What is treason as defined under Indonesia law?",
+      "url": "https://www.channelnewsasia.com/asia/prabowo-wiretapping-treason-indonesia-criminal-code-6529881",
+      "description": "The term treason under Indonesian law has resurfaced amid allegations that former police chief Listyo Sigit Prabowo wiretapped President Prabowo Subianto.",
+      "published_at": "2026-11-06T04:44:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia"
+      ]
+    },
+    {
+      "id": "158b109567c25d8ac59811ec3e7d56298f227b644bb9edf3c20425a89ed9deb5",
+      "title": "Jones - the smiling wind-up artist who refuses to fade away",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
+      "description": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+      "published_at": "2026-11-06T04:42:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "9ddd8aaaf5c30ccc740401a8eb954f0183c375db34dc35ad5b24a9c63be60a11",
+      "title": "Malaysia’s Sarawak locks election date amid autonomy, resource control push",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373494/malaysias-sarawak-locks-election-date-amid-autonomy-resource-control-push",
+      "description": "Malaysia’s Sarawak will hold a state election on December 12 as the incumbent government seeks a fresh mandate to press demands over autonomy and control of the territory’s natural resources. The filing of nominations will begin on November 28 and early voting will be on December 8, Election Commission chairman Ramlan Harun told reporters on Friday. The 14-day election campaign involving more than 2.05 million eligible voters choosing 82 members will end on December 11, the commission said in a...",
+      "published_at": "2026-11-06T04:41:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "ac6c4ba45fcd9504368cb2e11f601716225514b6c2768742d2fbd35c96e5b83c",
+      "title": "FA Cup memories inspiring Newport and boss Mullins",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxly44np544mo?at_medium=RSS&at_campaign=rss",
+      "description": "Boss Hayden Mullins has played in the final and hopes to start another glorious Newport County FA Cup run as they face Walsall in round one.",
+      "published_at": "2026-11-06T04:38:12+00:00",
+      "source": "BBC",
+      "categories": [
+        "Wales"
+      ]
+    },
+    {
+      "id": "5702b860c621e46e33cc8905ac4cb233f7d3f57df98da2937b58a37d08fc440b",
+      "title": "EU-China truce under strain as both sides brace for potential trade war",
+      "url": "https://www.scmp.com/news/china/article/3373493/eu-china-trade-truce-under-strain-both-sides-brace-potential-trade-war",
+      "description": "Weeks after the European Union and China struck a deal aimed at averting a looming trade war, the two sides remain at loggerheads over what is wrong with their relationship, how to fix it and who is to blame. At an event in Brussels this week, threats were exchanged and differences rose to the surface. With the ink barely dry on their fragile trade peace, it was clear that both were still preparing for a trade war. “If the EU insists on adopting restrictive and discriminatory measures against...",
+      "published_at": "2026-11-06T04:37:57+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "702ec1f4f32d408f82d416210e9932eab700375824e9bebf1a40ef8a7642276c",
+      "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+      "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "description": "In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bremmer describes as the most consequential electoral reversal for a governing party in more than half a century, the president and founder of Eurasia Group and GZERO Media argues that the United States has entered a new political phase: the beginning of the end of Trump's ability to dominate the political agenda, at home and on the world stage.",
+      "published_at": "2026-11-06T04:31:40+00:00",
+      "source": "France 24",
+      "categories": [
+        "Americas",
+        "World"
+      ]
+    },
+    {
+      "id": "eebbab36a7ea6900814fed6a1220a26c1abbe6fa5456d3404264557dfb82d06c",
+      "title": "Hong Kong grandmother gets 20 days for slapping 5-year-old girl at play area",
+      "url": "https://www.channelnewsasia.com/east-asia/hong-kong-grandmother-jail-slapping-girl-shopping-mall-6530026",
+      "description": "Leung Lai-ha, 68, her daughter and another woman fought at APM shopping centre in Kwun Tong after children squabbled over a basketball.",
+      "published_at": "2026-11-06T04:29:33+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia"
+      ]
+    },
+    {
+      "id": "e3c783fad8121d683d9364b0b388a2e0b1e0193e9a12034acc992cc9b1f8807c",
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "published_at": "2026-11-06T04:29:25+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "4651ee1aae587fce3ada428cdb1b45c4d85e1d3149c3020ae424d702fb5305a4",
+      "title": "Growing Vietnam ties test Japan’s commitment to rules-based regional order",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373470/growing-vietnam-ties-test-japans-commitment-rules-based-regional-order",
+      "description": "Japan’s growing strategic partnership with Vietnam is putting Tokyo’s commitment to a rules-based regional order under scrutiny, as Prime Minister Sanae Takaichi faces calls to press Hanoi over its failure to honour labour rights commitments. The issue is expected to surface during Vietnamese President To Lam’s four-day visit to Tokyo from Sunday, raising questions about how far Japan is prepared to defend the principles underpinning a major Pacific trade agreement when its economic and security...",
+      "published_at": "2026-11-06T04:00:12+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "363c0cefedc7febd16a8cf85aeca1f2a379e07f57b4fc4f3055d6f14b5c1ada2",
+      "title": "Australian batter Lynn completes ban after testing positive for cocaine",
+      "url": "https://www.channelnewsasia.com/sport/australian-batter-lynn-completes-ban-after-testing-positive-cocaine-6530031",
+      "description": "",
+      "published_at": "2026-11-06T03:56:47+00:00",
+      "source": "CNA",
+      "categories": [
+        "Sports"
+      ]
+    },
+    {
+      "id": "adb59359a3b42ae81aadc4d7ecc393abc13d519ea2745ee82a71eb39bc52d93a",
+      "title": "Singapore's stronger haze law: How it might work and what it may not fix",
+      "url": "https://www.channelnewsasia.com/singapore/stronger-haze-law-singapore-parliament-experts-6527081",
+      "description": "The gaps in transboundary haze prevention require measures beyond legislation, says one expert.",
+      "published_at": "2026-11-06T03:55:16+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "b21c7ce3eb7876f00d44f921f39acad93529da6d9bd628fa512ba244f605c277",
+      "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371",
+      "description": "About 600,000 of Nvidia's advanced AI chips are stored in Hong Kong awaiting shipment to China.",
+      "published_at": "2026-11-06T03:47:43+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia"
+      ]
+    },
+    {
+      "id": "d81774bb73be16e1d2c343cc26bb5af790c1cb583f2a65c4423e589515e8db19",
+      "title": "Sri Lanka budget faces post-IMF test as energy costs bite",
+      "url": "https://www.channelnewsasia.com/business/sri-lanka-budget-faces-post-imf-test-energy-costs-bite-6530001",
+      "description": "",
+      "published_at": "2026-11-06T03:34:56+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "7ac0127147e3a29acda79e2a06cead990fa9af0e5c4875565a8e078314ecce6a",
+      "title": "India's 'Lord Of The Rings': Filmmakers hail Ramayana epic",
+      "url": "https://www.channelnewsasia.com/entertainment/ramayana-indian-movie-hollywood-6529856",
+      "description": "Featuring Bollywood stars Ranbir Kapoor and Yash, the multi-million epic brings together Indian storytelling and Hollywood expertise in a bid to captivate audiences worldwide.",
+      "published_at": "2026-11-06T03:33:01+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia"
+      ]
+    },
+    {
+      "id": "489a8040683bcc1e538352de7dca90985021942f95178d56bac65d5ceebce88f",
+      "title": "Malaysia’s Sarawak to hold state election on Dec 12",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-sarawak-state-election-december-12-6522416",
+      "description": "Nomination day is set for Nov 28, while early voting will take place on Dec 8.",
+      "published_at": "2026-11-06T03:33:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Asia"
+      ]
+    },
+    {
+      "id": "812e21e20dacfae1d18fc34429e59d54aba649ac4a3f884ef18b4c75eb03c1fe",
+      "title": "Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16",
+      "url": "https://www.channelnewsasia.com/singapore/cross-border-taxi-quota-increase-singapore-malaysia-6529936",
+      "description": "CDG Zig and Kumpool will join Grab as licensed operators under the Cross-Border Taxi Scheme from Nov 16.",
+      "published_at": "2026-11-06T03:21:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "08f5e2ff8aa2012e4b13502be7c47261598c4322a16ea36a38b2887654a4c5be",
+      "title": "Israel faces new era of sinking US support after election",
+      "url": "https://www.channelnewsasia.com/world/israel-us-support-midterm-election-6529946",
+      "description": "",
+      "published_at": "2026-11-06T03:21:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "92b55ae18b60b486d91994236729933a21fc4099e6fb36204341686d12892b6b",
+      "title": "Canada budget charts ‘economic independence’ in decisive shift from US",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373484/canada-budget-charts-economic-independence-decisive-shift-us",
+      "description": "Canada unveiled a budget on Thursday that calls for “economic independence” and says that while reducing its reliance on the United States will take time, “the shift is under way”. Prime Minister Mark Carney’s second budget since taking office last year was presented to parliament just two days after President Donald Trump suffered a sweeping midterm election rebuke. While Democrats, who will take control of the US House and Senate next year, have already voiced a desire to ease Trump’s trade...",
+      "published_at": "2026-11-06T03:20:37+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "709967bc03a80cebf30eae34993c39e1a71a813d4d9de792d2423605f127b550",
+      "title": "Hegseth vows to keep fighting from Pentagon, defends Iran war",
+      "url": "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
+      "description": "Democrats, who won control of US Congress in the midterm elections, have promised to investigate US Secretary of Defence Pete Hegseth and his handling of the Pentagon.",
+      "published_at": "2026-11-06T03:09:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "c6d3060b21977b64cda51826831c62d6b8d75d1cc73c9b1db282e17092080b60",
+      "title": "12½ years’ jail for ex-Macau lawmaker Au Kam-san in city’s first national security trial",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3373482/12-1/2-years-jail-ex-macau-lawmaker-au-kam-san-citys-first-national-security-trial",
+      "description": "Former Macau lawmaker Au Kam-san has been convicted on five out of seven charges in the city’s first national security trial, with the court handing him a 12½-year prison sentence. The Court of First Instance in Macau on Friday found the 69-year-old guilty on four counts under the city’s national security law – subversion of state power and establishing links with foreign groups or individuals to commit activities endangering national security – as well as a fifth count of violation of...",
+      "published_at": "2026-11-06T03:08:14+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Hong Kong",
+        "News"
+      ]
+    },
+    {
+      "id": "529208e4793db987ebbf8b02e577f0b4355f17dc852304c752e0e4123429f8e8",
+      "title": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll",
+      "url": "https://www.channelnewsasia.com/business/japan-q3-gdp-growth-seen-slowing-sharply-consumption-external-demand-drag-reuters-poll-6529916",
+      "description": "",
+      "published_at": "2026-11-06T03:05:32+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "1778e6a5b587e6f1e8724ab526c0b92d61e560d53cb48aedf10361452d93f578",
+      "title": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'",
+      "url": "https://www.channelnewsasia.com/world/melania-trump-russia-ukraine-deal-6529891",
+      "description": "",
+      "published_at": "2026-11-06T03:04:15+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "46bfb7d6c0c808e92b619bd9bf7ea1f2939036cf631f793dd9f63babd46237ec",
+      "title": "SingPost's first-half net profit rises 183.7% to S$55.9 million on HDB shophouse sale and leaseback",
+      "url": "https://www.channelnewsasia.com/singapore/singpost-results-net-profit-h1-fy2026-2027-6529541",
+      "description": "Excluding one-off gains, SingPost's underlying net profit more than doubled to S$11.5 million, despite a decline in revenue.",
+      "published_at": "2026-11-06T03:03:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business",
+        "Singapore"
+      ]
+    },
+    {
+      "id": "ab5138e773781bb9ba96c220d5e6d5afd5ab78524ffe646e393b104705f223a9",
+      "title": "US and Brazil deliver double blow to the populist right. Will Europe feel the impact?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373448/us-and-brazil-deliver-double-blow-populist-right-will-europe-feel-impact",
+      "description": "In the space of roughly 10 days, the two largest democracies in the Americas delivered setbacks to the populist right. In Brazil, Luiz Inacio Lula da Silva staged a narrow but remarkable comeback, defeating Flavio Bolsonaro, the son of former president Jair Bolsonaro, in a run-off election after trailing in the first round. This week, American voters handed control of both chambers of the US Congress to Democrats in a sharp rebuke of candidates riding on US President Donald Trump’s “Make America...",
+      "published_at": "2026-11-06T03:00:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "China",
+        "News"
+      ]
+    },
+    {
+      "id": "45d18ad6256862a0601d6d06c1b5ff0494f10e9cfc5d835aa58def588ceaae65",
+      "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
+      "url": "https://www.channelnewsasia.com/entertainment/trevor-noah-pickleball-singapore-jaime-teo-6529806",
+      "description": "The South African comedian, who was in Singapore for three comedy shows from Nov 3 to 5, played pickleball with local enthusiasts and actress Jaime Teo, and even gave some of his fellow players complimentary tickets to his performances.",
+      "published_at": "2026-11-06T02:57:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "4d2fa32c297810c7ec701c0db228250107471bfd254bee8377e301dd76b87172",
+      "title": "CTC Travel warns of impersonation scams offering discounted holiday packages to seniors",
+      "url": "https://www.channelnewsasia.com/singapore/ctc-travel-impersonation-scam-seniors-6529801",
+      "description": "CTC Travel says it received reports of scammers using its name and images to advertise 20 all-inclusive travel packages for seniors.",
+      "published_at": "2026-11-06T02:51:22+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "164d7af5bc3e8cecad6acaa8dd4287433b81e76587d1b3aa236b5e889b0fe46f",
+      "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
+      "url": "https://www.channelnewsasia.com/business/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-6529851",
+      "description": "",
+      "published_at": "2026-11-06T02:49:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "30e776592fd3bf1a26fb34e1611f89d28999cd76ae66e41eba711c0e49a05926",
+      "title": "China MMA champion Zhang Weili faces family pressure to find a partner, go on blind dates",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3373480/china-mma-champion-zhang-weili-faces-family-pressure-find-partner-go-blind-dates",
+      "description": "China’s first UFC champion recently shared that her family has been pressuring her to get married, but she is afraid to use her real name on dating websites for fear of revealing her identity. Thirty-six-year-old mixed martial arts (MMA) fighter Zhang Weili discussed her difficulties finding a boyfriend during an interview with mainland influencer Papi Jiang (known in English as Pepi Sauce) in late October. The interview has received a total of 230,000 likes and more than 10,000 comments across...",
+      "published_at": "2026-11-06T02:36:06+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "id": "4fbe49d0a39a65a5e4952fd3a469f8fdf81d1a8d1f1cf02057b4831352a48b6d",
+      "title": "Post-US midterms AI worries pummel shares in Japan, South Korea",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3373478/post-us-midterms-ai-worries-pummel-shares-japan-south-korea",
+      "description": "Japanese and South Korean shares plunged on Friday after US shares tumbled overnight on worries that midterm election results could slow or derail the artificial intelligence data centre investment boom. Tokyo’s benchmark Nikkei 225 index fell 5.1 per cent to 56,930 points in early trade. Seoul’s Kospi index dived 8.5 per cent to 4,923, triggering a circuit breaker which suspended trading for 20 minutes. Investors had initially cheered Tuesday’s Democratic drubbing of US President Donald Trump’s...",
+      "published_at": "2026-11-06T02:31:40+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "f4d50bbaafa8673c5dc7c88c709b72bac0f6e03f38acd591d323af6136e2f56e",
+      "title": "Philippines’ project budget allocations spur accusations of pork barrel politics",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373450/philippines-project-budget-allocations-spur-accusations-pork-barrel-politics",
+      "description": "A road project with coordinates pointing to Nigeria. A government building apparently located in the Sahara Desert. Another road mapped to a sea near Brunei. These are among the unlikely locations listed for infrastructure projects in the Philippines’ proposed 2027 national budget, according to independent watchdogs that have discovered the discrepancies, highlighting problems with government transparency and accountability. Their scrutiny of Manila’s proposed 7.2 trillion pesos (US$114 billion)...",
+      "published_at": "2026-11-06T02:30:08+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "f3483ad107f1183c6b96d3244c844f31d82e8ec9b840ddd5ccfc16d86ab29f83",
+      "title": "Woman linked to Cambodia-based syndicate Prince Holding Group charged",
+      "url": "https://www.channelnewsasia.com/singapore/prince-holding-group-woman-charged-6529261",
+      "description": "Chen Xiu Ling, also known as Karen Chen, was handed one charge each for instigating another person to falsify accounts and for attempted cheating.",
+      "published_at": "2026-11-06T02:25:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "a9b90ea5e34ec51e3fa4dd1a5fd387c13138b8f86b31c62e6698fb77133d829e",
+      "title": "Trump-backed World Liberty Financial launches WLFI token buyback program",
+      "url": "https://www.channelnewsasia.com/business/trump-backed-world-liberty-financial-launches-wlfi-token-buyback-program-6529781",
+      "description": "",
+      "published_at": "2026-11-06T02:22:50+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "0e8e3bbca2aa5d70807dddb39b889c8d715c1747398e81ef788d9bf2b27f29f4",
+      "title": "MSCI says it needs to see South Korea's regulatory changes put into practice for market upgrade",
+      "url": "https://www.channelnewsasia.com/business/msci-says-it-needs-see-south-koreas-regulatory-changes-put-practice-market-upgrade-6529786",
+      "description": "",
+      "published_at": "2026-11-06T02:19:45+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
+      ]
+    },
+    {
+      "id": "80ddbe44626ddacdc41d987638799ae3f569ee5c676ce2194363a5e1cc22260f",
+      "title": "Netanyahu rival Eisenkot tipped to seek Israeli government with backing of Arab lists",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373476/netanyahu-rival-eisenkot-tipped-seek-israeli-government-backing-arab-lists",
+      "description": "Israeli President Isaac Herzog said he will announce on Sunday whom he will task with trying to form a new government, after the opposition’s Gadi Eisenkot secured a commanding number of recommendations to replace Prime Minister Benjamin Netanyahu. Herzog held a second day of consultations with political parties on Thursday after the October 27 election, in which neither Netanyahu - a polarising right-winger who has led Israel through three years of war - nor Eisenkot - a former military chief...",
+      "published_at": "2026-11-06T02:10:44+00:00",
+      "source": "SCMP",
+      "categories": [
+        "News",
+        "World"
+      ]
+    },
+    {
+      "id": "453f199f551760c0cd071cf8d92aec7408d8cc11c3f41c6a36f47fb10c9a5746",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+      "published_at": "2026-11-06T02:08:57+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
+      "id": "4fafeda2a3b3d54011819f9894f2e406fbae058e496fc4eed221f0cf9d598394",
+      "title": "A son in prison, a daughter gone: Singapore parents face heartbreak",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373475/son-prison-daughter-gone-singapore-parents-face-heartbreak",
+      "description": "When Huang Baoying was growing up, her older brother helped look after her, their parents recalled. Huang Bocan would tutor his younger sister at night and help her with her studies, their mother said. To his parents, he was a responsible son whom they trusted to help care for Baoying while they worked long hours. Years later, he would be sentenced to life imprisonment for murdering her. “We never imagined that things could become so serious,” their father said after Bocan, 34, was sentenced on...",
+      "published_at": "2026-11-06T01:59:38+00:00",
+      "source": "SCMP",
+      "categories": [
+        "Asia",
+        "News"
+      ]
+    },
+    {
+      "id": "4afe325cb3bc528404f0314cc68f688e1810a0e15ead878727c3db5421ba1548",
+      "title": "Trump designates Oval Office as national monument",
+      "url": "https://www.channelnewsasia.com/world/trump-oval-office-national-monument-white-house-6529706",
+      "description": "",
+      "published_at": "2026-11-06T01:55:52+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
+      ]
+    },
     {
       "id": "ee2a4d5cebb7ef740b2e3ebdafc4ef59b3a40435c0ed2cc0d2cacb4d7d9c0ba9",
       "title": "‘Mindful’ of AI exposure: wealth managers at Hong Kong summit urge balance in portfolios",
@@ -61,6 +1479,17 @@
       ]
     },
     {
+      "id": "808f933a7a2d2012e33c8214e5abb00a8accfea2116c5cbf7362fdad894a9e45",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "published_at": "2026-11-06T01:28:03+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "70ee4059ae82fb46d1882ec63ce3e7ea5c5c06970d997662f6b789c33ac148b3",
       "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
       "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
@@ -103,6 +1532,8 @@
       "published_at": "2026-11-06T01:13:53+00:00",
       "source": "BBC",
       "categories": [
+        "England",
+        "Politics",
         "UK"
       ]
     },
@@ -155,6 +1586,18 @@
       ]
     },
     {
+      "id": "af74336af20e0825dddcfc09f1a0deb214fbc0d4fb5989233e191690c852cdab",
+      "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+      "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+      "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+      "published_at": "2026-11-06T00:50:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts",
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "2517429b6dc966e4426161f3fca0e4df7b06223ab20e061b7bea839f48342aec",
       "title": "Japan to spend proceeds from BOJ's ETF sales on growth areas, PM says",
       "url": "https://www.channelnewsasia.com/business/japan-spend-proceeds-bojs-etf-sales-growth-areas-pm-says-6529516",
@@ -164,6 +1607,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "72f0188ee35a039908a2f84ea0971a6d375dae1a128db67b11fc985429019ef6",
+      "title": "Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries",
+      "url": "https://www.channelnewsasia.com/business/japan-tap-proceeds-boj-asset-sales-ai-rout-stokes-fiscal-worries-6529516",
+      "description": "",
+      "published_at": "2026-11-06T00:48:47+00:00",
+      "source": "CNA",
+      "categories": [
+        "Business"
       ]
     },
     {
@@ -178,7 +1632,29 @@
       ]
     },
     {
+      "id": "9529c9cf1b4d140c4ed931012008349f93e4770d9bc7143f83dcb3141319db15",
+      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
+      "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+      "published_at": "2026-11-06T00:42:05+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
       "id": "75765e7c2897b2559e34eb4ed33f9dc6f3ad4d0cb5f67db5626c52240daeb99c",
+      "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
+      "description": "The income went to the former prince rather than his landlord the Crown Estate.",
+      "published_at": "2026-11-06T00:39:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
+      ]
+    },
+    {
+      "id": "e3a90854b7d1c0f7337745c461a2b3dbfe705d4b0fe5cfed22f7b9ba81fc1fb2",
       "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
       "url": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
       "description": "The income went to the former prince rather than his landlord the Crown Estate.",
@@ -272,6 +1748,17 @@
       ]
     },
     {
+      "id": "02ca7c237d09c5704b540c88ca4b55433fa8d3970e874a59f9bd0536c7e0ce64",
+      "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+      "url": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+      "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
+      "published_at": "2026-11-06T00:09:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
+      ]
+    },
+    {
       "id": "5cebd9baaab445d9325d0f90d06e4a0b97c427f2e9c1eb91de24806ee59b05c9",
       "title": "LIV Golf's last-ditch financing plan collapses, leaving scant assets in wind-down",
       "url": "https://www.channelnewsasia.com/sport/liv-golfs-last-ditch-financing-plan-collapses-leaving-scant-assets-in-wind-down-6529381",
@@ -304,6 +1791,17 @@
       "source": "BBC",
       "categories": [
         "Northern Ireland"
+      ]
+    },
+    {
+      "id": "c83262d47311dfc150ad25a4caa65dfddef3126b6a20cfc888ae185800ddcf59",
+      "title": "Police officers reunited with baby born in back of car",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjxzrez12jo?at_medium=RSS&at_campaign=rss",
+      "description": "Two police officers who were first on the scene as a woman gave birth in a car have been reunited with the baby they helped care for.",
+      "published_at": "2026-11-06T00:04:24+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -384,6 +1882,17 @@
       "source": "France 24",
       "categories": [
         "World"
+      ]
+    },
+    {
+      "id": "d52ea7a0f5a51207223fd83c6fd45f1d419f162505b32402501cb5f357b7f9be",
+      "title": "Anderson could be given chance to join Surrey",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+      "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+      "published_at": "2026-11-05T23:33:52+00:00",
+      "source": "BBC",
+      "categories": [
+        "England"
       ]
     },
     {
@@ -470,18 +1979,19 @@
       "id": "09fb39b22943fd1a45ac578f9a9e9bc898f1e4e91f51b2b57359c363dc93796a",
       "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
       "url": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
-      "description": "The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.",
+      "description": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say.",
       "published_at": "2026-11-05T23:15:08+00:00",
       "source": "BBC",
       "categories": [
-        "Scotland"
+        "Scotland",
+        "UK"
       ]
     },
     {
       "id": "b272a922fb1f64a07646381ebe8cc34b98a70471edb2fdb26774e7aa1ae16710",
       "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
       "url": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
-      "description": "The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.",
+      "description": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say.",
       "published_at": "2026-11-05T23:15:08+00:00",
       "source": "BBC",
       "categories": [
@@ -596,7 +2106,7 @@
       "id": "43bf85a668a52cb4bee7ef21dcd2ee5826a10f46c0cf874fc254e5f329df419d",
       "title": "Scott Wiener set to replace Nancy Pelosi in San Francisco, as Connie Chan concedes",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3373468/wiener-set-replace-pelosi-san-francisco-chan-concedes",
-      "description": "California state lawmaker Scott Wiener appears to have defeated congresswoman Nancy Pelosi’s hand-picked successor in her San Francisco congressional district. Democrat Connie Chan said she does not have a “clear path to victory” in California’s 11th Congressional District, conceding defeat in a post on social media. “I congratulate Scott Wiener on his election,” she said. Pelosi, the 86-year-old former House speaker, is retiring from Congress when her term ends in early January. “San...",
+      "description": "California state Senator Scott Wiener of San Francisco, a prolific Democratic lawmaker who has reshaped state policy on a host of fronts – from housing to transgender rights – will succeed former House speaker Nancy Pelosi in Congress after San Francisco Supervisor Connie Chan called Wiener on Wednesday to concede, her campaign confirmed. Wiener, 56, who is gay and reviled by some on the far-right for his progressive policies and staunch LGBTQ+ advocacy work, overcame Pelosi’s endorsement of...",
       "published_at": "2026-11-05T22:39:49+00:00",
       "source": "SCMP",
       "categories": [
@@ -680,7 +2190,7 @@
       "id": "e444a88dee54a08378c6b34a0d4dc7bd8f6eb8dac53ee1a6c8c712f519bd58ec",
       "title": "Missiles and fireworks 'thrown at emergency crews'",
       "url": "https://www.bbc.co.uk/news/articles/cv3699pj714do?at_medium=RSS&at_campaign=rss",
-      "description": "Police believe the disorder relates to misinformation over the future of a building.",
+      "description": "Police believe the disorder in Meadow Well relates to misinformation over the future of a building.",
       "published_at": "2026-11-05T22:06:09+00:00",
       "source": "BBC",
       "categories": [
@@ -696,6 +2206,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "3f90dce7ce26a9e4949548b4e9a14cfa009a2c4d62754bc256f28e6b9d1a24c6",
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "published_at": "2026-11-05T22:04:44+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -720,6 +2241,17 @@
       "categories": [
         "Latest News",
         "Sports"
+      ]
+    },
+    {
+      "id": "5d20fd37410c2e9e3d158390277952542da735efa70f97ead215dc06730b0d1d",
+      "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "published_at": "2026-11-05T22:00:33+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -868,6 +2400,7 @@
       "published_at": "2026-11-05T21:25:57+00:00",
       "source": "BBC",
       "categories": [
+        "Business",
         "World"
       ]
     },
@@ -946,7 +2479,7 @@
       "id": "cb165a4afcec7f4527c6e1a5ae22e2b3428612cc7ae04e8a1d1282966137f46a",
       "title": "India-born democratic socialist Nithya Raman becomes LA mayor, ousting Karen Bass",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3373464/india-born-leftist-nithya-raman-beats-incumbent-karen-bass-become-la-mayor",
-      "description": "India-born democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo. Bass conceded to Raman in a phone call on Thursday, after the latest numbers showed Raman with 52 per cent of the vote against the outgoing mayor’s 48 per cent, with three-quarters of votes counted. Raman, 45, campaigned in the nation’s second-largest city on a platform of “pothole...",
+      "description": "Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo. Bass called Raman on Thursday to concede, after the latest numbers showed Raman with 52 per cent of the vote against the outgoing mayor’s 48 per cent, with three-quarters of votes counted. “I’m deeply honoured to be your next mayor,” said Raman, 45, in a statement on social media. “I love this...",
       "published_at": "2026-11-05T21:01:26+00:00",
       "source": "SCMP",
       "categories": [
@@ -981,7 +2514,7 @@
       "id": "2d9638ad42b1c7704a34ea20a461be6f0f7962dc0747abe4826cbf77bce1210e",
       "title": "TV singing contest winner admits illegal dog breeding",
       "url": "https://www.bbc.co.uk/news/articles/cw33xkgx80rvo?at_medium=RSS&at_campaign=rss",
-      "description": "A former winner of Cân i Gymru admits to knowingly taking part in a fraudulent business worth £1m.",
+      "description": "Former winner of Cân i Gymru Sara Pritchard Davies admits knowingly taking part in a fraudulent £1m business.",
       "published_at": "2026-11-05T20:47:13+00:00",
       "source": "BBC",
       "categories": [
@@ -1001,6 +2534,17 @@
     },
     {
       "id": "8fc33c46b105d7061dd39ee487fcd8ddaf03bf8956caff0efc327e2b0db9e556",
+      "title": "Businesses still struggling with sea border, Stormont reports find",
+      "url": "https://www.bbc.co.uk/news/articles/c52e99dpy1glo?at_medium=RSS&at_campaign=rss",
+      "description": "The studies, which look at the practical impacts of the Windsor Framework were commissioned by the Department for the Economy.",
+      "published_at": "2026-11-05T20:28:34+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "e1d82b3402066e8445ae92d8cfe6514ce8d4539676f99e5fb6ca3034adf5f340",
       "title": "Businesses still struggling with sea border, Stormont reports find",
       "url": "https://www.bbc.co.uk/news/articles/c52e99dpy1glo?at_medium=RSS&at_campaign=rss",
       "description": "The studies, which look at the practical impacts of the Windsor Framework were commissioned by the Department for the Economy.",
@@ -1102,7 +2646,29 @@
       ]
     },
     {
+      "id": "7e350aa17400b2604c20f790623824b4ab7f9ae38131152e072830c81f520855",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "published_at": "2026-11-05T19:58:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "d388056fd3568f86dfabea2de05a31bd4e63bf1c201ea751f094d576b000ef73",
+      "title": "Mobile phones seized in investigation linked to right-wing extremism",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynn8k5e9zo?at_medium=RSS&at_campaign=rss",
+      "description": "Police said the items were seized in connection with a wider investigation into right-wing extremism.",
+      "published_at": "2026-11-05T19:38:13+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "41186ebcb66aac325b0ed7d4f7c1174c50b4b384d33faec428da325a0570ef93",
       "title": "Mobile phones seized in investigation linked to right-wing extremism",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynn8k5e9zo?at_medium=RSS&at_campaign=rss",
       "description": "Police said the items were seized in connection with a wider investigation into right-wing extremism.",
@@ -1484,6 +3050,17 @@
       ]
     },
     {
+      "id": "1a2061d89118cd729de34f7b426d133221d11e16c3aa73209245adf24d8e8075",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "published_at": "2026-11-05T17:59:53+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "fc13d04b6bc0754732d8a87bbe3e180087e30f7f1860e9a7ee1a7f7752f050a9",
       "title": "Myanmar: Civilians under fire from military junta",
       "url": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
@@ -1608,6 +3185,17 @@
       ]
     },
     {
+      "id": "13f47239bab3c958f3ce7abd893cd8a6aa1796d79c031d4bc053f6edcbb05237",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "published_at": "2026-11-05T17:40:40+00:00",
+      "source": "BBC",
+      "categories": [
+        "World"
+      ]
+    },
+    {
       "id": "cf13fd3dcb7dc2f6620461d8a3ac9cc57084130f204937703836e9a4a117656f",
       "title": "Hoax bomb threats target European airlines and airports for second time in a week",
       "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
@@ -1626,7 +3214,8 @@
       "published_at": "2026-11-05T17:39:48+00:00",
       "source": "BBC",
       "categories": [
-        "Northern Ireland"
+        "Northern Ireland",
+        "World"
       ]
     },
     {
@@ -1639,6 +3228,17 @@
       "categories": [
         "Business",
         "Latest News"
+      ]
+    },
+    {
+      "id": "32534c47bddf0e60e8c57ae049ecb1aa8124c1ed50b55549dbd21f185b59b694",
+      "title": "US warns of 'ongoing cyber threat' to industrial refrigeration systems",
+      "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+      "description": "At least three waves of hacks have hit commercial fridges and freezers in the past few months.",
+      "published_at": "2026-11-05T17:37:00+00:00",
+      "source": "CNA",
+      "categories": [
+        "World"
       ]
     },
     {
@@ -1692,7 +3292,7 @@
       "id": "127f4493c2707d378b4c9ab5137a7faaca6d9cbe948d51e765e834b255bbf25c",
       "title": "Melania Trump hosts Ukraine, Russia officials, calls for ‘more enduring’ truce",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3373459/melania-trump-hosts-ukraine-russia-officials-calls-more-enduring-truce",
-      "description": "Melania ⁠Trump, US President Donald Trump’s wife, joined representatives ⁠from Russia and Ukraine on Thursday at a White House event to recognise a recent six-day ceasefire she helped broker in the Russian-controlled city of Oleshky. The event followed US officials’ ramped-up efforts to secure a deal to end the conflict between Russia and ‌Ukraine, which began when Russian forces invaded Ukraine in early 2022. A trilateral meeting with officials from the US, Ukraine and Russia is planned for...",
+      "description": "US President Donald Trump predicted Thursday an imminent deal with Russia covering Ukraine and “all of Europe”, after his wife, first lady Melania Trump, hosted officials from the two warring countries at the White House. Trump revealed that he had an unscheduled meeting with Kirill Dmitriev, Russian President Vladimir Putin’s envoy, following his involvement in the event hosted by the US first lady. Trump’s comments will fuel Ukrainian and European fears that he is pivoting towards the Kremlin...",
       "published_at": "2026-11-05T17:25:13+00:00",
       "source": "SCMP",
       "categories": [
@@ -1948,7 +3548,7 @@
       "id": "502170e0b8dc102e7f0bf3849aafe73fa7b7823da5731182f39b728ac4556ff7",
       "title": "Navi Pillay: Fighting violence with justice",
       "url": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
-      "description": "From the International Criminal Court to Africa’s place in the global justice system, the stakes are high. In an exclusive interview, Nobel Peace Prize winner, Navi Pillay will discuss international justice . She says it it must not be held hostage to political power, as Donald Trump targets the ICC. What does this showdown mean for Africa?",
+      "description": "From the International Criminal Court (ICC) to Africa’s place in the global justice system, the stakes are high. In an exclusive interview with FRANCE 24, Nobel Peace Prize winner Navi Pillay discusses international justice. She says it must not be held hostage to political power, as US President Donald Trump targets the ICC. What does this showdown mean for Africa?",
       "published_at": "2026-11-05T16:12:59+00:00",
       "source": "France 24",
       "categories": [
@@ -1976,6 +3576,17 @@
       "source": "BBC",
       "categories": [
         "England"
+      ]
+    },
+    {
+      "id": "df81f0bd2e07853acdb09e82921ecd479e0c5d7efb3056a19312a019be87f15e",
+      "title": "Watch: Met Police release Brand interview footage",
+      "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+      "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+      "published_at": "2026-11-05T16:01:56+00:00",
+      "source": "BBC",
+      "categories": [
+        "UK"
       ]
     },
     {
@@ -2191,7 +3802,8 @@
       "published_at": "2026-11-05T15:36:09+00:00",
       "source": "BBC",
       "categories": [
-        "Politics"
+        "Politics",
+        "Scotland"
       ]
     },
     {
@@ -2464,6 +4076,7 @@
       "published_at": "2026-11-05T14:51:45+00:00",
       "source": "BBC",
       "categories": [
+        "Northern Ireland",
         "Science & Environment"
       ]
     },
@@ -4192,6 +5805,17 @@
       ]
     },
     {
+      "id": "39e77f1aac58c50788118be0bc44ffb0e970a607d2eefa62217baad39b19a0ea",
+      "title": "Country legend Garth Brooks returns to Belfast with 2027 gigs",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yndvqy1y6o?at_medium=RSS&at_campaign=rss",
+      "description": "Brooks will play two outdoor concerts at Boucher Road Playing Fields on 21 and 22 May 2027.",
+      "published_at": "2026-11-05T09:34:41+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
       "id": "7e2b975e3529b69567d4fae54ff6793e6405521c8ea507c2d9149059824b05c4",
       "title": "New wave of bomb threats hits at least 25 passenger flights across Europe",
       "url": "https://www.channelnewsasia.com/world/european-airlines-bomb-threats-hoax-6526981",
@@ -5003,6 +6627,17 @@
       ]
     },
     {
+      "id": "defd87570ee4a7ffc1e8370d96bc037a56003cea03f8a090ab5475e876098b2f",
+      "title": "Black Doves cast: 'Being on Traitors would drive us insane'",
+      "url": "https://www.bbc.co.uk/news/videos/c3qjnk4g5e42o?at_medium=RSS&at_campaign=rss",
+      "description": "Black Doves cast: 'Being on Traitors would drive us insane'",
+      "published_at": "2026-11-05T06:06:51+00:00",
+      "source": "BBC",
+      "categories": [
+        "Entertainment & Arts"
+      ]
+    },
+    {
       "id": "072708ea1776da73f4ff11d20ad0e5a61c849d67c99f18186ee28e4d4439aad4",
       "title": "'Royal Mail delays are costing my little bakery'",
       "url": "https://www.bbc.co.uk/news/articles/cv2d6w4dzj2xo?at_medium=RSS&at_campaign=rss",
@@ -5613,6 +7248,17 @@
       "categories": [
         "Politics",
         "UK"
+      ]
+    },
+    {
+      "id": "4757d44a2614cd8dbbef8fef144c55cc2105dd23eba32340ad96aa4b014dc871",
+      "title": "UK commits to 'time-bound' talks on slavery apology",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+      "description": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
+      "published_at": "2026-11-05T02:17:18+00:00",
+      "source": "BBC",
+      "categories": [
+        "Politics"
       ]
     },
     {
@@ -7886,6 +9532,17 @@
     },
     {
       "id": "95b6e1c1085bff3653d092d2dda4344d278440421869c8974e1ed5740351f632",
+      "title": "Girl, 13, who was struck by car, 'had smile that lit up a room', inquest told",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1j8xgny2o?at_medium=RSS&at_campaign=rss",
+      "description": "Caitlin Hogg was struck by a car as she got off a school bus on the Moher Road, Kinawley, in 2022.",
+      "published_at": "2026-11-04T16:03:28+00:00",
+      "source": "BBC",
+      "categories": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "9a0c04676e02754c04debb0a04ed602268b3833462af1d05531f6d2e757af8ae",
       "title": "Girl, 13, who was struck by car, 'had smile that lit up a room', inquest told",
       "url": "https://www.bbc.co.uk/news/articles/ck4g1j8xgny2o?at_medium=RSS&at_campaign=rss",
       "description": "Caitlin Hogg was struck by a car as she got off a school bus on the Moher Road, Kinawley, in 2022.",
@@ -169829,1589 +171486,6 @@
       "source": "BBC",
       "categories": [
         "Northern Ireland"
-      ]
-    },
-    {
-      "id": "a90091f7c1a3bb602428a3ce05355ba99ec19ebd530bdd975f3519d2e20c2ed6",
-      "title": "Stephen King's Carrie returns to explore the horrors of social media",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxnw01z4n3o?at_medium=RSS&at_campaign=rss",
-      "description": "Another beloved classic gets a modern-day twist. Its cast and creator argue why it needed to be remade.",
-      "published_at": "2026-10-07T08:39:36+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "4fed0365b4353de5bf8b9b4827f67e04533decec5f0c98884acf0d1dbf9e9c9f",
-      "title": "Australia prepare for first test in South Africa since 'Sandpapergate'",
-      "url": "https://www.channelnewsasia.com/sport/australia-prepare-first-test-in-south-africa-sandpapergate-6438846",
-      "description": "",
-      "published_at": "2026-10-07T08:37:16+00:00",
-      "source": "CNA",
-      "categories": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "01464735e5bfe0129063825c4517b35983a1e4afc87989d83cd9742b828fbc5a",
-      "title": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
-      "url": "https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future",
-      "description": "Assassinated Russian journalist Anna Politkovskaya \"predicted\" Moscow's trajectory under President Vladimir Putin 20 years ago, her former editor said ahead of the anniversary of her death on Wednesday. Politkovskaya had reported on the war in Chechnya and Putin's rise before she was gunned down in her Moscow apartment block on October 7, 2006.",
-      "published_at": "2026-10-07T08:32:02+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe"
-      ]
-    },
-    {
-      "id": "17c24e3cba66f43916567e503ea45da151a8d4dfe97cac0a9e877542ffd57c4f",
-      "title": "Vietnam's central bank says inflation is higher than targeted but remains under control",
-      "url": "https://www.channelnewsasia.com/business/vietnams-central-bank-says-inflation-higher-targeted-remains-under-control-6438831",
-      "description": "",
-      "published_at": "2026-10-07T08:30:41+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "903c6dd1d918709c68aa486078368f93649cd9956a228ea78fd2fa79ccf8e293",
-      "title": "US risks ceding AI governance leadership to China and the EU",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3369823/us-risks-ceding-ai-governance-leadership-china-and-eu?utm_source=rss_feed",
-      "description": "Standing alongside prominent technology executives, US President Donald Trump announced a voluntary agreement under which major artificial intelligence (AI) companies will use internal controls and monitoring, outside audits and board oversight to manage risks. The White House calls the commitments “morally binding”, but the accord does not create a comparable system of legal enforcement. The administration’s logic is understandable. AI is becoming a source of economic and military power, and...",
-      "published_at": "2026-10-07T08:30:06+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "a1c49a1fd0f30ee5706001a61312b6b451034272584d80fb20f11b0f78e0e260",
-      "title": "Man gets jail, caning for human trafficking after tricking Singaporean woman into sex work in Dubai",
-      "url": "https://www.channelnewsasia.com/singapore/italian-man-jail-caning-trafficking-singaporean-woman-dubai-6438696",
-      "description": "The woman thought Achraf Arjaouy was a wealthy pilot who wanted to marry her, and engaged in sex work to raise funds so she could go with him to Qatar.",
-      "published_at": "2026-10-07T08:24:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "449c2c89e9b7af343a670f602734b03f4c3f374e461bba034172d9adcf114c5a",
-      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
-      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
-      "description": "Businesses in Watchet are concerned by the closure of the main road into Watchet.",
-      "published_at": "2026-10-07T08:22:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "7e39e972a95e0489a5d048f84416485aec6c28f44b8f11951c27f4660f4dddf6",
-      "title": "COE premiums close mostly lower in latest bidding exercise",
-      "url": "https://www.channelnewsasia.com/singapore/coe-premiums-oct-7-bidding-exercise-6438691",
-      "description": "Only open category premiums did not decrease, closing unchanged at S$137,000.",
-      "published_at": "2026-10-07T08:16:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "704b0b84924e56fb7936ba67fa02792c30c0722fa3a604c9b24cfb2d92cb1f33",
-      "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-      "description": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row.",
-      "published_at": "2026-10-07T08:13:22+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "Wales"
-      ]
-    },
-    {
-      "id": "65cab79c7f5bd0ed9dfbae4d12d47bc4e38efa7d3dedc65f4a4fccd3622a61f7",
-      "title": "France suspends stun grenade use at student protests ahead of PM speech",
-      "url": "https://www.channelnewsasia.com/world/france-student-protests-stun-grenade-schools-6438781",
-      "description": "",
-      "published_at": "2026-10-07T08:12:06+00:00",
-      "source": "CNA",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "528312b952c5d5e3a04c9b9f47d4b136ebae90ed9bc290824b0f7dabb12c9fc9",
-      "title": "Israel continues demolishing buildings in Gaza a year after ceasefire",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3370017/israel-continues-demolishing-buildings-gaza-year-after-ceasefire?utm_source=rss_feed",
-      "description": "It’s perhaps the most dramatic wound inflicted on the Gaza Strip by Israel’s military campaign over the past three years: the city of Rafah, once home to a quarter million people, has been erased. Satellite imagery shows the Israeli military has systematically razed the southern city and other towns and districts to the ground and in some places ploughed away the rubble. Demolition, using bulldozers and explosives, has continued unabated since the Israel-Hamas ceasefire deal reached a year ago,...",
-      "published_at": "2026-10-07T08:11:19+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "aa274015f3c5dd3c9a32592ad1a38b12e37ab08749c928094c33286e3a29b2b9",
-      "title": "New global guidelines warn against obesity drugs for children under 10",
-      "url": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
-      "description": "Care should focus on healthy eating and exercise, not medicines such as weight-loss injections, says the World Health Organization",
-      "published_at": "2026-10-07T08:07:54+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "ae7ab0991720170aa7c66827ab00db20ecaf54311b767b379c2b694b9b25c74d",
-      "title": "Renault’s plan for Chinese EV motor assembly in small French town sparks job loss fears",
-      "url": "https://www.scmp.com/economy/global-economy/article/3369753/renaults-plan-chinese-ev-motor-assembly-small-french-town-sparks-job-loss-fears?utm_source=rss_feed",
-      "description": "In the industrial heartland of Normandy, more than 100km (62 miles) away from Paris, lies the small town of Cleon. Home to fewer than 5,000 residents and a Renault factory, the town and its environs are a near-perfect reflection of the current state of France’s rust belt, where economic activity and jobs are dwindling – the factory’s workforce has shrunk from almost 5,000 to 3,124 in 10 years. Yet the planned arrival of an assembly line from Chinese firm Shanghai E-Drive next year, in...",
-      "published_at": "2026-10-07T08:05:28+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "931e6e1f0c2792a1bd896230cb43548509e693a2e2de594b75553b6316747a77",
-      "title": "NZ Cricket defends decision to launch domestic T20 competition",
-      "url": "https://www.channelnewsasia.com/sport/nz-cricket-defends-decision-launch-domestic-t20-competition-6438776",
-      "description": "",
-      "published_at": "2026-10-07T08:04:19+00:00",
-      "source": "CNA",
-      "categories": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "84aab30ecf699917e2a20e2622dd99225ffec819c55b0be74acf7da815f71d9b",
-      "title": "Jaguar unveils new electric car after 'woke' ridicule",
-      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
-      "description": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
-      "published_at": "2026-10-07T07:57:10+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "UK"
-      ]
-    },
-    {
-      "id": "8eef806fba20f8c8d4fe408e24dc83c62512e5822ca3ae58cf49e3c0feacb203",
-      "title": "Travellers must use authorised buses, taxis at Huanggang Port, Hong Kong authorities say",
-      "url": "https://www.scmp.com/news/hong-kong/transport/article/3370014/travellers-must-use-authorised-buses-taxis-huanggang-port-hong-kong-authorities-say?utm_source=rss_feed",
-      "description": "Travellers heading to and from the revamped Huanggang Port must use authorised public transport services only, including pre-booked licensed taxi fleets, as other ride-hailing services will not be available inside the boundary control area, according to the Hong Kong government. At a press conference on Wednesday, transport officials also urged travellers not to rush to use the new port in the initial phase of its operations. Ahead of the expected opening of the Huanggang Port on Monday, the...",
-      "published_at": "2026-10-07T07:56:28+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "e259af57cdde6258dbf7fea486690593fd36f757e799f765cd211f4a0741094e",
-      "title": "From the Acropolis, Rubio calls on Europe to emerge from ‘slumber’",
-      "url": "https://www.france24.com/en/americas/20261007-rubio-urges-europe-to-follow-trump-s-america-in-pursuit-of-national-power",
-      "description": "US Secretary of State Marco Rubio on Wednesday urged Western nations to return to what he called their civilisational roots and ensure the West \"maintains its place at the head of the world\" in a speech delivered against the backdrop of the Acropolis in Athens. The top US diplomat called on Europe to follow President Donald Trump's America in choosing the \"unapologetic pursuit of national power\" over the \"global community\".",
-      "published_at": "2026-10-07T07:48:44+00:00",
-      "source": "France 24",
-      "categories": [
-        "Americas"
-      ]
-    },
-    {
-      "id": "2e2c7a77b4f916c64cbefa9efa39cc1aad6adab5186235f07a9d0de2868e41f3",
-      "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-      "url": "https://www.channelnewsasia.com/business/amd-ceo-says-continues-explore-foundry-partnership-samsung-electronics-6438731",
-      "description": "",
-      "published_at": "2026-10-07T07:44:27+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ec2faddabe3c9c42c79626f3e24cdad22af1c9a524a3f7116fff6556ce83b76b",
-      "title": "What questions face Pocognoli after Scotland defeat?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn49204wer7o?at_medium=RSS&at_campaign=rss",
-      "description": "Sebastien Pocognoli has much to ponder before next month's Nations League group-stage finale after a bruising home defeat by Slovenia.",
-      "published_at": "2026-10-07T07:43:11+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "84de4b728bb51e287b1b2207ab961c728413d292d33a5250c73f7ff8e6e5827e",
-      "title": "Edrych 'mlaen at amser gyda'r plant wedi llwyddiant - Elfyn Evans",
-      "url": "https://www.bbc.co.uk/cymrufyw/fideo/cm9qzlrj9e1eo?at_medium=RSS&at_campaign=rss",
-      "description": "Enillodd y gyrrwr rali o Ddinas Mawddwy, Elfyn Evans, bencampwriaeth y byd yn Sardinia ddydd Sul.",
-      "published_at": "2026-10-07T07:42:30+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "8ea9c39c5baea6ab80643ce320315cd128142a0b40613874891d332615a582b3",
-      "title": "Myanmar leader lands in Malaysia for migrant return talks",
-      "url": "https://www.channelnewsasia.com/asia/myanmar-min-aung-hlaing-malaysia-visit-anwar-6438516",
-      "description": "Malaysia says that Prime Minister Anwar Ibrahim will host Myanmar leader Min Aung Hlaing for talks on the \"safe repatriation of Myanmar nationals of all ethnic groups who have been in Malaysia illegally\".",
-      "published_at": "2026-10-07T07:38:54+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "742f5f5f63081d52da439389aa410e1178dd5ee73adb5a0b2fe53d801275b69b",
-      "title": "Musk says TSMC won't run Terafab AI chip complex",
-      "url": "https://www.channelnewsasia.com/business/musk-says-tsmc-wont-run-terafab-ai-chip-complex-6438461",
-      "description": "",
-      "published_at": "2026-10-07T07:37:54+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "29134d41d0cced17aaaac8a97f2e697271688e38f3f6d162458b06c1adab3347",
-      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-      "description": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
-      "published_at": "2026-10-07T07:37:16+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "f5a23e3ad70539b6d76b91c57aae63d30cf1b859aa36f0dc4fbea12cbba314e2",
-      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-      "description": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
-      "published_at": "2026-10-07T07:37:16+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts",
-        "World"
-      ]
-    },
-    {
-      "id": "64b91d749834a739ddf056273addf7637429d576b580fa0f60655e1b7e1c5006",
-      "title": "Battle of ideas looming in British politics, Badenoch to say",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
-      "description": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election.",
-      "published_at": "2026-10-07T07:35:19+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "UK"
-      ]
-    },
-    {
-      "id": "90f9226b201e66ac4109e92f7d33e44826fc1d4304b74775d84cc6216f03b955",
-      "title": "China’s missile lidar model; world’s most accurate atomic clock: 7 science highlights",
-      "url": "https://www.scmp.com/news/china/science/article/3369995/chinas-missile-lidar-model-worlds-most-accurate-atomic-clock-7-science-highlights?utm_source=rss_feed",
-      "description": "We have put together stories from our coverage on science from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Chinese researchers say missile lidar model can spot US F-35 at up to 61.5km A computer simulation developed by Chinese researchers suggests that a missile-borne system with the latest light detection and ranging system, or lidar, could detect and track an F-35 stealth fighter at up to 61.5km (38 miles) at...",
-      "published_at": "2026-10-07T07:30:06+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "43c88e027535cea1c0c5bf67d3bebd51bb6626ae6e4e6200e4c7c950d7d33a2c",
-      "title": "Japan raids beer giants over alleged price cartel",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-raid-beer-giants-anti-monopoly-prices-6438606",
-      "description": "Asahi Breweries, Kirin Brewery, Sapporo Breweries, and Suntory are under investigation over suspicions they colluded to hike beverage prices in a violation of anti-monopoly laws.",
-      "published_at": "2026-10-07T07:28:49+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "482b169c58ebc5e5cd3db2ad9d7d9bf5f77a2e7d263ce01b565e4fd03cd8b6c7",
-      "title": "COVID-19 vaccination to be added to Singapore’s national immunisation schedules from Oct 12",
-      "url": "https://www.channelnewsasia.com/singapore/covid-19-vaccination-national-immunisation-schedule-cda-6438661",
-      "description": "COVID-19 vaccination will be recommended for people aged 60 and above, medically vulnerable people aged six months and above, and residents of aged care facilities.",
-      "published_at": "2026-10-07T07:26:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "3fa565a32ff01927c0a20a975671316498f185091bf1f7cb39a3a67e12680c3f",
-      "title": "Singapore to charge American man over perfume theft spree at Changi Airport",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370008/singapore-charge-american-man-over-perfume-theft-spree-changi-airport?utm_source=rss_feed",
-      "description": "A 47-year-old man will be charged on Thursday over a series of perfume thefts at Changi Airport, the Singapore Police Force (SPF) said on Wednesday. The thefts date back to November last year and involved almost S$1,410 (US$1,102) worth of perfume, the police said in a news release. SPF said it was alerted to the first theft on November 5, 2025, after a retail assistant discovered that a box of perfume was missing from a shop’s display shelf. Closed-circuit television footage showed that the...",
-      "published_at": "2026-10-07T07:25:58+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "ed0e6b8d22924a8b205231df44e0e14c72424b17be68538ce3b4bfd3b4d03645",
-      "title": "Jaguar Type 01 unveiled: The electric grand tourer leading the brand’s new era",
-      "url": "https://www.channelnewsasia.com/obsessions/jaguar-type-01-electric-grand-tourer-6438601",
-      "description": "Jaguar’s first production car since its controversial rebrand arrives with 1,030PS, up to 724km of range and a radically different design.",
-      "published_at": "2026-10-07T07:14:19+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News"
-      ]
-    },
-    {
-      "id": "bd1d5b27369261806ac03297ced555bc2cf94832c57bdf8dc2cdc37c08aaf01f",
-      "title": "Rainmakers: The drones used to seed clouds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "published_at": "2026-10-07T07:09:32+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business",
-        "Science & Environment",
-        "Technology"
-      ]
-    },
-    {
-      "id": "f9db0ab21e2626324935c9363871e14a2091765175e8e59bc195c14031a1ef57",
-      "title": "Rainmakers: The drones used to seed clouds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "published_at": "2026-10-07T07:09:32+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "9f7bbac822f98f0b66b618ddec81eb6318fff9199455a4f8c3b2beb012142d3c",
-      "title": "Rainmakers: The drones used to seed clouds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "published_at": "2026-10-07T07:09:32+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "693a7c3c2f24a8c9a76b6cb15fe40ec9f82feb01a5898bc9a61c77810623e3ee",
-      "title": "Rainmakers: The drones used to seed clouds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "published_at": "2026-10-07T07:09:32+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "ceedcffcf8342cb25556cdd72b70650b75c8a9dc68b300bd8dcd50ba96b82a65",
-      "title": "Nomura Asset counting on Japanese market enthusiasm to expand global business",
-      "url": "https://www.channelnewsasia.com/business/nomura-asset-counting-japanese-market-enthusiasm-expand-global-business-6438641",
-      "description": "",
-      "published_at": "2026-10-07T07:03:23+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "e708db9dac55c26bf147fb80e69d64ebbc913b013a9ca9d0fe0a2d5af4de7369",
-      "title": "Dowman tipped to flourish with Old Firm loan - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crly0gvd44evo?at_medium=RSS&at_campaign=rss",
-      "description": "Old Firm loan move could be interesting for Arsenal rising star, says ex-England international...",
-      "published_at": "2026-10-07T07:03:00+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "6fb6a72481094e264ce39d62b6f3592c96d8ff652aa2734015ff1b319b47f276",
-      "title": "Indian central bank hikes rates for first time since 2023",
-      "url": "https://www.channelnewsasia.com/business/india-central-bank-interest-rates-hike-first-time-2003-6438586",
-      "description": "In doing so, the RBI has shifted gears to join several central banks around the world who have raised rates to curb price rises or boost their currencies.",
-      "published_at": "2026-10-07T06:47:01+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "b5a42229756737f886d7fb874ede20d27507051a296928407a1d642d39461cf9",
-      "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-      "description": "Phil Davies told BBC Wales the motion would not improve the lives of the Palestinian people.",
-      "published_at": "2026-10-07T06:45:59+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "8245cc3ca2c5bd2a3aa04a53ec21b59e13c2fc0ec45ac276d891a83b71dd4bfd",
-      "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-      "description": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row.",
-      "published_at": "2026-10-07T06:45:59+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics",
-        "Wales"
-      ]
-    },
-    {
-      "id": "5c30fa8f3a8b0dee603a7a54f06fe18df05f8d92168b5c6d2e1326fb3a8e30fa",
-      "title": "South Korea launches 'K-brand' scheme to fight counterfeits",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-new-brand-scheme-counterfeits-6438536",
-      "description": "Under the new \"K-Brand Government Certification System\", consumers will now be able to check whether a product is authentic by scanning a QR code attached to it with their mobile phone.",
-      "published_at": "2026-10-07T06:41:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "2e7b3f9da69ab8bc4613ebde2ebf458aee6012bb2edff49690869d3551ec32e4",
-      "title": "Malaysia’s Melaka sets election date as BN, PAS near alliance against Anwar",
-      "url": "https://www.scmp.com/week-asia/politics/article/3370001/malaysias-melaka-sets-election-date-bn-pas-near-alliance-against-anwar?utm_source=rss_feed",
-      "description": "Malaysia’s Melaka will hold a state election on November 14 as the Umno-led Barisan Nasional (BN) coalition nears a pact with Islamist rivals, leaving Prime Minister Anwar Ibrahim’s alliance facing another difficult contest after a string of recent defeats. The filing of nominations would begin on October 31 and early voting on November 10, Election Commission chairman Ramlan Harun said on Wednesday. A total of 687,897 registered voters are eligible to elect the state’s 28 assembly members, with...",
-      "published_at": "2026-10-07T06:31:11+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "1f504aa5113d1f027e32efd024b6c748009acf2777814ed522caf2c2d71edebd",
-      "title": "49 schools to get new principals in 2027",
-      "url": "https://www.channelnewsasia.com/singapore/49-new-school-principals-2027-moe-6437961",
-      "description": "Of these, 13 are newly appointed principals, MOE said in a press release on Wednesday (Oct 7).",
-      "published_at": "2026-10-07T06:30:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "0e2e6d495a202c5602b58e5dc2d1b13f465e756e6c5451e75708ed9daf866b1f",
-      "title": "Can Man City juggle WSL title defence and Champions League?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c32l4nwr7z05o?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City have had a strong start to the WSL season, but have they showed they are capable of juggling Champions League football?",
-      "published_at": "2026-10-07T06:14:35+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "c250c6efe6dfb529e83dcadc00bef4d339c1f138102a12d46f2d7c004adc8d9d",
-      "title": "Singapore must be able to say ‘no’ to US, China to preserve trust: foreign minister",
-      "url": "https://www.scmp.com/week-asia/politics/article/3369999/singapore-says-it-must-be-able-say-no-us-china-preserve-trust?utm_source=rss_feed",
-      "description": "Singapore occupies a “peculiarly sensitive existential point” as it seeks to retain strategic options amid a great power rivalry, Foreign Minister Vivian Balakrishnan has said, doubling down on the city state’s stance of refusing to take sides. He also warned that the global landscape would remain unsettled if China and the United States failed to address their respective domestic issues. Speaking at the Milken Institute Asia Summit 2026 in Singapore on Wednesday, Balakrishnan identified...",
-      "published_at": "2026-10-07T06:10:23+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "e5bb473474a96b44bfe6fa4b0e90ac55128e9d4020e783b9ff585448c7e9777c",
-      "title": "Russian barrage hits Kyiv hours after Zelensky warns of impending attack",
-      "url": "https://www.scmp.com/news/world/europe/article/3369997/russian-barrage-hits-kyiv-hours-after-zelensky-warns-impending-attack?utm_source=rss_feed",
-      "description": "At least 11 people were killed in Russian strikes on Wednesday, according to Ukrainian President Volodymyr Zelensky, including five when a missile destroyed a residential block in the north of the country. Emergency services picked through the rubble of the destroyed five-storey building in Pryluky, in the Chernigiv region, with fears that the death toll could rise. “There may still be people under the rubble,” President Volodymyr Zelensky said in a social media post. “First responders are doing...",
-      "published_at": "2026-10-07T06:04:10+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "f1c494e3c7e7cefe66fd5ba6b55054aed49754acb0a7ac14e6e550e313c70344",
-      "title": "Former nursing student jailed for stealing from hospital patients and colleagues",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369996/former-nursing-student-jailed-stealing-hospital-patients-and-colleagues?utm_source=rss_feed",
-      "description": "A former nursing student at a leading private hospital in Hong Kong has been jailed for two years and four months for stealing cash, credit cards and a phone from patients and colleagues, causing losses of at least HK$59,000 (US$7,517). Leung Ho-fung, 29, was sentenced at the District Court on Wednesday after pleading guilty to 11 counts of theft. He admitted stealing an iPhone, HK$6,500 in cash and nine credit cards from four patients and four colleagues at Hong Kong Sanatorium and Hospital in...",
-      "published_at": "2026-10-07T06:03:01+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "822e062087cb622e1dc7540200ea8bbb5f47ab845008553102db08d330a709af",
-      "title": "Russia launches one of its biggest strikes on Ukraine, killing at least 11",
-      "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
-      "description": "At least 11 people were killed in Ukraine after Russia fired 70 missiles and drones in one of its biggest strikes ‌on the country, President Volodymyr Zelensky ‌said on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport.",
-      "published_at": "2026-10-07T05:56:19+00:00",
-      "source": "France 24",
-      "categories": [
-        "Europe",
-        "World"
-      ]
-    },
-    {
-      "id": "b9c0fef032cda273e3225a8ebb82767e3ac59b381d338ba440dfd857d3297ffb",
-      "title": "King Conker abdicates throne with 'great sadness'",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyr90dy1ylo?at_medium=RSS&at_campaign=rss",
-      "description": "He steps down from the World Conker Championships' mascot role, but his daughter waits in the wings.",
-      "published_at": "2026-10-07T05:48:03+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "aa60ea1687f0a2a820a5c30f8c10408e57d3fa99a260dee323590ded8cf3003d",
-      "title": "Jimmy McGovern claims young offender institution staff 'lazy'",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56le7wr6zo?at_medium=RSS&at_campaign=rss",
-      "description": "McGovern says officers are lazy after visiting youth offenders' institutions for new series of BBC drama.",
-      "published_at": "2026-10-07T05:44:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "England",
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "5701fa5dcc594c95bb24292517ed5614d7600979370bf4a90ef555b730e83d89",
-      "title": "Jimmy McGovern claims young offender institution staff 'lazy'",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56le7wr6zo?at_medium=RSS&at_campaign=rss",
-      "description": "McGovern says officers are lazy after visiting youth offenders' institutions for new series of BBC drama.",
-      "published_at": "2026-10-07T05:44:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "dec7386ae17defc1d99b476e57742841f95519cfd61d20ccb62bc70f09795fe2",
-      "title": "Jimmy McGovern claims young offender institution staff 'lazy'",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56le7wr6zo?at_medium=RSS&at_campaign=rss",
-      "description": "The acclaimed writer says visiting young offenders institutions for his new drama left him \"shocked\".",
-      "published_at": "2026-10-07T05:44:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Entertainment & Arts"
-      ]
-    },
-    {
-      "id": "7b8e1324d5ca36581db39b10fc09e3cf3bb64cf65a554e8d64f61020901a66b1",
-      "title": "Scotland's papers: Badenoch's Holyrood vow and civil servants ordered back to the office",
-      "url": "https://www.bbc.co.uk/news/articles/c689zv80nnl3o?at_medium=RSS&at_campaign=rss",
-      "description": "A review of the front page stories from the daily newspapers in Scotland.",
-      "published_at": "2026-10-07T05:44:09+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "03d070a4190a1ec47e81acaf65eb307693c4e72529ef3a8039407f874c1cb6ab",
-      "title": "Lionel Messi scores as Argentina beat Benin for his last international game",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game",
-      "description": "Lionel Messi played his final match for Argentina, a 3-0 victory over Benin. A full tribute was paid to him before and after the match.",
-      "published_at": "2026-10-07T05:42:31+00:00",
-      "source": "France 24",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "d0cf70441c919ab92a0a5c777375eaafdde45b2cd9cdf2c12bb9f7114f74c3a4",
-      "title": "Probation for motorcyclist, 21, who performed dangerous 'Superman' stunt while riding along ECP",
-      "url": "https://www.channelnewsasia.com/singapore/motorcyclist-stunt-ecp-probation-superman-6438371",
-      "description": "GoPro footage found by police on the motorcyclist's own camera showed him lying prone on the bike with his feet off the rear controls for at least 16 seconds.",
-      "published_at": "2026-10-07T05:41:13+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "78b9b41bcba9da243d26b47aa6e1332a33b342948d17841329b599dd3c67123d",
-      "title": "Israel marks 3 years since October 7 attack that sparked war in Gaza",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3369994/israel-marks-3-years-october-7-attack-sparked-war-gaza?utm_source=rss_feed",
-      "description": "Israel marked the third anniversary of Hamas’ October 7 attack on Wednesday with silent tributes, new strikes on Gaza and intense political debate, weeks before elections in which the country’s deadliest day will be front and centre. At the site of the Nova music festival, where Hamas militants in trucks and paragliders opened fire around dawn on October 7, 2023, family members bowed their heads in silence – although at least one instead put on techno music in tribute to the fallen. Both at Nova...",
-      "published_at": "2026-10-07T05:39:41+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News",
-        "World"
-      ]
-    },
-    {
-      "id": "6c46001c47d9de46e1976fe17024197e11b6e6ef085774296a0a33fc5f556bec",
-      "title": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-      "description": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-      "published_at": "2026-10-07T05:33:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "2664612e689ea6aa16bac4502f4b5d5ade9d7d5953322f6f0989da77e6c38446",
-      "title": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-      "description": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-      "published_at": "2026-10-07T05:33:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "8a4a46c4cb2c6fb7103f1ccd6ea7f164f068bbfaec44019919841db104189418",
-      "title": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-      "description": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-      "published_at": "2026-10-07T05:33:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "374d3d858fdcf80d005de4af905716939a09645219a21fff85ec39d9556406bd",
-      "title": "Man to be charged over series of perfume thefts at Changi Airport",
-      "url": "https://www.channelnewsasia.com/singapore/changi-airport-perfume-thefts-6438376",
-      "description": "The thefts date back to November last year and involved about S$1,410 worth of perfume.",
-      "published_at": "2026-10-07T05:32:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "3934f4b3ca47b8b02b73951a570c36e409be987381416d024dff5d5b7ff16f4f",
-      "title": "Bus drivers should 'refuse' to drive off if pupils stand up as £1 fares boost numbers",
-      "url": "https://www.bbc.co.uk/news/articles/c6jrxr502894o?at_medium=RSS&at_campaign=rss",
-      "description": "Some pupils on public buses choose to stand when there are free seats available, a meeting hears.",
-      "published_at": "2026-10-07T05:31:43+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "af246a253336d53800c206121c49bb6c433ba4c961c277206e4484dc9343a401",
-      "title": "Financial institutions remain accountable for third-party AI under new MAS guidelines",
-      "url": "https://www.channelnewsasia.com/singapore/financial-institutions-ai-guidelines-mas-third-party-tools-6438406",
-      "description": "Among other expectations, financial institutions will be accountable for AI used in delivered services, including AI developed, operated or provided by third parties.",
-      "published_at": "2026-10-07T05:27:30+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "be475d9619192458e712242b3dc03e7d772bb71eeda70a0bfd71efb7249b0ecd",
-      "title": "'Until we have answers - our grief is frozen in time' - dad of teenager killed in explosion",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0v13ndzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Leona Harper was one of 10 victims of an unexplained explosion at a service station four years ago.",
-      "published_at": "2026-10-07T05:25:18+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "0d2551bb63972300e3ed29b674ff8098ae3f743a1a329fab2972cc1246e6e365",
-      "title": "'It's torture and torment without answers' - dad of teen killed in blast",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0v13ndzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Leona Harper was one of 10 victims of an unexplained explosion at a service station four years ago.",
-      "published_at": "2026-10-07T05:25:18+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland",
-        "UK"
-      ]
-    },
-    {
-      "id": "b30ce2d1acd84dddf4b1966e5ce54fe3ae505d6d81f0250a3b59fcdf726a0401",
-      "title": "'It's torture and torment without answers' - dad of teen killed in blast",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0v13ndzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Leona Harper was one of 10 victims of an unexplained explosion at a service station four years ago.",
-      "published_at": "2026-10-07T05:25:18+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "6ae0b2fae700d1027220aad7ebffba4c410acb33785c95cec0581129bbf79c54",
-      "title": "'It's torture and torment without answers' - dad of teen killed in blast",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0v13ndzgo?at_medium=RSS&at_campaign=rss",
-      "description": "Leona Harper was one of 10 victims of an unexplained explosion at a service station four years ago.",
-      "published_at": "2026-10-07T05:25:18+00:00",
-      "source": "BBC",
-      "categories": [
-        "Northern Ireland"
-      ]
-    },
-    {
-      "id": "6725dd98455da1d757cd4ee1caa303644fd83be184dca28f2031b591d58103ba",
-      "title": "Wrexham's Kop: The project matching the club's rise",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5dj4j2kvm98o?at_medium=RSS&at_campaign=rss",
-      "description": "Wrexham's new Kop stand a signal of their ambition to keep climbing from the Championship to the Premier League.",
-      "published_at": "2026-10-07T05:25:09+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "cd34437c016c477734468e065622f7895638bacdb10a1be089f4c4ebe967c262",
-      "title": "How Netanyahu survived the political fallout from the October 7 attacks",
-      "url": "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks",
-      "description": "Three years after the deadly Hamas-led October 7 attacks in southern Israel, Prime Minister Benjamin Netanyahu is fighting for political survival ahead of legislative elections later this month. Reports that Arab leaders warned him of the assault in advance have undercut his claims that Israel's security chiefs are to blame, but his political base appears to be holding.",
-      "published_at": "2026-10-07T05:24:03+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "cb29dfff8d03208cd4e3d926a1a9b7d338994f8dca86de68e22496aaf01045e6",
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "description": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-      "published_at": "2026-10-07T05:22:52+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "8480e6d2e0f48937b8a33586214358af6e5b64f1b4363ca524dc1741b8793652",
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "description": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-      "published_at": "2026-10-07T05:22:52+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "11f24c03a4cb01f350f9841b3675f6d0529c61f51b1d9e78f72807ddf1a630af",
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "description": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-      "published_at": "2026-10-07T05:22:52+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "162185fb864381aba737a68d7148740b61849dfebe441bd3a1e462574aab6ed3",
-      "title": "Brussels looks to capture Big Tech through tax on large corporations, FT reports",
-      "url": "https://www.channelnewsasia.com/business/brussels-looks-capture-big-tech-through-tax-large-corporations-ft-reports-6438476",
-      "description": "",
-      "published_at": "2026-10-07T05:17:53+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "9f9cbf27292a94b0c68e253c6cd7e0ac544b17000193c5cef88d58b817374d37",
-      "title": "Puffin island on cusp of closure as it runs out of water",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
-      "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
-      "published_at": "2026-10-07T05:16:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment",
-        "UK"
-      ]
-    },
-    {
-      "id": "6319eb0f0196c48ae700d1ee58acae595db426a30545bad2bfb6950dc36eba47",
-      "title": "Puffin island on cusp of closure as it runs out of water",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
-      "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
-      "published_at": "2026-10-07T05:16:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "9f64ba44e8bf4dcce3445aef1b6702acfa145d487d009ab46eeb1802c3a48244",
-      "title": "Puffin island on cusp of closure as it runs out of water",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
-      "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
-      "published_at": "2026-10-07T05:16:14+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "ec03f752273954aadc5798035b3a5f1dbb89b6002fda8c228960a2a3b799d706",
-      "title": "The candidates hoping to be London's second Tory mayor",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
-      "description": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls.",
-      "published_at": "2026-10-07T05:14:46+00:00",
-      "source": "BBC",
-      "categories": [
-        "Politics"
-      ]
-    },
-    {
-      "id": "d8e973ba045ef458fd26cf2bbb5c92189c55ea065bbddee00191588d4eaf260b",
-      "title": "Landlord's heartbreak as pub shuts down",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3gnq1752po?at_medium=RSS&at_campaign=rss",
-      "description": "A pub landlord forced to close down says more venues face similar closures without more tax cuts.",
-      "published_at": "2026-10-07T05:12:40+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "b3e252ab579384eee88647c18c1e007ad7938ba62d258efd097a371e0aa83616",
-      "title": "Landlord's heartbreak as pub shuts down",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3gnq1752po?at_medium=RSS&at_campaign=rss",
-      "description": "Jon Dean, who ran The Alma Tavern in Worcester, said he has been crippled by rising costs and has had to let 15 staff go.",
-      "published_at": "2026-10-07T05:12:40+00:00",
-      "source": "BBC",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "cd060a73b6397045d4883ca89ee55f8f6fe98eaa32f8d9e34f27633d5154e93e",
-      "title": "Visually impaired people fear smart glasses backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7ney2o?at_medium=RSS&at_campaign=rss",
-      "description": "Smart glasses are banned in some venues but disabled wearers describe them as game-changing.",
-      "published_at": "2026-10-07T05:11:25+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "b82afb1ea3414fa030b0be36375754b857ed42a41bcfc08098e9103ba6505ee2",
-      "title": "Visually impaired people fear smart glasses backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7ney2o?at_medium=RSS&at_campaign=rss",
-      "description": "Smart glasses are banned in some venues but disabled wearers describe them as game-changing.",
-      "published_at": "2026-10-07T05:11:25+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "39eab54a76262178b2e3f6e9bc9b130381471309c64900ed728a998a51ffb72b",
-      "title": "Survivors 'betrayed' after rapist fled to Pakistan while on bail",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8e2evn6gro?at_medium=RSS&at_campaign=rss",
-      "description": "Amar Ilyas left the UK while on bail for sexual offences, and never returned for his trial.",
-      "published_at": "2026-10-07T05:10:34+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "7f23477ac15950c3eb6c94c3dfc849616591a871e03562fe90d325177782f33e",
-      "title": "Survivors 'betrayed' after rapist fled to Pakistan while on bail",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8e2evn6gro?at_medium=RSS&at_campaign=rss",
-      "description": "Amar Ilyas left the UK while on bail for sexual offences, and never returned for his trial.",
-      "published_at": "2026-10-07T05:10:34+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "cc4b0bda61c05e375bb4ac3b385a360cc03d51933ded29ba2248e8d5c72f2da5",
-      "title": "Survivors 'betrayed' after rapist fled to Pakistan while on bail",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8e2evn6gro?at_medium=RSS&at_campaign=rss",
-      "description": "Amar Ilyas left the UK while on bail for sexual offences, and never returned for his trial.",
-      "published_at": "2026-10-07T05:10:34+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "46fce365d40dd240c0fd6be49281eaf5a194efc2f491ae50acd9978797c6e7b8",
-      "title": "Melaka to head to the polls on Nov 14 in another test of shifting political alliances in Malaysia",
-      "url": "https://www.channelnewsasia.com/asia/melaka-elections-polls-barisan-nasional-anwar-6432636",
-      "description": "Nearly 700,000 voters in Melaka are set to cast their ballots in the state polls on Nov 14.",
-      "published_at": "2026-10-07T05:10:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "8d47e4cc2123bd614f21bb6999d7850cf5bb341695f526b39729037b2b1ead8d",
-      "title": "Diary found in skip unlocks soldier's story",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxkpzyqqvo?at_medium=RSS&at_campaign=rss",
-      "description": "The book will be launched at Stourbridge Library on 15 October, as part of Dudley History Festival.",
-      "published_at": "2026-10-07T05:08:16+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "9f0a7cdeb4b8844b13dae7c9d405cb78eb3603c889d25b0344a7ea06873764cf",
-      "title": "Tests carried out on seabirds after nurdle spill",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd7p2ll50o?at_medium=RSS&at_campaign=rss",
-      "description": "Necropsies are being carried out on seabirds to find out the effects of microplastic pollutants.",
-      "published_at": "2026-10-07T05:07:45+00:00",
-      "source": "BBC",
-      "categories": [
-        "Science & Environment"
-      ]
-    },
-    {
-      "id": "6b158178502100d573e8800593aa921c2ce95c9f6805aa381f390ca557b8691a",
-      "title": "'I made a choice - I didn't naturally lose my baby'",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8g7z95ggno?at_medium=RSS&at_campaign=rss",
-      "description": "Rosanna Brown was advised to end her pregnancy because her baby had a life-threatening medical condition.",
-      "published_at": "2026-10-07T05:07:21+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "ebbc16667c0adf7a652e4db2bb73895f72bdcd4bb2bd9902a42ec2211481f4f8",
-      "title": "'I made a choice - I didn't naturally lose my baby'",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8g7z95ggno?at_medium=RSS&at_campaign=rss",
-      "description": "Rosanna Brown was advised to end her pregnancy because her baby had a life-threatening medical condition.",
-      "published_at": "2026-10-07T05:07:21+00:00",
-      "source": "BBC",
-      "categories": [
-        "England",
-        "Health"
-      ]
-    },
-    {
-      "id": "693418d333cc800af531f681616a73010c7dd7340a5eddbd8b4d9268592af201",
-      "title": "Baby termination was 'our most loving choice'",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8g7z95ggno?at_medium=RSS&at_campaign=rss",
-      "description": "Rosanna Brown was advised to end her pregnancy because her baby had a life-threatening condition.",
-      "published_at": "2026-10-07T05:07:21+00:00",
-      "source": "BBC",
-      "categories": [
-        "Health"
-      ]
-    },
-    {
-      "id": "de945c26a724bc260af9684410d9cdccbe0d34cdb46d0c2bab2c7ced3c0a07d5",
-      "title": "Last chance saloon: EU presses China for a sign to prove trade talks can work",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369992/last-chance-saloon-eu-presses-china-sign-prove-trade-talks-can-work?utm_source=rss_feed",
-      "description": "The European Union’s top trade mandarins depart for Beijing on Wednesday for two days of intensive negotiations but expectations in Brussels are measured as to what the talks will deliver. Maros Sefcovic, the EU’s trade chief, will meet his Chinese counterpart, Wang Wentao, on Thursday and Friday – three months after their last encounter in Brussels, when the Europeans set an October deadline for signs of a rebalancing in the trading relationship. Non-stop working-level talks have proven...",
-      "published_at": "2026-10-07T05:06:45+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "527deaac54d3de29e174bb36916d6ba8b0a91ba4e22b264c949cc7f169ddb554",
-      "title": "Should we build 15 new homes in every village?",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgez6dgvkyo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say encouraging small developments on the edge of villages could boost the rural economy.",
-      "published_at": "2026-10-07T05:05:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "08a40e7f908ca5c18c3d1689150f25c3972d62e8b42cf01599bfcfdd38bf8000",
-      "title": "Should we build 15 new homes in every village?",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgez6dgvkyo?at_medium=RSS&at_campaign=rss",
-      "description": "Experts say encouraging small developments on the edge of villages could boost the rural economy.",
-      "published_at": "2026-10-07T05:05:49+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "d32c4a7e8e2c6081394276155ca870ee2aa95813b798f50fa88efef149c2bc7b",
-      "title": "Push for change in law to support young carers",
-      "url": "https://www.bbc.co.uk/news/articles/cm7902pdwgwxo?at_medium=RSS&at_campaign=rss",
-      "description": "A petition has been started in a call for a young carer lead position in every school",
-      "published_at": "2026-10-07T05:03:59+00:00",
-      "source": "BBC",
-      "categories": [
-        "England"
-      ]
-    },
-    {
-      "id": "3d1181d365d85565f8d1b5799f0adf04a5893d04a83f532ae012419ef1eb17d9",
-      "title": "Blackstone-backed AirTrunk to invest $1 billion in Japan data centre campus",
-      "url": "https://www.channelnewsasia.com/business/blackstone-backed-airtrunk-invest-1-billion-in-japan-data-centre-campus-6438441",
-      "description": "",
-      "published_at": "2026-10-07T05:03:51+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "89ac6e77347cf0b5aec046c130716080bb5f7d40795de9e8a68e77302d4c2615",
-      "title": "Did a Scottish film 'beat Hollywood to the punch' as the first ever talkie?",
-      "url": "https://www.bbc.co.uk/news/articles/cw77p41vr85ko?at_medium=RSS&at_campaign=rss",
-      "description": "In 1927, The Jazz Singer made movie history with the first recorded dialogue on film - but new evidence suggests the first feature talking film was Scottish.",
-      "published_at": "2026-10-07T05:03:22+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "63d1333fabfee5bbb12756eefb1b695185441c30de2d076aa395bee7a7988d6c",
-      "title": "Did a Scottish film 'beat Hollywood to the punch' as the first ever talkie?",
-      "url": "https://www.bbc.co.uk/news/articles/cw77p41vr85ko?at_medium=RSS&at_campaign=rss",
-      "description": "In 1927, The Jazz Singer made movie history with the first recorded dialogue on film - but new evidence suggests the first feature talking film was Scottish.",
-      "published_at": "2026-10-07T05:03:22+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "1dc1473ae1141d49b8e58ac6a9da3526d1c67bfeaf48fbd1f4bc12dcfe017dd0",
-      "title": "Metal detectorist finds second Bronze Age hoard in Scottish Borders",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y4j5w149o?at_medium=RSS&at_campaign=rss",
-      "description": "Dubbed the Blyth Hoard, the artefacts dating from between 1150BC to 850BC were found seven miles from the Peebles Hoard.",
-      "published_at": "2026-10-07T05:03:01+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland",
-        "UK"
-      ]
-    },
-    {
-      "id": "e850e222b044c730193a282e4bd4db418d3d9d92f8b8a814944a77a5a406cb7c",
-      "title": "Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan",
-      "url": "https://www.channelnewsasia.com/cna/vivian-balakrishnan-milken-asean-integration-chair-ai-agents-6437041",
-      "description": "Speaking at the Milken Institute Asia Summit, the foreign affairs minister also discussed navigating the US-China rivalry and warned of the risks posed by increasingly autonomous AI agents.",
-      "published_at": "2026-10-07T05:03:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News"
-      ]
-    },
-    {
-      "id": "1184293c430c11f9f471efe8d59c337c3443b37b9a3a8abae8a6d0e28af944fa",
-      "title": "Singapore to push for deeper ASEAN integration, wider partnerships as bloc chair in 2027: Vivian Balakrishnan",
-      "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-milken-asean-integration-chair-ai-agents-6437041",
-      "description": "Speaking at the Milken Institute Asia Summit, the foreign affairs minister also discussed navigating the US-China rivalry and warned of the risks posed by increasingly autonomous AI agents.",
-      "published_at": "2026-10-07T05:03:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "264e375e4bfc97e121df55246d44c52343a5d228689d0b50983171685d76f798",
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
-      "published_at": "2026-10-07T05:02:18+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "172b82c2467f2212f0755ee6645929fd5e5e30c2cf3146a589a47efb780e27b6",
-      "title": "Military training sites to be investigated following rape and abuse claims at Army college",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld3j6k53o?at_medium=RSS&at_campaign=rss",
-      "description": "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate.",
-      "published_at": "2026-10-07T05:00:35+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "7038e3225e02199438e50088dada7491973fae85afa4614a7134fd5de1dca627",
-      "title": "Military training sites to be investigated following rape and abuse claims at Army college",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld3j6k53o?at_medium=RSS&at_campaign=rss",
-      "description": "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate.",
-      "published_at": "2026-10-07T05:00:35+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "138cb364b4565871ff27dd7e528ddb81f826501ed2a30215954cdb3d08d998f3",
-      "title": "The Republican candidates walking a Trump tightrope",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "description": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-      "published_at": "2026-10-07T05:00:21+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "a8532b72d43677756b252a74c0f23bfdcce6b76ea3404f720d1307b15008260d",
-      "title": "'Clear human rights failures' in southern Scotland, report finds",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd876e04n5o?at_medium=RSS&at_campaign=rss",
-      "description": "A new study concludes basic human rights - including food, health and housing - are being denied.",
-      "published_at": "2026-10-07T04:59:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "UK"
-      ]
-    },
-    {
-      "id": "27e685a4fa849b953fd2cf226d877f426e55724bdb2ab1b79802bef569220f55",
-      "title": "'Clear human rights failures' in southern Scotland, report finds",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd876e04n5o?at_medium=RSS&at_campaign=rss",
-      "description": "A new study concludes basic human rights - including food, health and housing - are being denied.",
-      "published_at": "2026-10-07T04:59:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "fd4092f6527c33120c7065ed0d484e3fe3fe894da04cba826dac35255b92f4e3",
-      "title": "'Clear human rights failures' in southern Scotland, report finds",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd876e04n5o?at_medium=RSS&at_campaign=rss",
-      "description": "A new study concludes basic human rights - including food, health and housing - are being denied.",
-      "published_at": "2026-10-07T04:59:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "fd89f2a518e8a48ba05a9bf3b58c26aeccc0ceb0e8adb589fd6e26d47b0fdf01",
-      "title": "'Clear human rights failures' in southern Scotland, report finds",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd876e04n5o?at_medium=RSS&at_campaign=rss",
-      "description": "A new study concludes basic human rights - including food, health and housing - are being denied.",
-      "published_at": "2026-10-07T04:59:37+00:00",
-      "source": "BBC",
-      "categories": [
-        "Scotland"
-      ]
-    },
-    {
-      "id": "c26553218a491c48028497470c288ea72bd7a081e89762ec74b2b0c0bdac682f",
-      "title": "Chinese fitness influencer apologises after being caught riding bicycle during Berlin Marathon",
-      "url": "https://www.channelnewsasia.com/wellness/abeeeer-chinese-fitness-influencer-cheating-berlin-marathon-6438256",
-      "description": "The influencer, known online as Abeeeer, initially celebrated a personal best record before photos emerged showing her riding pillion on a bicycle near the 38km mark.",
-      "published_at": "2026-10-07T04:57:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "World"
-      ]
-    },
-    {
-      "id": "13fcb4a80c8f456d66eb864fdd59d3c58c65fff34bfab4aad3546754171300bc",
-      "title": "Pryderon amgylcheddol dros gynllun cebl 2,500m i gysylltu fferm solar",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c69vzng4z4l0o?at_medium=RSS&at_campaign=rss",
-      "description": "Cyngor i ystyried cais i osod ceblau byddai'n cysylltu datblygiad solar dadleuol gyda'r grid.",
-      "published_at": "2026-10-07T04:54:33+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "ed9a5954c610669808e6020e4ee4f040fe7f55178529afa28f22252ebd923c55",
-      "title": "'Sneb yn gwybod be' sy'n digwydd tu ôl i ddrysau caeedig' yng nghefn gwlad",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm5yn3gvg22vo?at_medium=RSS&at_campaign=rss",
-      "description": "Mae gan Tracy Lewis atgofion cymysg o'i phlentyndod ac o gael ei magu ar fferm ym Mhowys, gan ddweud bod y modd y gwnaeth ei thad ei cham-drin hi'n emosiynol a chorfforol yn \"artaith\".",
-      "published_at": "2026-10-07T04:53:36+00:00",
-      "source": "BBC",
-      "categories": [
-        "Wales"
-      ]
-    },
-    {
-      "id": "eeac49ef3cf25ddb855ce22bfbb661d97cb6ed01aae6f9c7792a5303141ffeae",
-      "title": "Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How",
-      "url": "https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106",
-      "description": "The government is reviewing and strengthening its frameworks to account for increasingly autonomous agentic AI systems, said Senior Minister of State for Digital Development and Information Tan Kiat How.",
-      "published_at": "2026-10-07T04:51:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Singapore"
-      ]
-    },
-    {
-      "id": "810eb2dceac32e2698f0c584b6a50782b887e5149641a2531ef1b7087953eaa7",
-      "title": "England have put World Cup disappointment behind them, says Tuchel",
-      "url": "https://www.channelnewsasia.com/sport/england-have-put-world-cup-disappointment-behind-them-says-tuchel-6438396",
-      "description": "",
-      "published_at": "2026-10-07T04:42:46+00:00",
-      "source": "CNA",
-      "categories": [
-        "Latest News",
-        "Sports"
-      ]
-    },
-    {
-      "id": "19bb33e640b575a7dbdae2105ac904c4895f12cde463650dc58ebae55ab25a80",
-      "title": "Pornhub returns to Australia but only for adults with Apple devices",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-      "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
-      "published_at": "2026-10-07T04:39:59+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "b1d6bc4273d93800d300f82b1d24b857835711c0a50b371158483fb1cf3399e9",
-      "title": "South Korea weighs cuts to military exemptions for athletes, artists following Asian Games controversy",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-military-conscription-exemption-review-6438351",
-      "description": "South Korea’s men’s football Asiad triumph was quickly overshadowed by controversy after some players appeared to celebrate securing military service exemptions.",
-      "published_at": "2026-10-07T04:37:17+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "Latest News"
-      ]
-    },
-    {
-      "id": "ed5ad0e15f36efebd7ee8b7256ac157f7466235edae7f7f12b71db5011d1e309",
-      "title": "US forces face curfew, alcohol ban in Japan's Okinawa after murder case",
-      "url": "https://www.channelnewsasia.com/east-asia/united-states-forces-curfew-alcohol-ban-okinawa-murder-6438036",
-      "description": "The presence of US forces has repeatedly stirred resentment among residents in Okinawa over issues such as noise, aircraft crashes and the conduct of its troops.",
-      "published_at": "2026-10-07T04:32:08+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia",
-        "World"
-      ]
-    },
-    {
-      "id": "43ec4f2d910d8a4ebf14d2976851d5208b8e6dd4a2b984a5ab883d9b214a237e",
-      "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-      "url": "https://www.channelnewsasia.com/business/boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-ceo-6438336",
-      "description": "",
-      "published_at": "2026-10-07T04:27:03+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "77669ed1ab659186aabb2506e58bb72f526f77eefd1a35248fb9d1df990b02da",
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
-      "published_at": "2026-10-07T04:22:07+00:00",
-      "source": "BBC",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "22cd77c5d42b1fe4365b52850e351790951f40d2025eb7553e99bf404aa0adca",
-      "title": "US firm ArriVent’s plunge shows risks facing China’s biotech expansion into global markets",
-      "url": "https://www.scmp.com/business/china-business/article/3369985/us-firm-arrivents-plunge-shows-risks-facing-chinas-biotech-expansion-global-markets?utm_source=rss_feed",
-      "description": "US firm ArriVent BioPharma’s shares plummeted after a late-stage trial failure involving a cancer drug licensed from China, a setback that analysts said highlighted the challenges facing Chinese biotech companies expanding overseas. New York-listed ArriVent closed down nearly 47 per cent on Tuesday after reporting that its cancer treatment firmonertinib failed to meet its main goal in a phase 3 trial. Firmonertinib was originally developed by Shanghai Allist Pharmaceuticals to treat non-small...",
-      "published_at": "2026-10-07T04:20:31+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News"
-      ]
-    },
-    {
-      "id": "00d8a3b7dec741b5cd575e58517346de3566e1e29f4746a27264403dcfb181bb",
-      "title": "Bednarek backs India's 2036 Games bid after embracing country's culture",
-      "url": "https://www.channelnewsasia.com/sport/bednarek-backs-indias-2036-games-bid-after-embracing-countrys-culture-6438316",
-      "description": "",
-      "published_at": "2026-10-07T04:16:51+00:00",
-      "source": "CNA",
-      "categories": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "b5681696fa797a166dbe64ccff7a537ea4b60559cbebdc22f2b9f163489b7fdb",
-      "title": "Rare vinyl, cassettes, live DJ sets: Singapore record fair Side A returns for third edition on Oct 24",
-      "url": "https://www.channelnewsasia.com/living/side-singapore-vinyl-record-fair-2026-6438006",
-      "description": "Side A, A Singapore Record Show brings together vinyl collectors, independent labels and record dealers from Singapore and the region at Suntec Singapore, with rare records, DJ sets, live performances and more.",
-      "published_at": "2026-10-07T04:16:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "1f167ed0c61dde4f1461e47f29a8911119e44d28ac53b44b2fe7abca716dc6d1",
-      "title": "Activist Kokila Annamalai contests charge of defying POFMA order in first such trial",
-      "url": "https://www.channelnewsasia.com/singapore/kokila-annamalai-pofma-correction-direction-trial-6438196",
-      "description": "After she received the correction direction, Kokila Annamalai put up an article titled, \"I Defy: Why I am not complying with my POFMA Correction Direction\".",
-      "published_at": "2026-10-07T04:11:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "1222b0fafe0f4f7a5d6f9dfb9353f56592f013c1db5e865973ac885a2ee1864e",
-      "title": "Climate change and farming gave rise to ‘genetically distinct’ Beijing swan goose: study",
-      "url": "https://www.scmp.com/news/china/science/article/3369863/climate-change-and-farming-gave-rise-genetically-distinct-beijing-swan-goose-study?utm_source=rss_feed",
-      "description": "Climate change and agricultural development have brought a new goose population to China with unique migratory patterns, a study has found. In an article on the Chinese Academy of Sciences website, researchers from the CAS Institute of Zoology said they had discovered a “genetically distinct” population of swan geese that emerged in Beijing over the past century. They said the timing of their arrival coincided with environmental shifts in the region during the early 20th century – namely climate...",
-      "published_at": "2026-10-07T04:00:05+00:00",
-      "source": "SCMP",
-      "categories": [
-        "China",
-        "News"
-      ]
-    },
-    {
-      "id": "e81f2e13e9d96b7c5a04b3b5908a176fe9c3720679fb3cf35ac8ee4c7fa72e46",
-      "title": "Viral trapped shark in South Korea brings tourism, retail windfall to Busan",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3369977/viral-trapped-shark-south-korea-brings-tourism-retail-windfall-busan?utm_source=rss_feed",
-      "description": "A marooned three-metre-long (nine feet) shark in South Korea has drawn more than a million visitors to the coastal city of Busan, boosting local retail sales and triggering a trademark war, as authorities rush to stop opportunistic vendors from cashing in on the viral phenomenon. The shark, nicknamed “Bukangi” in reference to the park where it has become trapped, has become an internet darling and tourist sensation after non-stop local media coverage about multiple failed efforts to encourage it...",
-      "published_at": "2026-10-07T03:52:04+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "b9f6bdb3c3ef83fb35bf40d1d4155e28cbc7900f5779f68f93cb2800cf2e6373",
-      "title": "Shares of Japan beer makers fall after raids over cartel suspicion",
-      "url": "https://www.channelnewsasia.com/business/shares-japan-beer-makers-fall-after-raids-over-cartel-suspicion-6438206",
-      "description": "",
-      "published_at": "2026-10-07T03:29:53+00:00",
-      "source": "CNA",
-      "categories": [
-        "Business"
-      ]
-    },
-    {
-      "id": "631f9eed4cb3b9cb7c83a7f93b2f5014bc0b13cc99e762101882956b52a5c562",
-      "title": "Indonesia's Constitutional Court dismisses petition to disqualify VP Gibran over education credentials",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-court-dismiss-gibran-vice-president-education-credentials-challenge-6437971",
-      "description": "Indonesia's election law requires presidential and vice-presidential candidates to have completed senior high school or hold an equivalent qualification.",
-      "published_at": "2026-10-07T03:27:38+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia"
-      ]
-    },
-    {
-      "id": "9089bf6ef0f8eeed053b5fe9648ff82baf0043877c464bfc160e6e4429832632",
-      "title": "No transition period for changes to P1 registration taking effect from 2027: Desmond Lee",
-      "url": "https://www.channelnewsasia.com/singapore/p1-registration-no-transition-period-start-2027-desmond-lee-moe-6438131",
-      "description": "Several Members of Parliament called for a transition period as some families have made residential arrangements based on the existing framework.",
-      "published_at": "2026-10-07T03:27:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "3d2832493abff8a72fa35e843395f44f80193cf510aefdc23a68ccab367af16d",
-      "title": "Decoding Japan PM Takaichi’s ‘important neighbour’ message to China - what it means for ties",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-policy-speech-china-relations-taiwan-6435836",
-      "description": "After nearly a year of tensions sparked by Takaichi’s remarks on Taiwan, experts say Tokyo and Beijing appear to be testing the waters on repairing ties - but significant hurdles remain.",
-      "published_at": "2026-10-07T03:22:53+00:00",
-      "source": "CNA",
-      "categories": [
-        "Asia"
-      ]
-    },
-    {
-      "id": "4b7fb541f465a0e49e952b0a86c9486c5b6c347c0aeac9264511ade3102775ca",
-      "title": "Bang Chan, leader of Stray Kids, will be in Singapore on Oct 10 for Breitling and Aston Martin F1 pop-up",
-      "url": "https://www.channelnewsasia.com/entertainment/bang-chan-stray-kids-singapore-6438126",
-      "description": "The K-pop star will make an appearance at the pop-up, which is located at Raffles City Shopping Centre.",
-      "published_at": "2026-10-07T03:19:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "bf457a0f8b1274645e79b8babc74e97740d902deb0bea5788e4a74f5837dd0a0",
-      "title": "Hong Kong police investigate case of girl, 10, made to carry bags of beer",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3369975/hong-kong-police-investigate-case-girl-10-made-carry-bags-beer?utm_source=rss_feed",
-      "description": "Hong Kong police are investigating after videos posted online showed a 10-year-old girl carrying bags of beer and being berated by a man during a confrontation with bystanders concerned about her wellbeing. Police said they received a report at about 10.30pm on Tuesday that a girl in school uniform had been made to carry two bags containing numerous cans of beer to a building at Fu Tai Estate in Tuen Mun. Officers attended the scene, but no arrests were made. Investigations were ongoing, a...",
-      "published_at": "2026-10-07T03:17:16+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Hong Kong",
-        "News"
-      ]
-    },
-    {
-      "id": "de3863ede6510d6fa63c61b543e4926335adeaf786eda8180e9014de6bcffa48",
-      "title": "Emotion, tears as Messi retires from Argentina national team",
-      "url": "https://www.channelnewsasia.com/sport/lionel-messi-retires-argentina-national-team-6438146",
-      "description": "Lionel Messi signed off his international career with his 126th goal for Argentina in front of 85,000 supporters in Buenos Aires.",
-      "published_at": "2026-10-07T03:02:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "2944ca4781d7f244c001ebb4ed03b583bb8cf5cfa6b7e53241f52883a5e4efb2",
-      "title": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
-      "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-      "description": "Israelis on Wednesday took part in commemorations for the victims of Hamas's October 7, 2023 attacks, which killed 1,200 people and saw 251 hostages taken. French Foreign Minister Jean-Noël Barrot denounced the \"poison of anti-Semitism\" as he attended a memorial ceremony at the site of the Nova music festival massacre. Read about the day’s events as they unfolded on our liveblog.",
-      "published_at": "2026-10-07T02:46:40+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "e90fbab3dbb946faa8e5b0e16e7ccaedb47157f77312b825ab7c1b81456bc866",
-      "title": "Singapore contacts Thai authorities, importers over planned egg export cuts: SFA",
-      "url": "https://www.channelnewsasia.com/singapore/egg-supply-thailand-sfa-local-importers-6437996",
-      "description": "Thailand accounts for less than 15 per cent of Singapore's egg supply, the agency said.",
-      "published_at": "2026-10-07T02:31:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore"
-      ]
-    },
-    {
-      "id": "bfd3350e18d561ea91b398e5c99f21cdba8dabf64b345bc85dad16fa709718c4",
-      "title": "521kg of meth seized from Laos private jet bound for Manila, not Malaysia: police",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369969/521kg-meth-seized-laos-private-jet-bound-manila-not-malaysia-police?utm_source=rss_feed",
-      "description": "The 521kg (1,148lbs) of suspected methamphetamine seized by Laotian authorities from a private jet was not sourced from Malaysia, with the drugs believed to have originated in Laos and been destined for Manila, the Philippines. Bukit Aman Narcotics Crime Investigation Department (NCID) director Hussein Omar Khan said police were informed by Laotian authorities on Tuesday that the cross-border smuggling attempt had been foiled at Luang Prabang International Airport last Thursday. Hussein said the...",
-      "published_at": "2026-10-07T02:30:22+00:00",
-      "source": "SCMP",
-      "categories": [
-        "Asia",
-        "News"
-      ]
-    },
-    {
-      "id": "123df73c9aabbbcbf4f68bcd0f38192aad1c6f311eb904ff4b67bb9e5ad69ead",
-      "title": "Messi signs off in tears after one last Argentina master class",
-      "url": "https://www.channelnewsasia.com/sport/messi-signs-in-tears-after-one-last-argentina-master-class-6438066",
-      "description": "",
-      "published_at": "2026-10-07T02:23:02+00:00",
-      "source": "CNA",
-      "categories": [
-        "Sports"
-      ]
-    },
-    {
-      "id": "66310c07692b22e1e236ddaca309b8a5bc96280f33fde0622881339402c7bd07",
-      "title": "Israel marks third anniversary of October 7 attack as election looms",
-      "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
-      "description": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest day in Israel’s history is expected to remain a central issue.",
-      "published_at": "2026-10-07T02:14:22+00:00",
-      "source": "France 24",
-      "categories": [
-        "Middle East",
-        "World"
-      ]
-    },
-    {
-      "id": "099fdb00c670ad96b5e5688ec8e2f89fa1a36fe6f0e57439979d2bfd8eb06df7",
-      "title": "Hyrox Youngstars for children aged 8 to 15 to make Asian debut in Singapore this November",
-      "url": "https://www.channelnewsasia.com/wellness/hyrox-youngstars-singapore-asia-6437921",
-      "description": "Like the original Hyrox competition for adults, Hyrox Youngstars features eight exercise stations.",
-      "published_at": "2026-10-07T02:08:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "Singapore",
-        "Sports"
-      ]
-    },
-    {
-      "id": "098553715d8f0df9ca6fbdf5d533cc7d677e4a1f4a64c61052d32260eec331e7",
-      "title": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego",
-      "url": "https://www.channelnewsasia.com/world/trump-iran-bomb-los-angeles-san-diego-democrat-cities-remark-6437196",
-      "description": "California Governor Gavin Newsom denounced the Republican Trump as \"deranged and dangerous\".",
-      "published_at": "2026-10-07T02:06:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "94a95c0329d4eeb54876a0e9f2418e502e2e0a2ad437fe017e2c43f41268808b",
-      "title": "Chinese woman snaps up nearly 200 parking spaces to flip to neighbours for profit",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369958/chinese-woman-snaps-nearly-200-parking-spaces-flip-neighbours-profit?utm_source=rss_feed",
-      "description": "A woman in central China invested 14 million yuan (US$2 million) to acquire 196 parking spaces in a residential community, later selling them at a significant mark-up, which led to furious residents suing her. The lawsuit centred around a residential block, the name of which was not disclosed, located in Changsha, Hunan province. The property project was completed and put on the market in 2018. At the time, many were sceptical about the community’s prospects due to a lack of essential public...",
-      "published_at": "2026-10-07T02:00:10+00:00",
-      "source": "SCMP",
-      "categories": [
-        "News"
-      ]
-    },
-    {
-      "id": "4c9ad74a4ac3f765308e24ebe423a90e41a2fe07076bbb62f07e8fca399ef23e",
-      "title": "Messi bids farewell to Argentina fans in emotional international finale",
-      "url": "https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale",
-      "description": "Lionel Messi said farewell to Argentina fans Tuesday in an emotional final international appearance, scoring in a 3-0 win over Benin at Buenos Aires's Monumental Stadium as 85,000 supporters celebrated a career that brought the country its long-awaited 2022 World Cup triumph.",
-      "published_at": "2026-10-07T01:59:10+00:00",
-      "source": "France 24",
-      "categories": [
-        "World"
-      ]
-    },
-    {
-      "id": "f4dd9c0c45b6302110e2cd8605d3fcaad5394e599c5acbc80fbc94ffa271f9d0",
-      "title": "Trump to speak to Putin on plague as US, UN urge transparency",
-      "url": "https://www.channelnewsasia.com/world/trump-putin-russian-plague-lab-6438031",
-      "description": "",
-      "published_at": "2026-10-07T01:58:00+00:00",
-      "source": "CNA",
-      "categories": [
-        "World"
       ]
     }
   ]
